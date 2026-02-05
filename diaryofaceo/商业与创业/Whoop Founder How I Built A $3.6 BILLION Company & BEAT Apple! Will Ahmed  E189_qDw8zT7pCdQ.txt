@@ -1,0 +1,2906 @@
+Video Title: Whoop Founder: How I Built A $3.6 BILLION Company & BEAT Apple! Will Ahmed | E189
+Video ID: qDw8zT7pCdQ
+Video URL: https://www.youtube.com/watch?v=qDw8zT7pCdQ
+Downloaded: 2026-02-05 14:22:45
+Language: English (auto-generated)
+================================================================================
+
+[00:00:00] so two of our first hundred users were
+[00:00:02] LeBron James and Michael Phelps
+[00:00:04] [Music]
+[00:00:12] Nike and apple and a dozen other
+[00:00:14] companies were entering the space but
+[00:00:16] when it comes to health monitoring we're
+[00:00:18] the best game in town that really came
+[00:00:21] from an insane level of focus in the
+[00:00:22] beginning on what we were trying to
+[00:00:23] solve one of the reasons whoop has been
+[00:00:26] successful is there were a lot of
+[00:00:28] counter-intuitive decisions along that
+[00:00:30] Journey one obvious one is that would be
+[00:00:33] interesting
+[00:00:34] steal that it's worth emphasizing for
+[00:00:36] your audience why that matters so
+[00:00:39] there was a phase in building Loop where
+[00:00:42] it was so much about the next Milestone
+[00:00:45] that I was running almost exclusively on
+[00:00:47] like a dopamine engine if the company
+[00:00:49] has a great day you're feeling like a
+[00:00:51] rocket ship and if whoop was failing I
+[00:00:53] was failing what's the personal toll on
+[00:00:55] you in those moments that people don't
+[00:00:58] see I was super stressed out I was
+[00:01:00] drinking too much and I remember I was
+[00:01:02] driving my car
+[00:01:04] and I'm on the highway and all of a
+[00:01:06] sudden it's like your peripheral vision
+[00:01:07] like starts narrowing on you and you
+[00:01:10] feel your fingers and they're like numb
+[00:01:12] I actually drove myself to the hospital
+[00:01:14] and they do
+[00:01:16] um you know all these analysis on me and
+[00:01:18] like it turns out I had a
+[00:01:21] before this episode begins I just want
+[00:01:23] to say a huge thank you to all of our
+[00:01:24] new subscribers 74 of you that watch
+[00:01:27] this channel didn't subscribe before and
+[00:01:30] we're now down to about 71 so that helps
+[00:01:33] us in a number of ways that are quite
+[00:01:34] hard to explain but simply the bigger
+[00:01:36] the channel gets the bigger the guests
+[00:01:38] get so if you haven't yet subscribed to
+[00:01:39] the Diary of a CEO if I can have any
+[00:01:41] favors from you if you've ever watched
+[00:01:43] this show and enjoyed it it's just to
+[00:01:44] please hit the Subscribe button without
+[00:01:46] further Ado I'm Stephen Butler and this
+[00:01:49] is the Diary of a CEO I hope nobody's
+[00:01:51] listening but if you are then please
+[00:01:54] keep this yourself
+[00:01:58] well
+[00:02:04] as you look back on your your life and
+[00:02:06] you connect the dots that led you to to
+[00:02:08] do what you've done now with whoop and
+[00:02:11] your professional life
+[00:02:13] um
+[00:02:13] what are those dots
+[00:02:16] well I I grew up on uh the North Shore
+[00:02:19] of Long Island
+[00:02:20] um I was always into
+[00:02:22] Sports and exercise I was super active
+[00:02:24] kid
+[00:02:25] uh my parents are
+[00:02:29] very different my dad's an Egyptian
+[00:02:31] immigrant a very
+[00:02:34] Street Smart charismatic came to this
+[00:02:37] country with very little Rose the ranks
+[00:02:39] and finance over time
+[00:02:41] my mom uh very analytical very
+[00:02:46] book smart and
+[00:02:49] and watching how they approached life I
+[00:02:51] think was a fascinating way to grow up
+[00:02:54] because they had very different uh tool
+[00:02:56] sets to solve problems and
+[00:03:00] uh I was always playing sports I was
+[00:03:02] always exercising and that eventually
+[00:03:04] LED my way to Harvard and uh and so I
+[00:03:07] was a college athlete I got
+[00:03:09] um recruited to play Squash at Harvard
+[00:03:11] and over the course of my time there uh
+[00:03:15] got very fascinated by how I could
+[00:03:18] better understand my body how I could
+[00:03:21] uh understand what it meant to train
+[00:03:23] optimally how I could prevent over
+[00:03:24] training which was a problem that I had
+[00:03:27] uh how I could really uh understand the
+[00:03:30] other 20 hours of the day when you
+[00:03:31] weren't exercising and so
+[00:03:34] that took me down this Rabbit Hole of
+[00:03:36] physiology research which we can get
+[00:03:39] into but I read hundreds of medical
+[00:03:41] papers while I was uh in school and then
+[00:03:44] ultimately wrote a paper myself around
+[00:03:46] how to continuously measure the human
+[00:03:47] body and then over the course of my time
+[00:03:50] at Harvard built up the confidence to to
+[00:03:53] start a company which was a fairly crazy
+[00:03:55] thing looking back on it and for the
+[00:03:57] last 10 years I've been building this
+[00:03:59] company called whoop we went through
+[00:04:01] that very quickly but a lot of those
+[00:04:02] things are very very unusual one of the
+[00:04:06] first unusual things is I mean we all
+[00:04:08] train we all a lot of people train and
+[00:04:09] work out and stuff but we don't then
+[00:04:11] fall into an obsession about how to
+[00:04:13] optimize the performance of our training
+[00:04:15] and ourselves what is it about you have
+[00:04:18] you been able to figure out in hindsight
+[00:04:19] what it is about you and your makeup
+[00:04:21] that made you so obsessed with that
+[00:04:23] particular
+[00:04:25] topic well it struck me as something
+[00:04:28] that uh
+[00:04:31] really didn't make a lot of sense like
+[00:04:33] you I was spending three or four hours a
+[00:04:35] day at Harvard exercising with no
+[00:04:37] information about what I was doing to my
+[00:04:39] body and yet that's a school also that
+[00:04:41] is totally obsessed with deeper
+[00:04:43] knowledge and so that in itself seemed
+[00:04:46] like a like a deep irony and then I also
+[00:04:50] was a pretty competitive person and I
+[00:04:53] was someone who was over training right
+[00:04:55] where you see you get fitter and fitter
+[00:04:56] and fair you sort of fall off a cliff
+[00:04:58] and you don't know why and that bothered
+[00:05:00] me like that bothered me that I didn't I
+[00:05:03] didn't fully understand what I was doing
+[00:05:05] to my body what was what was the missing
+[00:05:08] ingredient so to speak and I just sort
+[00:05:11] of started pulling at that thread and it
+[00:05:14] really took me down a rabbit hole over
+[00:05:17] training I've heard this time never been
+[00:05:19] sure if I've believed it because I don't
+[00:05:22] really know what it is but for someone
+[00:05:23] that doesn't know what that is what what
+[00:05:25] is over training the technical
+[00:05:26] definition is it's a continued state of
+[00:05:28] overreaching that then leads to a period
+[00:05:31] where your body is essentially in a
+[00:05:34] depressed state and what that will look
+[00:05:38] like physiologically is essentially you
+[00:05:41] your body's run down you know activities
+[00:05:45] that would normally feel somewhat easy
+[00:05:47] uh are quite difficult
+[00:05:50] um psychologically it makes you feel
+[00:05:52] kind of lousy run down symptoms similar
+[00:05:55] to being sick and depending on how over
+[00:05:57] trained you are can last you know a week
+[00:06:00] or could last month in my case that
+[00:06:02] Norma didn't last longer than a couple
+[00:06:04] weeks but it it's kind of this ultimate
+[00:06:07] betrayal right because you're pushing
+[00:06:08] yourself so hard
+[00:06:10] to get stronger and fitter
+[00:06:12] that you actually get to a place where
+[00:06:14] you're completely
+[00:06:16] broken down
+[00:06:17] had I asked you at 14 years old say 14
+[00:06:20] 16 years old what you were going to be
+[00:06:21] when you grew up what would you have
+[00:06:23] responded I don't know that I would have
+[00:06:25] known but if you looked at the things I
+[00:06:28] was interested in so I was always
+[00:06:29] playing with technology which in
+[00:06:31] hindsight uh was quite predictive like I
+[00:06:35] had the first I had the first iPod in my
+[00:06:39] sixth grade class I remember so we're
+[00:06:42] about the same age so you probably
+[00:06:43] remember when the iPod came out and like
+[00:06:45] how cool that thing was thick but yeah
+[00:06:48] it was really thick and it had that like
+[00:06:49] Wild Wheel a little before that I had a
+[00:06:53] Palm Pilot like a pom pilot seven it was
+[00:06:55] like the original uh Palm Pilot that
+[00:06:58] could get internet access when I was
+[00:07:00] around 12 or 13 I had one of the first
+[00:07:03] uh voice recorders that you could speak
+[00:07:06] into and it would type for you oh wow so
+[00:07:09] it was like you know Siri but 20 years
+[00:07:12] ago uh and it didn't quite work
+[00:07:15] unfortunately but I I had this real itch
+[00:07:17] towards technology and then I think
+[00:07:20] somewhere between the ages of like 18
+[00:07:24] and 20 I I also saw this huge
+[00:07:26] convergence happening with with
+[00:07:28] smartphones with the way that computers
+[00:07:31] to me seemed like they were sort of
+[00:07:33] seamlessly moving from being on your
+[00:07:35] desk to on your lap to in your pocket to
+[00:07:38] what I perceived to be eventually on
+[00:07:40] your body or even in your body I thought
+[00:07:42] that was a Natural Evolution so I
+[00:07:45] definitely had this pull towards
+[00:07:46] technology but I think throughout uh you
+[00:07:49] know I was overcoming this feeling of
+[00:07:54] whether I should go into Finance because
+[00:07:56] I grew up my dad was in you know in
+[00:07:59] finance in fact after my freshman year
+[00:08:01] at Harvard to most undergrads do you
+[00:08:04] know different internships and whatnot
+[00:08:06] after my freshman year I did an
+[00:08:09] internship at a hedge fund my sophomore
+[00:08:11] year I did an internship at an
+[00:08:13] investment bank and my junior year I did
+[00:08:15] an internship at a private Equity Firm
+[00:08:17] so so like I did I was really flirting
+[00:08:20] with going into Finance but I think I
+[00:08:24] think this is what I was supposed to do
+[00:08:26] from everything I've read it's quite
+[00:08:28] clear to me that you're a very curious
+[00:08:29] person and my brother is very
+[00:08:32] interesting my oldest brother whenever
+[00:08:34] we when we were younger he always wanted
+[00:08:35] to understand everything and when he
+[00:08:37] became interested in something he became
+[00:08:39] obsessed in it and he went like right
+[00:08:41] down into the rabbit hole as I read
+[00:08:43] through your story on multiple occasions
+[00:08:45] whether it's meditation or others or how
+[00:08:48] the business came to be or you know your
+[00:08:49] journey to trying to figure out how to
+[00:08:51] optimize the body all of these struck me
+[00:08:53] as a person that once they get
+[00:08:54] interested in something they go all the
+[00:08:57] way down into the rabbit hole to find
+[00:08:58] out the solutions is that accurate I
+[00:09:01] think it's fair I think
+[00:09:02] it also stems from this uh
+[00:09:06] ability to throw myself out there
+[00:09:10] um
+[00:09:11] you know back to how your childhood
+[00:09:13] influences your your future uh there's
+[00:09:16] there's a story
+[00:09:18] I don't know if I ever talked about this
+[00:09:19] but uh fascinating story where I was in
+[00:09:24] fifth or sixth grade middle school
+[00:09:27] and we're doing what's called uh blue
+[00:09:30] and gold day so I went to a school
+[00:09:32] called Greenvale the colors are blue and
+[00:09:34] gold and you have this like Fair
+[00:09:36] essentially which is all sorts of
+[00:09:38] different competitions races that sort
+[00:09:40] of thing and uh there's a captain's race
+[00:09:43] at the end of the day with like the the
+[00:09:47] four people representing their their
+[00:09:49] class so to so to speak to run the fast
+[00:09:51] race and I was a I was a captain so I
+[00:09:55] was very anxious about this final race
+[00:09:57] and right before the final race was one
+[00:10:01] of the longer races like uh I think it
+[00:10:03] was three or four laps and so
+[00:10:06] uh you know if you were to run that
+[00:10:08] you'd be quite tired and I that wasn't a
+[00:10:10] race I ever ran but uh Timmy all of a
+[00:10:14] sudden was sick and so he didn't show up
+[00:10:16] for for this race and I remember uh
+[00:10:20] Peter zaloum who's our science teacher
+[00:10:21] he's walking around and he's yelling hey
+[00:10:25] blue we need someone to run this race we
+[00:10:28] need someone to run this race and I'm
+[00:10:29] kind of like avoiding even making eye
+[00:10:31] contact with this teacher because I
+[00:10:33] really don't want to run this race
+[00:10:35] and it was like he zeroed in on me out
+[00:10:38] of a distance and just marched over and
+[00:10:40] he said well you should run this right
+[00:10:42] and I said no no I've got the captain's
+[00:10:43] race I got to do that and he's like well
+[00:10:45] 90 of life is showing up
+[00:10:49] the other 10 is what happens when you
+[00:10:51] get there
+[00:10:52] and like in that moment I was like okay
+[00:10:54] yeah I'm gonna go around this and I
+[00:10:56] don't even remember what happened in
+[00:10:58] that race I don't even remember the
+[00:10:59] captain's race uh which in some ways
+[00:11:01] emphasizes his point but that whole
+[00:11:04] thread of just showing up is something I
+[00:11:07] think about all the time
+[00:11:09] why why do and this is I guess a lesson
+[00:11:12] for entrepreneurship because you saw
+[00:11:14] some
+[00:11:16] I was going to say and this is links to
+[00:11:18] Something in Your Story I was going to
+[00:11:19] say you saw an opportunity but you
+[00:11:20] didn't see an opportunity did you you
+[00:11:22] were dragged by your obsession well
+[00:11:24] interest
+[00:11:25] in building whoop yeah
+[00:11:28] I definitely saw an opportunity to
+[00:11:29] continuously measure the human body and
+[00:11:32] I also saw an opportunity that uh
+[00:11:35] Computing was getting to a size and and
+[00:11:37] sort of sophistication where it could be
+[00:11:39] smaller and smaller
+[00:11:40] uh
+[00:11:43] but the poll that got me to building
+[00:11:46] this company and I think persevering
+[00:11:49] over years was that it also was a
+[00:11:52] personal Obsession to really understand
+[00:11:54] my own body yeah
+[00:11:57] because when people typically recite
+[00:11:58] their stories of how they became an
+[00:12:00] entrepreneur you get this kind of like
+[00:12:01] they put I don't know a white piece of
+[00:12:02] paper there and they're like what is the
+[00:12:04] opportunity in the market and and when I
+[00:12:06] read the quote from you that said you're
+[00:12:08] an entrepreneur before you realized you
+[00:12:09] were yeah that's true that books that
+[00:12:13] narrative a little bit which I think
+[00:12:14] entrepreneurs sometimes try and sell
+[00:12:16] because it makes them seem more
+[00:12:17] intentional
+[00:12:18] I can't replicate your curiosity and
+[00:12:20] interest that made you go off in that
+[00:12:22] journey of optimizing the human body so
+[00:12:24] I just think in society and culture
+[00:12:26] generally entrepreneurs sometimes look
+[00:12:29] back and try and make their story sound
+[00:12:30] like really really intentional when a
+[00:12:33] lot of it in your case as is the case in
+[00:12:34] mine was like I was interested in this
+[00:12:36] thing and I just kept on going because I
+[00:12:37] loved it I think that's right I also
+[00:12:41] spent a lot of time like building the
+[00:12:43] confidence to start the company like I
+[00:12:45] really didn't know what it meant to
+[00:12:47] start a company and
+[00:12:49] I mean I spent two years doing
+[00:12:52] physiology research I then took another
+[00:12:54] class that was around if you have an
+[00:12:56] idea how do you write a business plan
+[00:12:58] for it and I remember like my senior
+[00:13:02] year I was doing like the third or
+[00:13:04] fourth iteration of this business plan
+[00:13:06] and I was meeting with the MIT Professor
+[00:13:08] a guy named Howard Anderson who taught
+[00:13:10] the class and was like a venture
+[00:13:11] capitalist and at that point I wasn't
+[00:13:14] even enrolled in the class I was just
+[00:13:16] working on this business plan and he's
+[00:13:18] like he just sort of stopped he said
+[00:13:21] well at some point you have to ask
+[00:13:22] yourself is this a paper or are you
+[00:13:24] starting a company right it sort of puts
+[00:13:27] you on the spot like why are you doing
+[00:13:29] all this work and I think I
+[00:13:32] I think I did a ton of work to feel as
+[00:13:34] prepared as possible to like have the
+[00:13:36] confidence to take the leap
+[00:13:38] and I'm so glad I did but you know when
+[00:13:42] I meet young people I try to encourage
+[00:13:44] them to do as much work as they can to
+[00:13:46] build up that confidence and also to
+[00:13:49] understand that
+[00:13:51] there's a lot of things you aren't going
+[00:13:52] to know in the process of building a
+[00:13:54] company but once you make that
+[00:13:55] commitment the learnings come in fast
+[00:13:58] right and I'm sure you've experienced
+[00:14:00] that yeah yeah yeah and I see it all the
+[00:14:03] time especially in young people who um
+[00:14:06] they're using perfectionism as a way to
+[00:14:08] procrastinate
+[00:14:09] because they're they don't feel
+[00:14:11] competent already yet to so you'll have
+[00:14:14] people that you know come come up to you
+[00:14:16] and say I've been working on this idea
+[00:14:18] for two years three years and they're
+[00:14:20] making all these assumptions which they
+[00:14:22] could quite probably figure out in a
+[00:14:23] week if they just went to Market to but
+[00:14:25] it's a guys for fear I think sometimes
+[00:14:28] to guys have like I actually don't feel
+[00:14:30] ready or I don't know I don't have the
+[00:14:31] answers so I'm just preparing more I'm
+[00:14:34] waiting for that perfect moment yeah I
+[00:14:36] think overcoming a fear of failure
+[00:14:39] is a really critical step in life and
+[00:14:44] there's a lot of methods to think about
+[00:14:46] for that
+[00:14:48] I think for me it was doing a lot of
+[00:14:50] work I think it was following
+[00:14:54] my passion in some ways the reason I
+[00:14:56] feel like I became an entrepreneur
+[00:14:58] before I knew what an entrepreneur was
+[00:14:59] it was that it almost became an
+[00:15:02] inevitability that I was starting the
+[00:15:03] company unless so a choice because it
+[00:15:06] was like all I was thinking about in my
+[00:15:08] free time you know the things you do the
+[00:15:10] things you think about before bed or in
+[00:15:12] a shower you know the Quiet Moments
+[00:15:15] throughout life I think those are pretty
+[00:15:16] telling
+[00:15:18] and what role has that played that
+[00:15:21] obsession with that with solving the
+[00:15:23] problem and solving that challenge and
+[00:15:25] your general interest in it what role
+[00:15:26] has that played in your hardest times
+[00:15:29] as in when things get really [ __ ]
+[00:15:31] difficult and it's easy to quit
+[00:15:34] if you're someone that's authentically
+[00:15:36] driven and authentically curious about
+[00:15:38] that thing
+[00:15:40] must make it somewhat easier
+[00:15:42] to carry on I think for sure
+[00:15:45] it pulls you through like the the
+[00:15:47] obsession of solving a problem pulls you
+[00:15:49] through
+[00:15:50] I mean I struggled though for years uh
+[00:15:53] with building whoop it was it was really
+[00:15:57] really painful and I think an important
+[00:16:00] thing for any entrepreneur but
+[00:16:02] especially was for me was to
+[00:16:04] disassociate my own identity from that
+[00:16:07] of the companies
+[00:16:09] if you're and you you've been a young
+[00:16:12] entrepreneur so you know this
+[00:16:15] like as a young entrepreneur
+[00:16:17] I think a lot of your identity all of a
+[00:16:19] sudden gets tied up in that thing you're
+[00:16:21] creating and for me that meant
+[00:16:25] if woop was having a good day I was
+[00:16:26] having a good day if whoop was having a
+[00:16:28] bad day I was having a bad day
+[00:16:31] um and if whoop was failing I was
+[00:16:32] failing
+[00:16:33] and that's a very unhealthy Association
+[00:16:36] but it's also not true like literally
+[00:16:40] you can be taking great steps to improve
+[00:16:42] as a leader or as a manager or even as a
+[00:16:45] recruiter and certain things will happen
+[00:16:47] that may put your business sideways
+[00:16:50] and conversely I'm sure you and I have
+[00:16:52] both met Founders entrepreneurs who have
+[00:16:55] watched their company go like this but
+[00:16:57] meanwhile they're spinning out of
+[00:16:58] control right and I think the faster
+[00:17:02] that I could separate those two
+[00:17:04] identities my own and whoop the easier
+[00:17:08] it actually became to build a successful
+[00:17:10] company
+[00:17:12] is part of the reason you also our
+[00:17:14] identity becomes attached to the company
+[00:17:16] because I was thinking about why that
+[00:17:18] was that was definitely the case for me
+[00:17:20] and the answer was because my entire net
+[00:17:24] worth was was this thing as well so
+[00:17:26] coming from a background where I didn't
+[00:17:27] have money my family didn't have money
+[00:17:28] my entire net worth was this thing that
+[00:17:30] was going well so you can see how if the
+[00:17:33] company starts to struggle it's like
+[00:17:34] Steve's actually broken well I had that
+[00:17:37] too for auditory then some in some
+[00:17:39] respects I still have it today just like
+[00:17:40] given the nature of the yeah of the
+[00:17:43] value of the business the key uh the key
+[00:17:46] at least for me in building the business
+[00:17:48] was Finding ways for myself
+[00:17:51] to manage stress to manage uh the
+[00:17:56] difficulties that come with building a
+[00:17:58] company without finding myself on that
+[00:18:00] yoyo of the company's performance right
+[00:18:02] it can't be that uh if the company has a
+[00:18:06] great day you're feeling like a rocket
+[00:18:07] ship and if the company's having a bad
+[00:18:09] day you're feeling down and so a lot of
+[00:18:11] my
+[00:18:12] I think growth as an entrepreneur has
+[00:18:15] been figuring out how to have a steady
+[00:18:17] hand and how to you know sort of stay
+[00:18:20] calm through the chaos chaos yeah how
+[00:18:23] have you done that a few different
+[00:18:25] things
+[00:18:26] um
+[00:18:27] I think the first uh and probably the
+[00:18:30] most profound for me in general has been
+[00:18:33] learning how to meditate
+[00:18:35] so in 2014 so I was about 24 years old
+[00:18:40] the company was maybe I don't know 30 or
+[00:18:44] 40 people
+[00:18:46] um I think I'd raised maybe 20 million
+[00:18:48] dollars something like that which
+[00:18:49] certainly felt like a lot of money and
+[00:18:51] uh
+[00:18:53] and I felt like I was really failing
+[00:18:55] like as a leader I was super stressed
+[00:18:57] out I was drinking too much and uh and I
+[00:19:00] remember having what I would later learn
+[00:19:03] was a panic attack
+[00:19:05] um you know and I was driving my car
+[00:19:08] and I'm on the highway and all of a
+[00:19:10] sudden it's like your peripheral vision
+[00:19:11] like starts narrowing on you and you
+[00:19:14] feel your fingers and they like are a
+[00:19:16] little bit numb you have this taste in
+[00:19:18] your mouth I actually thought I'd been
+[00:19:20] food poisoned because of the feeling was
+[00:19:22] so
+[00:19:23] unusual outrageous and uh and so I drove
+[00:19:27] I actually drove myself to the hospital
+[00:19:30] and I checked into the hospital and they
+[00:19:33] do
+[00:19:34] um you know all these analysis on me and
+[00:19:36] like it turns out I just had a panic
+[00:19:37] attack
+[00:19:38] but the fact that I end up in the
+[00:19:40] hospital from panic attack I was like
+[00:19:41] all right wait a sec like I gotta really
+[00:19:42] reset how I'm building this company and
+[00:19:46] growing and uh two days later I signed
+[00:19:50] up for this meditation course
+[00:19:52] Transit on meditation and uh I've been
+[00:19:56] doing it like every single day since
+[00:19:58] then about
+[00:20:00] yeah about eight and a half years later
+[00:20:02] when I sit here with CEOs who many of
+[00:20:04] which have had panic attacks yeah funny
+[00:20:06] funny enough um and they'd talk to me
+[00:20:08] about meditation I always seem to get a
+[00:20:10] similar response which I can't meditate
+[00:20:12] my head's too busy for that
+[00:20:14] well I think the busier your mind is the
+[00:20:16] more you need to meditate
+[00:20:19] I
+[00:20:20] so I learned how to meditate in 2014 and
+[00:20:24] I think there's different stages of the
+[00:20:26] way you understand meditation as well
+[00:20:30] um there's sort of a four-week check
+[00:20:31] mark
+[00:20:32] I think there's like a four month or
+[00:20:34] maybe a one-year check mark and then
+[00:20:36] there's four years plus which is
+[00:20:38] fortunately where I am today
+[00:20:40] and the fascinating thing is
+[00:20:43] what you first observe in meditating
+[00:20:47] um and I should just sort of clarify
+[00:20:48] what kind of meditation I'm doing so I
+[00:20:50] spend about 22 minutes every morning
+[00:20:52] doing this and you literally are
+[00:20:56] um you're breathing but then you start
+[00:20:57] repeating a mantra
+[00:20:59] and the idea of the Mantra is to start
+[00:21:01] clearing your mind out and you're just
+[00:21:03] focusing on the Mantra but what
+[00:21:05] inevitably happens is thoughts start to
+[00:21:07] drift in as you're saying the mantra and
+[00:21:11] you get to have this moment where you
+[00:21:13] get to decide
+[00:21:15] do I want to think about the thought or
+[00:21:17] do I want to pass it along by going back
+[00:21:19] to the mantra
+[00:21:20] so just right there in that moment you
+[00:21:22] start to realize that you can filter
+[00:21:24] your thoughts
+[00:21:25] you also get to choose to sit with
+[00:21:28] certain thoughts right think how often
+[00:21:30] in your life you might have thoughts
+[00:21:32] coming in you feel like you can't really
+[00:21:35] control what you're thinking about right
+[00:21:36] you almost like don't have that Focus
+[00:21:39] so that's the immediate benefit that you
+[00:21:41] get that you feel while you're
+[00:21:43] meditating
+[00:21:44] the more powerful benefit and this is
+[00:21:46] what I meant about feeling certain
+[00:21:48] stages of having done it is at least for
+[00:21:52] me it started to feel like I had a third
+[00:21:54] person
+[00:21:55] you know sort of watching me and I would
+[00:21:58] hear this voice in my head suddenly like
+[00:22:01] when I was about to get angry or when I
+[00:22:03] was about to be upset or and it was sort
+[00:22:05] of uh all of a sudden you're able to
+[00:22:08] sense what you're about to do or say
+[00:22:09] before you do it so the immature version
+[00:22:12] of me as an entrepreneur might find
+[00:22:16] himself saying things and being angry
+[00:22:18] and reacting
+[00:22:21] um and then sort of almost catching up
+[00:22:22] to the emotional state that I was in and
+[00:22:24] trying to reel it back whereas the the
+[00:22:28] more meditated version of me
+[00:22:31] I think has has been able to recognize
+[00:22:34] what I'm about to say something before I
+[00:22:36] say it or feel something before I feel
+[00:22:38] it and and that
+[00:22:40] it feels like a superpower
+[00:22:42] did not grow over time that third person
+[00:22:45] ability with your Transcendental
+[00:22:47] Meditation practice
+[00:22:49] I think so I mean it's I imagine that
+[00:22:52] learning how to breathe and meditate is
+[00:22:54] like any other skill and if you refine
+[00:22:56] it for weeks versus months versus years
+[00:22:59] it it gets better and it's it's
+[00:23:01] basically becoming conscious isn't it of
+[00:23:04] what's going on in your mind you're
+[00:23:05] becoming more conscious of your thoughts
+[00:23:07] and that their choices and you're not
+[00:23:09] them yeah exactly I think it it's at
+[00:23:12] least helped me stay more in control of
+[00:23:15] of my actions my feelings decisions I'm
+[00:23:19] making
+[00:23:20] and and I really recommend it to anyone
+[00:23:22] like I think it's I think it's a game
+[00:23:24] changer
+[00:23:26] 2014 you cite um in a few things you've
+[00:23:29] you've spoken on um as being a very
+[00:23:31] difficult year that's when you had as
+[00:23:32] you said 20 to 30 employees you'd raise
+[00:23:34] 20 million things were pretty crazy in
+[00:23:37] those early years
+[00:23:39] um did you have doubt because when I
+[00:23:42] think about the whoop story
+[00:23:45] it's competitor set are all massive
+[00:23:47] [ __ ] Juggernauts and I've I've like
+[00:23:49] from afar obviously when I got I got my
+[00:23:51] week two months ago I remember thinking
+[00:23:53] how the [ __ ] have they done that
+[00:23:54] in an environment where you've got these
+[00:23:57] big you know Steve Jobs founded
+[00:23:59] companies and this company and they've
+[00:24:00] all got billions and 200 billion in the
+[00:24:02] kitty yeah I'm like how did they get on
+[00:24:04] my wrist how did they pierce and get
+[00:24:07] you went into an incredibly competitive
+[00:24:09] market
+[00:24:11] when you did that when you raised that
+[00:24:13] 20 million did you have doubts about
+[00:24:15] yourself
+[00:24:18] I think I developed doubts
+[00:24:20] um in managing the company like I always
+[00:24:23] believed in the vision uh of what we set
+[00:24:27] out to build I mean dating to 2011 or
+[00:24:29] 2012 when I was doing all the research
+[00:24:31] like it was almost a straight shot from
+[00:24:35] 2011 or 12 to today the paper I wrote In
+[00:24:39] 2011 was titled the feedback tool
+[00:24:42] measuring intensity recovery and sleep
+[00:24:45] and like literally today our three main
+[00:24:47] metrics are strain recovery and sleep so
+[00:24:49] in terms of having a strong perspective
+[00:24:51] on what the world should look like when
+[00:24:54] the technology is built and actually
+[00:24:57] measuring all the things it needs to
+[00:24:59] Super accurately
+[00:25:00] I think building whoop was was more of a
+[00:25:03] straight line than than the average
+[00:25:05] company
+[00:25:06] where it was all kinds of zigs and zags
+[00:25:08] and chaos is uh learning one how to be a
+[00:25:13] CEO and run the company to your point
+[00:25:16] learning how to navigate competition and
+[00:25:18] we can talk more about that we've had
+[00:25:19] some interesting experiences in that
+[00:25:22] category a big theme was actually being
+[00:25:24] able to raise capital
+[00:25:26] in part because of the competition right
+[00:25:28] like it was hard
+[00:25:30] first of all for a number of years we
+[00:25:32] were building the technology before we
+[00:25:34] ever were really generating Revenue
+[00:25:36] and that's that's just a hard business
+[00:25:39] to build and it also took us a lot
+[00:25:41] longer to get the product to Market than
+[00:25:43] we thought it would right and so
+[00:25:46] you're in the scenario where
+[00:25:49] you know you're you're saying to
+[00:25:51] investors well we're getting there we're
+[00:25:53] getting there we're getting there and so
+[00:25:55] the you know the first seven years of
+[00:25:58] the company I would say or enormously
+[00:26:01] hard from just a technology development
+[00:26:04] standpoint from a capital raising
+[00:26:06] standpoint in from a business generation
+[00:26:08] standpoint because we you know we were
+[00:26:11] seven years in and then completely
+[00:26:13] changed our business model on its head
+[00:26:15] which was a bet the company moment you
+[00:26:17] know and uh and so there were just a lot
+[00:26:21] it was a lot yeah and I told you at 22
+[00:26:24] the next was 22 when you founded the
+[00:26:27] company yeah if I told you at 22 the
+[00:26:29] next seven years would look like that
+[00:26:31] do you think you would have done it
+[00:26:34] I think I would have done it yeah I mean
+[00:26:38] it was painful but I knew I was doing
+[00:26:40] the right thing like I knew I was I knew
+[00:26:42] I was in the right storm you know what I
+[00:26:44] mean like
+[00:26:46] um there were a lot of feelings of being
+[00:26:47] like my back against the wall
+[00:26:50] um there were a lot of feelings of
+[00:26:53] uh doubt
+[00:26:55] what were those feelings of doubt
+[00:26:57] you know are we going to get this thing
+[00:26:59] to Market soon enough do are we going to
+[00:27:01] figure out what the right way is to sell
+[00:27:02] it are we maturing as a as a team are we
+[00:27:05] going to be able to attract more capital
+[00:27:06] I mean again back to raising capital
+[00:27:09] we've raised about 400 million
+[00:27:12] dollars in capital day but that's still
+[00:27:14] sense when you look at the companies
+[00:27:16] we've been competing against to get to
+[00:27:18] this stage and so I was I was nervous
+[00:27:21] about that piece of it and especially
+[00:27:23] again as a young entrepreneur who's who
+[00:27:25] is Raising capital for the first time
+[00:27:28] you said team and we there co-founders
+[00:27:31] yeah
+[00:27:33] how important is that in hindsight
+[00:27:34] because I feel like you don't find out
+[00:27:37] the answer to how well you've chosen
+[00:27:39] your co-founders until a couple of years
+[00:27:40] in
+[00:27:42] yeah look I I had a great
+[00:27:44] um CTO I had a great lead mechanical
+[00:27:47] engineer we've we've built the business
+[00:27:49] together for 10 years or my CTO just
+[00:27:52] just uh transitioned to new projects
+[00:27:55] but it's been an amazing ride and I
+[00:27:59] think the
+[00:28:00] the fact that we've been able to build
+[00:28:02] this technology that has you know
+[00:28:05] through a variety of different uh third
+[00:28:07] parties been credited as being the most
+[00:28:10] accurate wearable in the market speaks
+[00:28:12] to the the technical chops of of the
+[00:28:15] founding team and I I don't take credit
+[00:28:17] for that uh so I think it's uh it's a
+[00:28:21] remarkable accomplishment and I think
+[00:28:23] it's also important when you're building
+[00:28:25] a founding team to have a a fairly clear
+[00:28:28] set of responsibilities I get a little
+[00:28:32] nervous when I hear of a founding team
+[00:28:34] and they're both like the business guy
+[00:28:36] or they're both like the technical guy
+[00:28:38] and kind of the same thing you know the
+[00:28:41] the advantage that we had in starting
+[00:28:43] the company was each category of thing
+[00:28:46] that we were trying to do was so hard
+[00:28:48] like inventing a wearable that could
+[00:28:51] measure uh hurry variability as
+[00:28:54] accurately as an electrocardiogram or
+[00:28:57] raise Capital at a time that you know
+[00:29:00] Nike e and apple and you know a dozen
+[00:29:03] other companies were entering the space
+[00:29:04] like
+[00:29:06] if I struggled with raising Capital like
+[00:29:09] I wasn't gonna have a partner giving me
+[00:29:10] a hard time if he struggled with
+[00:29:12] building the technology I wasn't going
+[00:29:14] to give him a hard time like we just
+[00:29:15] knew it was hard uh and we also knew
+[00:29:19] that the other wasn't going to be better
+[00:29:21] at it so I think that there was an
+[00:29:22] element of complementary uh skill sets
+[00:29:25] that's helpful
+[00:29:27] if you were giving someone advice on how
+[00:29:28] to pick a co-founder in terms of the
+[00:29:30] character traits that you look for in
+[00:29:31] that person what would you suggest that
+[00:29:33] they look for because it's a question I
+[00:29:34] get asked all the time our co-founders
+[00:29:37] it's probably some combination of
+[00:29:40] commitment intensity and humility
+[00:29:43] um
+[00:29:44] the commitment piece is really important
+[00:29:47] because
+[00:29:50] you're going to have a lot of very
+[00:29:51] difficult things happen in the first
+[00:29:54] six months let alone the first six years
+[00:29:56] and so you want to know that this
+[00:29:58] person's committed to doing this and
+[00:30:01] it's going to be hardcore and no matter
+[00:30:02] what happens we're going to get through
+[00:30:04] it you know I I think startups really
+[00:30:07] only fail if the founders quit or you
+[00:30:10] run out of money so like if you can
+[00:30:12] overcome those two things
+[00:30:14] you've got a pretty good shot
+[00:30:16] and and so commitment's critical and
+[00:30:19] then intensity and humility that's what
+[00:30:21] I just generally look for in anyone that
+[00:30:22] that I work for or work with you want
+[00:30:25] hard driving people you want people who
+[00:30:27] recognize that it's going to take an
+[00:30:29] enormous amount of work and discipline
+[00:30:32] to develop whatever product or service
+[00:30:35] it is that you're creating for the first
+[00:30:37] time
+[00:30:38] but you also want along the way
+[00:30:41] um to have people who recognize that
+[00:30:43] with that intensity and with that
+[00:30:44] intelligence with that depth
+[00:30:47] they have the humility to recognize that
+[00:30:51] they may not have all the answers
+[00:30:53] and in particular when you're building a
+[00:30:55] company and a small company at that that
+[00:30:57] has a lot of different departments that
+[00:30:59] intersect and then in the case of whoop
+[00:31:01] I mean Hardware software analytics data
+[00:31:05] regulatory design marketing whatever you
+[00:31:09] could have a meeting with four different
+[00:31:10] departments and it's really just four
+[00:31:12] people and all of a sudden there's this
+[00:31:14] massive Collision around how we're going
+[00:31:16] to send data from a whoop strap to an
+[00:31:19] iPhone
+[00:31:20] and like the product person has their
+[00:31:22] own perspective the iOS engineer has his
+[00:31:24] own perspective you know the the
+[00:31:26] Bluetooth expert has their perspective
+[00:31:28] the engineer has the mechanical
+[00:31:30] engineer's own perspective and so
+[00:31:31] there's this natural Collision of how
+[00:31:33] should we solve this problem and I think
+[00:31:36] when you build teams with high humility
+[00:31:38] they tend to come out with the answer
+[00:31:40] that's best for the company not like I
+[00:31:43] came up with it
+[00:31:44] so that would I think that's a pretty
+[00:31:47] good starting point commitment intensity
+[00:31:49] humility
+[00:31:50] when you think about the the most
+[00:31:53] difficult times so I know that you would
+[00:31:55] have been through many many difficult
+[00:31:56] times but when you when when I say that
+[00:31:58] when I say the most difficult time
+[00:32:00] maybe a day maybe a piece of news you
+[00:32:03] got
+[00:32:04] an email
+[00:32:06] is there something that comes to mind as
+[00:32:08] the most difficult day time moment well
+[00:32:10] there is a period of time of about 18
+[00:32:13] months where whoop never had more than
+[00:32:16] three months of Runway
+[00:32:18] of cash in the bank yeah wow so picture
+[00:32:21] that right because
+[00:32:23] um you know so much of building a
+[00:32:25] business is having the runway to
+[00:32:27] strategize and grow and recruit and and
+[00:32:32] I had the company had gotten into a
+[00:32:34] weird moment where
+[00:32:38] we were still doing Innovative things
+[00:32:40] but we hadn't found the next investor to
+[00:32:44] sort of carry the company through to the
+[00:32:46] to the Future uh to a future round or
+[00:32:49] you know give us two years of Runway
+[00:32:51] which is sort of what you'd want for any
+[00:32:53] Capital injection and
+[00:32:56] we were making some deals happen there
+[00:32:58] were there were compelling things
+[00:32:59] happening in the business and so we were
+[00:33:01] able to stitch along a number of uh
+[00:33:05] Investments but never enough capital and
+[00:33:09] so I just felt this enormous weight on
+[00:33:12] my shoulders man like it was it was so
+[00:33:15] intense and uh and it also was it was a
+[00:33:20] company size that you know it's one
+[00:33:22] thing to say okay 18 months and you
+[00:33:25] never have more than three months of
+[00:33:26] Runway something you said when you're
+[00:33:27] like a 10 person team like we were like
+[00:33:29] a 50 70 person team something like that
+[00:33:31] so you know that you feel a lot of
+[00:33:33] responsibility as well when you're
+[00:33:35] operating through a period and
+[00:33:39] essentially it got to the point where
+[00:33:42] um if we didn't get uh essentially a
+[00:33:46] term sheet signed uh on a Wednesday
+[00:33:50] uh we were gonna go bankrupt on that
+[00:33:52] Friday or file for bankruptcy on that
+[00:33:54] Friday so imagine like two days from
+[00:33:57] from it all going away and I remember
+[00:34:00] writing uh like even writing a note to
+[00:34:04] all of our investors about what a
+[00:34:07] journey it had been and thank you like I
+[00:34:09] felt all the feelings of the company had
+[00:34:11] failed without the company having failed
+[00:34:13] and fortunately was able to get the deal
+[00:34:15] done on that day and uh
+[00:34:18] yeah I'm so glad I did I've been there
+[00:34:20] I've been there for multiple payrolls I
+[00:34:22] told this funny story about it being
+[00:34:25] Payday on that day in the bank not our
+[00:34:27] bank at the time not releasing the funds
+[00:34:28] we have 200 people
+[00:34:30] um and them saying they'll only release
+[00:34:32] the funds on that Friday when everyone's
+[00:34:34] expecting payment if I get a contract
+[00:34:36] signed by one of our clients
+[00:34:37] so I'm in London having drinks with this
+[00:34:40] client and we get to like you know a
+[00:34:43] certain point at lunch but I'm like you
+[00:34:44] wouldn't mind signing this contract send
+[00:34:46] it off but multiple times especially
+[00:34:47] running a B2B agency business that was
+[00:34:49] growing cash is always 60 days away
+[00:34:51] you've got to pay your bills today but
+[00:34:53] what's the personal toll on you in those
+[00:34:55] moments
+[00:34:56] that people don't see
+[00:35:01] well I look back on that whole period
+[00:35:03] with like immense gratitude because it
+[00:35:07] being able to overcome that and being
+[00:35:09] able to
+[00:35:10] essentially pull through in a
+[00:35:12] circumstance where I think almost uh any
+[00:35:15] other business would have failed
+[00:35:17] it just it reframed for me going
+[00:35:21] forwards what it means to be facing a
+[00:35:23] challenge
+[00:35:24] like that was a real existential
+[00:35:26] challenge like this whole thing's going
+[00:35:27] away we're all going home the technology
+[00:35:29] is worth nothing right that's a that's
+[00:35:31] like poof
+[00:35:32] and so now it's like
+[00:35:36] okay the sales were lower this month in
+[00:35:39] the last month or this great person on
+[00:35:42] our team got poached by that company or
+[00:35:44] this epic competitor came out with this
+[00:35:46] product like
+[00:35:48] there's there's some level of
+[00:35:50] perspective that comes with all of those
+[00:35:53] you know big challenges because I just
+[00:35:56] remember
+[00:35:57] being able to work through the what I
+[00:35:59] deemed to be one of the biggest
+[00:36:00] challenges did you get anxiety through
+[00:36:03] that period
+[00:36:04] totally but I I also like I was able to
+[00:36:08] build a whole lifestyle and process to
+[00:36:10] approach
+[00:36:12] um stress and I do think that success
+[00:36:15] may come for people when they overcome a
+[00:36:18] level of stress that would break most
+[00:36:20] people
+[00:36:21] and so
+[00:36:23] I'm a little critical of how
+[00:36:26] um pop culture likes to talk about
+[00:36:28] stress which is if you're stressed you
+[00:36:32] know take on way less of it right and
+[00:36:35] that that may be true in small doses but
+[00:36:38] what we really want to learn is how to
+[00:36:41] cope with stress and how to manage
+[00:36:42] through it and how to overcome it and I
+[00:36:46] think also if you're stressed about
+[00:36:48] something it's also a signal that it
+[00:36:51] matters to you and it's important right
+[00:36:53] so
+[00:36:55] uh look it was that period of time was
+[00:36:59] uh
+[00:37:00] enormously stressful painful
+[00:37:04] um I felt like I had to keep some of it
+[00:37:06] to myself versus burden like a larger
+[00:37:09] team with it you know so that there's
+[00:37:12] certain burdens I do think that
+[00:37:14] um CEOs or leaders or entrepreneurs
+[00:37:17] carry or you're almost
+[00:37:19] compartmentalizing something and you
+[00:37:22] know you're gonna have to
+[00:37:23] to feel it
+[00:37:25] I'm sure you know what that feels like
+[00:37:27] yeah of course I think you know I did
+[00:37:30] that for my entire career and then I
+[00:37:32] think the shift I've seen in in culture
+[00:37:34] with leaders was covid when a lot of
+[00:37:37] companies the facts were clear like we
+[00:37:39] have to close down if you're a High
+[00:37:40] Street brand for example we have to
+[00:37:42] close the doors so that's when I think a
+[00:37:44] lot of CEOs started being more honest
+[00:37:45] with the state of play with their team
+[00:37:47] members and would say things like listen
+[00:37:49] we're gonna have to let half the team go
+[00:37:50] and this is how much money we have in
+[00:37:52] the bank if we don't get here then we're
+[00:37:53] gonna have to close down I I saw a big
+[00:37:55] shift then and it inspired me a lot
+[00:37:57] about
+[00:37:57] being transparent with my teams but I
+[00:38:00] mean for the whole of my professional
+[00:38:01] career yeah I just come I just Brave
+[00:38:03] face it was like you would have no idea
+[00:38:05] if it was the best day or the worst day
+[00:38:06] because my face was the same so you got
+[00:38:09] good at holding it in 100 but my
+[00:38:11] business partner didn't and he became an
+[00:38:13] alcoholic so he as he's talked about
+[00:38:15] many times he turned to alcohol us we
+[00:38:18] lived in the same house together sure
+[00:38:19] and he would I there were times when I
+[00:38:21] went downstairs at 3am and went into the
+[00:38:23] laundry room and he was there drinking
+[00:38:24] yeah and you know so we were we were
+[00:38:26] both coping in different ways I was kind
+[00:38:27] of compartmentalizing and kind of just
+[00:38:29] I called it a video game mindset where
+[00:38:31] it's what you've talked about I was I
+[00:38:33] was holding the controller I think my
+[00:38:35] business partner was inside the game
+[00:38:36] yeah you know what I mean as in like
+[00:38:38] there was a a chord between me and what
+[00:38:41] was going on did you develop any like
+[00:38:43] lifestyle hacks
+[00:38:45] um
+[00:38:46] I've got to be honest no not at the time
+[00:38:50] and now I think I have more
+[00:38:53] but at the time no I was just
+[00:38:57] trying to get to the next day and I
+[00:38:59] think I have a natural sort of
+[00:39:02] predisposition to in the worst moments
+[00:39:04] ever just purely focusing on what I can
+[00:39:06] control
+[00:39:07] part of me which bother is a big deal
+[00:39:09] yeah yeah I I only know this in
+[00:39:11] hindsight because I wonder why in honor
+[00:39:13] if I told you about the worst day we
+[00:39:14] ever had in the business
+[00:39:16] years later my business partner says why
+[00:39:18] were you so calm on that day well well I
+[00:39:19] had very few choices
+[00:39:21] so not the worst day we ever had in the
+[00:39:23] company my choices were so small
+[00:39:25] and they were so obvious as they often
+[00:39:27] are it's like if the room's on fire like
+[00:39:29] the doors over there and the buttons
+[00:39:30] there I think about that all the time as
+[00:39:32] like are you controlling all the
+[00:39:34] controllables and
+[00:39:37] often if you are or even just you know
+[00:39:40] setting sitting down in your mind or
+[00:39:42] even putting on paper hey what are all
+[00:39:43] the things I control about the situation
+[00:39:45] what are things I don't
+[00:39:46] that can be a very calming exercise it's
+[00:39:49] very focusing yeah even talk about that
+[00:39:51] day we made the cash flow problem I knew
+[00:39:53] what my objective was get this guy to
+[00:39:54] sign this piece of paper yeah what's
+[00:39:56] there to worry about I have no time to
+[00:39:58] worry so
+[00:40:00] um so yeah that was a but you developed
+[00:40:02] lifestyle hacks to help you
+[00:40:05] we talked about meditation which was a
+[00:40:07] big one
+[00:40:09] um
+[00:40:11] exercise big one uh
+[00:40:15] I got into hot cold transitions
+[00:40:19] gratitude's a big one
+[00:40:21] so take me through your day then because
+[00:40:23] I think this will reveal a lot of your
+[00:40:25] habits
+[00:40:27] sure so
+[00:40:29] let's take a a given day in Boston yeah
+[00:40:33] the day actually starts for me a little
+[00:40:35] bit the night before because I'm getting
+[00:40:38] into a a framework for you know the next
+[00:40:41] day
+[00:40:43] um
+[00:40:44] a few days a week I work out with a
+[00:40:46] trainer early in the morning so I'll
+[00:40:48] actually pack everything up for that
+[00:40:51] well I've got my my workout clothes out
+[00:40:53] I'll have the what I'm gonna wear to
+[00:40:54] work the next day
+[00:40:57] um I'll I'll probably have written down
+[00:40:59] like two or three things that I'm gonna
+[00:41:02] focus on the next day
+[00:41:04] and
+[00:41:05] and then like sleep because you know
+[00:41:08] building whoop you think a lot about
+[00:41:10] sleep
+[00:41:11] I uh you know I sleep in a really cold
+[00:41:14] bedroom uh really dark bedroom why cold
+[00:41:18] and dark
+[00:41:19] it's just shown to give you higher
+[00:41:21] quality sleep
+[00:41:23] yeah and I try to go to bed at a
+[00:41:25] somewhat consistent time this is a
+[00:41:28] little trickier because my wife's kind
+[00:41:29] of a night owl and I like to go to bed a
+[00:41:31] little earlier but uh so I'll probably
+[00:41:33] go to bed between I don't know 11 30 and
+[00:41:36] midnight and then I'll wake up at around
+[00:41:39] 6 30 and controversial question about
+[00:41:42] your wife then does your sleep
+[00:41:43] deteriorate with your wife in the bed it
+[00:41:46] doesn't because we have uh we've got
+[00:41:49] good intimacy like we've got good bad
+[00:41:52] cuddle habits you know it's like a
+[00:41:54] cuddling ton yeah yeah we we
+[00:41:58] we've done a good job co-existing in a
+[00:42:01] bedroom environment although that's an
+[00:42:03] interesting thing you can track on whoop
+[00:42:04] so if people really want to know whether
+[00:42:06] or not they sleep better or worse with a
+[00:42:09] partner you can literally record that in
+[00:42:11] the whoop journal in the app uh so in a
+[00:42:15] second I want to hear what's in your
+[00:42:16] movement
+[00:42:17] well you probably check while you're
+[00:42:20] chagging against uh so
+[00:42:23] cold room a consistent bedtime
+[00:42:27] um
+[00:42:28] yeah and then I wake up and I'm like out
+[00:42:31] the door really quick shower workout
+[00:42:33] clothes got my stuff I always give my
+[00:42:36] wife kisses before I leave that's like a
+[00:42:38] nice relationship hack uh while she's
+[00:42:41] while she's sleeping and then uh I work
+[00:42:44] out for an hour with my trainer I'll do
+[00:42:47] uh steam room after that freezing cold
+[00:42:50] shower I do a breakfast that's mostly
+[00:42:54] like egg whites it's mostly proteins
+[00:42:57] like egg whites like avocado bacon that
+[00:43:00] kind of stuff two points there so the
+[00:43:02] first was working out in the morning
+[00:43:03] yeah is there any like dates where
+[00:43:05] science around that being advantageous
+[00:43:07] so back to being able to control the
+[00:43:10] controllables I like to work out in the
+[00:43:12] morning in large part because it means I
+[00:43:15] can then stay at work later if I need to
+[00:43:17] okay what I hate is when I go to work
+[00:43:20] without having worked out in the morning
+[00:43:22] and I'm supposed to pill I like squash
+[00:43:24] that evening and then a couple things
+[00:43:27] come up around 6 p.m and all of a sudden
+[00:43:30] I realize I'm not gonna get out the door
+[00:43:31] and so then you know you know you don't
+[00:43:33] exercise so the nice thing about working
+[00:43:35] out first is like okay I've checked that
+[00:43:37] box and then the other thing was this
+[00:43:39] the cold water
+[00:43:41] cold water yeah talk to me about why you
+[00:43:43] do that and how that helps
+[00:43:45] so
+[00:43:46] there's something I think to be said for
+[00:43:48] doing things that naturally make you
+[00:43:50] happy
+[00:43:51] even if in the moment they're a little
+[00:43:52] painful and uh for me being in the cold
+[00:43:56] is one of those things like I feel a
+[00:43:58] huge jolt of adrenaline from it uh it
+[00:44:03] also forces me to breathe properly and I
+[00:44:06] think anything you can do that helps you
+[00:44:08] breathe properly or forces You to
+[00:44:10] Breathe properly is good for you uh and
+[00:44:14] then I feel kind of happy after doing it
+[00:44:16] like like this little injection of
+[00:44:18] happiness and so I end a hundred percent
+[00:44:21] of showers that I take cold and as cold
+[00:44:24] as possible the colder the better
+[00:44:27] and then the the steam room aspect or
+[00:44:30] the sauna aspect depending on where I am
+[00:44:32] is uh
+[00:44:34] I mean there's a fair amount of research
+[00:44:36] that shows if you do a steam room or a
+[00:44:38] sauna a few days a week it is likely to
+[00:44:41] increase longevity
+[00:44:44] I would say I like the cold more than
+[00:44:46] the hot but anyway
+[00:44:48] all right Sam the opposite
+[00:44:50] my my girlfriend is a breath
+[00:44:52] practitioner oh okay Coach so obviously
+[00:44:54] you understand what comes with that and
+[00:44:55] cold water is a big part of what she um
+[00:44:58] encourages on me so she jumps in these
+[00:45:00] ice baths and I'm like I'm trying not to
+[00:45:02] feel amazing I might put my toe in and
+[00:45:04] I'm like coming up with reasons but now
+[00:45:06] she's got me into it so so what kind of
+[00:45:08] breath work do you do
+[00:45:10] um I didn't even know the name of it
+[00:45:12] she's got her own method she teaches
+[00:45:14] classes she's doing classes in London at
+[00:45:15] the moment big groups one-on-one
+[00:45:17] sessions she's doing
+[00:45:19] um she does sessions with lots of people
+[00:45:20] that come on this podcast in fact oh
+[00:45:22] cool because they end up getting getting
+[00:45:24] to know her so but
+[00:45:25] yeah I don't know what type of breath
+[00:45:27] work it is but it's an hour in a room
+[00:45:30] like the
+[00:45:32] yeah the double inhale yeah Game Changer
+[00:45:36] just yeah I think they're cool I think
+[00:45:37] it's amazing yeah that's a huge industry
+[00:45:39] that's that's feels like a wave coming
+[00:45:42] into Shore because this word breath work
+[00:45:43] showed up like 18 24 months ago over
+[00:45:46] here and now it's everywhere with like
+[00:45:47] Wim Hof that's a good point I mean Wim
+[00:45:50] Hof yeah I think Wim Hoff pushed a lot
+[00:45:53] of it especially around the cold and
+[00:45:57] I look I think it's taking off for a
+[00:45:59] good reason in part because again back
+[00:46:01] to controlling things you can control
+[00:46:02] you can literally control your breath in
+[00:46:05] a second
+[00:46:06] and there's an interesting whoop hook to
+[00:46:09] all this because one of the core things
+[00:46:11] that
+[00:46:13] led me to starting the company was
+[00:46:14] discovering this statistic called heart
+[00:46:16] rate variability and heart rate
+[00:46:19] variability is essentially this lens
+[00:46:21] into your autonomic nervous system it's
+[00:46:24] the amount of time between successive
+[00:46:27] beats of the heart so it's a little
+[00:46:29] confusing but if your heart beats at 60
+[00:46:30] beats per minute it's not beating every
+[00:46:32] second like it might be 0.7 seconds and
+[00:46:35] then 1.3 seconds and then 0.6 seconds
+[00:46:37] and 1.4 seconds and it turns out that
+[00:46:39] variability of time between successive
+[00:46:42] beats is actually a good thing
+[00:46:44] because it's a sign that your body is
+[00:46:46] able to regulate in its environment
+[00:46:49] and your autonomic nervous system
+[00:46:51] literally consists of sympathetic and
+[00:46:55] parasympathetic activity now sympathetic
+[00:46:58] is activation
+[00:47:00] so that's heart rate up blood pressure
+[00:47:01] up respiration up
+[00:47:04] um often it's what's happening when
+[00:47:05] you're feeling a little bit of stress or
+[00:47:07] you're exercising right now parasympic
+[00:47:10] is all the opposite hurry down blood
+[00:47:12] pressure down respiration down
+[00:47:14] it's what helps you fall asleep
+[00:47:16] but where this all comes back to breath
+[00:47:18] work
+[00:47:19] is literally inhaling
+[00:47:22] that's sympathetic
+[00:47:26] that's parasympathetic
+[00:47:28] so just by controlling your breathing
+[00:47:31] you can decide whether you want to be
+[00:47:33] sympathetic dominant parasympic dominant
+[00:47:35] you can increase your heart rate
+[00:47:36] variability you can decrease it and
+[00:47:39] that's something that's in your control
+[00:47:40] and heart rate variability is one of the
+[00:47:42] core statistics that we look at as a
+[00:47:46] lens into how restored your body is
+[00:47:50] I noticed that because my friend Logan
+[00:47:51] said he went up for a night out he got
+[00:47:54] drunk it was a yeah yeah and then he
+[00:47:57] screenshotted his his whoop dashboard
+[00:47:59] the next day and was and put it into our
+[00:48:01] chat and went [ __ ] because everything
+[00:48:04] was red and and he was trying to explain
+[00:48:07] to me heart rate variability and why it
+[00:48:08] was important but I couldn't quite
+[00:48:09] understand
+[00:48:11] um and I remember trying to trying to
+[00:48:12] read about why it was important but I
+[00:48:14] knew you were coming here so I thought
+[00:48:15] I'd ask you myself because you I've
+[00:48:16] heard you talk about the importance of
+[00:48:18] heart rate variability I understand now
+[00:48:20] what it is but why is it such an
+[00:48:22] important indicator and what are the
+[00:48:23] things that we do that make it plummet
+[00:48:26] so the fascinating thing about hard
+[00:48:28] variability is it's been measured since
+[00:48:30] like roughly the the 80s and
+[00:48:34] the physiology research that I was
+[00:48:36] reading in college was showing that uh
+[00:48:39] Olympic power lifters were using heart
+[00:48:40] rate variability to determine how much
+[00:48:43] they should lift So based on whether
+[00:48:45] they had a low or high heart rate
+[00:48:46] variability in the morning and they'd
+[00:48:48] get hooked up to an electrocardiogram
+[00:48:49] like this is an intense thing and then
+[00:48:51] they would go decide how much they were
+[00:48:53] going to lift based on what their
+[00:48:54] reading was I think that's kind of
+[00:48:55] interesting turned out cyclists were
+[00:48:57] doing it in the 80s the CIA was using
+[00:49:00] heart rate variability for lie detection
+[00:49:02] tests
+[00:49:03] doctors cardiologists were using heart
+[00:49:06] rate variability to predict whether
+[00:49:09] former heart failure patients were going
+[00:49:11] to have a heart attack again
+[00:49:12] so I'm thinking about myself this is a
+[00:49:14] pretty powerful statistic that I've
+[00:49:15] never heard of that feels like everyone
+[00:49:17] should be measuring and uh and so that's
+[00:49:21] really
+[00:49:22] that was one of the core insights in
+[00:49:24] building whoop was that you need to be
+[00:49:25] able to measure heart rate variability
+[00:49:26] continuously and in particular it's
+[00:49:29] going to play a huge role in helping us
+[00:49:31] understand the status of your body's
+[00:49:34] Readiness and uh how well you're
+[00:49:36] sleeping so those are two ways that
+[00:49:38] whoop is primarily using heart rate
+[00:49:41] variability
+[00:49:42] uh you know things that decrease heart
+[00:49:45] rate variability uh dehydration bad diet
+[00:49:49] we just talked about alcohol
+[00:49:52] um heavy exercise uh you know heavy uh
+[00:49:57] psychological stress
+[00:49:59] often people are surprised how just
+[00:50:02] The Wrong conversation with their
+[00:50:03] partner the night before bed
+[00:50:06] can totally throw their sleep out of
+[00:50:08] whack or their heart rate variability
+[00:50:09] out of whack
+[00:50:10] so it's a very powerful statistic it's a
+[00:50:13] fascinating statistic and I'm mostly got
+[00:50:15] like a lot more people are measuring it
+[00:50:18] it seems to know us before we know
+[00:50:19] ourselves to know how to describe it one
+[00:50:23] of the things I would say in building
+[00:50:24] whoop is
+[00:50:25] uh
+[00:50:27] feelings are overrated there are things
+[00:50:29] happening in your body that you can't
+[00:50:31] feel and I think heart rate variability
+[00:50:33] is one of those one of those key
+[00:50:35] indicators where for most people it'd be
+[00:50:37] very hard to know what their heart rate
+[00:50:39] variability was saying in any given
+[00:50:41] moment
+[00:50:42] but uh it has turned out to be a good
+[00:50:46] embodiment of what whoop does which is
+[00:50:48] that feelings are overrated I say that
+[00:50:51] because I remember looking at my heart
+[00:50:53] rate variability and seeing it was
+[00:50:54] orange or red I can't remember and then
+[00:50:56] asking myself why and I go oh yeah I
+[00:50:58] know why because I was really I think I
+[00:50:59] was really stressed that day I hadn't
+[00:51:01] slept and then I hadn't slept because we
+[00:51:03] had a back to back to back schedule so I
+[00:51:06] was going to sleep at 4am and waking up
+[00:51:07] at 8am for like three days in a row and
+[00:51:09] my heart rate variability just seemed to
+[00:51:11] plummet and that was when I speak to my
+[00:51:13] sister and I go listen we need to no
+[00:51:15] meetings before 11 because I need to
+[00:51:16] sleep
+[00:51:17] um and it knew me before I and it's
+[00:51:19] funny because it yeah it it changed my
+[00:51:22] life by telling me something that maybe
+[00:51:23] I wasn't listening to
+[00:51:25] it changed my routine by telling me
+[00:51:27] something that was clear maybe from a
+[00:51:29] subjective objective standpoint but I
+[00:51:32] clearly was ignoring thinking that I was
+[00:51:34] invincible I think covid-19 was a big
+[00:51:37] wake-up call for people in that category
+[00:51:40] right of
+[00:51:43] um of feelings are overrated because
+[00:51:44] here you have a virus that you can get
+[00:51:48] that you don't feel
+[00:51:51] you're not even sick and yet you give it
+[00:51:53] to someone else and they get deathly ill
+[00:51:55] we had a fascinating relationship with
+[00:51:58] covid-19 in being able to measure it
+[00:52:01] because we detected a statistic called
+[00:52:02] respiratory rate being super elevated
+[00:52:06] but I can't tell you how many
+[00:52:07] screenshots and messages I've gotten
+[00:52:09] over the last two years if people seeing
+[00:52:12] this huge spike in their respiratory
+[00:52:14] rate you know two three days before
+[00:52:16] ultimately testing positive for covid
+[00:52:19] and
+[00:52:20] it reaffirmed in a lot of ways the
+[00:52:23] founding story of the company although
+[00:52:24] in a different direction it wasn't about
+[00:52:26] not knowing that you should train today
+[00:52:28] or rest today it was about not knowing
+[00:52:30] that you were sick it speaks to the
+[00:52:33] potential of Health monitoring and why
+[00:52:35] it's so exciting
+[00:52:36] another conversation I've been having
+[00:52:37] recently with a friend is about
+[00:52:39] blocking out certain types of light I
+[00:52:42] heard you do that yeah so uh blue light
+[00:52:45] essentially what emits from a cell phone
+[00:52:48] a television set an iPad I mean blue
+[00:52:51] lights frankly all around us and blue
+[00:52:54] light essentially tells your brain to
+[00:52:56] stay awake
+[00:52:57] and so
+[00:52:58] one way to offset that is to not be on
+[00:53:02] devices into the evening but you know
+[00:53:04] I'm still I think largely optimizing my
+[00:53:07] life around being a great entrepreneur
+[00:53:09] or or uh CEO so for me that doesn't
+[00:53:12] quite feel like an option yet or I
+[00:53:13] haven't quite built that level of
+[00:53:15] maturity
+[00:53:16] but what I do do is I I wear these blue
+[00:53:19] light blocking glasses which have a red
+[00:53:21] tint to them and uh it's like a get out
+[00:53:24] of jail free card for using devices into
+[00:53:26] the evening and uh and then they start
+[00:53:29] to make you sleepy
+[00:53:31] it's probably the single biggest thing
+[00:53:33] that's boosted my REM and slow wave
+[00:53:37] sleep on woop is is wearing blue light
+[00:53:40] blocking glasses
+[00:53:41] it's worth emphasizing for a second like
+[00:53:43] for your audience why that matters so if
+[00:53:46] you spend
+[00:53:47] like seven hours in bed
+[00:53:50] you're not actually getting seven hours
+[00:53:51] of sleep right and if you think about
+[00:53:55] the seven hours you spent in bed it's
+[00:53:57] divided up of time in which you're awake
+[00:54:00] you're in light sleep you're in slow
+[00:54:02] wave sleep or you're in REM sleep
+[00:54:05] and awake and light sleep as stages go
+[00:54:08] really are kind of irrelevant like they
+[00:54:10] don't do much for your body
+[00:54:12] physiologically they're not restorative
+[00:54:14] but REM and slow wave sleep that's like
+[00:54:16] where all the magic happens so REM sleep
+[00:54:19] is when your mind is repairing
+[00:54:20] cognitively it's when you'll have uh
+[00:54:23] deep dreams so people who say they don't
+[00:54:25] remember their dreams or they don't
+[00:54:27] dream they probably aren't getting
+[00:54:28] enough REM sleep so for human beings REM
+[00:54:30] sleep is like critical right because
+[00:54:32] that's cognitive repair slow wave sleep
+[00:54:34] that's when your body produces about
+[00:54:35] like 95 of its human growth hormone is
+[00:54:39] that deep sleep on woop yeah yeah and so
+[00:54:41] you know people think they're getting
+[00:54:43] stronger going to the gym right really
+[00:54:46] you're just breaking down your muscles
+[00:54:47] when you go to the gym you actually get
+[00:54:49] stronger when you go to bed during slow
+[00:54:51] wave sleep because you're producing all
+[00:54:52] your human growth hormone
+[00:54:54] so just to zoom out if you're someone
+[00:54:56] who's spending seven hours in bed
+[00:54:59] it might be that you get a total of 30
+[00:55:01] minutes of REM and slow wave sleep of
+[00:55:04] those seven hours
+[00:55:05] it could also be that you get like five
+[00:55:08] and a half hours
+[00:55:10] out of those seven hours and often when
+[00:55:12] you talk to people about sleep they're
+[00:55:13] like I just don't have time blah blah
+[00:55:15] blah we're not even talking about more
+[00:55:17] time we're just saying how do you take
+[00:55:19] the seven hours that you're in bed and
+[00:55:22] make them way better
+[00:55:24] and uh and so for me blue light blocking
+[00:55:27] classes was one of those things there's
+[00:55:28] a couple others but yeah this was the
+[00:55:31] thing that made me fall in love with my
+[00:55:33] whoop I remember getting eight hours
+[00:55:34] sleep waking up and feeling great
+[00:55:36] looking at my whoop and it said you'd
+[00:55:37] had three hours REM sleep and be going
+[00:55:39] yeah smashed it that's nice yeah and
+[00:55:41] then a couple of days later or the next
+[00:55:43] day getting eight hours sleep waking up
+[00:55:45] and feeling like [ __ ] looking at my
+[00:55:47] whooping it said oh you've got 30
+[00:55:48] minutes or something and me going ah
+[00:55:50] there is it because you think oh I spent
+[00:55:52] eight hours in bed so I must have had
+[00:55:54] yeah as you say like eight hours sleep
+[00:55:56] but it's j when you once you see that
+[00:55:59] you can't unsee it it's like this whole
+[00:56:02] 29 years of my life I've been like I've
+[00:56:05] misunderstood something so foundational
+[00:56:06] about my entire life and the fun thing
+[00:56:09] is you can optimize it like once you
+[00:56:11] measure it you can manage it yeah I kept
+[00:56:13] my girlfriend at the bed I said goodbye
+[00:56:14] well you don't have to go yeah you don't
+[00:56:17] have to be that extreme but it's uh yeah
+[00:56:19] I do think it's empowering and like
+[00:56:21] sweeps about a third of your life
+[00:56:24] be good to take care of that third too
+[00:56:27] but just the the difference I see on a
+[00:56:30] on a day where I've just had bad REM
+[00:56:31] sleep or bad deep sleep versus the days
+[00:56:33] when I've had good like my performance
+[00:56:35] my mood everything is so different it's
+[00:56:38] a completely different human being
+[00:56:40] also there's a fascinating phenomenon
+[00:56:42] too as it relates to stress
+[00:56:44] so research shows that the more REM
+[00:56:46] sleep you get the less heightened your
+[00:56:49] amygdala response is Right amygdala is
+[00:56:52] like fight or flight right and so if you
+[00:56:56] get a ton of REM sleep it essentially
+[00:56:58] softens your amygdala um it it makes it
+[00:57:02] less active
+[00:57:03] uh funny enough I did a a podcast with
+[00:57:07] Alex Honnold do you know who that is so
+[00:57:09] Alex honnold's the famous uh rock
+[00:57:12] climber who did free solo Oh you know
+[00:57:14] that documentary yeah yeah so he scales
+[00:57:16] this crazy uh you know slab of of
+[00:57:19] mountain without a without a rope and he
+[00:57:22] also happened to wear a whoop and so I
+[00:57:24] was talking to him about
+[00:57:26] uh risk and fear and all these sort of
+[00:57:30] different concepts stress but uh it
+[00:57:34] turns out that he gets like four and a
+[00:57:36] half to five hours of REM sleep a night
+[00:57:39] on woop
+[00:57:40] and I was thinking like how perfect is
+[00:57:43] it that a guy who literally can rock
+[00:57:45] climb and risk dying every single day
+[00:57:49] has this like unbelievable uh outlier
+[00:57:52] also ability to get REM sleep of course
+[00:57:54] and could those two things be related
+[00:57:56] the other time that I wasn't familiar
+[00:57:58] with until I got away was this idea of
+[00:58:00] strain I I'm gonna be honest I we talked
+[00:58:03] a little bit before we started recording
+[00:58:04] about my little fitness group yeah the
+[00:58:06] way the fitness group is designed is
+[00:58:08] that it's but you get it's like a league
+[00:58:10] table it's rewarded on consistency we
+[00:58:12] call it the fitness blockchain so
+[00:58:13] there's 10 of us in it if you lose you
+[00:58:14] get kicked out of the group and someone
+[00:58:15] who gets put in every month
+[00:58:17] it's quite vicious you get put into
+[00:58:19] another group you have to wait for three
+[00:58:20] months before you get one chance of
+[00:58:21] getting back in if you don't you go into
+[00:58:22] what we call chump hell story it's like
+[00:58:25] a hardcore like fantasy football yeah
+[00:58:27] it's crazy um we track it we track a lot
+[00:58:29] of things you have to submit your
+[00:58:30] workouts every day as well and then
+[00:58:32] someone verifies Etc
+[00:58:34] um strain currently in that group you're
+[00:58:37] rewarded for working out every day
+[00:58:41] is that a good thing
+[00:58:46] well
+[00:58:49] the way that we think about strain is to
+[00:58:53] balance it alongside recovery
+[00:58:55] so
+[00:58:57] the average amateur
+[00:59:00] uh exerciser let's call it the weekend
+[00:59:03] warrior
+[00:59:04] uh probably has workouts that look too
+[00:59:08] consistent in terms of intensity or too
+[00:59:11] consistent in terms of strain so whoop
+[00:59:14] has a scale from 0 to 21 on whoop that
+[00:59:16] might look like a 12. or like a 13. like
+[00:59:19] so every time they work out it's a 13.
+[00:59:22] and the reality is when your body's run
+[00:59:25] down
+[00:59:26] maybe you don't want to do anything or
+[00:59:28] maybe you should go for a walk like just
+[00:59:30] let your body recover give yourself the
+[00:59:32] permission to catch a breather
+[00:59:35] but if your body's peaking
+[00:59:37] like go crush it right take on a 16 or a
+[00:59:41] 17 or an 18.
+[00:59:43] and I should also say that you know
+[00:59:45] strain is essentially looking at
+[00:59:47] the amount of time that your body is in
+[00:59:50] an elevated heart rate zone
+[00:59:52] so we're talking about a primarily
+[00:59:54] cardiovascular measurement of stress
+[00:59:57] that you're putting on your body for any
+[00:59:58] period of time
+[01:00:00] but back to your question like you
+[01:00:02] probably don't want to do
+[01:00:05] a high strain every single day unless
+[01:00:07] your body's freakishly recovering and
+[01:00:09] there are people who do that but they're
+[01:00:11] mostly like professional triathletes or
+[01:00:13] whatever
+[01:00:14] and you also want to try to vary the in
+[01:00:17] the The Strain level
+[01:00:18] so if you're at a 50 recovery maybe
+[01:00:21] you're doing a 10 if you're at a 75
+[01:00:23] recovery you're doing a 16 or 17 or an
+[01:00:26] 18. and a lot of this goes back to
+[01:00:29] in building the product we wanted to
+[01:00:31] make it actionable
+[01:00:32] a lot of wearables maybe V1 wearables
+[01:00:36] sort of told you what happened
+[01:00:38] we were very focused on telling you what
+[01:00:40] to do next and how you can
+[01:00:43] uh get better on that point of recovery
+[01:00:45] then how if I if I'm training a lot
+[01:00:48] um how can I improve my recovery outside
+[01:00:49] of sleep
+[01:00:52] a lot of it would be diet and hydration
+[01:00:55] uh potentially supplements if you're
+[01:00:58] taking them making sure you're taking
+[01:00:59] the right ones
+[01:01:01] um because if you're taking the wrong
+[01:01:02] supplements that's actually a lot worse
+[01:01:03] for you than taking none uh
+[01:01:06] you know
+[01:01:08] I think some type of mindfulness or
+[01:01:11] meditation or breath work speeds up
+[01:01:13] recovery that's that's my own bias uh we
+[01:01:17] certainly see uh sleep consistency so
+[01:01:20] that's less about what you're doing
+[01:01:22] during sleep but actually more just
+[01:01:24] routine so going to bed and waking up at
+[01:01:26] similar times
+[01:01:27] even exercising at a similar time may
+[01:01:30] help you recover faster because your
+[01:01:32] body's getting used to it
+[01:01:34] of all the of all the metrics that
+[01:01:36] attract on the whoop is heart rate
+[01:01:38] variability the one you love
+[01:01:41] the most well on a personal level it was
+[01:01:46] the thing that jumped off the page to me
+[01:01:50] you know
+[01:01:52] 10 years before it became even
+[01:01:56] remotely mainstream so I feel some
+[01:01:58] relationship with it in the sense that
+[01:02:00] like I saw there was a lot of potential
+[01:02:03] for this thing
+[01:02:06] on a on a whoop level
+[01:02:08] the product does now measure a lot of
+[01:02:10] different things very well so I don't
+[01:02:13] want to say that any one statistic is
+[01:02:15] the Silver Bullet I think a lot of it is
+[01:02:18] collecting all of this information in a
+[01:02:21] form fact in a format by the way that
+[01:02:23] you're willing to wear 24 7 which has
+[01:02:26] its own challenges we can talk about uh
+[01:02:29] and then creating scores or creating
+[01:02:32] messaging to an end user that that gets
+[01:02:35] them to change Behavior gets them to
+[01:02:37] improve health that to me is the if you
+[01:02:39] think about the Pyramid of you know sort
+[01:02:41] of challenging things the tip of the
+[01:02:43] pyramid is a product that is changing
+[01:02:46] your behavior and improving your health
+[01:02:47] quick one some of you may know we've got
+[01:02:49] a brand new sponsor on this podcast
+[01:02:51] American Express and you've got a brand
+[01:02:54] new exclusive offer for a limited time
+[01:02:55] only which I can't wait to tell you
+[01:02:57] about from the 18th of October to the
+[01:02:59] 16th of November American Express is
+[01:03:01] offering new card members a 60 000 Point
+[01:03:05] membership reward as a welcome bonus
+[01:03:07] when you join when you spend a minimum
+[01:03:10] of eight thousand pounds across the
+[01:03:11] first three months this is simply a
+[01:03:14] thank you for joining American Express
+[01:03:15] and for those that don't know you can
+[01:03:17] use your American Express business
+[01:03:18] platinum card points in exchange for
+[01:03:20] various rewards such as booking travel
+[01:03:22] holidays gift cards and so much more so
+[01:03:24] essentially you're rewarded with huge
+[01:03:27] prizes for just using their card to
+[01:03:29] spend on your usual purchases and I've
+[01:03:32] had a look through at what sixty
+[01:03:33] thousand points can get you so if you'd
+[01:03:35] like to find out how you can get your
+[01:03:37] hands on your new American Express
+[01:03:38] business card then search American
+[01:03:40] Express business platinum card to find
+[01:03:42] out more I've had so many people tag me
+[01:03:46] on Instagram even on Telegram and in my
+[01:03:48] Twitter DMs in a picture of them
+[01:03:50] starting their heal journey and it's one
+[01:03:52] of the most amazing things in my life
+[01:03:54] that I get to do a podcast which of
+[01:03:56] course needs money to to fuel and I have
+[01:03:58] a sponsor like Hill who I genuinely
+[01:04:00] believe is going to help every single
+[01:04:02] person who starts their heel Journey
+[01:04:05] change their life because this podcast
+[01:04:06] the central intention of this podcast is
+[01:04:09] to help people live better lives it
+[01:04:10] gives me my protein it gives me my
+[01:04:12] vitamins minerals it's plant-based it's
+[01:04:14] low in sugar gluten free it does all of
+[01:04:17] that in a small drink that tastes good
+[01:04:19] there are other products there's Foods
+[01:04:21] there's the hot and savory collection
+[01:04:22] many other things but for me this ready
+[01:04:24] to drink is the absolute savior of my
+[01:04:27] diet throughout the week where I'm
+[01:04:28] moving at such Pace look I don't want to
+[01:04:30] labor the point but if you haven't tried
+[01:04:33] he'll give it a try and if you do tag me
+[01:04:35] Instagram wherever you try it give me a
+[01:04:37] tag anyway back to the podcast your
+[01:04:41] company
+[01:04:42] um the business you've built
+[01:04:44] I heard that your employees that would
+[01:04:46] get a bonus if their sleep is considered
+[01:04:48] to be good on their whoop how much truth
+[01:04:51] is there to that it's a fun uh it's a
+[01:04:54] fun employee perk that we came up with
+[01:04:58] so
+[01:04:59] everyone on woop is on a team together
+[01:05:02] and you can opt into What's called the
+[01:05:05] Sleep bonus and if you get 85 percent uh
+[01:05:09] sleep performance on average throughout
+[01:05:12] the month uh you get a hundred dollar
+[01:05:14] bonus like on your pay stock and so it's
+[01:05:18] it's mostly uh it's mostly a fun thing
+[01:05:21] but it does speak to our culture which
+[01:05:24] is
+[01:05:25] using the data we have in front of us uh
+[01:05:28] promoting uh sleep and good habits
+[01:05:31] actually during covid we also came up
+[01:05:34] with the red recovery policy which was
+[01:05:37] because we had a lot of people actually
+[01:05:38] coming into the office during even
+[01:05:40] during the peaks of covid because we
+[01:05:42] built Hardware accessories supply chain
+[01:05:44] things that you kind of have to do in
+[01:05:46] person very physical things and so the
+[01:05:48] red recovery policy was that if you had
+[01:05:51] a red recovery
+[01:05:52] you actually uh needed to stay home
+[01:05:56] because either you are getting sick or
+[01:05:59] you are at risk of getting sick because
+[01:06:01] your body was run down so again fun fun
+[01:06:04] ways to use the data in an actionable
+[01:06:07] way and and you know build it into the
+[01:06:09] culture
+[01:06:10] when you talk about why your company has
+[01:06:13] done so well and it has one you talk
+[01:06:15] about there being a more Scrappy kind of
+[01:06:17] nature to the team
+[01:06:19] which sounds more like innovation
+[01:06:22] how does one go about as your company
+[01:06:24] grows keeping that Innovation that's so
+[01:06:27] Central to you winning because with
+[01:06:30] growth often cut becomes like I don't
+[01:06:33] know things move slower you know
+[01:06:35] bureaucracy before being for Jenny's
+[01:06:36] come back from annual leave
+[01:06:38] what are you doing from a culture
+[01:06:39] standpoint
+[01:06:40] I think one of the reasons whoop has
+[01:06:42] been successful is we had a pretty clear
+[01:06:46] perspective on what we were building and
+[01:06:48] why
+[01:06:49] and the consequence of that is also what
+[01:06:52] you're not building
+[01:06:53] right like whoop is graded all the
+[01:06:55] things that it does for all the things
+[01:06:56] that it doesn't do
+[01:06:57] we are
+[01:07:00] not a smart watch
+[01:07:02] we don't allow you to download a bunch
+[01:07:05] of apps we don't receive phone calls
+[01:07:08] you can't flag an Uber with your whoop
+[01:07:10] right but when it comes to health
+[01:07:13] monitoring we're the best game in town
+[01:07:15] and that
+[01:07:18] really came from an insane level of
+[01:07:20] focus in the beginning on what we were
+[01:07:21] trying to solve
+[01:07:22] and it carried us through to today
+[01:07:27] there were a lot of counter-intuitive
+[01:07:29] decisions along that like along that
+[01:07:31] Journey
+[01:07:33] um one obvious one is that whoop is not
+[01:07:35] a watch
+[01:07:37] uh and I can't tell you how many people
+[01:07:39] have asked for whoop to be a watch and
+[01:07:42] the reason it's not a watch is is
+[01:07:43] there's a few different reasons but just
+[01:07:45] by putting the time on it all of a
+[01:07:47] sudden you've created this enormous
+[01:07:48] competitive landscape
+[01:07:50] and competing with watches is hard like
+[01:07:52] there's a lot of beautiful watches
+[01:07:53] there's also a lot of watches that serve
+[01:07:55] different functions
+[01:07:57] watch also says a lot about your
+[01:07:58] identity
+[01:08:00] the other thing about a watch and you'll
+[01:08:03] notice this from every technology
+[01:08:04] company is the second there's a screen
+[01:08:07] there's this enormous scope creep that
+[01:08:10] occurs for what the product's actually
+[01:08:12] meant to do
+[01:08:13] and very quickly you're in a product
+[01:08:16] meeting where you're talking about email
+[01:08:18] notifications and different screen
+[01:08:20] colors and various ways to tell the time
+[01:08:23] and whether or not you're going to be
+[01:08:25] able to give it voice memos and and all
+[01:08:26] of a sudden you're talking nothing about
+[01:08:27] health monitoring
+[01:08:29] and so if I look back and
+[01:08:31] um you know over the last 10 years
+[01:08:34] we made these decisions so like we made
+[01:08:36] a decision to not be a watch uh and not
+[01:08:39] have a screen on it
+[01:08:41] we made a decision on the flip side
+[01:08:42] though to invent a modular charger
+[01:08:45] where you could charge your move without
+[01:08:47] ever taking it off
+[01:08:48] and that was super expensive and took
+[01:08:51] you made the product take way longer and
+[01:08:53] cost a bunch of hundred dollars but
+[01:08:56] again it was back to that identity of
+[01:08:58] Health monitoring needs to be 24 7 to be
+[01:09:00] the most effective and if you take it
+[01:09:02] off all of a sudden it's not 24 7 you
+[01:09:04] might not put it back on
+[01:09:05] so that was something we did that other
+[01:09:08] people didn't do right
+[01:09:10] um everyone was measuring steps
+[01:09:12] we didn't think steps was
+[01:09:13] physiologically relevant
+[01:09:16] so we we tried to stay true to our
+[01:09:19] identity and I think that helped us
+[01:09:21] navigate a competitive landscape where a
+[01:09:24] lot of people were copying each other or
+[01:09:26] where companies may have had even too
+[01:09:28] much resources and those resources got
+[01:09:32] them down you know into this very
+[01:09:34] expansive place without being great at
+[01:09:36] anything
+[01:09:37] focus and first principles is what I
+[01:09:39] heard throughout that that what you said
+[01:09:41] there the first principles point about
+[01:09:43] 24 7 monitoring yeah that's like a
+[01:09:46] totally first principles thought because
+[01:09:47] you said well health is a 24 7 thing so
+[01:09:51] we have to create a solution we don't
+[01:09:52] take the watch off convention says no
+[01:09:54] just get charged and you take it off at
+[01:09:55] night you put it by your bed and you
+[01:09:56] signal so
+[01:09:58] that approach and that conviction
+[01:10:00] towards like thinking for yourself about
+[01:10:03] this problem
+[01:10:05] is much easier said than done for
+[01:10:08] companies like t i I feel like peop one
+[01:10:12] of the you know in all facets of our
+[01:10:13] life whether it's our relationships or
+[01:10:14] intimacy or friendships or building
+[01:10:17] companies or how we construct teams
+[01:10:19] thinking for yourself is what I heard
+[01:10:21] there
+[01:10:23] um you say it so easily but it's wise
+[01:10:26] it's impossible for people to do
+[01:10:27] especially when they're thinking about
+[01:10:28] innovation
+[01:10:30] because you know you had all those
+[01:10:31] moments where why doesn't this have a
+[01:10:33] screen on it so also why I love it it's
+[01:10:35] probably also why the battery lasts
+[01:10:36] longer it's also why I'm so committed to
+[01:10:38] it as you've identified but those are
+[01:10:40] all like
+[01:10:41] first principles that came from whoop I
+[01:10:44] think what
+[01:10:45] what's different about your product is
+[01:10:47] also what makes it special and I think
+[01:10:49] that true Innovation often comes from a
+[01:10:52] level of focus or discipline that's
+[01:10:54] really uncomfortable
+[01:10:56] like having said everything I just said
+[01:10:59] I still think about whoop as a watch on
+[01:11:02] a near daily basis because
+[01:11:05] it's it's something that pulls at me you
+[01:11:08] know because
+[01:11:10] I can see a world in which it is a watch
+[01:11:13] but it's not a watch and I'm not
+[01:11:15] building it as a watch you know what I
+[01:11:16] mean so there is this uh
+[01:11:19] you know sort of painful level of
+[01:11:21] discipline that has to occur I think to
+[01:11:24] be able to continue marching forwards
+[01:11:26] and we actually went a different
+[01:11:27] direction where
+[01:11:30] uh We've looked at invisible as a more
+[01:11:32] compelling landscape so obviously you
+[01:11:35] can wear it on your wrist but you can
+[01:11:37] actually you know take it apart and
+[01:11:39] depending on what garments you're
+[01:11:42] wearing right so you take this clasp off
+[01:11:44] you can now put this sensor into
+[01:11:46] different places on your body so really
+[01:11:49] so yeah so we've come out with shorts uh
+[01:11:52] boxers bras underwear uh uh shirts that
+[01:11:58] have it in your arm sleeve and so you
+[01:11:59] can just tuck this into a little pocket
+[01:12:02] that allows you to wear it in different
+[01:12:04] areas of the body
+[01:12:06] I didn't know that so I could put up my
+[01:12:08] boxer shorts lining yeah oh nice dope
+[01:12:10] yeah now also kind of crazy to start a
+[01:12:13] wearables company and realize you're
+[01:12:14] designing boxers but that goes back to
+[01:12:17] your first principal's point I suppose
+[01:12:19] right yeah exactly why would you design
+[01:12:22] boxers well because you need to create a
+[01:12:24] way for them to wear it 24 7.
+[01:12:27] something else you said which I've never
+[01:12:28] had anybody say before but it's so
+[01:12:30] unbelievably true is when people have
+[01:12:31] bigger budgets when six like with
+[01:12:34] success comes greater temptation to be
+[01:12:36] and do everything and become everyone
+[01:12:38] and that's often when companies lose
+[01:12:40] their way
+[01:12:41] is because of their success everyone
+[01:12:43] goes well why don't we do we've got
+[01:12:44] these customers now so why don't we do
+[01:12:45] this and that and this and why don't we
+[01:12:47] do it five of them
+[01:12:50] have you felt that temptation
+[01:12:52] yeah absolutely I mean uh I think it's
+[01:12:56] that's probably the biggest way that
+[01:12:58] success
+[01:13:00] uh is a bad teacher is the degree to
+[01:13:04] which it makes you think you can go into
+[01:13:06] a bunch of things and abandon the level
+[01:13:09] of intensity or Focus
+[01:13:12] that you took in building the original
+[01:13:14] thing to be successful
+[01:13:16] so
+[01:13:18] but you know that doesn't stop me from
+[01:13:21] dreaming of ways that the company can go
+[01:13:23] in totally different directions
+[01:13:25] you just you have to check yourself like
+[01:13:27] you really do have to check yourself and
+[01:13:29] make sure
+[01:13:30] uh
+[01:13:32] you've got the right level of focus if
+[01:13:34] you're going to go into it that's been
+[01:13:36] one of my biggest mistakes is we become
+[01:13:38] successful I then come up without new
+[01:13:41] ideas I then think more about the reward
+[01:13:44] of the new ideas versus the actual cost
+[01:13:46] the cost of like mental time for the
+[01:13:49] whole team the cost of like everyone
+[01:13:51] waking up and being in the shine
+[01:13:52] thinking about a different problem
+[01:13:54] and then we had a recent incidents where
+[01:13:56] we spent I'm going to say nine months
+[01:13:58] planning something big big new thing in
+[01:14:01] one of my companies
+[01:14:04] offered someone a job to be the CEO of
+[01:14:06] this this new company and then I don't
+[01:14:09] know what it was something in my gut
+[01:14:10] says you're doing it again Steve you're
+[01:14:12] losing focus
+[01:14:13] cancel it all and it's funny because my
+[01:14:16] team was so excited Jack was so excited
+[01:14:17] we're all so excited about but when I
+[01:14:19] had that conversation with everybody
+[01:14:20] about why we were canceling this because
+[01:14:21] I know we should be focusing there was
+[01:14:23] this weird jack because you know what I
+[01:14:25] was so excited but I'm relieved and we
+[01:14:27] all knew we all knew we'd got carried
+[01:14:29] away with
+[01:14:30] thinking more about the reward of this
+[01:14:32] Focus than the cost of this Focus I
+[01:14:35] think this focus is a thing but has that
+[01:14:37] happened to you when you've like ran too
+[01:14:39] far down a path with a new idea
+[01:14:42] and then range yourself back in because
+[01:14:45] you realize the cost of focus
+[01:14:47] yeah I think there's there's been
+[01:14:48] certain aspects of
+[01:14:51] product development you know go to
+[01:14:54] market strategies where
+[01:14:58] you know it's the right thing even
+[01:15:01] but you you're again you're not
+[01:15:03] dedicating the right level of focus to
+[01:15:05] it or the team doesn't have the
+[01:15:06] bandwidth for it or uh the timing's not
+[01:15:10] quite right like
+[01:15:11] yeah I mean Focus I think is probably
+[01:15:15] one of the most underrated
+[01:15:17] uh skills for any leader and not and I
+[01:15:20] don't mean that just for them
+[01:15:22] it's more important that they create an
+[01:15:24] environment of focus
+[01:15:26] how does one do that if I if I join
+[01:15:29] whoop how am I going to learn
+[01:15:32] on the day before I join the day I
+[01:15:34] joined and thereafter every day why I'm
+[01:15:37] here this this Vision the focus how are
+[01:15:40] you how are you teaching me that well a
+[01:15:42] lot of it comes back to the core mission
+[01:15:44] of the company right which is to unlock
+[01:15:47] Human Performance to improve health a
+[01:15:50] lot of it comes back to being really
+[01:15:52] deliberate about the hardware that we
+[01:15:54] build and why the accessories we build
+[01:15:56] and why a lot of it comes back to
+[01:16:00] the fact that whoop is a subscription
+[01:16:03] right we haven't touched too much on
+[01:16:06] the business model but
+[01:16:08] transitioning the whole company and the
+[01:16:10] whole business model to being a
+[01:16:12] subscription versus a one-time Hardware
+[01:16:13] sale changed a lot for the company uh
+[01:16:17] but one thing that it it really changed
+[01:16:19] uh for the better is the DNA around
+[01:16:22] launching new features launching new
+[01:16:24] Analytics
+[01:16:26] you're no longer trying to get a
+[01:16:28] customer on an 18-month cycle where you
+[01:16:30] come out with the new widget or 12-month
+[01:16:33] cycle where you come out with a new
+[01:16:34] widget you're trying to keep your
+[01:16:36] customers every day right because every
+[01:16:37] day they have a choice to cancel
+[01:16:39] and
+[01:16:40] what in turn that does is it makes you
+[01:16:43] very focused on releasing new features
+[01:16:46] that are adding value now
+[01:16:50] you could have a like a conversation
+[01:16:52] that's two or three depths deeper than
+[01:16:54] this which is around well should we go
+[01:16:56] down the path of releasing these
+[01:16:57] features or those features do those
+[01:17:00] features feel less focused than these
+[01:17:02] features right but all of a sudden at
+[01:17:04] least we're two or three levels down in
+[01:17:05] terms of focus and uh and so that's
+[01:17:08] where a lot of the debates are taking
+[01:17:09] place is within the lens of our already
+[01:17:12] focused Mission and and areas of
+[01:17:15] innovation should we pursue different
+[01:17:17] categories or different features and I
+[01:17:20] do I think like to think it's it's very
+[01:17:22] customer-centric because
+[01:17:25] uh because we have this deep
+[01:17:26] relationship with our members where
+[01:17:28] they're wearing the product 24 7. and
+[01:17:31] I think rightfully so we have to earn
+[01:17:33] their their subscription every month
+[01:17:37] competition
+[01:17:39] you've got some big competitors I mean I
+[01:17:42] saw the I saw Apple's recent
+[01:17:43] announcement that sleep is now going to
+[01:17:45] be part of the Apple watch one of the
+[01:17:46] new Apple watches maybe on the Apple
+[01:17:48] watch hate or something
+[01:17:49] how do you think about competition and
+[01:17:51] what role is that that played in
+[01:17:53] motivating you terrifying you all of
+[01:17:55] these things
+[01:17:56] yeah so when whoop was starting
+[01:17:59] uh
+[01:18:01] Nike which is a company I looked up to
+[01:18:03] with great admiration I was just coming
+[01:18:05] out with the Nike fuel band
+[01:18:08] uh Adidas was coming out with the me
+[01:18:11] coach
+[01:18:13] uh
+[01:18:15] Under Armor about a year or two later
+[01:18:18] was going to spend a billion dollars
+[01:18:20] spends a billion dollars
+[01:18:22] acquiring three different companies in
+[01:18:24] the space they were coming out their own
+[01:18:26] wearable they bought a a Running Company
+[01:18:31] um
+[01:18:31] a company called Endomondo a company
+[01:18:34] called MyFitnessPal so they had a whole
+[01:18:36] strategy around Health tracking
+[01:18:40] there was a company called uh Fitbit
+[01:18:43] which was about to go public for you
+[01:18:46] know many billions of dollars a company
+[01:18:48] called Jawbone which had raised a
+[01:18:50] billion dollars
+[01:18:51] uh it was rumored Apple was entering the
+[01:18:54] space it was rumored
+[01:18:57] um Microsoft was entering the space
+[01:19:00] so
+[01:19:01] competition was always in this backdrop
+[01:19:05] but I I found I never found myself that
+[01:19:10] um swayed by what the competition was
+[01:19:12] doing
+[01:19:13] in fact if there's any company I'm most
+[01:19:15] critical of their strategy in the
+[01:19:17] wearable space it was Nike
+[01:19:20] because Nike is
+[01:19:23] I think one of the best brands in the
+[01:19:25] world and they built that brand have you
+[01:19:27] read the book Shoe dog I haven't I
+[01:19:29] haven't it's a great book anyway it's
+[01:19:31] Phil Knight's book but they built that
+[01:19:33] brand by
+[01:19:35] uh
+[01:19:36] storytelling and authenticity and the
+[01:19:40] authenticity being the people who wore
+[01:19:41] their shoes ran faster and jumped higher
+[01:19:45] and so that was the company I was the
+[01:19:48] most nervous about because I was afraid
+[01:19:50] if they could build a wearable that
+[01:19:52] their world's best athletes actually
+[01:19:54] wore
+[01:19:55] they could then tell that story to the
+[01:19:57] masses and be successful
+[01:19:59] but they took a huge shortcut
+[01:20:02] and that shortcut was they just built a
+[01:20:04] product they thought the mass Market
+[01:20:05] would like
+[01:20:06] and so it wasn't a product that LeBron
+[01:20:08] James was going to wear or Serena
+[01:20:10] Williams or Tiger Woods I mean they had
+[01:20:11] all the best athletes in the world
+[01:20:13] and so the clue to me that that product
+[01:20:15] was going to fail was that
+[01:20:16] it didn't stick to their identity they
+[01:20:19] didn't have the story at the top they
+[01:20:21] didn't have any of their top athletes
+[01:20:23] wearing it
+[01:20:24] and on the flip side the opportunity I
+[01:20:27] saw
+[01:20:28] was if we could get the world's best
+[01:20:30] athletes to wear whoop we could in turn
+[01:20:33] build our own brand around performance
+[01:20:37] and around an aspirational product
+[01:20:40] and
+[01:20:41] if you go back and like looking back on
+[01:20:44] it that was a that was a very stubborn
+[01:20:45] perspective again and
+[01:20:48] um you know even a little bit arrogant
+[01:20:50] to say uh that
+[01:20:52] now we're going to build this technology
+[01:20:54] and the world's best athletes are going
+[01:20:56] to pay us for it because it's going to
+[01:20:57] be that good
+[01:20:59] I also though think it was a fairly
+[01:21:01] rational perspective
+[01:21:03] because if you build a product that
+[01:21:05] someone needs to wear 24 7
+[01:21:07] and they don't love it there's no amount
+[01:21:10] of money you're going to be able to give
+[01:21:12] them to keep that thing on their body
+[01:21:13] let's be honest and in many ways I saw
+[01:21:16] that with the fuel band
+[01:21:18] on the flip side if
+[01:21:21] if you can really deliver value around
+[01:21:23] sleep or recovery or you know these
+[01:21:26] measurements that at the time a
+[01:21:28] professional athlete had never had
+[01:21:31] uh they're very very likely to pay for
+[01:21:34] it because that's a huge value add in
+[01:21:37] their overall performance so that was
+[01:21:39] our very early go to market strategy and
+[01:21:41] it was also part of the way that we
+[01:21:43] differentiated ourselves from other
+[01:21:45] products
+[01:21:46] the last thing I'll say about this is
+[01:21:48] and again inspired by Nike
+[01:21:51] the idea that you could build a brand or
+[01:21:54] a product that says something about your
+[01:21:56] identity like the difference between a
+[01:21:58] cotton shirt that's plain versus a
+[01:22:00] cotton shirt with a swish on it like the
+[01:22:03] person who's wearing the switch feels
+[01:22:04] something different the person who
+[01:22:05] observes the person wearing the swoosh
+[01:22:07] thinks something different that was a
+[01:22:09] phenomenon that resonated for me at a
+[01:22:12] very young age
+[01:22:13] but when I looked at the health
+[01:22:14] monitoring landscape uh
+[01:22:17] to me it felt like Health monitoring was
+[01:22:19] actually definitively not cool
+[01:22:21] and wearing a health monitor there was
+[01:22:24] almost a stigma associated with it
+[01:22:25] unfortunately
+[01:22:27] so how can you build a technology that
+[01:22:30] people wear 24 7. that has a positive
+[01:22:33] identity associated with it
+[01:22:36] and that goes again back to the
+[01:22:37] professional athlete strategy if we can
+[01:22:39] get the world's best athletes to
+[01:22:40] authentically wear it then we can tell a
+[01:22:43] story about how health monitoring is
+[01:22:44] aspirational
+[01:22:46] it's interesting because I sat here with
+[01:22:47] Scott Galloway earlier on and Scott
+[01:22:49] talked to me about how once upon a time
+[01:22:51] maybe 30 years ago
+[01:22:53] um because of the way we learned about
+[01:22:54] products and the lack of
+[01:22:56] trip advisors and review sites and
+[01:22:58] Amazon reviews
+[01:22:59] the big the big companies could could
+[01:23:01] sell a fairly mediocre product based on
+[01:23:04] just pumping advertising at like
+[01:23:06] traditional advertising like TV and
+[01:23:07] stuff so you'd go out and buy the
+[01:23:09] Procter and Gamble soap or whatever just
+[01:23:11] because you'd been overwhelmed with
+[01:23:13] advertising from it in the modern era
+[01:23:15] when we're all we have social media
+[01:23:17] accounts and we have you know ways to
+[01:23:19] broadcast from the palm of our hands and
+[01:23:21] we have WhatsApp so we can speak to our
+[01:23:23] friends about ideas and products and
+[01:23:24] stuff it's he was saying to me it's
+[01:23:26] become more about
+[01:23:28] the product and actually being great
+[01:23:30] then the advertising dollars spent so he
+[01:23:31] said it's no it's no um surprise that
+[01:23:34] the biggest companies in the world like
+[01:23:35] the Teslas
+[01:23:36] they don't they don't advertise it's
+[01:23:38] about you telling me about how much you
+[01:23:40] love your Tesla and the way that I came
+[01:23:42] to learn about my whoop was my friend
+[01:23:44] Ash a year ago raving about it like
+[01:23:47] you'd paid him I think you paid him
+[01:23:50] the way he was going on about it was
+[01:23:53] like you had paid him personally that's
+[01:23:55] great and then obviously you know and
+[01:23:57] then he eventually gets me into it and
+[01:23:59] we have a fitness group so we start
+[01:24:00] talking about it you can't pay for that
+[01:24:02] it's a better product and I think now
+[01:24:04] more than ever that's become much more
+[01:24:06] important to the consumer I think that's
+[01:24:08] right I think there's a certain
+[01:24:09] authenticity that consumers gravitate to
+[01:24:12] whether they're intentionally
+[01:24:13] recognizing it or not
+[01:24:15] and yeah for us that's been core to our
+[01:24:18] identity we've had very unusual
+[01:24:22] relationships with athletes and uh I
+[01:24:26] think in large part because we've been
+[01:24:27] able to build the technology that
+[01:24:30] they get value out of LeBron James is
+[01:24:32] one of them that's often cited as being
+[01:24:34] a whoop wearer that must have been
+[01:24:36] pretty surreal to see him wearing it so
+[01:24:38] two of our first hundred users were
+[01:24:40] LeBron James and Michael Phelps [ __ ] you
+[01:24:41] know and this was in like end of 2014
+[01:24:43] early 2015 and uh it was also a very
+[01:24:48] difficult time for the business as we
+[01:24:49] talked about earlier
+[01:24:51] but I remember I was sitting at home
+[01:24:54] with my parents uh
+[01:24:57] at this point I think the jury was out
+[01:24:59] in their mind whether me starting this
+[01:25:01] company was a good idea or not like a
+[01:25:03] couple years in like I had raised money
+[01:25:05] but you know uh was there a business
+[01:25:09] and this amazing thing happened where a
+[01:25:12] commercial came on and it was LeBron
+[01:25:14] James in a Kia commercial wearing a
+[01:25:17] whoop strap
+[01:25:18] and I thought isn't that the coolest
+[01:25:20] thing like you wouldn't even take it off
+[01:25:21] for a Kia commercial and uh and it also
+[01:25:25] made me feel good in front of my parents
+[01:25:26] did they accept that it's a real
+[01:25:28] business from that point onwards I think
+[01:25:30] it helped marginally if they accepted it
+[01:25:32] yet but interestingly it was uh
+[01:25:35] it was something that for a couple years
+[01:25:37] did buy us time for for like building a
+[01:25:40] real business was the fact that we could
+[01:25:42] get all these really
+[01:25:44] high profile athletes to wear the
+[01:25:46] product without endorsing them it
+[01:25:48] demonstrated I think to investors or
+[01:25:50] others that okay there's something real
+[01:25:52] about this technology that's different
+[01:25:55] on that point of investors
+[01:25:57] you've raised 400 million in capital
+[01:25:58] roughly yeah 100 million dollars in
+[01:26:00] capital how important is it when it
+[01:26:03] comes to picking your investors to pick
+[01:26:04] the right ones because I've seen this
+[01:26:06] kind of make and break companies
+[01:26:08] I think it's really important that
+[01:26:10] you're aligned with the investors on
+[01:26:12] what the purpose of the company is and
+[01:26:15] you know as a consequence also what the
+[01:26:16] purpose of the capital is we certainly
+[01:26:19] had investors along the way who
+[01:26:21] wanted to put money into the business
+[01:26:23] but wanted it to go in a different
+[01:26:24] direction than what I thought was the
+[01:26:26] right direction and so I'm grateful that
+[01:26:28] I never took that capital
+[01:26:31] I think
+[01:26:32] it gets more complicated when you've got
+[01:26:35] a Believer and that believer invests in
+[01:26:37] you and your business and then whatever
+[01:26:40] you're building takes longer or the
+[01:26:43] revenue hasn't quite come in yet and all
+[01:26:46] of a sudden the believer starts to
+[01:26:47] become a non-believer
+[01:26:48] that's where you start to learn
+[01:26:51] who your investors really are you know I
+[01:26:54] think that's when you start to learn how
+[01:26:56] a functional a board of directors is
+[01:26:57] like when things are when things are bad
+[01:27:00] how's everyone behaving and so
+[01:27:05] it's super important in the selection
+[01:27:07] process certainly with with investors
+[01:27:09] and I think reference checks are really
+[01:27:11] important and I think alignment on what
+[01:27:14] you're trying to do with the capital
+[01:27:15] what your identity is as a company
+[01:27:18] but I think equally important is
+[01:27:20] learning how to manage your board and
+[01:27:23] your group of investors when stuff isn't
+[01:27:25] going well we have something in common
+[01:27:27] which is you don't like networking it's
+[01:27:29] my idea how that's good research that's
+[01:27:32] how I know you're good at this I [ __ ]
+[01:27:34] hate networking and then when I read you
+[01:27:37] didn't like networking I thought ah
+[01:27:39] that makes two of us
+[01:27:41] yeah I think it's overrated it's often
+[01:27:44] advice too that's given to
+[01:27:46] young people I I think if you uh
+[01:27:50] find a particular problem industry like
+[01:27:54] fill in the blank something you want to
+[01:27:56] solve a passion of yours
+[01:27:59] it pulls you into meeting the right
+[01:28:01] people and that's where showing up is
+[01:28:03] really important that's where going to
+[01:28:06] the thing that you're half invited to
+[01:28:08] you need to go you know what I mean
+[01:28:09] versus being invited to something that
+[01:28:12] you're not sure about or whatever
+[01:28:14] pulling yourself into those environments
+[01:28:17] is critical
+[01:28:18] another piece of advice you gave to CEOs
+[01:28:20] was this which I found fascinating which
+[01:28:22] is there's a difference between hearing
+[01:28:24] and listening
+[01:28:25] what did you mean by that
+[01:28:27] so back to some of the earlier stages of
+[01:28:29] the company
+[01:28:30] um
+[01:28:32] I mentioned it was hard to raise capital
+[01:28:33] for the business and
+[01:28:35] you know I heard no a lot like I was
+[01:28:37] rejected a lot in building this company
+[01:28:40] and
+[01:28:42] the coping mechanism for that especially
+[01:28:45] when I was I would say I was a slightly
+[01:28:46] more immature leader the coping
+[01:28:49] mechanism for that was to kind of put up
+[01:28:51] a wall to negativity
+[01:28:54] to the point where
+[01:28:56] I wasn't listening to it and I wasn't
+[01:28:58] hearing it right it was like it wasn't
+[01:29:00] there
+[01:29:01] and that was an effective and highly it
+[01:29:05] was an effective coping magic mechanism
+[01:29:06] for a very short term period that would
+[01:29:10] not at all have allowed me to scale a
+[01:29:11] business
+[01:29:13] and I had a
+[01:29:14] uh an advisor and and really Mentor at
+[01:29:18] the time who said to me you know well
+[01:29:19] you don't have to listen to what people
+[01:29:21] say but you should just hear it
+[01:29:24] and that was a helpful and very simple
+[01:29:26] way for me to just reframe
+[01:29:29] the way that I thought about negative
+[01:29:31] feedback like
+[01:29:32] okay this person disagrees with me I'm
+[01:29:35] going to absorb that I'm going to sit
+[01:29:36] with it I'm gonna wrestle with it
+[01:29:38] and interestingly now over the course of
+[01:29:40] 10 years you know disagreement's almost
+[01:29:43] a source of excitement for me because it
+[01:29:46] allows me to ask myself this question of
+[01:29:49] how do I
+[01:29:50] know what I know why do I feel so
+[01:29:53] strongly about something and it really
+[01:29:55] makes you again wrestle with it and
+[01:29:57] hopefully debate it with someone who's
+[01:29:59] smarter than you is going to prove you
+[01:30:01] wrong I mean that I think is what's so
+[01:30:02] exciting about building a dynamic team
+[01:30:04] and you know taking on whatever
+[01:30:07] challenge you've got that speaks to the
+[01:30:09] importance of humidity again doesn't it
+[01:30:11] and why that's such an integral thing
+[01:30:12] when you're hiring or picking
+[01:30:14] co-founders you know I've also heard you
+[01:30:16] say that um customers are really great
+[01:30:18] at telling you what's wrong but not very
+[01:30:19] good at telling you the solution to
+[01:30:20] what's wrong
+[01:30:22] I think that's important I think it's a
+[01:30:23] very helpful framework I mean
+[01:30:26] back to starting the company I went out
+[01:30:28] and met with all these coaches and
+[01:30:30] athletes and asked them okay if you
+[01:30:33] could have any technology improve your
+[01:30:35] performance what would it be and they
+[01:30:38] were all super focused on exercise type
+[01:30:41] equipment could be measuring stress
+[01:30:44] could be GPS analysis could be video
+[01:30:46] analysis form analysis it was it was
+[01:30:49] hyper focused on the thing the sport the
+[01:30:53] exercise but when I asked them what like
+[01:30:56] what are your biggest problems managing
+[01:30:58] a team or being an athlete it almost
+[01:31:01] always came back to some form of
+[01:31:03] availability so injury or over training
+[01:31:07] like not being optimal on the day you
+[01:31:10] needed to be optimal
+[01:31:11] and so I thought there was a huge
+[01:31:13] mismatch between
+[01:31:15] the solutions they were asking for and
+[01:31:17] the problems they were describing and
+[01:31:19] for me that's that's something I just
+[01:31:21] try to think about
+[01:31:22] when I'm listening to customers or when
+[01:31:24] I'm thinking about products is
+[01:31:27] am I do I clearly understand what the
+[01:31:29] problem is or am I focused too much on
+[01:31:32] what a solution could be
+[01:31:34] am I hearing too much of the solution or
+[01:31:36] am I hearing the problem and if you hear
+[01:31:37] the problem
+[01:31:39] then all of a sudden you're building
+[01:31:40] something pretty different
+[01:31:43] interesting
+[01:31:44] you hear the problem and then you can
+[01:31:46] kind of first principles up to solve the
+[01:31:48] problems accepting probably conventional
+[01:31:51] orientated solution I thought the best
+[01:31:53] way to solve problems around
+[01:31:55] Athlete Performance was measuring the
+[01:31:57] other 20 hours of the day
+[01:31:59] and at the time that was super
+[01:32:00] counter-intuitive
+[01:32:02] but that again that word
+[01:32:03] counter-intuitive seems to be come up
+[01:32:05] over and over again when I read your
+[01:32:07] story about being a contrarian and being
+[01:32:09] counter-intuitive and this goes back to
+[01:32:11] the point about Innovation and thinking
+[01:32:13] for yourself because when you don't
+[01:32:14] think for yourself you just accept
+[01:32:15] convention that seems to be a really
+[01:32:17] consistent thread throughout your whole
+[01:32:19] journey not easy to do
+[01:32:21] not easy to do especially when things
+[01:32:23] get tough and everyone goes see
+[01:32:25] convention was right will
+[01:32:28] important to develop a process for
+[01:32:31] conviction and then to to really sit
+[01:32:34] with something that you're convinced
+[01:32:36] about and pressure test it and bat it
+[01:32:39] around and even let other people
+[01:32:40] pressure test it
+[01:32:42] but if you have a track record of that
+[01:32:44] conviction
+[01:32:46] working out then it you really have to
+[01:32:49] you have to stick to it because it's
+[01:32:51] ultimately what's going to make you
+[01:32:52] successful
+[01:32:54] sometimes I worry about that
+[01:32:56] that you know you can you can be you can
+[01:32:58] win so many times in a row that you
+[01:33:01] might stop listening and you might you
+[01:33:05] know
+[01:33:05] oh it's worth noting that
+[01:33:08] the level of conviction that we've
+[01:33:10] talked about on certain things yeah
+[01:33:14] is not a level of conviction that I feel
+[01:33:18] like all the time about a lot of things
+[01:33:19] you know what I mean
+[01:33:22] and
+[01:33:24] and I think it's worth it's really worth
+[01:33:25] emphasizing that like in building this
+[01:33:27] company I've had doubts about an
+[01:33:29] enormous number of things
+[01:33:30] so
+[01:33:32] it's important not to look at any
+[01:33:34] entrepreneur and think that person has
+[01:33:36] all the answers like I haven't met that
+[01:33:38] person yet
+[01:33:39] I I just think it's
+[01:33:41] it's a really useful process to figure
+[01:33:44] out what are the things that you feel
+[01:33:47] the most strongly about
+[01:33:49] in the product or service that you're
+[01:33:51] building
+[01:33:52] because when you figure those specific
+[01:33:55] things out and then you dig your heels
+[01:33:58] in on them
+[01:33:59] a lot of magic can happen around that
+[01:34:01] what's something you think you're wrong
+[01:34:03] about with whoop
+[01:34:04] or you might be wrong about if you've
+[01:34:06] got a creeping suspicion that there
+[01:34:08] might be something fun fundamental to
+[01:34:09] whoop that you might have been wrong
+[01:34:11] about in terms of your hypothesis
+[01:34:14] well
+[01:34:16] I think a lot of the answers to that are
+[01:34:20] also things that we're actively working
+[01:34:22] on and building so it's a little bit
+[01:34:24] sort of a little bit closer to the
+[01:34:26] secret sauce if you will then then maybe
+[01:34:28] your your question intended I'm more
+[01:34:31] than happy for Secret Sauce there's a
+[01:34:33] natural tension that occurs when you
+[01:34:34] grow as fast as woop has over the last
+[01:34:37] call it
+[01:34:39] three years four years
+[01:34:41] and where your Market goes from being a
+[01:34:44] certain level of elite athletes to
+[01:34:46] Fitness enthusiasts to everyone where
+[01:34:50] you have to ask yourself how much are
+[01:34:52] you designing the product
+[01:34:54] for everyone versus one of these
+[01:34:57] segments
+[01:34:58] and so
+[01:35:00] there's there's certain aspects of the
+[01:35:04] the rate at which we would help
+[01:35:06] someone who's trying to lose weight
+[01:35:08] versus someone who's trying to improve
+[01:35:09] sleep versus someone who's trying to run
+[01:35:11] a marathon versus someone who's training
+[01:35:13] for the World Cup
+[01:35:15] like the rate at which were
+[01:35:18] curating the whole experience to that
+[01:35:20] individual experience
+[01:35:22] I think is it that's an aspect that I
+[01:35:26] asked myself a lot about how are you
+[01:35:28] thinking about that at the moment I
+[01:35:29] believe it should get much more
+[01:35:31] personalized and even the degree to
+[01:35:33] which certain statistics that you see or
+[01:35:36] don't see May evolve depending on your
+[01:35:38] core goal
+[01:35:40] um so that would be an example of
+[01:35:44] you know an area that we're working
+[01:35:46] through and
+[01:35:47] wrestling with I have no doubt that
+[01:35:50] people have approached you to buy whoop
+[01:35:53] no comment
+[01:35:55] so
+[01:35:57] I'll tell you a story
+[01:35:59] in 2000 and
+[01:36:02] we talked a lot about competition in
+[01:36:04] 2000 and I want to say like 1718 it was
+[01:36:07] around that time that up had clearly
+[01:36:09] built great technology but we hadn't
+[01:36:12] quite figured out the distribution side
+[01:36:14] of the business or even the business
+[01:36:16] model
+[01:36:18] we were approached by Amazon
+[01:36:20] and
+[01:36:23] Amazon was interested in
+[01:36:26] first investing in the company but then
+[01:36:28] they also got interested in potentially
+[01:36:30] acquiring the company and we weren't
+[01:36:33] interested in selling the business at
+[01:36:35] the time but in the process of
+[01:36:37] evaluating an investment
+[01:36:40] we shared a fair amount about the
+[01:36:41] company right and certainly information
+[01:36:44] that you wouldn't want to share to
+[01:36:46] Amazon a potential competitor Amazon and
+[01:36:51] fast forward two years later they came
+[01:36:54] out with a product that was a direct
+[01:36:56] knockoff of a whoop strap that's not
+[01:36:59] like Amazon yeah well you know you feel
+[01:37:04] it differently when it happens to you
+[01:37:05] that's for sure
+[01:37:07] but
+[01:37:08] look it goes back to some of the resolve
+[01:37:11] of the of the company and the I think
+[01:37:13] that the culture at whoop where we do
+[01:37:15] feel kind of David versus Goliath
+[01:37:18] we are comfortable with people coming
+[01:37:20] after us and we're not threatened by
+[01:37:22] competition because the day they
+[01:37:24] announced that it was almost like a
+[01:37:26] running joke within the office it wasn't
+[01:37:29] okay we're screwed it was
+[01:37:32] that's gonna fail you know and we're
+[01:37:34] gonna we're gonna see to it that we
+[01:37:36] succeed so in any way it was like almost
+[01:37:38] energizing that uh that they did it and
+[01:37:42] of course it's nice now to to see that
+[01:37:45] the product I think hasn't quite been as
+[01:37:47] successful as they would have liked or
+[01:37:48] maybe um
+[01:37:50] I don't think they're releasing a future
+[01:37:52] version of it when your team said that's
+[01:37:55] going to fail what gives you that that
+[01:37:58] conviction what is it about what you see
+[01:38:00] in your walls and knowing about what's
+[01:38:04] going on in their walls that makes you
+[01:38:05] go you're not we're still going to win
+[01:38:07] I mean I don't want to be critical of
+[01:38:09] them I think Amazon
+[01:38:11] is a pretty amazing company and I'm sure
+[01:38:13] has an enormous number of amazing people
+[01:38:16] I think what
+[01:38:18] what's inspired what inspired whoop in
+[01:38:20] that moment is the same thing that
+[01:38:21] inspired us for 10 years which is that
+[01:38:23] we see things a little differently if if
+[01:38:26] someone is going to try to copy
+[01:38:28] everything that we've done before
+[01:38:29] they're still not going to have the
+[01:38:31] special sauce for what we're going to do
+[01:38:32] next
+[01:38:34] and even when we created our uh whoop4
+[01:38:39] on the circuit boards we wrote
+[01:38:42] um don't bother copying us we will win
+[01:38:45] and it was this great it was this great
+[01:38:48] like call out to the engineering team
+[01:38:50] and in fact every single engineer who
+[01:38:52] worked on who before their initials are
+[01:38:55] on the circuit board oh really so real
+[01:38:57] sense of ownership and the funny thing
+[01:39:00] of course about putting a line like that
+[01:39:01] on a circuit board is the only person
+[01:39:04] who's ever going to see that circuit
+[01:39:06] board is someone who's trying to copy
+[01:39:07] you
+[01:39:08] so you know I think there's I think
+[01:39:11] there's ways to roll with these things
+[01:39:13] and
+[01:39:14] um you know challenges ultimately are
+[01:39:15] what help you find your identity what is
+[01:39:18] the end then what is the end goal for
+[01:39:20] you
+[01:39:20] you're an entrepreneur you've done this
+[01:39:22] for more than a decade now entrepreneurs
+[01:39:24] start thinking about taking money off
+[01:39:25] the table about selling about you know
+[01:39:28] going and working on some other
+[01:39:29] challenge in the world where is your
+[01:39:31] brain I know this is a difficult
+[01:39:32] question to answer and I know what it is
+[01:39:33] for you on team members and investors
+[01:39:35] and but where are you at what can you
+[01:39:37] tell me I think one thing that's
+[01:39:39] potentially unique for whoop versus
+[01:39:40] other businesses that that I could have
+[01:39:43] started or or an entrepreneur might
+[01:39:45] start is that it's actually gotten
+[01:39:47] exponentially exciting as it's grown
+[01:39:51] like I'm as energized today running the
+[01:39:53] company as I've ever been running the
+[01:39:55] company
+[01:39:56] and and I've met Founders who for you
+[01:39:59] know no fault of their own are actually
+[01:40:01] just in a different place with that like
+[01:40:03] they're 10 years in or even six years in
+[01:40:06] and they kind of feel like they've hit
+[01:40:07] their peak of the mountain and it's time
+[01:40:09] to bring someone else in and
+[01:40:11] they'll stay involved as a chairman or
+[01:40:13] maybe it's the right time to sell it for
+[01:40:16] me it's uh
+[01:40:18] it's it's really as energizing a time as
+[01:40:20] I can remember building it as you have
+[01:40:22] more and more people on the product as
+[01:40:24] well it creates I think more and more
+[01:40:27] momentum for it
+[01:40:29] it's also a product that you see people
+[01:40:31] wearing all the time so
+[01:40:34] like everywhere I go I now see whoop
+[01:40:37] which is pretty like pretty amazing just
+[01:40:40] given that uh once upon a time it was an
+[01:40:43] idea on a piece of paper
+[01:40:45] and and so that you know that's still I
+[01:40:47] still find that energizing
+[01:40:49] I've got an amazing team
+[01:40:52] and the future for health monitoring I
+[01:40:54] think is really to be able to
+[01:40:58] predict something about your health that
+[01:41:01] you otherwise couldn't feel that is
+[01:41:04] either going to improve your life or
+[01:41:05] it's going to save your life like I
+[01:41:07] think Health the potential of Health
+[01:41:08] monitoring is so profound
+[01:41:14] that uh you know it determines a
+[01:41:17] full-time my full-time attention for now
+[01:41:21] we have a um tradition here where the
+[01:41:23] previous guest asks a question for the
+[01:41:24] next guest
+[01:41:26] um they don't know who they're asking
+[01:41:27] the question for
+[01:41:28] and I don't know what the question until
+[01:41:30] I open the book the question that's been
+[01:41:32] left for you is
+[01:41:35] this is kind of funny
+[01:41:38] um
+[01:41:40] they maybe didn't realize your age when
+[01:41:41] they wrote this but they said what would
+[01:41:43] you tell your 25 year old self
+[01:41:46] I'm going to change this to what would
+[01:41:49] you tell your 22 year old self
+[01:41:51] keep going you know it's going to work
+[01:41:53] out
+[01:41:55] I think
+[01:41:57] learn to separate
+[01:42:00] gratitude from complacency
+[01:42:04] I think
+[01:42:07] I think there was a phase in building
+[01:42:09] Loop where it was so much or even just
+[01:42:11] growing as an entrepreneur where it was
+[01:42:12] so much about
+[01:42:14] the next
+[01:42:16] Milestone and getting to that next
+[01:42:18] Milestone that I was running almost
+[01:42:21] exclusively on like a dopamine engine
+[01:42:23] right and you tell yourself
+[01:42:26] okay getting to this milestone's really
+[01:42:29] big deal
+[01:42:30] and you're going to be really happy when
+[01:42:31] you get to this milestone
+[01:42:33] and that has a that has a an important
+[01:42:36] physiological effect in that it
+[01:42:37] literally creates dopamine because
+[01:42:39] you're anticipating this thing
+[01:42:41] um
+[01:42:42] but then when you get to that thing
+[01:42:45] if it's not the thing that you thought
+[01:42:47] it was going to be there's this huge
+[01:42:49] letdown
+[01:42:50] and so
+[01:42:52] in the process of living on that sort of
+[01:42:55] dopamine wheel
+[01:42:56] I learned that you really need to
+[01:43:00] um introduce gratitude and be
+[01:43:03] appreciative of all the steps and people
+[01:43:05] and products that are happening along
+[01:43:07] the way
+[01:43:08] and I think there's a misperception for
+[01:43:11] entrepreneurs at least I think there was
+[01:43:12] slightly a misperception for me which is
+[01:43:15] like okay if I stop too much to
+[01:43:17] appreciate
+[01:43:18] where I am or this moment or what's
+[01:43:20] happened
+[01:43:22] I'm not gonna have the drive to get to
+[01:43:24] the next thing that's actually not true
+[01:43:26] at all like you can be very appreciative
+[01:43:28] of where you are today and still
+[01:43:30] entirely driven to get to the next
+[01:43:32] milestone in your in your mind
+[01:43:35] so as opposed to to re-answer the
+[01:43:38] question it'd be learning how to uh to
+[01:43:41] balance
+[01:43:43] gratitude with Drive
+[01:43:45] and that makes the whole journey
+[01:43:46] sustainable totally yeah
+[01:43:49] that's how you can go for like
+[01:43:51] multi-decades and still and not get
+[01:43:52] burnt out or that's how you sprint the
+[01:43:55] marathon
+[01:43:57] well thank you thank you for your time
+[01:43:59] thank you for making a product which is
+[01:44:00] just exceptional and you know it
+[01:44:03] probably sounds like I'm kissing us or
+[01:44:04] I'm like making this up because you're
+[01:44:06] here but I genuinely I mean you can
+[01:44:07] check my account
+[01:44:09] by the way we don't check accounts I
+[01:44:11] know previously is like number one for
+[01:44:12] you guys
+[01:44:14] so thank you for being on Loop and I
+[01:44:16] appreciate the way you do this you do a
+[01:44:18] nice job no I'm so unbelievably curious
+[01:44:20] and
+[01:44:21] um it was such amazing timing that we we
+[01:44:23] got to have this conversation shortly
+[01:44:25] after I became obsessed with my week
+[01:44:26] because I have so much to ask you not
+[01:44:27] just about the watch but about building
+[01:44:29] a company that is taking on these
+[01:44:30] incumbents and done such an unbelievable
+[01:44:33] job of it and I think now I know I
+[01:44:35] finished this conversation understanding
+[01:44:37] why and it's about that that focus on
+[01:44:40] the vision it's about having really
+[01:44:43] um clear principles that are driven from
+[01:44:45] a real real sense of like authentic
+[01:44:47] curiosity obviously hard work and all of
+[01:44:49] these things and great people are huge
+[01:44:51] factors resilience grit and all those
+[01:44:53] things and then it's again about the
+[01:44:55] Innovation that's behind me which comes
+[01:44:56] from those principles which has allowed
+[01:44:57] you to continually think from first
+[01:44:59] principles because the whip is very
+[01:45:01] different
+[01:45:03] and so that that for me is clear like a
+[01:45:05] like a book like Harry Potter it means
+[01:45:07] it's come from a very singular vision of
+[01:45:10] the world it couldn't have been this is
+[01:45:12] not the byproduct of
+[01:45:15] huge amounts of um
+[01:45:17] consensus
+[01:45:19] that's fair yeah see what I mean because
+[01:45:20] a group of people would not have thought
+[01:45:22] of this that's right they would have put
+[01:45:23] a screen on it with the thing and but so
+[01:45:26] it's really remarkable to meet you and I
+[01:45:27] have no doubt that you know this company
+[01:45:28] is going to continue to go from strength
+[01:45:30] to strength so thank you for being here
+[01:45:31] thank you Stephen quick one I have some
+[01:45:33] exciting news this episode is brought to
+[01:45:35] you by Mercedes-Benz who recently got in
+[01:45:37] touch to support the Diary of a CEO
+[01:45:39] thank you I've been quite the fan of
+[01:45:40] their cars for some time now so I jumped
+[01:45:42] at the chance to work with them as one
+[01:45:44] of the most well-known luxury Brands out
+[01:45:46] there and through getting to know their
+[01:45:47] brand on a much deeper level I came to
+[01:45:49] learn about our shared values on
+[01:45:50] Innovation striving to create a better
+[01:45:52] tomorrow some of you may know if you
+[01:45:54] follow me on Instagram that this year we
+[01:45:56] invested in a Mercedes-Benz of our own
+[01:45:58] and honestly it's transformed my life
+[01:46:00] but not only that we also use
+[01:46:01] Mercedes-Benz to pick up all of our
+[01:46:03] guests on this podcast this way the dire
+[01:46:05] Visio experience really starts from the
+[01:46:07] moment they're collected and we can be
+[01:46:08] in total control of how that
+[01:46:09] introduction looks and feels over the
+[01:46:11] coming weeks I want to talk to you about
+[01:46:13] Mercedes EQ which is their all-electric
+[01:46:15] car range and how they're Innovative
+[01:46:17] Next Generation technology sustainable
+[01:46:19] benefits are changing the game in terms
+[01:46:21] of their electric driving for businesses
+[01:46:22] but in the meantime if you'd like to
+[01:46:25] stay up to date with the full range and
+[01:46:26] find out more about how Mercedes-Benz
+[01:46:28] can work for you and your business
+[01:46:30] search Mercedes-Benz Fleet and let me
+[01:46:32] know how you get on quick one as you
+[01:46:35] might know crafted are one of the
+[01:46:36] sponsors of this podcast and crafted are
+[01:46:38] a jewelry brand and they make really
+[01:46:40] meaningful pieces of jewelry and this
+[01:46:43] piece by crafted when I put it on for me
+[01:46:46] it represents courage it represents
+[01:46:48] ambition it represents being calm and
+[01:46:50] loving and respectful and nurturing
+[01:46:53] while also being the antithesis of that
+[01:46:55] seemingly the antithesis of that which
+[01:46:57] is
+[01:46:58] um sometimes a little bit aggressive
+[01:46:59] with my goals and determined and
+[01:47:01] courageous and brave the really
+[01:47:03] wonderful thing about crafty jewelry is
+[01:47:05] it's super affordable it looks amazing
+[01:47:07] the pieces hold tremendous meaning and
+[01:47:09] they are really well made
+[01:47:12] [Music]
+[01:47:19] foreign
+[01:47:20] [Music]
+[01:47:25] [Music]

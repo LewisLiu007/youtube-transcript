@@ -1,0 +1,3528 @@
+Video Title: Coinbase Founder: The Crazy Journey Of Building A $100 Billion Company: Brian Armstrong
+Video ID: TB0yceuXmrI
+Video URL: https://www.youtube.com/watch?v=TB0yceuXmrI
+Downloaded: 2026-02-05 14:25:58
+Language: English (auto-generated)
+================================================================================
+
+[00:00:00] everybody i talked to actually thought
+[00:00:01] it's a bad idea like any reasonable
+[00:00:02] person would have quit i was filled with
+[00:00:04] self-doubt and then coinbase was valued
+[00:00:06] at a billion dollars crazy brian
+[00:00:08] armstrong ceo co-founder of coinbase
+[00:00:11] largest u.s cryptocurrency exchange i
+[00:00:13] saw technology as a way to try to have a
+[00:00:16] big impact on the world if the thing
+[00:00:17] that got you started in the first place
+[00:00:19] was like fear like fear of never being
+[00:00:21] important or fear of never feeling
+[00:00:23] fulfilled you're just gonna give up
+[00:00:25] cryptocurrency is the biggest
+[00:00:26] transformation of money since the
+[00:00:28] invention of paper coinbase was being
+[00:00:30] deemed the most trustworthy brand in
+[00:00:32] crypto it tipped at a certain point from
+[00:00:34] like oh this growth is really good to
+[00:00:36] okay things are getting a little crazy
+[00:00:38] here if you kind of more than double a
+[00:00:40] company in a year you're really going to
+[00:00:41] start to see a lot of stuff break
+[00:00:43] this morning coinbase just telling
+[00:00:45] employees in an email that it plans to
+[00:00:46] lay off 18 of its workforce we had never
+[00:00:49] done a layoff before i had never done
+[00:00:51] one i remember i went up in for the
+[00:00:52] company and my voice
+[00:00:55] cracked
+[00:00:56] i mean it was awful
+[00:00:58] oh man
+[00:00:59] i actually think coinbase is in deep
+[00:01:01] trouble here and let me tell you why the
+[00:01:04] pressure
+[00:01:05] and the scrutiny and the headlines how
+[00:01:08] are you dealing with your emotions
+[00:01:10] this is getting very personal
+[00:01:15] it's a real superpower to like care less
+[00:01:16] what other people think
+[00:01:18] so without further ado i'm stephen
+[00:01:20] bartlett and this is the diary of a ceo
+[00:01:23] i hope nobody's listening but if you are
+[00:01:25] then please keep this to yourself
+[00:01:27] [Music]
+[00:01:34] brian
+[00:01:36] i when i read through people's people's
+[00:01:37] stories they're sometimes really obvious
+[00:01:39] um causal factors that led them to
+[00:01:41] become the people they are today
+[00:01:44] but with you i'm i'm more compelled by
+[00:01:45] the less obvious factors if we go back
+[00:01:48] to your early years when you're a young
+[00:01:50] man on the west coast yeah of the united
+[00:01:52] states
+[00:01:53] what are the the less obvious reasons as
+[00:01:55] to why you've ended up where you are
+[00:01:57] today and achieved what you've achieved
+[00:01:58] in your life
+[00:02:01] great question um
+[00:02:02] one of the less obvious reasons probably
+[00:02:04] is that
+[00:02:06] i was an introvert i just wasn't really
+[00:02:08] very good with people i didn't really
+[00:02:09] have that many friends you know as a
+[00:02:11] young person
+[00:02:12] i was quite shy um i really
+[00:02:15] found a love of computers and i liked
+[00:02:17] just being by myself and playing with
+[00:02:19] computers learning about how they worked
+[00:02:20] programming and
+[00:02:23] you know in our
+[00:02:24] technological age i suppose um
+[00:02:27] some of the people who got excited about
+[00:02:28] computers early on and just have found a
+[00:02:30] love of building things have now become
+[00:02:32] you know ceos of companies which is kind
+[00:02:35] of a strange thing for a long time i
+[00:02:36] didn't think i could be a ceo because
+[00:02:38] i envisioned ceos of companies as being
+[00:02:41] like these military generals who barked
+[00:02:43] orders at people and they were these
+[00:02:44] like strong charismatic leaders and
+[00:02:47] i always felt like well that's not me
+[00:02:48] i'm kind of like an engineer i'm kind of
+[00:02:50] a nerd you know and what i've learned
+[00:02:52] over time is now reading enough books
+[00:02:54] and things historically
+[00:02:57] you know introverts can make actually
+[00:02:58] really good ceos um of course by the way
+[00:03:00] there's lots of different types of ceos
+[00:03:02] there's not just one mold there's people
+[00:03:04] who love marketing people have
+[00:03:05] operations people who love sales people
+[00:03:08] and then there are engineer ceos
+[00:03:10] um
+[00:03:10] so that's one reason that i think it's
+[00:03:12] maybe a little bit less known why i'm
+[00:03:14] here
+[00:03:15] another another reason is that
+[00:03:18] i just became very passionate about this
+[00:03:19] idea of trying to have an impact on the
+[00:03:22] world and i think it again may have come
+[00:03:24] from that that introversion as a kid and
+[00:03:27] i felt like hey i have good ideas but
+[00:03:29] it's hard for me to get them out there
+[00:03:30] and for people to listen to them and
+[00:03:32] i didn't feel confident like you know
+[00:03:34] speaking in some public setting or
+[00:03:36] whatever i have lots of practice doing
+[00:03:37] it now so i can i'm a well-trained
+[00:03:39] introvert but um
+[00:03:42] you know i saw technology as a way to
+[00:03:45] try to have a big impact on the world
+[00:03:46] and it could get my ideas out there in a
+[00:03:48] scalable way even if i felt like maybe i
+[00:03:50] couldn't and so i don't know maybe
+[00:03:52] that's another
+[00:03:53] un unlikely reason in hindsight then
+[00:03:55] going back to those early years as well
+[00:03:57] what was your
+[00:03:58] luck or privilege what were the factors
+[00:04:00] that were out of your control that
+[00:04:02] happened to be the case that also aided
+[00:04:04] to that um trajectory yeah i mean there
+[00:04:07] was a lot of things that went right so i
+[00:04:08] was in a home with loving parents that
+[00:04:11] were very supportive of education and my
+[00:04:13] passions and interests including you
+[00:04:15] know my mother worked at ibm and so we
+[00:04:17] had like an early computer in our home
+[00:04:20] um she was kind of an early programmer
+[00:04:22] there you know we had early access to
+[00:04:24] internet things like that i also had you
+[00:04:28] know i graduated studied i studied
+[00:04:30] computer science and economics and i had
+[00:04:31] um
+[00:04:33] enough
+[00:04:35] this was a very important thing i was
+[00:04:36] not afraid to go try starting companies
+[00:04:38] because i knew that if i failed i could
+[00:04:41] actually go back and still get a job
+[00:04:43] and it wasn't people always think of you
+[00:04:45] know entrepreneurs oh they're such risk
+[00:04:46] takers and all the stuff
+[00:04:48] you know
+[00:04:49] honestly it's not it's not that risky
+[00:04:51] like if you're a young person and
+[00:04:54] you
+[00:04:55] get a little bit of money to go start a
+[00:04:56] company like in in silicon valley people
+[00:04:58] write you angel checks for these things
+[00:04:59] and you can pay yourself a salary go try
+[00:05:01] it for a couple years and it doesn't
+[00:05:02] work you go back to a company and you
+[00:05:04] it's often viewed as a badge of honor um
+[00:05:07] that you've tried to start up you have
+[00:05:08] this entrepreneurial dna you're somehow
+[00:05:10] more valuable inside a company now if it
+[00:05:12] doesn't work and you go back
+[00:05:14] in many places in the world that's not
+[00:05:15] the case you know failure of a company
+[00:05:18] is considered a badge a mark of shame
+[00:05:20] not a badge of honor
+[00:05:21] and then
+[00:05:22] i think many people don't have the
+[00:05:24] luxury of being able to kind of raise
+[00:05:25] these seed rounds and things like that
+[00:05:27] which many places in the world you can't
+[00:05:29] do that crypto is trying to help that by
+[00:05:30] the way but in silicon valley you can
+[00:05:32] get angel checks for things and so
+[00:05:35] i tried starting many different things
+[00:05:37] over the years as kind of as side
+[00:05:38] projects but with coinbase specifically
+[00:05:40] i didn't really i didn't even quit my
+[00:05:42] job to try it full time until i had
+[00:05:43] gotten sort of an angel investment so
+[00:05:45] i was able to pay myself something it
+[00:05:47] wasn't a lot but i was able to pay
+[00:05:48] myself something and de-risk it um yeah
+[00:05:50] if i'd asked you then at say 10 years
+[00:05:52] old what you what you wanted to be when
+[00:05:54] you grew up what would you have told me
+[00:05:56] at 10 years old i mean i really
+[00:05:59] i really had no idea i think the first
+[00:06:01] glimmer of it that i had was in high
+[00:06:02] school
+[00:06:03] and i i had started building some
+[00:06:05] websites and i remember as a senior in
+[00:06:07] high school i went on this retreat and
+[00:06:09] uh i had i do remember having this
+[00:06:11] thought like
+[00:06:12] the thing that has excited me the most
+[00:06:14] in my life so far was i had built this
+[00:06:16] kind of simple website or app and
+[00:06:19] it felt like it was this really
+[00:06:20] incredible feeling i went to sleep and i
+[00:06:22] woke up in the morning and i checked the
+[00:06:23] stats and like you know 200 people or
+[00:06:26] something had visited the website while
+[00:06:27] i was sleeping and i was like wow that
+[00:06:29] was so cool i don't know who these
+[00:06:30] people are they're all over the world it
+[00:06:32] felt like a superpower like if i could
+[00:06:34] build something that could be
+[00:06:36] working and helping people while i was
+[00:06:37] sleeping
+[00:06:38] you know if not if not 200 people why
+[00:06:40] not 2 000 2 million whatever and so i do
+[00:06:43] remember having sort of a
+[00:06:45] it's stuck in my memory like that of all
+[00:06:46] the things i've tried in my life you
+[00:06:48] know sports and reading and science and
+[00:06:50] in school and whatever as a high
+[00:06:52] schooler that was the thing that really
+[00:06:54] got me excited in a way that nothing
+[00:06:55] else had at that point so i was probably
+[00:06:57] in the very early stages of discovering
+[00:06:59] my passion at that point
+[00:07:01] just just listening to you speak there
+[00:07:02] my my brain was telling me that because
+[00:07:04] i was trying to make this link between
+[00:07:05] why being an introvert led you to
+[00:07:07] technology and then also having this
+[00:07:09] sort of desire to have impact but it
+[00:07:11] sounds like there technology allowed you
+[00:07:13] to be be an introvert and have impact
+[00:07:15] because it was the the bridge between
+[00:07:16] the the outside world yeah so when that
+[00:07:19] website goes live you don't have to see
+[00:07:21] these people or persuade them yeah but
+[00:07:24] you can have your impact by by a piece
+[00:07:26] of technology that's enabling something
+[00:07:27] in their lives exactly
+[00:07:29] you go off and study economics
+[00:07:31] in university and yeah college yeah so i
+[00:07:33] had been taking some programming classes
+[00:07:35] um on the side in high school
+[00:07:40] i couldn't help it i i i like in my free
+[00:07:42] time
+[00:07:43] i would just play with computers until
+[00:07:45] like two in the morning three in the
+[00:07:46] morning i was like dead tired at school
+[00:07:47] every day because i was like wide awake
+[00:07:49] at night like playing with computers
+[00:07:51] learning about linux and like all these
+[00:07:53] things
+[00:07:53] and um
+[00:07:55] school was a little bit boring in some
+[00:07:57] ways
+[00:07:59] so
+[00:08:00] yeah i basically decided okay if i'm in
+[00:08:02] this interested in computers my parents
+[00:08:04] were supportive of this of course there
+[00:08:06] was like community college classes and i
+[00:08:08] went to go try to take some of those
+[00:08:09] classes to learn programming there was i
+[00:08:11] got some books from the library about
+[00:08:13] like how to program java and things like
+[00:08:15] that and i couldn't i couldn't
+[00:08:16] understand any of it
+[00:08:17] but i was trying to
+[00:08:19] work my way through it so then when it
+[00:08:20] came time to go to college i was
+[00:08:21] basically like okay computer science
+[00:08:22] that seems like the closest thing to
+[00:08:24] what i'm interested in i was also
+[00:08:25] interested in business and they didn't
+[00:08:26] offer a business degree so i studied
+[00:08:28] economics instead that was like the
+[00:08:29] closest thing to a business degree they
+[00:08:31] offered and
+[00:08:33] that was literally my my thinking now of
+[00:08:34] course i had no idea later i'd started
+[00:08:36] crypto company which was literally the
+[00:08:37] intersection of computer science and
+[00:08:38] economics but yeah at the time i just
+[00:08:41] thought i want to
+[00:08:42] i want to write software and i want to
+[00:08:44] learn how to start a business
+[00:08:45] and at some point during college you
+[00:08:47] start your first
+[00:08:49] i guess real company
+[00:08:51] yeah which is a tutoring business yeah
+[00:08:54] was that
+[00:08:55] did you have grand plans of turning that
+[00:08:56] into a a mega was that or did you
+[00:08:59] stumble into that
+[00:09:00] more like stumbled into it yeah i mean
+[00:09:02] so
+[00:09:03] as a college student my roommates and i
+[00:09:05] were always trying to think about how to
+[00:09:06] make extra money and i went around and i
+[00:09:08] was looking at these on-campus jobs so
+[00:09:11] you could work at the library there was
+[00:09:12] like a coffee shop
+[00:09:14] and you know they paid like 10 15 an
+[00:09:16] hour or something like that
+[00:09:18] and one of the upper classmen
+[00:09:20] i remember he told me you know i'm
+[00:09:21] tutoring this high school kid and
+[00:09:23] they're paying me 60 an hour i was like
+[00:09:25] wow
+[00:09:26] 60 an hour is it just it was like three
+[00:09:28] or four x what you could make at these
+[00:09:29] other on-campus jobs
+[00:09:31] so i decided to try doing it myself
+[00:09:33] i got in touch with some people i
+[00:09:35] started tutoring high school kids just
+[00:09:36] in like math and science and things like
+[00:09:37] that and it paid really well and so my
+[00:09:40] roommate and i at the time we were
+[00:09:42] starting to just brainstorm like why
+[00:09:43] don't we start a little tutoring company
+[00:09:44] and help high school kids and their
+[00:09:46] parents match with you know the you know
+[00:09:48] tutors at the basically university
+[00:09:50] students at the university where i was
+[00:09:51] going to school
+[00:09:53] and so we got that going we got maybe 10
+[00:09:55] 20 of our of our fellow students kind of
+[00:09:58] connected in
+[00:09:59] and then we said all right let's make a
+[00:10:00] website for this to connect even more
+[00:10:02] people maybe try to expand it to other
+[00:10:04] schools
+[00:10:05] you know eventually
+[00:10:07] over a period of a couple years this
+[00:10:08] this idea just kept evolving and we
+[00:10:10] started to think about it as we didn't
+[00:10:12] really know this at the time but it was
+[00:10:13] we were kind of making an online
+[00:10:14] marketplace like airbnb for but but for
+[00:10:17] tutoring
+[00:10:18] and um yeah i got to practice like
+[00:10:20] building web applications um there was
+[00:10:23] payroll and incorporation and sales and
+[00:10:26] marketing and taxes and
+[00:10:28] um
+[00:10:29] it i could never really get it to grow
+[00:10:30] enormous and to make it become like a
+[00:10:32] really big business which we can talk
+[00:10:34] about if you want but that was the seed
+[00:10:36] of it that later
+[00:10:37] became a little bit more of a company
+[00:10:40] why then why couldn't you make it become
+[00:10:42] a big business what was the
+[00:10:44] in hindsight the lesson yeah the barrier
+[00:10:46] okay so we learned this sort of the hard
+[00:10:49] way about creating a marketplace which
+[00:10:51] was that in this particular industry in
+[00:10:52] tutoring a lot of times uh you would
+[00:10:55] introduce a
+[00:10:56] student and a tutor
+[00:10:58] and they would sort of we our business
+[00:11:00] we were trying to take like a 10 fee by
+[00:11:02] matching these people and we were
+[00:11:03] basically trying to do all the payments
+[00:11:04] through our website like billing and you
+[00:11:06] know
+[00:11:07] with a 10 fee and what would happen
+[00:11:09] often is they would meet the tutor if
+[00:11:10] and they'd do initially the first
+[00:11:11] payment but then afterwards they'd start
+[00:11:13] paying them under the table and so um
+[00:11:16] we were i realized at a certain point we
+[00:11:17] were basically just getting in the way
+[00:11:19] they they wanted us to just match them
+[00:11:20] but they didn't want us to be the whole
+[00:11:22] billing apparatus it was a much more
+[00:11:24] like a local
+[00:11:25] repeat business in-person business and
+[00:11:28] so for years and years i struggled with
+[00:11:29] that
+[00:11:30] there was a counterintuitive moment
+[00:11:32] which allowed me to kind of pivot away
+[00:11:33] from that so i eventually realized this
+[00:11:35] thing isn't working i need to go get a
+[00:11:37] quote-unquote real job
+[00:11:40] and
+[00:11:41] as i was going to
+[00:11:43] start my the real job this was at um
+[00:11:46] basically airbnb where i became an early
+[00:11:48] employee
+[00:11:49] i was i was about to shut down the
+[00:11:51] tutoring site and i was like feeling a
+[00:11:52] lot of pain about that because like well
+[00:11:55] i don't know there are still like five
+[00:11:57] ten thousand people every month who are
+[00:11:59] kind of looking at this thing and using
+[00:12:00] it it feels like such a pain to shut it
+[00:12:01] down
+[00:12:02] or such a bad thing so i was like what
+[00:12:04] if what if i were just to put everything
+[00:12:06] on autopilot you know we're not gonna be
+[00:12:08] involved in any of the payments there's
+[00:12:10] no customer support this is literally
+[00:12:12] just going to be a directory like a
+[00:12:13] tutoring directory and you can contact
+[00:12:15] these tutors you can pay them however
+[00:12:17] you want
+[00:12:18] um
+[00:12:18] and i'm just going to try to make it
+[00:12:19] like a free thing maybe i'll put up some
+[00:12:21] ads
+[00:12:22] and so i basically had like a week
+[00:12:23] before i was starting my my new job i
+[00:12:25] got rid of all the payments i messaged
+[00:12:28] all the people using it i was like you
+[00:12:29] can pay now people directly
+[00:12:31] and um i was gonna put up some ads and i
+[00:12:33] did one more thing at the last hour
+[00:12:35] which is i said if you want to have like
+[00:12:36] a featured profile as a tutor
+[00:12:38] with like a little badge on a featured
+[00:12:40] badge and come up first in search
+[00:12:41] results then you can just pay 10 a month
+[00:12:44] and that was it and i basically
+[00:12:46] stopped looking at the website and i
+[00:12:48] went to go focus on my new job
+[00:12:50] and every year thereafter the site
+[00:12:53] doubled after i made that change
+[00:12:55] um and so basically i guess the lesson
+[00:12:57] was you know
+[00:12:59] stop trying to extract value and start
+[00:13:02] trying to create more value and at that
+[00:13:03] point i think that was only the the only
+[00:13:05] tutoring directory online that had free
+[00:13:08] profiles and you could just contact the
+[00:13:09] tutors and so it actually started to
+[00:13:10] grow
+[00:13:11] later later uh um somebody ended up
+[00:13:14] acquiring it for maybe like two million
+[00:13:15] dollars or something so to me that was
+[00:13:17] like
+[00:13:18] it was like a seven or eight year
+[00:13:20] base hit the outcome yeah where for
+[00:13:23] years you know five six years i was
+[00:13:25] struggling to get anything to work but
+[00:13:26] the the truth is okay they paid two
+[00:13:29] million dollars for it yeah but the
+[00:13:30] lessons you learn
+[00:13:32] uh many of those translate into the
+[00:13:34] business that you went on to build in
+[00:13:35] coinbase what is there anything else
+[00:13:37] because i look at my first startup that
+[00:13:39] i made out of you know dropping out of
+[00:13:41] university then started yeah and there's
+[00:13:42] so many lessons one of them is what you
+[00:13:44] said is i was i was so romantic about my
+[00:13:46] hypothesis about what this business
+[00:13:48] should be that i got in the way of what
+[00:13:49] customers wanted to do yeah so hearing
+[00:13:50] you say that really relates but is there
+[00:13:52] anything else that you learned from that
+[00:13:54] seven-year first
+[00:13:56] you know kind of messy startup that
+[00:13:59] of key philosophies for you today in
+[00:14:01] coinbase
+[00:14:02] i mean i think one of the big
+[00:14:03] realizations i had in starting that
+[00:14:05] tutoring company which again you can you
+[00:14:07] can always look back and see how the the
+[00:14:08] pieces connect but at the time you're
+[00:14:10] just wandering in the desert you're lost
+[00:14:12] like i felt i felt like i was a failure
+[00:14:14] i felt like i had no idea what i even
+[00:14:16] wanted to do i didn't even know if i
+[00:14:17] wanted to be an entrepreneur it
+[00:14:18] basically wasn't working but looking
+[00:14:20] back with hindsight
+[00:14:23] one thing i realized was how broken
+[00:14:25] the global financial system was because
+[00:14:28] it was incredibly difficult to
+[00:14:31] collect money from all these students
+[00:14:32] and pay these tutors
+[00:14:34] not only in the us but in various places
+[00:14:36] around the world and i remember um going
+[00:14:39] through this pro like incredibly onerous
+[00:14:40] process to like set up credit card
+[00:14:42] processing and then
+[00:14:43] payments that i was sending out and i
+[00:14:45] remember the bank called me one day and
+[00:14:47] they were like
+[00:14:48] you know are you an aggregator of funds
+[00:14:50] and i was like i don't even know what
+[00:14:51] that is and they were basically like
+[00:14:54] treating me like almost like i was a
+[00:14:55] criminal and what are your licenses to
+[00:14:56] do all this stuff and i was like this is
+[00:14:58] crazy it was the hardest one of the
+[00:15:00] hardest things about that business was
+[00:15:01] just to get the payments like collecting
+[00:15:03] payments and distributing payments to
+[00:15:04] the tutors as a marketplace
+[00:15:06] and so that gave me sort of a real
+[00:15:08] insight later when i saw the bitcoin
+[00:15:09] white paper years later i was like
+[00:15:12] that system is broken um and this could
+[00:15:14] be an opportunity to fix it so that was
+[00:15:16] one thing what about airbnb so you went
+[00:15:18] and worked as a in the product team at
+[00:15:19] airbnb yeah yeah i was a technical
+[00:15:22] product manager which basically meant i
+[00:15:23] wrote some code and i tried to be a
+[00:15:24] product manager yeah um
+[00:15:27] yeah so i think i was the 40th employee
+[00:15:29] at airbnb and i basically
+[00:15:30] moved back to silicon valley from i was
+[00:15:33] living in buenos aires argentina for a
+[00:15:34] year or so trying to figure out what i
+[00:15:36] wanted to do with my life okay i'm gonna
+[00:15:38] have to
+[00:15:39] talk about that sure yeah what did that
+[00:15:41] give you that experience of travel and
+[00:15:43] going to argentina and living there for
+[00:15:46] how many years
+[00:15:47] a little less than a year yeah what did
+[00:15:49] that give you
+[00:15:50] well it gave me a few things i mean one
+[00:15:53] was that i got to see what a
+[00:15:54] hyperinflation economy looked like you
+[00:15:57] know
+[00:15:57] a lot of people have only grown up grown
+[00:15:59] up in a developed country they've never
+[00:16:00] experienced hyperinflation and they've
+[00:16:02] never felt firsthand what that
+[00:16:04] can really do for a population and
+[00:16:06] people
+[00:16:06] so i would it really deeply affects the
+[00:16:08] culture of places like argentina there's
+[00:16:10] just there's kind of this
+[00:16:12] deep distrust of
+[00:16:14] um the government and there's a
+[00:16:15] pessimism about about the future there's
+[00:16:17] kind of you know in countries that i
+[00:16:19] think are the most forward thinking
+[00:16:21] there's a sense of optimism about the
+[00:16:22] future hey we can build a better future
+[00:16:24] and there's you know in places like
+[00:16:26] argentina might you know people may
+[00:16:27] disagree my impression was that people
+[00:16:29] felt like
+[00:16:30] the best days are behind us and
+[00:16:32] live every day like it's your last
+[00:16:34] because hey it could all disappear
+[00:16:35] tomorrow meaning your wealth and
+[00:16:36] everything which has happened many times
+[00:16:38] in their history
+[00:16:39] also just little things like you'd go to
+[00:16:41] the restaurant the next week and the
+[00:16:42] prices are higher and they put a sticker
+[00:16:44] on top of the menu because the prices
+[00:16:45] keep changing so so frequently it really
+[00:16:47] it really harms like the poorest people
+[00:16:49] in in society too because they they're
+[00:16:50] the ones holding their wealth in cash as
+[00:16:53] opposed to wealthy people can hold real
+[00:16:54] estate things that adjust for inflation
+[00:16:56] now they can hold bitcoin
+[00:16:58] um so anyway it gave me a front row seat
+[00:17:00] into that
+[00:17:01] it probably gave me a little bit of a
+[00:17:02] sense of confidence too because i had
+[00:17:04] never
+[00:17:06] studied abroad or
+[00:17:07] really um
+[00:17:09] lived in a foreign country by myself
+[00:17:11] where i didn't really speak the language
+[00:17:12] very well so there was things like that
+[00:17:13] i think i was just trying to learn how
+[00:17:15] to become more independent and grow up
+[00:17:16] and stuff like that you were running the
+[00:17:18] tutoring business at this point yeah i
+[00:17:20] mean i was doing a lot of things so i
+[00:17:21] was running the tutoring business i was
+[00:17:23] um doing some contract software
+[00:17:25] development just kind of while traveling
+[00:17:26] i was
+[00:17:27] trying to build some real estate
+[00:17:29] investments
+[00:17:31] in the in the us i i was basically
+[00:17:33] trying to figure what i want to do with
+[00:17:34] my life and there was a whole
+[00:17:36] process i went through to try to figure
+[00:17:38] that out if you're curious too
+[00:17:39] the digital nomad piece which is
+[00:17:42] becoming much more common these days
+[00:17:43] because we've had this pandemic and
+[00:17:44] we've kind of built systems which allow
+[00:17:46] us to work more remotely and but just
+[00:17:48] generally people were were choosing that
+[00:17:50] lifestyle when i did that when i was 21
+[00:17:52] in the gap between my startup failing
+[00:17:54] and then me pivoting into a new business
+[00:17:56] i found it quite lonely
+[00:17:58] and there was i remember being actually
+[00:18:00] on a plane flying from one country to
+[00:18:02] another brazil to thailand or something
+[00:18:04] and seeing this
+[00:18:06] um i think it was textiles or something
+[00:18:08] like this
+[00:18:09] san francisco incubator or new
+[00:18:11] york-based incubate where they were
+[00:18:12] building companies and i was i was
+[00:18:13] living the dream in many people's eyes
+[00:18:15] in these hot countries with my laptop
+[00:18:17] but something inside me was like missing
+[00:18:20] yeah um community a sense of shared
+[00:18:23] mission whatever it is i wonder i wonder
+[00:18:25] if you
+[00:18:26] you can relate to that in any way or
+[00:18:28] totally i i found it actually quite
+[00:18:29] lonely as well so in in some ways that
+[00:18:32] was the point which was to step outside
+[00:18:34] my comfort zone feel like i had to make
+[00:18:36] new friends in new city but yeah i mean
+[00:18:38] there was a good you know maybe
+[00:18:40] five six months there in buenos aires
+[00:18:42] where i felt like i didn't really know
+[00:18:44] that many people
+[00:18:45] um i was feeling kind of homesick yeah
+[00:18:48] eventually i tried to you know go meet
+[00:18:50] some local people like expats like
+[00:18:52] various
+[00:18:53] hostels and like you know event by the
+[00:18:55] time i left i felt like i had a budding
+[00:18:57] friend group and i liked it more but it
+[00:18:59] was lonely there for a while
+[00:19:00] you said you used that time to figure
+[00:19:02] out what you wanted to do with your life
+[00:19:03] as if there's some kind of system there
+[00:19:05] yeah i don't know if there's a perfect
+[00:19:07] system but i mean i read this book by
+[00:19:10] seth godin called the dip
+[00:19:12] yeah i don't know if you've read it but
+[00:19:14] and it's funny i went back to read it
+[00:19:15] like
+[00:19:16] many years later and it's actually a
+[00:19:18] relatively simple book but in that
+[00:19:20] moment in that time that's what i needed
+[00:19:22] to hear and it's kind of a very fairly
+[00:19:24] simple idea um which is that you know
+[00:19:27] what's the thing that you would still
+[00:19:29] want to be doing 10 years from now even
+[00:19:30] if you hadn't seen a lot of success
+[00:19:32] because most things in life you know you
+[00:19:34] start off you're a beginner you have a
+[00:19:36] fast pace of learning it's kind of fun
+[00:19:38] but then after you after you're a
+[00:19:39] beginner there's this dip in the middle
+[00:19:40] where you're not an expert you're not
+[00:19:43] one of the best people in the world
+[00:19:44] you're probably not making money from it
+[00:19:45] but you're not a beginner anymore and
+[00:19:46] there's like this long slog to go
+[00:19:48] through the middle you know put in your
+[00:19:50] 10 000 hours there's lots of various
+[00:19:52] people have talked about this
+[00:19:53] so
+[00:19:54] i was doing a variety of things at that
+[00:19:56] time i was i was as i mentioned running
+[00:19:58] that tutoring company doing some real
+[00:19:59] estate investing i was like learning
+[00:20:01] martial arts and like all the various
+[00:20:02] things traveling in argentina
+[00:20:05] and i and i basically sat down one day i
+[00:20:06] was like what's this what is the thing
+[00:20:08] that i 10 years from now i'm still going
+[00:20:10] to want to do this and be passionate
+[00:20:11] about it
+[00:20:12] and even if i'm not successful at it you
+[00:20:14] know because i just love doing it
+[00:20:16] and like the only thing i could like
+[00:20:18] really write on my list was tech
+[00:20:20] entrepreneurship
+[00:20:21] and so par part of the point of that
+[00:20:24] book is
+[00:20:26] if if you're not willing to go through
+[00:20:28] the dip then then quit now because it's
+[00:20:30] you know and so i was like do i really
+[00:20:32] want to be like
+[00:20:33] doing
+[00:20:34] you know great real estate investments
+[00:20:36] 10 years from i was like i don't
+[00:20:37] actually love real estate investing
+[00:20:38] so maybe i should have stopped doing
+[00:20:40] that maybe i should stop doing this and
+[00:20:41] maybe so it was this very clarifying
+[00:20:44] moment okay if i want to be a tech
+[00:20:45] entrepreneur because i had been doing
+[00:20:46] that in some way shape or form for you
+[00:20:48] know five ten years i was pretty sure
+[00:20:49] i'd be wanting to do it ten years from
+[00:20:50] now
+[00:20:52] i was like why do i live in buenos aires
+[00:20:54] i should go to where the
+[00:20:55] the center of tech entrepreneurship of
+[00:20:57] silicon valley you know that's happening
+[00:20:59] all over the world now silicon valley is
+[00:21:00] kind of decentralized but at that time
+[00:21:01] especially
+[00:21:03] so i kind of stopped doing everything
+[00:21:05] else
+[00:21:06] moved to silicon valley and
+[00:21:08] went all in on that and then
+[00:21:11] i think within maybe seven years of
+[00:21:14] making that decision um coinbase was
+[00:21:16] valued at a billion dollars crazy so it
+[00:21:18] did really help clarify my
+[00:21:21] ambitions and i just put it all into one
+[00:21:23] thing that is atypical
+[00:21:26] pointless yeah there's going to be
+[00:21:27] entrepreneurs in bruenesaras listening
+[00:21:29] to this that are bringing flights to san
+[00:21:31] francisco but it could it could be any
+[00:21:33] like if you really want to be an actor
+[00:21:35] you should probably go to hollywood or
+[00:21:36] something or if you really want to be in
+[00:21:37] finance maybe go to london new york or
+[00:21:39] anyway i think
+[00:21:41] it's not so i don't want to say like
+[00:21:42] there's one geography for everything but
+[00:21:44] um
+[00:21:46] there is a clarifying thing what happens
+[00:21:48] if you just say this is what is the most
+[00:21:49] important thing to me and i'm just gonna
+[00:21:52] try to make
+[00:21:53] luck my own luck around that
+[00:21:55] it's so true it's something that i don't
+[00:21:57] think especially young people think
+[00:21:58] about when they're deciding making
+[00:21:59] career choices they
+[00:22:01] where to live is sometimes not um as
+[00:22:04] prioritized as much as like which
+[00:22:06] university has the best partying or
+[00:22:08] who's offering me a job right now as
+[00:22:09] opposed to that long-term horizon of
+[00:22:11] like how do i surround myself with the
+[00:22:12] most talent and opportunity and funding
+[00:22:14] in the case of business um and
+[00:22:16] inspiration and enablers um for this
+[00:22:19] long-term vision i have and i spent some
+[00:22:21] time in san francisco myself about three
+[00:22:23] years and when i come back to the uk and
+[00:22:25] when i go to other cities in the uk i
+[00:22:27] i've never said this before but i see
+[00:22:28] how much of a disadvantage we have
+[00:22:30] in philosophy in ambition in funding in
+[00:22:33] talent
+[00:22:34] and um
+[00:22:36] it's no surprise that most of the great
+[00:22:39] unicorns that are emerging out of one
+[00:22:40] city and
+[00:22:41] in the world that then leads you to
+[00:22:43] airbnb somehow
+[00:22:45] through i think you take a job first
+[00:22:46] then eventually take a job at airbnb
+[00:22:48] yes exactly yeah i joined a y commenter
+[00:22:50] startup that was really cool but it
+[00:22:52] didn't really work out there was a brief
+[00:22:54] interlude there but
+[00:22:55] basically i i decided okay my tutoring
+[00:22:58] company is not really working i need to
+[00:23:00] and that's that's when i pivoted to that
+[00:23:01] thing which had a base hit but what i
+[00:23:04] decided all right i want to go to i want
+[00:23:05] you to go to silicon valley
+[00:23:06] i kind of want to apply to y combinator
+[00:23:08] it's a startup incubator
+[00:23:10] um
+[00:23:11] but i wasn't able to get in and so i was
+[00:23:13] like let me go work at a y combinator
+[00:23:15] company to sort of learn
+[00:23:17] and i need it by the way i also just
+[00:23:18] needed to recharge a little bit because
+[00:23:20] the tutoring company i've been living
+[00:23:21] abroad the shooting company wasn't
+[00:23:22] working i was
+[00:23:24] barely paying myself anything so i was
+[00:23:25] kind of broke
+[00:23:27] i was i was also just exhausted um
+[00:23:30] from the the tutoring company just not
+[00:23:32] working after so many years of trying to
+[00:23:34] get it to work
+[00:23:35] um and you know it hadn't seen it double
+[00:23:38] every year after that that happened on
+[00:23:39] the side um and so i was like great let
+[00:23:42] me take a job at a high growth company
+[00:23:43] that seems to be well run actually make
+[00:23:45] some money for a little bit here save
+[00:23:47] some money
+[00:23:48] and that's how i got to airbnb it just
+[00:23:50] it had a really
+[00:23:51] magnetic culture even at 40 people they
+[00:23:53] had they were clearly onto something it
+[00:23:55] had they had found product market fit it
+[00:23:56] was growing quickly
+[00:23:58] um and i learned a lot there they had a
+[00:24:00] really unique culture
+[00:24:01] um they they were hiring differently
+[00:24:04] they were really like trying to raise
+[00:24:05] the bar with every hire you know if it's
+[00:24:07] not a hell yes it's a no they were um
+[00:24:10] the way that they just did product
+[00:24:12] reviews was really interesting they had
+[00:24:14] an important design component to it
+[00:24:16] if you think about now
+[00:24:18] why airbnb
+[00:24:20] won in their market from what you got to
+[00:24:22] see inside their walls what would you
+[00:24:23] say so you've talked about their hiring
+[00:24:25] philosophy which is
+[00:24:26] very very clear yeah but what else would
+[00:24:28] you say
+[00:24:30] well the main thing and i think that by
+[00:24:32] the way this is true of not just airbnb
+[00:24:33] a lot of startups was determination
+[00:24:35] um
+[00:24:36] they went through a period everybody
+[00:24:38] always looks back to these startups and
+[00:24:39] they think oh it was a unicorn like it
+[00:24:41] just they found the thing and it worked
+[00:24:43] airbnb is actually somewhat typical in
+[00:24:45] this regard which was there was i think
+[00:24:47] at least um
+[00:24:48] i think like a three-year period where
+[00:24:49] they were just wandering in the desert
+[00:24:51] any reasonable person would have stopped
+[00:24:53] working on this idea it was it was a
+[00:24:56] crazy idea like it was like couchsurfing
+[00:24:58] you're gonna let strangers stay on my
+[00:24:59] couch like
+[00:25:01] that's not a business it's like just
+[00:25:03] ripe for lawsuits and you know
+[00:25:05] um
+[00:25:06] and they were in like tons of credit
+[00:25:08] card debt because they had like been
+[00:25:09] trying to sell fund it you know they had
+[00:25:11] launched several times and nobody was
+[00:25:12] using it um
+[00:25:15] yeah they should have quit like any
+[00:25:17] reasonable person would have quit
+[00:25:19] um but they didn't they kept going and
+[00:25:21] they were just because getting
+[00:25:22] marketplaces off the ground is very hard
+[00:25:24] you have to check an egg problem supply
+[00:25:26] and demand and so i actually think
+[00:25:29] that's a common element um in a lot of
+[00:25:31] like successful companies you go back
+[00:25:33] there there was a period where a normal
+[00:25:35] person just would have quit and they
+[00:25:36] they went from setback to setback to
+[00:25:38] setback with enthusiasm you know somehow
+[00:25:40] powering through it so
+[00:25:42] i learned that too i hear a lot of um
+[00:25:44] entrepreneurs who have your same
+[00:25:46] enthusiasm to be an entrepreneur
+[00:25:48] the enthusiasm you've expressed there
+[00:25:50] when you leave um argentina and you come
+[00:25:52] back you just want to be an entrepreneur
+[00:25:53] you don't necessarily know what or
+[00:25:55] industry what problem you want to solve
+[00:25:57] and what what always makes me feel a
+[00:25:59] little bit concerned is when an
+[00:26:00] entrepreneur is so keen to be an
+[00:26:01] entrepreneur that they'll just try and
+[00:26:02] think of an idea
+[00:26:04] you took a time to go and get inspired i
+[00:26:07] guess and to let the inspiration come to
+[00:26:08] you what's your view on that there'll be
+[00:26:10] people listening to this now that want
+[00:26:12] to be an entrepreneur but they don't
+[00:26:14] have an idea yeah
+[00:26:16] okay well i mean i i was probably guilty
+[00:26:18] of that too where there was definitely a
+[00:26:19] period in my life where i was like um i
+[00:26:21] just want to be an entrepreneur and i
+[00:26:23] don't know honestly it was probably
+[00:26:24] partly ego driven it was partly
+[00:26:27] um my own like introvert way of saying
+[00:26:30] like i just want to be able to have an
+[00:26:31] impact i wanted to feel like i had done
+[00:26:33] something valuable because i didn't feel
+[00:26:34] like valuable as a human myself like you
+[00:26:36] get into all the psychology of it right
+[00:26:38] it's kind of a crazy thing actually to
+[00:26:40] go
+[00:26:41] say like i have to be an entrepreneur
+[00:26:42] because
+[00:26:43] you know from an if you just want to
+[00:26:45] make money or something like it's from
+[00:26:46] an expected value outcome it's probably
+[00:26:48] better just to like go to some early
+[00:26:50] stage companies invest some equity and
+[00:26:51] like or join goldman sachs or something
+[00:26:53] right like so to be
+[00:26:55] truly want to be an entrepreneur i guess
+[00:26:58] you have to be
+[00:26:59] well sometimes it's ego driven but i
+[00:27:01] think it's your your chances of success
+[00:27:03] go up dramatically if you're doing
+[00:27:05] something because you're actually super
+[00:27:06] passionate about it and so for me
+[00:27:09] reading the bitcoin white paper was kind
+[00:27:11] of a lucky moment because
+[00:27:14] i found it tapped into something that i
+[00:27:16] was really passionate about which was
+[00:27:17] basically freedom you know um economic
+[00:27:20] freedom and just like how do we empower
+[00:27:22] people all over the world to you know
+[00:27:23] have access to sound money and um
+[00:27:26] like a decentralized open permit system
+[00:27:28] where anybody can get access to the
+[00:27:30] global financial system that really just
+[00:27:32] like resonated with me and so
+[00:27:35] i think that really helped coinbase be
+[00:27:37] successful because there were many times
+[00:27:39] in our history as a company where you
+[00:27:40] know like 20
+[00:27:42] 2015 2016 like the whole industry was
+[00:27:44] down for three years everybody was
+[00:27:46] pivoting to do blockchain not bitcoin if
+[00:27:48] you remember that
+[00:27:49] every like a lot of the competitors in
+[00:27:51] space pivoted to make software for banks
+[00:27:53] and stuff
+[00:27:54] and everybody looks back at that and
+[00:27:55] like wow you know brian you never lost
+[00:27:57] faith and everything
+[00:27:58] for me it was more it was simple than
+[00:28:00] that i was just like well i don't really
+[00:28:02] want to make software for banks so like
+[00:28:03] if that's what this is all about now i'd
+[00:28:05] pretty much just gonna shut it down and
+[00:28:07] give the money back uh to investors um
+[00:28:09] so i was just too stubborn i was like i
+[00:28:12] i got into this because i feel like this
+[00:28:14] is the way to create more freedom in the
+[00:28:15] world so that's what i'm going to keep
+[00:28:16] doing
+[00:28:17] whether it works or not so i think there
+[00:28:19] is a really important element there you
+[00:28:21] have to be
+[00:28:23] super into it for some reason that's
+[00:28:24] bigger than just ego or trying to make
+[00:28:26] money or whatever because
+[00:28:28] every company is just filled with
+[00:28:29] setback after setback or setback and you
+[00:28:31] think you can power through it
+[00:28:33] but
+[00:28:34] believe me when you're like three years
+[00:28:35] in and like your co-founder quit and you
+[00:28:38] you got sued and you're broke and like
+[00:28:41] um
+[00:28:42] the first three times you launch the
+[00:28:44] product nobody wants to use it and like
+[00:28:46] everything sucks and you're feeling like
+[00:28:47] a failure and you're you know
+[00:28:49] you're just gonna give up because you're
+[00:28:50] not actually doing it for like some
+[00:28:52] bigger purpose you're doing it because
+[00:28:54] you wanted to feel important or
+[00:28:55] something so it actually is important to
+[00:28:57] pick the thing that you're passionate
+[00:28:59] about yeah you're doing it because you
+[00:29:00] want to feel important or something
+[00:29:01] we're talking about um how
+[00:29:04] part of this sort of introverts dilemma
+[00:29:05] is you can feel significant personal
+[00:29:07] significance by creating something that
+[00:29:09] has significance in the world
+[00:29:11] zooming right to the end of the story
+[00:29:12] has has that impact you've had on the
+[00:29:15] world made you feel more personally
+[00:29:16] significant
+[00:29:18] yeah totally okay so i think this is a
+[00:29:20] really important topic because a lot of
+[00:29:21] founder it's stressful to run a company
+[00:29:23] right
+[00:29:24] so a lot of founders if they do get to
+[00:29:26] some level of success they will often
+[00:29:28] burn out right
+[00:29:29] um
+[00:29:30] it shows up in weird ways by the way
+[00:29:32] some people gain a ton of weight some
+[00:29:34] people lose a lot of weight some people
+[00:29:35] deal with stress in all kinds of ways
+[00:29:37] i've there's like founders i've met that
+[00:29:38] get
+[00:29:39] like addicted to prescription drugs or
+[00:29:41] like
+[00:29:42] you know all kinds of unhealthy things
+[00:29:43] you can imagine right
+[00:29:45] so
+[00:29:47] um i mean you have to
+[00:29:49] find a way to shift from like if the
+[00:29:51] thing that got you started in the first
+[00:29:53] place was like fear like fear of never
+[00:29:55] being important or fear of never feeling
+[00:29:58] fulfilled you have to at some point
+[00:29:59] transition it
+[00:30:02] once that hole is filled in your heart i
+[00:30:03] guess you have to transition to being
+[00:30:06] motivated out of like joy or love or
+[00:30:08] something more positive not like running
+[00:30:10] away from fear and anger or you're like
+[00:30:12] you're really angry at this
+[00:30:14] you know your father or like the person
+[00:30:16] who um you know broke
+[00:30:19] like the co-founder who you almost was
+[00:30:21] going to found with who decided they
+[00:30:23] didn't want to and you're pissed at them
+[00:30:24] so you're trying to show them up or
+[00:30:25] whatever
+[00:30:25] those aren't relevant to me but i've
+[00:30:27] heard other examples
+[00:30:29] anyway long way of saying you have to
+[00:30:30] transition away from fear and anger as
+[00:30:32] your motivator to like joy and love and
+[00:30:34] just find the thing you actually love
+[00:30:35] doing in life so for me you know that
+[00:30:37] was like
+[00:30:38] figuring out what is the kind of ceo
+[00:30:40] role that i really want to have um
+[00:30:43] what's the thing that brings me joy for
+[00:30:44] me it's like i love building things with
+[00:30:47] with technology i love learning new
+[00:30:49] things um
+[00:30:51] there are some parts of the ceo job the
+[00:30:53] typical ceo job which
+[00:30:55] you know lower my energy they don't give
+[00:30:56] me as much energy right there's like you
+[00:30:58] know frankly like people i'm not the
+[00:31:00] best people manager in the world right
+[00:31:02] like um i used to have like 12 direct
+[00:31:04] reports um at the company and i was like
+[00:31:06] so stressed and then
+[00:31:08] now you know now i have like four right
+[00:31:10] and it's like it's actually much easier
+[00:31:11] for me to run the company with that so
+[00:31:13] um
+[00:31:14] there was a lot of things ideas that i
+[00:31:15] had in my head i was like well the ceo
+[00:31:17] has to do that obviously the ceo has to
+[00:31:19] do that and i sort of let go of some of
+[00:31:21] those things over time and i said you
+[00:31:23] know what i'm actually going to focus on
+[00:31:24] the things that i'm better at because
+[00:31:25] they bring me joy
+[00:31:27] and i'm going to delegate a lot of the
+[00:31:28] stuff which i thought i had to do
+[00:31:30] and that's actually made the company run
+[00:31:32] a lot better and it's kept me engaged in
+[00:31:34] the job like i'm been doing it 10 years
+[00:31:36] and i hope i can do it another 10 it's
+[00:31:38] and it's still fun because i've been
+[00:31:39] able to delegate
+[00:31:41] why do you have to make that transition
+[00:31:42] away from fear and maybe insecurity
+[00:31:44] being the motivator towards it being
+[00:31:46] about joy and love what what's the cost
+[00:31:48] if you don't
+[00:31:50] well i think if you don't then once you
+[00:31:52] hit some kind of level of success
+[00:31:54] whatever however people count that
+[00:31:57] then you're not going to feel motivated
+[00:31:59] anymore and so you're just you're going
+[00:32:00] to be done
+[00:32:02] and uh
+[00:32:04] you know you're going to go
+[00:32:06] do whatever else you're going to do next
+[00:32:07] like i guess become an investor or sit
+[00:32:09] on the board which is nothing wrong with
+[00:32:10] that either but i just i d part of me
+[00:32:12] does wish that more founders were able
+[00:32:14] to continue being founders and build the
+[00:32:16] next thing and the next thing
+[00:32:17] um
+[00:32:19] i mean
+[00:32:20] we just met each other barely know each
+[00:32:22] other but i'm guessing that you're
+[00:32:23] finding a lot of fulfillment out of like
+[00:32:24] running this podcast and you sort of
+[00:32:26] you've you've found some
+[00:32:28] new level of joy in doing that
+[00:32:31] so this is like your next founding
+[00:32:32] moment but
+[00:32:34] yeah i i think
+[00:32:36] if you don't do it then you're just
+[00:32:37] going to burn out it and a lot of people
+[00:32:38] i think who had some level of success as
+[00:32:40] a founder they look back on it and they
+[00:32:41] like well
+[00:32:43] man i finally got that thing to some
+[00:32:45] level of success and i sold the company
+[00:32:46] or whatever
+[00:32:48] but
+[00:32:48] i never want to do that again like
+[00:32:50] because that it damn near killed me and
+[00:32:51] i was so stressed all the time and so
+[00:32:53] i've tried to make it i need to get it
+[00:32:55] to a place where it's fun to run the
+[00:32:56] company so that i can keep building
+[00:32:57] companies for many many decades
+[00:32:59] hopefully that's my goal you're
+[00:33:00] describing me when you say that so yeah
+[00:33:02] the company for seven years but it felt
+[00:33:04] like i was doing it um involved it
+[00:33:06] wasn't it wasn't voluntary meaningful
+[00:33:08] struggle it was i can't let this thing
+[00:33:11] go down yeah it's not i'm not enjoying
+[00:33:13] it anymore but i can't stop and then at
+[00:33:15] the point where i realized i could stop
+[00:33:16] i did immediately in hindsight the way
+[00:33:19] around that would be to
+[00:33:21] do a bunch of things involving the you
+[00:33:22] know how the company's structured and
+[00:33:24] who owns it who has control and all
+[00:33:25] those things but really trying to build
+[00:33:27] a sustainable as you describe it like a
+[00:33:28] sustainable life for me as a founder and
+[00:33:30] for my team members yeah
+[00:33:32] and that
+[00:33:33] often in silicon valley when especially
+[00:33:35] when you're in high growth companies
+[00:33:36] sustainability in terms of culture is
+[00:33:38] the last thing
+[00:33:39] how have you done that then how have you
+[00:33:41] tried to make it sustainable you've
+[00:33:42] talked about yourself but how have you
+[00:33:43] how do you create a sustainable company
+[00:33:45] one that's built for 50 years or 100
+[00:33:48] well okay so there's a lot of different
+[00:33:50] elements to that i mean one of them is
+[00:33:51] just the burnout factor with people
+[00:33:53] let's talk about that first
+[00:33:55] um and then i'll come to like repeatable
+[00:33:57] innovation um
+[00:33:58] so from a burnout point of view i mean a
+[00:34:00] few things that i do for instance um
+[00:34:02] because obviously there's days where you
+[00:34:04] have to like go hard and sprint and then
+[00:34:06] um
+[00:34:07] but for instance like every quarter i
+[00:34:09] take a week off right i just have that
+[00:34:10] prescheduled for the year because if you
+[00:34:12] just kind of wait there's never a good
+[00:34:13] time to do it
+[00:34:14] um
+[00:34:15] we actually tried an experiment this
+[00:34:16] year where we're having we call them
+[00:34:18] recharge weeks everybody in the company
+[00:34:20] is like taking a week off every quarter
+[00:34:21] and they're doing it at the same time
+[00:34:23] because
+[00:34:24] sometimes if you're off you're the only
+[00:34:26] one who's taking a week off and then
+[00:34:27] people are pinging you the whole time
+[00:34:28] and whatever i don't know if we'll keep
+[00:34:30] doing it or not it's an experiment but
+[00:34:31] by taking a week off every quarter it
+[00:34:33] allows me to kind of
+[00:34:35] make sure that i recharge i have time to
+[00:34:37] go
+[00:34:38] um learn new things and it often like
+[00:34:40] sometimes you know i'm thinking about
+[00:34:41] the business in some way shape or form
+[00:34:43] but it's like
+[00:34:44] yeah that's helped make it sustainable
+[00:34:46] other things i've done i've had um a lot
+[00:34:48] of executive coaches different executive
+[00:34:50] coaches i have one now you know it's
+[00:34:52] there's different kinds of executive
+[00:34:53] coaches some of them are very tactical
+[00:34:55] with their advice like they're former
+[00:34:56] ceos others are basically therapists
+[00:34:59] and like you know both are good and
+[00:35:01] important versions to have um
+[00:35:04] when i first heard that i was like oh i
+[00:35:05] don't want the therapist i want like the
+[00:35:06] tactical ceo coach but you know i've
+[00:35:10] found the therapist part's almost even
+[00:35:11] more valuable um let's see what else i
+[00:35:14] mean
+[00:35:15] like i have um i have this kind of like
+[00:35:17] morning routine where like i've noticed
+[00:35:19] that my days go i'm a lot more stressed
+[00:35:21] if i just like wake up i look at my
+[00:35:23] phone you know i haven't really like
+[00:35:25] had any breakfast or exercise or
+[00:35:27] anything and like you know i'm like low
+[00:35:29] blood sugar i just everything's pissing
+[00:35:31] me off i'm like irritable
+[00:35:33] um and so that's just a bad way to wake
+[00:35:35] up since now when i wake up i basically
+[00:35:37] don't look at my phone you know i try to
+[00:35:38] like
+[00:35:39] do the morning routine you know exercise
+[00:35:42] like
+[00:35:42] eat some breakfast meditate whatever and
+[00:35:45] then okay now i'll start my day and like
+[00:35:47] try to that all these kind of things
+[00:35:49] help
+[00:35:49] and i think this is important for the
+[00:35:51] whole company to some degree because a
+[00:35:53] lot of new employees especially
+[00:35:56] like new grads or younger folks like
+[00:35:57] they they actually don't know about
+[00:35:58] burnout they'll they'll actually you can
+[00:36:00] have unlimited vacation policy and tell
+[00:36:03] people at the all hands meetings
+[00:36:04] whatever like
+[00:36:05] don't wait until it's too late you know
+[00:36:06] take time off but they won't do it like
+[00:36:09] sometimes i've seen especially high
+[00:36:10] achieving people they push himself like
+[00:36:12] too hard
+[00:36:13] and they'll actually quit and i'm like
+[00:36:14] why are you quitting and like i'm burned
+[00:36:16] out and i was like why didn't you take
+[00:36:17] any vacation the last two years and
+[00:36:19] they're like
+[00:36:20] i don't know and they they didn't feel
+[00:36:22] like they had permission because
+[00:36:23] everything was so important and so
+[00:36:25] we're almost like trying to force people
+[00:36:26] to take a little bit of time off here
+[00:36:27] and there but
+[00:36:29] we still have a pretty intense work
+[00:36:30] environment at coinbase i'm trying to
+[00:36:32] like
+[00:36:32] you know amp it up like we we should we
+[00:36:35] should be going hard but then take
+[00:36:36] periods of rest and renewal and take
+[00:36:38] rest like renewal very seriously it's
+[00:36:40] actually an important skill to learn
+[00:36:43] so okay so that's kind of how to like
+[00:36:46] you know go hard for the long term but
+[00:36:47] don't burn out
+[00:36:48] um
+[00:36:50] then i think companies also need to have
+[00:36:52] repeatable innovation so what that to me
+[00:36:55] what that means is you can't just be
+[00:36:56] have like one product
+[00:36:58] that finally works and then you scale it
+[00:37:00] and it kind of the s-curve tapers off
+[00:37:02] and then what do you do i think
+[00:37:04] companies need to continually have like
+[00:37:06] a next act you know and a port ideally
+[00:37:08] like a portfolio of products or
+[00:37:10] different revenue lines um so that while
+[00:37:12] something is going down another thing is
+[00:37:14] going up and
+[00:37:15] we we do this thing in coinbase called
+[00:37:17] 70 2010 resource allocation so like 70
+[00:37:20] of our resources go to the core business
+[00:37:23] today that's making most of the money
+[00:37:24] and it's at scale 20 of our resources go
+[00:37:27] towards these adjacent bets that are
+[00:37:29] like an extension of the core and 10 go
+[00:37:32] to these venture bets which are
+[00:37:33] basically like kind of crazy ideas that
+[00:37:35] have a higher chance of failure but it's
+[00:37:37] so even in up markets down markets we're
+[00:37:39] putting 10 percent of our resources
+[00:37:40] towards
+[00:37:41] crazy
+[00:37:42] you know potentially big things that
+[00:37:44] could work they don't and some of them
+[00:37:46] don't and that's allowed us to build
+[00:37:48] this portfolio of products and i think
+[00:37:49] that's important for the long-term
+[00:37:52] sustainability of companies because it
+[00:37:53] always maintains this um
+[00:37:55] this startup culture this founder
+[00:37:57] mindset of like
+[00:37:59] it you know it's it's always day one you
+[00:38:01] know
+[00:38:02] never let us become complacent try to
+[00:38:04] disrupt ourselves before somebody else
+[00:38:06] does and just keep building the next
+[00:38:07] thing the next thing the next thing like
+[00:38:08] that's that's what keeps a company
+[00:38:10] exciting that's how you extend the
+[00:38:12] founding moment right like like
+[00:38:14] zuckerberg is trying to do that now with
+[00:38:15] with the metaverse instead of just being
+[00:38:18] a social media company and so
+[00:38:20] if a company doesn't have like those
+[00:38:22] continually stretch and try to build the
+[00:38:24] next thing i think
+[00:38:26] it just becomes a little more complacent
+[00:38:28] and like good people eventually leave
+[00:38:29] and stuff like that every company wants
+[00:38:31] that at least they say they do yeah but
+[00:38:34] then they they set up incentive
+[00:38:35] structures and policies that actually
+[00:38:38] act as a deterrent for innovation they
+[00:38:40] disincentivize people to innovate yeah
+[00:38:42] so a question i get asked a lot when i'm
+[00:38:44] on stage is you know you've ran an
+[00:38:47] innovative company in an in an industry
+[00:38:49] like social media which is changing all
+[00:38:50] the time and the tricks and tips and
+[00:38:51] algorithms are adjusting how do you get
+[00:38:53] your teams to and how do you align
+[00:38:55] incentives and how do you really make
+[00:38:57] that philosophy and culture real where
+[00:38:59] people are actually incentivized to take
+[00:39:02] risks and to do those those 10
+[00:39:05] bets that might end up being the the
+[00:39:07] next aws or the next you know
+[00:39:10] kindle or whatever in the case of amazon
+[00:39:13] yeah you're right so i think that it's a
+[00:39:15] the natural tendency of most orgs is to
+[00:39:17] not allow that and so you have to
+[00:39:18] actually fight against it as a founder
+[00:39:20] or ceo if you have somebody within the
+[00:39:23] org who is kind of entrepreneurial
+[00:39:25] and they try something new
+[00:39:27] and it doesn't work
+[00:39:29] you know
+[00:39:30] you have to make sure that that's not
+[00:39:32] like a black mark on their their career
+[00:39:34] advancement right there's a difference
+[00:39:36] between
+[00:39:37] they had good execution towards the
+[00:39:39] wrong idea or they had the right idea
+[00:39:41] but bad execution right if um
+[00:39:44] like i think uh
+[00:39:46] you know amazon amazon example right is
+[00:39:48] like
+[00:39:50] they tried to launch their own phone at
+[00:39:51] amazon right near the fire phone and it
+[00:39:53] was this big failure but my
+[00:39:55] understanding internally was like
+[00:39:57] they basically pushed
+[00:40:00] it was the wrong idea but they had good
+[00:40:01] execution and so they didn't they didn't
+[00:40:03] like fire that team because the amazon
+[00:40:05] phone
+[00:40:06] failed they said okay the execution was
+[00:40:08] good you shipped a phone in a pretty
+[00:40:09] small amount of time
+[00:40:11] it was toward the wrong idea
+[00:40:13] let's what next and that i think my
+[00:40:15] understanding is that team actually
+[00:40:16] became the kindle team which then was a
+[00:40:18] very successful product
+[00:40:19] so um
+[00:40:21] it's a tolerance for failure recognize
+[00:40:23] good execution even toward the wrong
+[00:40:24] idea
+[00:40:25] um
+[00:40:28] you know i think some of this has to
+[00:40:29] come from the founder i don't know i
+[00:40:31] don't know if there's any other way like
+[00:40:33] the problem is um
+[00:40:35] if you look at public companies that
+[00:40:36] have that are founder-led they actually
+[00:40:38] like outperform the the rest of the s p
+[00:40:40] 500 and one theory for why that is is
+[00:40:43] that
+[00:40:45] this like the scarcest thing inside big
+[00:40:48] companies is actually risk tolerance
+[00:40:50] um and so founders can kind of provide
+[00:40:54] that now you can
+[00:40:56] you if you can go too far with this
+[00:40:57] right you we know of founders who have
+[00:40:59] too much risk tolerance and have kind of
+[00:41:00] blown the place up right we work yeah
+[00:41:03] exactly
+[00:41:05] and then we also know of companies that
+[00:41:07] had you know like not enough risk
+[00:41:09] tolerance they had a professional ceo
+[00:41:11] come in
+[00:41:12] you know i don't want to criticize
+[00:41:13] anybody but like like
+[00:41:15] steve ballmer or someone would be a
+[00:41:16] classic example i'm sure he's a smart
+[00:41:17] guy right but something happened there
+[00:41:19] where they didn't have the risk
+[00:41:19] tolerance
+[00:41:21] so
+[00:41:22] i kind of view my job as like a founder
+[00:41:24] ceo at this point is to ensure we have
+[00:41:27] um enough risk tolerance to try new
+[00:41:28] ideas and then i and then i also want to
+[00:41:31] pair myself with
+[00:41:32] great operators like like emily choi our
+[00:41:35] ceo and president right and we have a
+[00:41:37] really amazing executive team so
+[00:41:40] it's the combination of like great
+[00:41:41] operator but also great founder energy
+[00:41:44] which i think is a nice combination that
+[00:41:46] creates
+[00:41:47] good outcomes if you do if you're too
+[00:41:48] heavy on one or the other sometimes it
+[00:41:50] doesn't work as well
+[00:41:51] there's something a lot of you don't
+[00:41:53] know about me last year i co-founded a
+[00:41:55] company called third web and most of my
+[00:41:57] available time right now is spent
+[00:41:58] building third web so
+[00:42:01] what is third web third web makes it
+[00:42:03] really really easy to build web through
+[00:42:05] applications and today's guest is one of
+[00:42:08] the most famous ceos and founders in
+[00:42:10] web3 and we actually have a really
+[00:42:12] strong relationship with his company
+[00:42:13] coinbase so it felt somewhat fitting to
+[00:42:16] introduce third web to you in this
+[00:42:18] episode just for a couple of seconds
+[00:42:19] since we launched third web the growth
+[00:42:22] has been insane the world's biggest
+[00:42:24] brands sports teams creators gaming
+[00:42:27] studios and hundreds of funded web3
+[00:42:29] startups have all used third web to
+[00:42:31] power everything that they want to do in
+[00:42:33] web 3. nft drops packs dowels you name
+[00:42:36] it third web powers it in the last two
+[00:42:39] months alone the number of active
+[00:42:41] projects using third web tools has
+[00:42:43] doubled despite the bear market so if
+[00:42:45] you're an entrepreneur if you're a brand
+[00:42:47] owner if you're a web 3 developer or
+[00:42:49] just someone that's interested in web 3
+[00:42:51] which is in my opinion the next major
+[00:42:53] technological shift that will impact all
+[00:42:55] of our lives kind of like social media
+[00:42:57] and web 2 did then you can start
+[00:42:59] building that future today using third
+[00:43:02] web check out thirdweb.com for more the
+[00:43:04] link is in the description below
+[00:43:06] let's get back to the episode
+[00:43:08] you read this um the white paper
+[00:43:10] satoshi's famous bitcoin white paper
+[00:43:12] pivotal moment for you sparks interest
+[00:43:14] and intrigue while you're at um airbnb
+[00:43:16] you do something which a lot of people
+[00:43:18] ask me about as well which is when
+[00:43:20] you're in a job and you have a spark of
+[00:43:21] inspiration how do you do both you've
+[00:43:24] got to pay the bills on one end but then
+[00:43:25] you want to pursue this idea how did you
+[00:43:27] do both because you stayed at airbnb
+[00:43:29] while you started developing yeah what
+[00:43:31] became coinbase
+[00:43:33] yeah so basically i did it on nights and
+[00:43:34] weekends people didn't like that answer
+[00:43:37] yeah it sounds toxic it required a lot
+[00:43:38] of energy i mean i basically so
+[00:43:42] so first of all you need to make sure
+[00:43:43] that if you are currently employed like
+[00:43:45] don't build it you know on company hours
+[00:43:47] and don't build it on the company laptop
+[00:43:49] there's a lot of um
+[00:43:50] ip litigation that has ended you know
+[00:43:53] for some people has ended badly because
+[00:43:55] the company actually owns it typically
+[00:43:57] at least in the us i don't know what the
+[00:43:58] rules are in other countries
+[00:44:00] um if you build it on employ on company
+[00:44:02] time on the company hardware the company
+[00:44:04] probably owns the ip
+[00:44:06] so you need to make sure you're doing it
+[00:44:07] on your own computer not during hours so
+[00:44:09] anyway i i would often work till like 7
+[00:44:11] p.m or something like that i'd come home
+[00:44:14] eat dinner or something like that and
+[00:44:15] then i would work from like 8 p.m to
+[00:44:17] midnight
+[00:44:19] um i would do that maybe three or four
+[00:44:21] days a week on weekdays and then on the
+[00:44:22] weekend i'd work
+[00:44:24] maybe like sunday afternoon for like
+[00:44:26] seven or eight hours so i was i was
+[00:44:28] probably doing like 20 hours a week or
+[00:44:30] something like that on
+[00:44:32] what would eventually become coinbase in
+[00:44:34] my personal time and it was hard it
+[00:44:37] sucked i mean i was like tired after a
+[00:44:38] full day of work it's like 7 p.m but
+[00:44:40] this is where that some of that
+[00:44:41] determination comes in right and i was
+[00:44:43] like
+[00:44:44] okay well my co-workers like going out
+[00:44:46] drinking or whatever and
+[00:44:48] nothing wrong with that i did a lot
+[00:44:49] plenty of that but like in my time at
+[00:44:52] that moment in that time i was i was you
+[00:44:54] know my late 20s i was like i really
+[00:44:56] want to try to build something important
+[00:44:57] in the world like i'm going to have to
+[00:44:58] take
+[00:44:59] like
+[00:45:00] my own
+[00:45:01] determination and turn that into this
+[00:45:03] fuel to go try to build this thing so
+[00:45:06] i probably did that for like a year year
+[00:45:08] and a half to try to build the prototype
+[00:45:09] of what would become coinbase
+[00:45:11] um and then i applied to y combinator
+[00:45:13] they they eventually accepted me and
+[00:45:15] wrote me the initial seed check that's
+[00:45:17] what gave me the confidence to quit my
+[00:45:18] job and go full time on it how did you
+[00:45:20] maintain friendships and those kind of
+[00:45:22] meaningful personal relationships at
+[00:45:24] that in that time when you're working
+[00:45:25] full-time during the day and then coming
+[00:45:26] home and writing
+[00:45:28] code
+[00:45:28] where's the
+[00:45:30] you know where's the time for
+[00:45:32] friends and girlfriends and yeah
+[00:45:36] i was pretty intense about it i i would
+[00:45:38] say i sacrificed uh
+[00:45:40] friendships for it i mean it's not like
+[00:45:43] i wasn't like you know um
+[00:45:45] just like never responding to people but
+[00:45:48] people would ping me like hey can you
+[00:45:49] come out and this thing and i was like
+[00:45:50] actually i remember it's a funny memory
+[00:45:52] one time this guy who i really like um
+[00:45:54] from work he was he's like come out to
+[00:45:56] this thing we're going to this club or
+[00:45:57] something
+[00:45:58] and i think i literally wrote back to
+[00:46:00] him
+[00:46:02] i'm changing the world one line of code
+[00:46:03] at a time
+[00:46:05] can't hang out he's like rock on i love
+[00:46:07] it
+[00:46:08] um
+[00:46:09] so you know i was joking or whatever
+[00:46:11] with my mom yeah
+[00:46:14] so
+[00:46:15] you know i think i've seen this happen
+[00:46:17] to various people like they they get to
+[00:46:19] a certain point in their life and like
+[00:46:20] god damn it i'm gonna [ __ ] can i swear
+[00:46:22] on this program of course you can okay
+[00:46:23] so anyway there's a there comes a time
+[00:46:25] i've seen this happen to various people
+[00:46:26] in their life it's something triggers it
+[00:46:28] sometimes it's like
+[00:46:30] it's an age thing they're like turning a
+[00:46:31] certain age where they always thought
+[00:46:33] they would have more done by then or
+[00:46:34] they
+[00:46:35] you know a certain maybe someone in
+[00:46:36] their family passes away and they're
+[00:46:38] like oh my god like time is finite it's
+[00:46:40] precious
+[00:46:41] and something happens where they're like
+[00:46:42] i'm not gonna [ __ ] around anymore like
+[00:46:44] i'm gonna get this done
+[00:46:46] no matter the cost and they just start
+[00:46:48] really buckling down they find this
+[00:46:50] source of energy and so
+[00:46:52] you know
+[00:46:53] find whatever that is for for you like
+[00:46:55] the listener out there and um
+[00:46:58] and then go hard at it you know finish
+[00:47:00] your book like launch your
+[00:47:02] launcher thing whatever it is the app
+[00:47:03] the startup just just start doing stuff
+[00:47:05] like and even if you don't even know
+[00:47:07] what to do just do anything because you
+[00:47:09] know action will produce information
+[00:47:12] um
+[00:47:13] i i actually so that you just reminded
+[00:47:15] me there was a precursor to the coinbase
+[00:47:17] which was um this app that i built with
+[00:47:19] my friend uh which we were trying to
+[00:47:21] figure out how bitcoin worked and we
+[00:47:22] built that and the minute we shipped it
+[00:47:24] i was like it's built wrong
+[00:47:26] and i knew the architecture was wrong
+[00:47:27] and then i knew what to do next and so
+[00:47:29] oftentimes you don't even know what to
+[00:47:30] do just do anything and you'll find
+[00:47:32] it'll help you get to the right thing
+[00:47:34] action leads to information yeah action
+[00:47:37] produces information
+[00:47:38] never heard that before i i i stole that
+[00:47:40] from uh paul graham i think who started
+[00:47:42] white commentators yeah it's so true and
+[00:47:44] i will steal that from you so again can
+[00:47:45] you hear that in the future without
+[00:47:46] credit then you know where it's come
+[00:47:47] from at that time what were you trying
+[00:47:50] to build you'd read that white paper you
+[00:47:52] launched that first step then after that
+[00:47:54] first app you launched what were you
+[00:47:55] trying to build what was the vision
+[00:47:58] yeah so this was 2000 um i guess it was
+[00:48:01] like 2010 time frame and you howled i
+[00:48:04] guess i was like 29 yeah something like
+[00:48:06] that
+[00:48:07] um
+[00:48:08] so what i was trying to do i had read
+[00:48:09] the bitcoin white paper and i was like
+[00:48:11] okay this is a decentralized protocol
+[00:48:13] for money or something
+[00:48:15] and my
+[00:48:16] thought in my head at that time was well
+[00:48:18] there's been other decentralized
+[00:48:19] protocols like email is a decentralized
+[00:48:21] protocol
+[00:48:22] you know git is a tool that developers
+[00:48:25] used for version control and so for
+[00:48:27] email people didn't really run their own
+[00:48:29] email servers they'd use a hosted email
+[00:48:30] service like gmail or forget they'd use
+[00:48:33] a hosted service like github right so my
+[00:48:35] thought was okay here's a new
+[00:48:36] decentralized protocol people are going
+[00:48:38] to need like a github or a gmail type
+[00:48:40] thing that does all the security in the
+[00:48:41] backups for you and it works on mobile
+[00:48:43] and the web and i was like someone's
+[00:48:45] going to build a company doing that
+[00:48:47] would be kind of a hard company to run
+[00:48:49] because you're going to be storing all
+[00:48:50] this bitcoin people are going to want to
+[00:48:51] hack it and like that's not like a
+[00:48:53] weekend project that's like a really
+[00:48:54] serious
+[00:48:55] responsibility
+[00:48:57] and i was
+[00:48:58] had that idea in the back of my head and
+[00:49:00] somehow i couldn't get it out of my head
+[00:49:02] and so i just sort of like started
+[00:49:03] tinkering with
+[00:49:05] i i wasn't even really just
+[00:49:07] saying i was going to build a company
+[00:49:08] yet i was more like um
+[00:49:10] i don't know let me just try building a
+[00:49:11] prototype of this to see what if again
+[00:49:13] action produces information
+[00:49:15] and so
+[00:49:16] that was the original idea it was it was
+[00:49:18] like a hosted bitcoin wallet instead of
+[00:49:19] like running your own one on your on
+[00:49:21] your own computer with a node and
+[00:49:22] everything was just complicated at the
+[00:49:24] time and when you told people this idea
+[00:49:26] what was their reaction because you
+[00:49:27] would have had to tell a lot of people
+[00:49:28] that you were building this
+[00:49:29] thing with this thing called bitcoin on
+[00:49:31] a
+[00:49:32] other thing which they wouldn't have
+[00:49:33] understood either yeah so people didn't
+[00:49:35] get it at all i talked to some of my
+[00:49:37] smartest friends
+[00:49:38] about it
+[00:49:39] and they were like i don't really get
+[00:49:40] this bitcoin thing it sounds like a scam
+[00:49:42] honestly right so that they didn't that
+[00:49:44] was not reassuring
+[00:49:46] um and then i went to a couple bitcoin
+[00:49:47] meetups people who were really into
+[00:49:48] bitcoin and i was like yeah i'm building
+[00:49:50] like a hosted bitcoin well like gmail
+[00:49:52] for email but
+[00:49:53] and i remember one of these people was
+[00:49:54] like that's a terrible idea because
+[00:49:56] um you know all the people try to do
+[00:49:59] that they get hacked and they lose they
+[00:50:01] lose all the customer funds and so like
+[00:50:03] that's you should never do that right so
+[00:50:05] i didn't get a lot of positive feedback
+[00:50:07] everybody i talked to actually thought
+[00:50:08] that audio was a bad idea
+[00:50:11] um even when i was i had gone through y
+[00:50:14] combinator i was trying to raise money
+[00:50:16] um
+[00:50:18] you know i would say like for every
+[00:50:21] 10 meetings i did with investors i got
+[00:50:24] nine no's and one kind of
+[00:50:28] i guess like small yes
+[00:50:30] so
+[00:50:31] and that's always tough like fundraising
+[00:50:33] is always tough but you know if you go
+[00:50:34] to these people who you believe are like
+[00:50:36] really smart people
+[00:50:38] and 90 of them are telling you no
+[00:50:40] that's like that's like the best case
+[00:50:41] scenario in my experience um
+[00:50:44] you know the the worst case scenario is
+[00:50:46] 100 of them tell you no so but either
+[00:50:48] way it's like 90 90 of people telling
+[00:50:50] you you have to be really
+[00:50:51] kind of willing to um not get
+[00:50:53] discouraged by that
+[00:50:55] you had a co-founder for a couple of
+[00:50:57] weeks during that y combinator process
+[00:50:59] right yeah
+[00:51:00] i heard that you um
+[00:51:02] in in applying for y combinator you
+[00:51:04] wanted to have a co-founder you met
+[00:51:05] someone quickly and then it didn't last
+[00:51:07] more than like four weeks or something
+[00:51:09] yeah exactly um yeah so i was looking
+[00:51:11] for a co-founder at that time and um
+[00:51:14] ben reeves had created this really good
+[00:51:16] app called blockchain.info at the time
+[00:51:17] now it's blockchain.com but
+[00:51:20] um
+[00:51:20] so i reached out to him we didn't really
+[00:51:22] know each other that well we ended up
+[00:51:23] applying to white combinator and uh
+[00:51:26] sort of did this like shotgun wedding
+[00:51:27] thing but it didn't it didn't work out
+[00:51:29] and it was like
+[00:51:31] we were about to start the program and
+[00:51:33] um
+[00:51:34] we basically decided to part ways so
+[00:51:36] it's funny in an alternate universe
+[00:51:39] um
+[00:51:41] blockchain.com and coinbase would have
+[00:51:42] been the same company but anyway
+[00:51:45] it all obviously worked out well for
+[00:51:47] both of us
+[00:51:48] did you have self-doubt at that point
+[00:51:50] for sure oh man i was filled with
+[00:51:52] self-doubt yeah
+[00:51:54] i
+[00:51:55] i thought
+[00:51:56] that first of all i thought maybe i was
+[00:51:57] crazy because all my friends who i
+[00:51:59] talked about this idea thought it was
+[00:52:01] a bad idea
+[00:52:02] um the thing that gave me a glimmer of
+[00:52:04] hope was that y combinator decided to
+[00:52:06] give me this 150k seed check and i
+[00:52:09] really respected y combinator um so that
+[00:52:11] gave me a big shot of confidence but
+[00:52:14] you know before that it was like
+[00:52:17] it was very touch and go i mean i i was
+[00:52:18] like well my co-founder thing didn't
+[00:52:20] work out um
+[00:52:23] i don't know like i'm just going to try
+[00:52:24] my best here but like this i was like
+[00:52:26] this has like a pretty high chance of
+[00:52:27] failure what did your parents think
+[00:52:31] um okay so my parents have always have
+[00:52:33] people who worked at like big companies
+[00:52:35] like their whole life and um
+[00:52:37] i don't know if they ever really got the
+[00:52:39] whole entrepreneurship thing that i was
+[00:52:40] so into
+[00:52:41] the
+[00:52:42] when i called to tell them that i was
+[00:52:43] quitting airbnb to go start this company
+[00:52:47] there was kind of like okay well
+[00:52:49] we we support you we love you like
+[00:52:52] are you gonna have any health insurance
+[00:52:54] that's what my mom asked i think
+[00:52:56] um
+[00:52:57] and so i think there was
+[00:52:58] they were kind of afraid that i was
+[00:53:00] doing something really stupid and
+[00:53:01] reckless
+[00:53:02] is my guess
+[00:53:04] but
+[00:53:05] they ultimately trusted me and supported
+[00:53:07] it probably probably with a lot of
+[00:53:08] doubts
+[00:53:09] is my guess on that point of co-founders
+[00:53:12] yeah um i read that you eventually sort
+[00:53:14] of interviewed 50 odd co-founders to try
+[00:53:16] and find the right one for what would
+[00:53:17] become coinbase
+[00:53:19] what were you looking for
+[00:53:20] and what was in hindsight what advice
+[00:53:22] would you give me because that's another
+[00:53:23] question i get asked a lot is how did
+[00:53:24] you find a co-founder and yeah
+[00:53:27] so yeah i was looking for a co-founder
+[00:53:29] at that time desperately and i was i'd
+[00:53:30] go on these like co-founders dates you
+[00:53:32] know we'd meet somebody see how it goes
+[00:53:33] they'd pitch you your their startup idea
+[00:53:35] i'd tell them about mine and maybe go on
+[00:53:37] a second date or third date so
+[00:53:39] none of these seem to like really click
+[00:53:41] and i guess i was looking for someone to
+[00:53:44] get really excited about my idea
+[00:53:46] um but also somebody who i felt was
+[00:53:48] really complementary to me in terms of
+[00:53:50] like um it pushed me to think bigger and
+[00:53:53] stuff like that i hadn't thought about
+[00:53:54] before and you know i wanted to leave
+[00:53:56] feeling energized and that i'd learned
+[00:53:58] something
+[00:53:59] and they were good compliment
+[00:54:00] and so
+[00:54:01] i got kind of disillusioned because a
+[00:54:03] number of these went on and on and on
+[00:54:04] and i could i couldn't find anybody like
+[00:54:06] that i really liked to join this thing
+[00:54:08] so eventually i just got fed up
+[00:54:10] and i was like all right you know what
+[00:54:12] i'm just gonna do this thing on my own
+[00:54:13] and like
+[00:54:14] and get it off the ground
+[00:54:16] and
+[00:54:17] lo and behold once i started to show
+[00:54:19] some signs of progress you know like
+[00:54:21] getting through y combinator raising a
+[00:54:22] seed check getting the product i put the
+[00:54:24] prototype out there on like reddit and
+[00:54:27] the right person reached out to me
+[00:54:29] and so anyway i tell people that story
+[00:54:31] because i think it's an important lesson
+[00:54:32] which is basically
+[00:54:34] if you don't have the right co-founder
+[00:54:36] just keep making progress and signs of
+[00:54:39] success may cause the right person to
+[00:54:40] find you it needs to be public signs of
+[00:54:43] success it's almost like putting out the
+[00:54:45] bat signal
+[00:54:46] like um if you have like half of an idea
+[00:54:49] you can't just like
+[00:54:51] be talking to your friends about it you
+[00:54:52] got to put it out on a blog post or like
+[00:54:54] a prototype or get something out there
+[00:54:56] in the world on twitter or whatever
+[00:54:58] because then the other person might be
+[00:54:59] out there and they won't know to find
+[00:55:01] you and reach out unless you put out the
+[00:55:02] bat signal so
+[00:55:03] that's also really good dating advice
+[00:55:06] it's like you said if you don't have a
+[00:55:08] co-founder just keep making progress and
+[00:55:09] putting it out there
+[00:55:11] i guess it's true like in terms of
+[00:55:12] people fitness and you know health and
+[00:55:14] development fine figure out yourself
+[00:55:15] yeah exactly yeah and you become a
+[00:55:17] magnet as opposed to having to be a
+[00:55:18] peacock
+[00:55:19] that's true so
+[00:55:21] and that's much more valuable when i
+[00:55:22] think about your first tutoring company
+[00:55:24] there was that pivotal moment where you
+[00:55:26] removed the payment and just kind of got
+[00:55:27] out the way and that was pivotal to the
+[00:55:29] company exploding yeah when you think
+[00:55:31] about those early years what what was
+[00:55:32] the significant step that unlocked the
+[00:55:35] the growth in your view
+[00:55:37] yeah so there was a significant moment
+[00:55:39] like that with coinbase too because
+[00:55:41] oftentimes by the way
+[00:55:43] the first version of a product you put
+[00:55:44] out it doesn't work in fact that's the
+[00:55:46] only thing i've ever seen happen in
+[00:55:48] startups i've never i've never seen a
+[00:55:49] startup there the very first version of
+[00:55:50] their product actually worked sometimes
+[00:55:52] in hindsight people like to tell that
+[00:55:54] story but
+[00:55:56] i think in reality it's very rare
+[00:55:57] so for us or for really it was just me
+[00:56:00] initially then that was fred ursum and i
+[00:56:02] co-founding it um
+[00:56:04] the first version was this hosted
+[00:56:05] bitcoin wallet and so we had i i posted
+[00:56:08] on reddit some people would sign up but
+[00:56:09] nobody would stick around and use the
+[00:56:10] product
+[00:56:12] so in y commentary they teach you this
+[00:56:13] great thing which is
+[00:56:15] don't spend your time you know like
+[00:56:17] going to conferences and like trying to
+[00:56:19] raise money it's like if you don't have
+[00:56:20] product market fit yet
+[00:56:22] talk to your customers and then improve
+[00:56:23] the product based on their feedback and
+[00:56:25] then talk to your customers and improve
+[00:56:26] the product talk to customers improve
+[00:56:27] the product there's really only two
+[00:56:28] things you should be doing in the early
+[00:56:29] stage talking to your customers and
+[00:56:30] improving the product sounds like simple
+[00:56:32] advice but people spend so much time
+[00:56:33] doing other stuff
+[00:56:35] that's actually not real work so
+[00:56:37] taking this advice
+[00:56:39] i emailed you know
+[00:56:41] 10 of the people or so who had signed up
+[00:56:42] for the product and never come back
+[00:56:44] and i said hey i created this app like
+[00:56:46] i'd love to get on the phone with you
+[00:56:47] and just talk to you about it for a
+[00:56:48] minute so i remember i got on the phone
+[00:56:50] with some of these people
+[00:56:51] and one of them one of them was like
+[00:56:54] you know what do you think about the app
+[00:56:54] he's like well i kind of i kind of like
+[00:56:56] it but i don't have any bitcoin so i
+[00:56:58] just didn't come back and i remember
+[00:56:59] thinking
+[00:57:01] well if there had been
+[00:57:02] an easy way to get bitcoin into your
+[00:57:04] wallet like a buy button or something
+[00:57:05] like would you have stuck around and
+[00:57:06] used it he's like yeah probably
+[00:57:09] and so i was like okay let me go try to
+[00:57:11] make a simple buy button so when people
+[00:57:13] sign up they can actually get some
+[00:57:14] bitcoin into their wallet and it turned
+[00:57:16] out that was a very hard thing to do you
+[00:57:17] had to get these bank partnerships i had
+[00:57:19] to figure out money transmission
+[00:57:20] licenses and i won't bore you with all
+[00:57:22] the details there was a lot of
+[00:57:24] you know
+[00:57:26] making things work somehow behind the
+[00:57:28] scenes
+[00:57:29] but the minute that we that we launched
+[00:57:31] at that time i think frederson had just
+[00:57:32] joined we launched that um that buy
+[00:57:35] button
+[00:57:36] it started to grow every day organically
+[00:57:38] with no marketing or anything and that
+[00:57:40] was the minute i felt like we finally
+[00:57:42] had private market fit
+[00:57:43] over the next let's say five so that's
+[00:57:45] 2012 roughly 2012. over the next five
+[00:57:49] years up until the point where fred
+[00:57:50] departs that growth is
+[00:57:52] pretty crazy right for coinbase
+[00:57:55] yeah i mean it started growing
+[00:57:56] organically um
+[00:57:58] and
+[00:57:59] we had a very good problem at that point
+[00:58:01] which was that um we were basically
+[00:58:03] every time someone clicked the buy
+[00:58:04] button we had to use our own capital to
+[00:58:06] acquire the bitcoin at that right at
+[00:58:07] that price so we didn't have some
+[00:58:09] exposure to it going up or down and then
+[00:58:12] we would initiate a debit to their bank
+[00:58:13] account and two or three business days
+[00:58:15] later we'd get the funds so we had
+[00:58:17] basically had a working capital issue
+[00:58:18] like we were using our own corporate
+[00:58:20] funds to buy the crypto and then getting
+[00:58:22] their money the payment from the
+[00:58:24] customer
+[00:58:25] and the numbers started to go up and up
+[00:58:27] and up and um i think it raised like
+[00:58:29] 600k at that time and we were using like
+[00:58:31] 550k to service the day-to-day buying on
+[00:58:34] the site
+[00:58:35] and so
+[00:58:36] we realized quite quickly we're like
+[00:58:38] okay we need to go out and raise money
+[00:58:40] and that was a good a good a good story
+[00:58:42] to raise money was hey this thing is
+[00:58:43] growing so fast that
+[00:58:45] we we're going to be turning away
+[00:58:46] business if we don't raise money that's
+[00:58:48] a good story to go raise money as
+[00:58:50] opposed to you know the numbers are kind
+[00:58:52] of flat we haven't really got it working
+[00:58:53] yet so i think it was very important
+[00:58:54] that we we found product market fit only
+[00:58:57] when we couldn't scale then we went out
+[00:59:00] to raise capital what mistakes did you
+[00:59:01] make as a company in those first five
+[00:59:03] years that you in hindsight go damn
+[00:59:05] that's a that's a key learning
+[00:59:07] yes i think if i were to go back and do
+[00:59:09] it again there's a few things i might
+[00:59:10] have
+[00:59:11] done that would have helped it be more
+[00:59:12] get to get there even more efficiently i
+[00:59:14] mean
+[00:59:15] one is that we actually never wrote down
+[00:59:17] like the mission of the company or the
+[00:59:18] value of the company early on
+[00:59:21] and we were doing it all organically we
+[00:59:23] were basically just hiring interviewing
+[00:59:24] every single person who would join and
+[00:59:26] we managed to create this really
+[00:59:28] interesting culture but it was a little
+[00:59:29] bit
+[00:59:31] it wasn't very deliberate it was just it
+[00:59:32] happened kind of accidentally because we
+[00:59:34] were just choosing the people that we
+[00:59:36] wanted to work with and we really
+[00:59:37] surprised us and we're really bright
+[00:59:40] in those high growth moments there's so
+[00:59:42] things keep breaking yeah and processors
+[00:59:44] actually need to adopt when you get as
+[00:59:45] you'll know from when you go from a
+[00:59:46] couple of people to them 50 to 100 to
+[00:59:48] them so just thinking if there's any
+[00:59:50] advice you have for me someone i've
+[00:59:52] grown a business but not in not in such
+[00:59:54] a a high growth way and not in such an
+[00:59:56] interesting um
+[00:59:59] uncharted industry
+[01:00:01] um
+[01:00:02] eventually your co-founder fred departs
+[01:00:06] what was that like emotionally because i
+[01:00:08] can't imagine the thought of my
+[01:00:10] co-founder parting in e5 it would almost
+[01:00:13] make me feel honestly it would have made
+[01:00:14] me feel like
+[01:00:16] they were part of the reason i was doing
+[01:00:17] this yeah you know that bond and that
+[01:00:19] we're in this together so how did that
+[01:00:20] feel emotionally
+[01:00:22] i mean it was awful um
+[01:00:24] i cried
+[01:00:26] you know um
+[01:00:27] so
+[01:00:28] yeah so i think
+[01:00:29] here's the whole story so i think really
+[01:00:31] fred um president was an amazing
+[01:00:33] co-founder and we were building all this
+[01:00:34] great stuff together he's really a
+[01:00:36] natural leader right and so
+[01:00:38] um i was the ceo of the company but
+[01:00:39] there was times where you know i i think
+[01:00:42] he felt like he was being held back he
+[01:00:44] really kind of wanted to run his own
+[01:00:45] thing at a certain point and we were
+[01:00:47] almost kind of like running it jointly
+[01:00:48] at various places and at various times
+[01:00:51] and so i tried my best to like keep him
+[01:00:53] engaged and i was like all right why
+[01:00:55] don't you go do all the external facing
+[01:00:56] stuff and what's the thing that would
+[01:00:58] really excite you like you know
+[01:01:00] he did a lot of the fundraising like he
+[01:01:02] was really representing the company in
+[01:01:03] the way you know the the titles didn't
+[01:01:05] matter
+[01:01:06] um
+[01:01:08] but ultimately i think he really did
+[01:01:10] want to run his own thing and so he was
+[01:01:11] very clear with me he we talked about it
+[01:01:13] basically over the period of like a year
+[01:01:14] or so um
+[01:01:16] with an exec coach and all this and
+[01:01:18] one of the things that i think i'm most
+[01:01:20] proud of is that he and i are still like
+[01:01:22] really good friends probably best
+[01:01:23] friends to this day
+[01:01:25] um whereas a lot of co-founders when
+[01:01:27] someone does leave there's a blow up and
+[01:01:28] it's like i think we both realized at a
+[01:01:30] certain point it was like actually the
+[01:01:32] more important thing to preserve here is
+[01:01:33] the friendship and so
+[01:01:34] he was great about it he was like i want
+[01:01:36] to make sure the company's in a good
+[01:01:37] place it doesn't need to happen any
+[01:01:39] there's nothing soon here happening but
+[01:01:40] i do eventually want to transition so
+[01:01:42] over a period of a year we talked about
+[01:01:44] it and then when he finally told me he
+[01:01:46] was ready i cried
+[01:01:48] um
+[01:01:49] it did feel like you know it was losing
+[01:01:51] kind of half the company the the s
+[01:01:54] founding moment of it and i remember so
+[01:01:56] then we had to go in front of the
+[01:01:57] company and tell deliver the news
+[01:01:59] oh man so
+[01:02:01] um
+[01:02:01] we talked to the board and everything
+[01:02:02] like that too first but we went i
+[01:02:04] remember the day we had to go
+[01:02:05] tell the company
+[01:02:07] and you know
+[01:02:08] i i wasn't normally i wasn't getting
+[01:02:10] nervous talking to the company like you
+[01:02:12] know first company's two people and then
+[01:02:13] it's five then it's 10 and then it's 50
+[01:02:15] then it's 100 200 so you sort of get to
+[01:02:17] build up your tolerance and like okay i
+[01:02:18] could go talk to the company of 150
+[01:02:20] people or something
+[01:02:22] but this time i had to go up there and
+[01:02:23] tell them the co-founder was leaving and
+[01:02:24] i remember i went up in for the company
+[01:02:26] and my voice
+[01:02:28] cracked like i was like a
+[01:02:30] 14 year old 13 year old whatever and
+[01:02:32] then my my leg was like shaking you know
+[01:02:35] sometimes you get like enough adrenaline
+[01:02:37] if you're like you're nervous that
+[01:02:37] you're just like you're anyway i was
+[01:02:39] like oh my god it's so embarrassing like
+[01:02:41] i had to like walk behind the podium so
+[01:02:43] nobody could see my leg shaking and my
+[01:02:45] voice is cracking
+[01:02:46] and i'm like god i'm [ __ ] i'm messing
+[01:02:48] this up you know like because i'm
+[01:02:50] supposed to be projecting confidence and
+[01:02:52] like no it's not a big deal we're gonna
+[01:02:53] get through this and i'm just like
+[01:02:54] coming across like this pre-pubescent
+[01:02:56] kid you know
+[01:02:57] um
+[01:02:59] so everybody of course is like kind of
+[01:03:00] shocked and they could
+[01:03:02] people were like i could tell you were
+[01:03:03] really scared brian i was like [ __ ] okay
+[01:03:05] i didn't really announce that very well
+[01:03:07] um and of course like you know
+[01:03:10] 48 hours went by like
+[01:03:12] everybody
+[01:03:13] freaked out and then it was like 40
+[01:03:15] hours later it was like all right let's
+[01:03:16] get back to work you know and and of
+[01:03:18] course it wasn't as bad as i thought but
+[01:03:20] yeah that was a really scary moment and
+[01:03:21] then and basically i had to transition
+[01:03:23] from
+[01:03:24] running the company with like all right
+[01:03:26] fred and i let's get in the room and
+[01:03:27] decide it to okay let's actually build
+[01:03:29] an executive team around me um
+[01:03:33] to
+[01:03:33] have a more like professionally run
+[01:03:35] company if you will so it ended up being
+[01:03:38] like sort of a second founding moment of
+[01:03:40] the company and i realized this later
+[01:03:42] actually companies have many founding
+[01:03:43] moments
+[01:03:44] and you can just keep building what
+[01:03:46] situation was the company and now again
+[01:03:48] in hindsight yeah at that stage because
+[01:03:50] i heard in 2017 things were a little bit
+[01:03:52] messy
+[01:03:54] and and you brought in this executive
+[01:03:55] team to kind of help you you know
+[01:03:57] solve some of those problems but when at
+[01:04:00] the point when fred left
+[01:04:02] what was the state of the company
+[01:04:04] so he he left it as this market was
+[01:04:06] swinging up and that was conscious on
+[01:04:08] his part he wanted to make sure the
+[01:04:09] company didn't harm the company as he
+[01:04:11] left
+[01:04:12] um
+[01:04:13] and so yeah the challenge after that was
+[01:04:14] like okay go build an exec team and a
+[01:04:17] lot of founders have gotten through this
+[01:04:18] it's
+[01:04:19] it's quite hard so
+[01:04:21] if the company is growing you know 50 a
+[01:04:23] year or something you can oftentimes
+[01:04:25] promote people from within who are kind
+[01:04:26] of learning on the job and just take on
+[01:04:28] more and more responsibility
+[01:04:29] we in the in these cryptos so volatile
+[01:04:31] to go through like 500 growth in one
+[01:04:33] year and then
+[01:04:34] negative 100 the next year and it's like
+[01:04:37] so
+[01:04:38] i felt like i was in over my head like
+[01:04:41] all these junior people who had joined
+[01:04:42] early on we were all in over our head we
+[01:04:44] were like so we basically went out to
+[01:04:46] seek more experienced executives to come
+[01:04:48] in
+[01:04:49] and um that was in itself its own
+[01:04:52] crazy process with lots of learnings
+[01:04:54] because
+[01:04:54] whenever you bring in a bunch of
+[01:04:55] high-powered executives you know
+[01:04:56] sometimes you get people who butt heads
+[01:04:58] right and um it's hard when like taking
+[01:05:01] a new team
+[01:05:03] they have to build trust and oftentimes
+[01:05:05] the team is often like kind of
+[01:05:07] dysfunctional until like they go through
+[01:05:09] enough together so
+[01:05:11] we had some good blow-ups there um there
+[01:05:13] was some executives like left or were
+[01:05:15] fired and like um
+[01:05:17] you know i had to like basically learn
+[01:05:18] how to work with with more
+[01:05:21] seasoned executives
+[01:05:24] and people who had run massive things
+[01:05:26] before and um
+[01:05:28] you know i i guess one lesson i learned
+[01:05:30] from that and this is kind of personal
+[01:05:31] to me there's different people find
+[01:05:33] different things that work for them but
+[01:05:35] you know i realized i wanted to work
+[01:05:37] with people who were not just really
+[01:05:39] brilliant but like also really humble
+[01:05:41] because i'm not really like a combative
+[01:05:43] person by nature like some people
+[01:05:45] some companies have this culture where
+[01:05:46] they love to hash things out and debate
+[01:05:48] it and like that's that's like a really
+[01:05:49] good conversation or like you kind of
+[01:05:51] get into it you're like
+[01:05:52] you know but i'm i'm more of like i want
+[01:05:54] to think about what you said and like
+[01:05:55] come back and and more collaborative so
+[01:05:57] i'm not really i'm a little bit conflict
+[01:05:59] diverse
+[01:06:00] so um anyway i started hiring more for
+[01:06:02] like people who are bright but humble
+[01:06:05] collab collaborative i mean the risk of
+[01:06:07] that by the way is you can get into a
+[01:06:08] little bit of like a yes person culture
+[01:06:10] where every everyone's afraid to
+[01:06:12] disagree or something that's also not
+[01:06:13] good but
+[01:06:14] it took me a couple iterations to kind
+[01:06:16] of find my style there and
+[01:06:19] now it's working great like the exec
+[01:06:20] team is super
+[01:06:22] competent and high trust and
+[01:06:24] collaborative
+[01:06:25] and i think it's like a it gives us a
+[01:06:26] lot of
+[01:06:27] benefits as a company because there's
+[01:06:29] like basically no bs politics stuff it's
+[01:06:31] just like we're just getting work done
+[01:06:32] have each other's back
+[01:06:34] and we have you have to constantly tend
+[01:06:35] that and nurture it like with these exec
+[01:06:37] offsides and stuff but
+[01:06:39] yeah there were some learning pains
+[01:06:41] there when when crypto went through that
+[01:06:42] first well not the first but that real
+[01:06:45] that sort of 2017 bull run where
+[01:06:47] everything was going up how were you
+[01:06:49] feeling as the ceo of coinbase coinbase
+[01:06:51] is exploding i remember that that's when
+[01:06:53] i i first downloaded coinbase and became
+[01:06:55] a coinbase customer how were you feeling
+[01:06:57] a ceo in terms of
+[01:07:00] optimism for
+[01:07:02] how long that moment was going to last
+[01:07:04] did you did you have a suspicion that it
+[01:07:06] that in 2018 i believe it was that the
+[01:07:07] market would come crashing down
+[01:07:10] yeah i didn't know when it would happen
+[01:07:11] but there was definitely
+[01:07:13] it it tipped at a certain point from
+[01:07:14] like oh this growth is really good too
+[01:07:17] okay things are getting a little crazy
+[01:07:19] here like
+[01:07:20] there was
+[01:07:21] yeah i remember i'd go to some events
+[01:07:23] and i was like everybody was coming in
+[01:07:24] launching some ico
+[01:07:26] and um people would like come over and
+[01:07:28] like want to take selfies with me and
+[01:07:30] then like post the stuff on twitter and
+[01:07:32] like almost implying i was like
+[01:07:34] endorsing the project and then um i
+[01:07:36] remember like weird stuff happened like
+[01:07:37] i was living in this apartment building
+[01:07:39] in san francisco
+[01:07:40] and this guy who like worked in the
+[01:07:42] building
+[01:07:44] came to me one day and he's like this
+[01:07:45] package arrived for you sir and uh sir i
+[01:07:47] just have this question like which
+[01:07:49] crypto should i buy and i was like i
+[01:07:51] don't know this is getting really weird
+[01:07:53] like i don't i don't give any investment
+[01:07:55] advice or whatever and
+[01:07:57] um
+[01:07:58] yeah so basically it started attracting
+[01:07:59] in like people who are just trying to
+[01:08:00] get rich quick or scams and all this
+[01:08:02] stuff
+[01:08:03] and so
+[01:08:05] yeah we started i started walking around
+[01:08:06] with like a security guard um
+[01:08:09] we had like some over exuberant
+[01:08:10] customers it was it was weird tell me
+[01:08:12] about that because
+[01:08:14] i was i was thinking we've had some um
+[01:08:16] fintech ceos here yeah that have built
+[01:08:18] disruptive banks out in europe so monzo
+[01:08:20] starling bank et cetera even clark you
+[01:08:22] know klan i guess that's not a bank but
+[01:08:24] kleiner the ceo sebastian here as well
+[01:08:26] security is not something that most ceos
+[01:08:29] have to think about but when you're
+[01:08:31] dealing with money
+[01:08:32] as tom told me from monzo you get a lot
+[01:08:35] of
+[01:08:37] unhappy people because you're
+[01:08:40] you know you sometimes you have to
+[01:08:41] freeze funds and things like that
+[01:08:44] yeah well okay so i think
+[01:08:46] i mean if at a certain size of company
+[01:08:48] it's almost inevitable for every ceo
+[01:08:50] it's not just it's just not just money
+[01:08:52] but i do think that we probably started
+[01:08:54] a little earlier
+[01:08:56] because um because it was crypto is
+[01:08:58] money
+[01:08:59] um
+[01:09:00] and yeah i mean it's it's also just a
+[01:09:03] law of numbers like if you're running an
+[01:09:05] enterprise a sas a b2b business
+[01:09:07] something like that you might have
+[01:09:09] thousands of customers or maybe 100 000
+[01:09:11] or something but if you're running a
+[01:09:13] very popular consumer app
+[01:09:15] um and you get into the millions or you
+[01:09:17] know coinbase has like maybe like 100
+[01:09:19] million ish verified users now
+[01:09:21] um
+[01:09:22] if you just think about it statistically
+[01:09:23] i mean you know
+[01:09:25] like what like one in a hundred people
+[01:09:27] in society has some form of
+[01:09:28] schizophrenia right
+[01:09:29] maybe one one out of ten of those like
+[01:09:32] so one out of a thousand people in
+[01:09:33] society
+[01:09:34] has a form of mental illness that just
+[01:09:36] like
+[01:09:38] you know
+[01:09:39] could be potentially dangerous or they
+[01:09:40] can become obsessed with things
+[01:09:42] irrationally or whatever and so if you
+[01:09:44] have 100 million customers like there's
+[01:09:46] going to be enough people as part of it
+[01:09:48] is just like a law of large numbers
+[01:09:50] but um
+[01:09:51] you know i i don't want to overstate it
+[01:09:53] like it's not i don't it's not like a
+[01:09:55] huge burden on my life i i feel i feel
+[01:09:57] safe and i'm able to keep functioning
+[01:09:59] and stuff like that
+[01:10:00] um
+[01:10:01] yeah another thing most ceos don't have
+[01:10:03] to contend with is building a business
+[01:10:05] in such a volatile market so when in
+[01:10:07] 2018 the market comes crashing down the
+[01:10:10] crypto market comes crashing down
+[01:10:12] talk to me about what leadership lessons
+[01:10:14] you learned through that what would what
+[01:10:16] i can only imagine
+[01:10:18] as being a pretty awful period
+[01:10:21] yeah so 2018 everything was coming down
+[01:10:23] off that high of 2017
+[01:10:25] and you know i had been through a couple
+[01:10:26] cycles like this but each one was
+[01:10:28] getting bigger and bigger and
+[01:10:32] it was tough i mean i in the following i
+[01:10:34] think year or so after that crash i
+[01:10:36] think we might have had like 25 of the
+[01:10:38] company leave or something right really
+[01:10:40] yeah so there is a lot of attrition
+[01:10:43] there were people who had joined and
+[01:10:45] they thought hey this is a rocket ship
+[01:10:46] it's only going one way and then
+[01:10:48] when it was down and lots of negative
+[01:10:50] news headlines come along you know the
+[01:10:52] news always focuses on things that are
+[01:10:53] not always but often focuses on things
+[01:10:55] that are too short-term when it's going
+[01:10:56] up they're like this is they're genius
+[01:10:58] and their future everything's future and
+[01:11:00] then when it's down they're like this is
+[01:11:02] never gonna it's failed and neither one
+[01:11:04] is true right like reality you have to
+[01:11:05] zoom out to kind of look at reality
+[01:11:08] but one thing i realized um was that i
+[01:11:10] felt this overwhelming pressure as ceo
+[01:11:13] was like oh shoot like every every week
+[01:11:15] i've got to get in from the company and
+[01:11:16] like put on a good face
+[01:11:18] and like create some sense of optimism
+[01:11:19] right
+[01:11:21] the reality was
+[01:11:23] i was kind of feeling shitty about it
+[01:11:24] too and so it was a little inauthentic
+[01:11:26] for me to go up there and
+[01:11:28] try to just be super positive or
+[01:11:30] something and so one leadership lesson i
+[01:11:32] learned during that moment is that
+[01:11:35] great leaders are often vulnerable
+[01:11:38] and so
+[01:11:39] it's actually a much more powerful
+[01:11:41] leadership uh style i think to just go
+[01:11:43] up there and say how you actually feel
+[01:11:45] which you might be able to go you might
+[01:11:47] go up there and say something like i
+[01:11:48] feel like [ __ ] today you know like this
+[01:11:50] thing's down like this person quit
+[01:11:52] um whatever it is
+[01:11:55] now it helps if you if you can then use
+[01:11:57] that to as a moment to like
+[01:11:59] bring the team together and it's not
+[01:12:00] like you have to solve all the problems
+[01:12:01] as ceo it's like
+[01:12:03] we
+[01:12:04] you use a lot of we language right it's
+[01:12:05] like i don't know how you're feeling i
+[01:12:07] feel like this that that's going to take
+[01:12:09] a little bit of attention out of the
+[01:12:10] room because they're all probably
+[01:12:11] feeling it too and they're like okay
+[01:12:13] great this guy's like not a robot he
+[01:12:15] like kind of gets it too it's like okay
+[01:12:17] so what can we do about it like well we
+[01:12:18] all need to figure out how to solve x x
+[01:12:20] is a pretty big problem right now we all
+[01:12:21] need to figure out how to solve y so
+[01:12:23] what do w what are we going to do like
+[01:12:24] this week i'm going to host this meeting
+[01:12:26] with so and so in this group and like
+[01:12:27] we're going to come i want you to all
+[01:12:29] bring your best ideas about how we're
+[01:12:30] going to solve x we're going to pick one
+[01:12:31] and we're going to double down on it
+[01:12:32] right so now now it's like you're
+[01:12:34] turning this authenticity this candor
+[01:12:37] in and you're and you're making
+[01:12:38] everybody a part of the solution it's
+[01:12:40] not like
+[01:12:41] hey everybody look to brian like
+[01:12:43] he's got all the answers you know this
+[01:12:45] like messiah complex or whatever like no
+[01:12:47] it's like the strength is comes from the
+[01:12:49] team it's not just like
+[01:12:51] me trying to carry the whole weight of
+[01:12:52] the world in my shoulders or something
+[01:12:53] so that that was a good leadership
+[01:12:54] lesson for me
+[01:12:56] how did you do you've been through you
+[01:12:58] know these crypto winters and your
+[01:13:00] company got so big that you know it went
+[01:13:02] public and then when you become a public
+[01:13:04] company and you're almost seen as the
+[01:13:07] poster child
+[01:13:08] of this space in many respects at least
+[01:13:09] that's that's always been my view of
+[01:13:11] coinbase there's been many many
+[01:13:12] exchanges but the the number one one the
+[01:13:14] one that's the famous one the
+[01:13:16] the poster child is coinbase
+[01:13:18] the pressure
+[01:13:19] and the scrutiny and the headlines and
+[01:13:22] the f and the the fake news and all of
+[01:13:24] it yeah that you must be have thrown at
+[01:13:27] you and then all the you know the
+[01:13:28] internal problems of just running a
+[01:13:30] business anyway how are you dealing with
+[01:13:32] your emotions
+[01:13:34] yeah okay wow deep question so um
+[01:13:38] let's see i think
+[01:13:41] because you're human yeah of course
+[01:13:44] okay so i think one of the most
+[01:13:45] important things i i totally didn't
+[01:13:47] realize this before starting a company
+[01:13:48] but it turns out
+[01:13:50] one of the most important things um
+[01:13:52] skill sets to kind of
+[01:13:54] develop as a ceo of a startup is that
+[01:13:58] you have to be willing to ignore
+[01:14:00] a lot of noise um both positive and
+[01:14:03] negative right
+[01:14:04] because if people on the way up are
+[01:14:06] telling you how brilliant you are and
+[01:14:07] you kind of get caught up in like
+[01:14:09] going to the speaker circuit and like
+[01:14:11] you know um then
+[01:14:13] you're going to fall even harder when
+[01:14:14] they turn on you and then everybody
+[01:14:16] either gets built up or taken down and
+[01:14:18] it's just driving headlines right so
+[01:14:21] you kind of can't believe it on the way
+[01:14:22] up because then you won't believe it on
+[01:14:23] the way down either
+[01:14:25] um i totally didn't realize that by
+[01:14:27] starting a company i thought most people
+[01:14:29] would generally be rooting for you and
+[01:14:30] you know
+[01:14:31] um but there's people out there rooting
+[01:14:33] for you to fail which is a weird thing
+[01:14:35] um they're kind of dealing with their
+[01:14:37] own maybe stuff about success right i
+[01:14:39] don't know what it is
+[01:14:40] um
+[01:14:42] but you have to learn how to just tune
+[01:14:44] all that out so i mean like
+[01:14:46] frankly i just don't don't read like a
+[01:14:48] lot of news anymore i kind of think of
+[01:14:49] it like sugar it's it's addictive
+[01:14:52] and can you consume it in small
+[01:14:53] quantities responsibly and like eat a
+[01:14:55] couple bites of dessert or something
+[01:14:56] like yes
+[01:14:57] but um you have to be really careful
+[01:15:00] because
+[01:15:01] basically the kind of um anger fear
+[01:15:03] outrage whatever you know is an
+[01:15:05] addictive thing by the way it's not just
+[01:15:07] mainstream media like social media has
+[01:15:08] some challenges with this too right i
+[01:15:11] i think it's actually a little
+[01:15:12] hypocritical like mainstream media is
+[01:15:13] always criticizing social media for
+[01:15:15] misinformation and it's like it's
+[01:15:18] pot calling the kiddo black or whatever
+[01:15:19] it's like the same thing happening there
+[01:15:21] so i literally try not to read a lot of
+[01:15:24] this stuff
+[01:15:25] so once then once you developed
+[01:15:28] your own sort of
+[01:15:29] psychology about it now you have to
+[01:15:31] insulate the team from it because
+[01:15:32] they'll go after your team
+[01:15:34] and um so you need to kind of
+[01:15:36] continually be preaching this to the
+[01:15:38] team about like
+[01:15:39] you know be an independent thinker right
+[01:15:42] go
+[01:15:43] develop your own source of truth like
+[01:15:45] um by going to the root of it like um
+[01:15:48] don't
+[01:15:49] don't be listening to um mainstream
+[01:15:51] media or social media whatever when
+[01:15:53] things are up or down
+[01:15:54] you have to curate you have to
+[01:15:56] use that stuff in moderation like like
+[01:15:58] sugar or something it's not actually
+[01:16:01] they're they're trying to sell their own
+[01:16:02] product and they're and
+[01:16:04] one of my friends has this great saying
+[01:16:06] um
+[01:16:06] it's like only a half truth can go viral
+[01:16:09] like if it's
+[01:16:11] you know that
+[01:16:12] triggering or whatever that's like ah
+[01:16:14] like it goes all around the world it's
+[01:16:16] it's half true at best
+[01:16:17] and so you have to remember that
+[01:16:18] whenever you see anything out there
+[01:16:20] what are the things that still penetrate
+[01:16:22] all of that resilience though there's
+[01:16:24] because there's things in even me that i
+[01:16:25] i i understand all of that um as i was
+[01:16:28] saying to you before we start recording
+[01:16:29] i became a dragon dragon's den so i got
+[01:16:31] much more scrutiny than i've ever got
+[01:16:32] from headlines i'd read about my family
+[01:16:34] that i don't have my girlfriend i'd done
+[01:16:36] this that
+[01:16:37] you'd think i was running guantanamo bay
+[01:16:39] the way that right they described my
+[01:16:41] former business all these things um
+[01:16:44] and although i knew i was resilient and
+[01:16:45] although i knew everything you've said
+[01:16:47] and i put these processes in place where
+[01:16:48] i don't see notifications someone tweets
+[01:16:50] me i probably don't even see it it
+[01:16:51] doesn't come up never read the replies
+[01:16:53] yeah i don't have that i turned off all
+[01:16:55] notifications too that's that's a really
+[01:16:57] good one like but what pierces you still
+[01:16:59] yeah what still moves your mood
+[01:17:01] so there's def there's something every
+[01:17:03] year at least that like it's the next
+[01:17:05] level that it's gonna test you right
+[01:17:08] and um
+[01:17:11] you know
+[01:17:12] oh man what was most recently um there
+[01:17:14] was like i don't even know if this was
+[01:17:17] real or if this was like short sellers
+[01:17:19] like putting fake information out there
+[01:17:21] but there was some like petition that um
+[01:17:23] some employees put together or something
+[01:17:24] and like i saw your response to yeah i
+[01:17:26] got irritated by it and like wrote some
+[01:17:27] stuff on twitter about it but that that
+[01:17:29] bugged me for a bit because it was like
+[01:17:31] um
+[01:17:32] okay like you're going to attack the
+[01:17:34] executives like it's not even their
+[01:17:35] fault like you you know whatever blame
+[01:17:37] me so
+[01:17:38] um
+[01:17:39] i think what there's always something
+[01:17:41] new it's like
+[01:17:43] you know a lot of people probably would
+[01:17:45] be okay with oh there's some somebody
+[01:17:47] saying something stupid on twitter or
+[01:17:48] whatever but they really respect x you
+[01:17:51] know maybe it's like
+[01:17:53] um the new york times or something or
+[01:17:55] whatever right and they're like oh
+[01:17:56] that's that's like a and so then you get
+[01:17:58] your first like negative article like
+[01:18:00] that has false information in it in the
+[01:18:02] new york times and then you're like well
+[01:18:04] that just shattered my reality of like
+[01:18:06] even that could happen like so man and
+[01:18:08] there's like what else is
+[01:18:11] like not accurate in the new york times
+[01:18:12] or pic pick any other you know fox news
+[01:18:14] like whatever
+[01:18:15] you know even one of the ones that
+[01:18:17] really got to me was um
+[01:18:19] i always felt like okay we have these
+[01:18:20] kind of people who are upset with us
+[01:18:22] outside of the company but the company
+[01:18:23] is one team like we're all and then when
+[01:18:26] i started to see like sometimes there
+[01:18:27] were people in the company kind of
+[01:18:28] turning on each other i was like man
+[01:18:30] that one really bugged me right
+[01:18:32] so
+[01:18:33] think about um
+[01:18:35] if you think about
+[01:18:36] companies that have gotten to really big
+[01:18:38] scale
+[01:18:40] it makes all your problems look small by
+[01:18:41] comparison okay like like look at mark
+[01:18:43] zuckerberg right i mean the amount of
+[01:18:45] negative news coming out on that guy on
+[01:18:47] a daily basis
+[01:18:48] right
+[01:18:49] um
+[01:18:50] i think that
+[01:18:52] like the russian government like just
+[01:18:54] put him on some like
+[01:18:55] um
+[01:18:56] list of like sanctioned people or
+[01:18:58] something like there's people of
+[01:19:00] tons of death threats you know like
+[01:19:02] um
+[01:19:03] there's there's always another level i
+[01:19:05] can get to
+[01:19:06] you know that's just like
+[01:19:08] anyway i i
+[01:19:10] what i've realized about a lot of
+[01:19:12] people who i think are building
+[01:19:14] important things in the world is that
+[01:19:16] they've developed this like high
+[01:19:18] disagreeableness muscle
+[01:19:20] where
+[01:19:21] they've recognized like they're not
+[01:19:22] going to make everybody happy and
+[01:19:23] they've made peace with it right
+[01:19:25] so they realize at a certain point like
+[01:19:28] whether i do the thing that i think
+[01:19:30] everyone's going to like or everything
+[01:19:31] that
+[01:19:32] is more authentic to me someone's going
+[01:19:34] to be pissed no matter what so at the
+[01:19:36] end of the day i'm just going to do the
+[01:19:37] thing that i think is the right thing
+[01:19:38] and they they've leaned more into
+[01:19:40] authenticity instead of trying to say
+[01:19:42] what they think people want to hear
+[01:19:44] and that does require you to have some
+[01:19:45] amount of thick skin some kind of high
+[01:19:47] disagreeableness and then they can
+[01:19:49] actually
+[01:19:50] do even more interesting stuff because
+[01:19:52] they're they're being themselves instead
+[01:19:54] of trying to be liked
+[01:19:56] my success and my building my personal
+[01:19:58] brand and getting millions of followers
+[01:20:00] online
+[01:20:00] it scratched that itch in an unhealthy
+[01:20:02] way that we described earlier it kind of
+[01:20:04] made me feel it gave me external
+[01:20:05] validation which felt like it was
+[01:20:07] filling me up it's probably sugar or
+[01:20:08] something
+[01:20:09] and then the problem is if you if you
+[01:20:11] were that type of person when you when
+[01:20:12] you do reach that height you get more
+[01:20:14] public scrutiny it matters more to you
+[01:20:16] because validation was your driving
+[01:20:18] force this whole time yeah so is there
+[01:20:20] an element of that with you because
+[01:20:21] because you were an introvert that
+[01:20:22] wanted to have significant be
+[01:20:24] significant because of that early
+[01:20:26] upbringing that it might be
+[01:20:28] psychologically more difficult to deal
+[01:20:30] with because significance and fitting in
+[01:20:32] i guess was so
+[01:20:34] paramount to your initial motivation
+[01:20:37] totally yeah i mean it can be very
+[01:20:40] it can be very addictive also just to be
+[01:20:42] liked and and
+[01:20:43] the adulation and everything so
+[01:20:46] the minute something starts to happen
+[01:20:48] that you realize people aren't going to
+[01:20:50] like you for your temptation is to try
+[01:20:51] to preserve it now you have something to
+[01:20:53] lose you're like i'm going to lose these
+[01:20:54] followers or i'm going to you know
+[01:20:56] um
+[01:20:57] whatever it does it doesn't even matter
+[01:20:58] but it always feels serious at the time
+[01:21:01] so
+[01:21:03] i i definitely had to grow through that
+[01:21:05] i i don't know i think i'm still growing
+[01:21:06] through that to i i would like to get to
+[01:21:08] a place where
+[01:21:11] you know you don't want you don't want
+[01:21:12] to become like isolated to a place where
+[01:21:14] you're not listening to anybody because
+[01:21:16] that's also really bad so you you do
+[01:21:17] wanna you need people who can keep you
+[01:21:18] grounded like your family like your
+[01:21:20] friends whatever and people who around
+[01:21:22] you who will tell you when you're being
+[01:21:23] an idiot or you're just wrong so like
+[01:21:24] you don't ever wanna get to a place
+[01:21:25] where i listen to nobody right but
+[01:21:28] a lot of people you want to be around
+[01:21:30] people who have your best interests at
+[01:21:31] heart and then listen to them or people
+[01:21:33] have already done what you're trying to
+[01:21:34] do it like listen that's good advice but
+[01:21:37] a lot of the people who are just trying
+[01:21:38] to take shots at you to build their own
+[01:21:41] whatever in life
+[01:21:42] you need to build the ability to ignore
+[01:21:44] them and um
+[01:21:47] it's a real superpower to like care less
+[01:21:49] what other people think
+[01:21:50] um at least people who don't have your
+[01:21:52] best interests at heart having worked in
+[01:21:54] social media over the last 10 years i
+[01:21:56] maybe in my seventh or eighth year
+[01:21:57] noticed a really interesting thing that
+[01:21:58] happened um organizations as end women
+[01:22:01] say in their trust reports were once
+[01:22:02] black boxes which is the reputation of
+[01:22:05] the organization the image was written
+[01:22:06] on the outside of the black box of the
+[01:22:07] organization by the marketing department
+[01:22:09] of pr we moved into this world where
+[01:22:11] they're now glass boxes the world can
+[01:22:12] see inside all of your employees have
+[01:22:14] smartphones and they can take pictures
+[01:22:16] and write reviews and so organizations
+[01:22:18] now um had to adapt and one of the
+[01:22:20] things that i've seen just as an
+[01:22:22] observation is ceos being out there in
+[01:22:25] the public eye
+[01:22:26] overly out there in the public eye i'm
+[01:22:28] thinking elon yeah and the antithesis of
+[01:22:30] that might be zuckerberg who basically
+[01:22:32] hid for 10 years and the media shaped
+[01:22:34] him as a
+[01:22:35] soulless data stealing robot and then
+[01:22:38] you've got elon because he's smoking
+[01:22:39] weed on durogan's podcast you can say
+[01:22:42] whatever you like about him i think i
+[01:22:43] know him
+[01:22:44] right i have my own reference point and
+[01:22:46] my point here is about transparency and
+[01:22:48] even doing things like this
+[01:22:50] for me i don't i don't know how you feel
+[01:22:51] about this but for me the if i was
+[01:22:53] running a big organization
+[01:22:54] i'd be doing a lot to make sure that the
+[01:22:56] public had their own reference point of
+[01:22:58] who i am
+[01:22:59] how does that all sit with you because
+[01:23:00] that seems to be the only defense
+[01:23:02] against the media
+[01:23:04] writing your narrative yeah so i've
+[01:23:06] thought about this a lot and i'm not
+[01:23:08] sure i have the perfect answer but um
+[01:23:10] so i think there's a spectrum so
+[01:23:13] on one side of the spectrum like you
+[01:23:14] said you can actually zuckerberg is
+[01:23:15] somewhere in the middle to me but
+[01:23:17] to be truly isolated i think like larry
+[01:23:19] page for instance he was very reclusive
+[01:23:22] almost never gave interviews right
+[01:23:24] elon is kind of out there doing a lot
+[01:23:26] more interviews and he's just like
+[01:23:28] literally says whatever he thinks i
+[01:23:30] think you know right on twitter did you
+[01:23:31] see zuckerberg's 2019 facebook post
+[01:23:34] which one he did the post i think was
+[01:23:35] 2019 maybe 2017 that sounds better 2017
+[01:23:38] he did a post saying that he's basically
+[01:23:39] hidden away for that whole period of
+[01:23:41] time his new year's resolution was to
+[01:23:43] come out of his bunker so he did a
+[01:23:45] period of um hiding out and like yeah
+[01:23:47] yeah
+[01:23:48] so i mean i think a lot of ceos struggle
+[01:23:50] with this because
+[01:23:52] you know i think a lot of people realize
+[01:23:54] like it sucks to be famous
+[01:23:55] so
+[01:23:56] you know when i was a kid i would you'd
+[01:23:58] hear people say that or something and
+[01:23:59] i'd be like yeah whatever for you to say
+[01:24:01] but um
+[01:24:03] there's a lot of downsides right i mean
+[01:24:04] people
+[01:24:05] in the the media or publicity can be
+[01:24:08] like this this cruel beast right if you
+[01:24:10] feed it it just wants more and more and
+[01:24:11] more so
+[01:24:12] um
+[01:24:13] i think
+[01:24:15] there are advantages to having a public
+[01:24:16] profile like it helps you recruit people
+[01:24:19] if someone attacks the company you have
+[01:24:21] your own direct audience to like get the
+[01:24:24] the message out the truth so there's
+[01:24:25] definitely like benefits
+[01:24:26] and then there's drawbacks because now
+[01:24:29] you know maybe your kids need security
+[01:24:30] or whatever or just um
+[01:24:33] you know someone's gonna come up to your
+[01:24:34] restaurant when you're trying to have a
+[01:24:36] thing with your family or whatever
+[01:24:38] so there's real downsides to it um
+[01:24:41] i think for me i'm trying to find this
+[01:24:42] reasonable middle ground where like i i
+[01:24:44] turn down
+[01:24:45] 95 of media
+[01:24:48] um
+[01:24:48] i i really want to talk to people like
+[01:24:51] that are doing what new media right like
+[01:24:53] like this like podcasts or um or youtube
+[01:24:56] or really just have conversations with
+[01:24:57] people that i think are interesting and
+[01:24:59] i like
+[01:25:00] um
+[01:25:00] that get messages out in sort of unique
+[01:25:03] ways
+[01:25:04] and i i do i like having some amount of
+[01:25:06] following if i ever need to set the
+[01:25:08] record on something but i don't want to
+[01:25:10] become famous actually i'd rather if i
+[01:25:12] could avoid that
+[01:25:13] i would prefer it
+[01:25:16] i think it's it's sort of a acceptable
+[01:25:19] negative of building something
+[01:25:21] interesting in the world but it's not
+[01:25:22] it's not actually a positive
+[01:25:24] interesting and one of the things you
+[01:25:26] talked about was that um
+[01:25:29] who knows whether it was real or not
+[01:25:30] there was a
+[01:25:31] i want to give context to the listeners
+[01:25:32] who don't who don't follow you and might
+[01:25:34] not have seen that there was a uh
+[01:25:37] something written up that said
+[01:25:38] internally an employee was petitioning
+[01:25:40] to have someone else removed internally
+[01:25:42] yeah whether it's true or not we don't
+[01:25:44] know it was taken down um you responded
+[01:25:46] to that on twitter yeah you also said to
+[01:25:48] me that you were
+[01:25:49] in a bit of a bad mood when you
+[01:25:50] responded to that twitter yeah how do
+[01:25:52] you feel in hindsight about all of that
+[01:25:54] and did you
+[01:25:55] did you learn anything about company
+[01:25:58] culture or changes that needed to be
+[01:25:59] made or give me your reflections on that
+[01:26:03] yeah so
+[01:26:04] you never know if you're doing the right
+[01:26:05] thing right um
+[01:26:08] one argument would be that this is just
+[01:26:10] unnecessary i could have ignored it and
+[01:26:12] um
+[01:26:13] there was people who never even saw it
+[01:26:15] and there was and they read my tweets
+[01:26:16] and they were like oh what's going on
+[01:26:17] and now i gave even more attention to it
+[01:26:19] right yeah
+[01:26:20] um on the flip side there was a bunch of
+[01:26:22] people who reached out to me that was
+[01:26:23] very positive it was like i'm glad
+[01:26:25] you're just
+[01:26:26] you know saying it like it is like it
+[01:26:27] shows who you really what you really
+[01:26:28] care about
+[01:26:29] and um you're basically communicating to
+[01:26:32] the rest of employees like if you're
+[01:26:33] unhappy about something like there's a
+[01:26:35] right forum to do that internally it's
+[01:26:36] not
+[01:26:37] this is harming the company and so
+[01:26:39] you're anyway a lot of people liked it
+[01:26:40] some people didn't like it at all
+[01:26:42] so did i do the right thing i have no
+[01:26:44] idea i'm just like making this up as i
+[01:26:46] go and i kind of i kind of like try
+[01:26:48] things and i see how they go
+[01:26:50] one thing i will say is that
+[01:26:52] something that's polarizing is not that
+[01:26:55] doesn't make it
+[01:26:56] the wrong thing to do it what makes it
+[01:26:58] to me the right thing to do the wrong
+[01:26:59] thing to do is whether it was
+[01:27:00] authentically true
+[01:27:02] um so i don't know how i would do it
+[01:27:05] again next time i guess i maybe i would
+[01:27:07] do it with a cool head
+[01:27:09] and um
+[01:27:10] see if it still felt authentic and then
+[01:27:12] go from there polarizing another thing
+[01:27:14] that when people talk about company
+[01:27:15] culture people give
+[01:27:17] um people that i've been around point to
+[01:27:19] coinbase as an example of is you coming
+[01:27:21] out and saying that coinbase wouldn't
+[01:27:24] uh tolerate politics
+[01:27:27] um and other divisive topics being
+[01:27:30] discussed on company channels in the
+[01:27:32] workplace yeah this is a big conv i've
+[01:27:34] had conversations this week with my
+[01:27:36] companies where they've talked about
+[01:27:37] coinbase and the example you've set
+[01:27:39] because of things that have happened
+[01:27:40] over the last couple of weeks in
+[01:27:41] politics around in america
+[01:27:44] um
+[01:27:45] tell me why you made that decision
+[01:27:46] because i once upon a time when we had
+[01:27:48] brexit in this company allowed my office
+[01:27:50] to get overrun with anti-brexit flags
+[01:27:52] and i actually regret that because a
+[01:27:54] week later an employee pulled me aside
+[01:27:56] and said i'm actually pro-brexit and the
+[01:27:59] whole week i felt like the office wasn't
+[01:28:00] a safe place for me to yeah yeah um so
+[01:28:03] you you set out a stance which i've not
+[01:28:05] i saw you do it first i'm not sure if
+[01:28:07] any other companies have done it but
+[01:28:08] publicly you were the first to say no
+[01:28:10] politics at work yeah
+[01:28:13] yeah i mean i think other companies are
+[01:28:15] doing variations of that um so it's not
+[01:28:17] entirely original but yeah i did put it
+[01:28:18] out in a way that was public and got a
+[01:28:20] lot of attention so
+[01:28:21] look i don't know i don't know what to
+[01:28:22] say about it i think
+[01:28:24] it's it started it starts from a very
+[01:28:26] good place which is people want to have
+[01:28:29] a safe space at work they want to have a
+[01:28:31] place where they can just be themselves
+[01:28:32] authentically like these all these
+[01:28:34] things actually start from a very good
+[01:28:35] place
+[01:28:36] what's unfortunate is that it can get to
+[01:28:38] a place where
+[01:28:39] the office is actually um
+[01:28:42] just very divided and people are upset
+[01:28:44] with each other all day instead of like
+[01:28:45] working towards the common mission that
+[01:28:47] we all kind of signed up for
+[01:28:49] um they're actually just upset with each
+[01:28:51] other and arguing over things which we
+[01:28:52] don't really have very much impact over
+[01:28:53] like bigger broader societal issues
+[01:28:55] outside of our mission
+[01:28:56] um this not just coinbase this is
+[01:28:58] happening broadly across a lot of
+[01:29:00] tech and all companies really it's not
+[01:29:02] just even a tech thing
+[01:29:04] it is it is more pronounced certain
+[01:29:05] places in the world it's not it's not a
+[01:29:07] broad thing geographically it's it's
+[01:29:09] very pronounced in some cities um
+[01:29:12] especially in the us but i guess
+[01:29:13] probably somewhat here as well
+[01:29:15] so
+[01:29:16] notice much
+[01:29:17] yeah i i i remember our ireland office
+[01:29:20] like there were some people who messaged
+[01:29:21] me during all that and they're like what
+[01:29:22] is you just said like we're gonna work
+[01:29:24] on work do work at work like what's
+[01:29:25] what's so controversial they didn't it
+[01:29:27] didn't make any sense um so it was it
+[01:29:29] was largely a thing that happened i
+[01:29:30] think in the bay area in the us and a
+[01:29:32] couple other cities like maybe brooklyn
+[01:29:34] portland places like that but
+[01:29:36] um look i i don't you know in some ways
+[01:29:40] i'd rather coinbase was like known for
+[01:29:41] our product innovation and stuff this is
+[01:29:43] a weird one because like we've actually
+[01:29:44] been pretty become kind of well known
+[01:29:46] for this stance and others have emulated
+[01:29:48] it but the thing that really made me
+[01:29:50] finally get the courage to do it because
+[01:29:53] i i i didn't really want to make a
+[01:29:55] public stance about this or whatever i
+[01:29:57] just want everybody to get back to work
+[01:29:58] but the reason i did it was that
+[01:30:00] i felt like i had been a bad leader
+[01:30:02] basically i had let this kind of
+[01:30:04] misunderstanding accumulate inside the
+[01:30:07] organization where people thought that
+[01:30:08] it was okay to like
+[01:30:10] come to work and just debate endlessly
+[01:30:11] these things or like at the q a that we
+[01:30:13] would host every week or two there would
+[01:30:15] be a lot of questions that were not
+[01:30:16] about our product or the regulators or
+[01:30:18] the the future it would be about like
+[01:30:20] these broader societal issues
+[01:30:21] and these kind of these brush fires kept
+[01:30:24] erupting in in slack channels and things
+[01:30:27] and so
+[01:30:28] oh and there and i think i reached a
+[01:30:30] place where i was like
+[01:30:32] i don't think i really want to be the
+[01:30:33] ceo of this company if like this is what
+[01:30:35] the ceo job entails is kind of like
+[01:30:37] getting put on the spot with like um
+[01:30:39] these crazy difficult societal questions
+[01:30:41] every week i kind of want to just build
+[01:30:43] cool stuff with technology and work on
+[01:30:44] our mission and so
+[01:30:45] i actually contemplated briefly i was
+[01:30:47] like am i the one who's like just not
+[01:30:49] sued for this job and maybe this is how
+[01:30:50] companies are run now and a bunch of i
+[01:30:53] talked to a bunch of friends of mine and
+[01:30:54] people and they were like
+[01:30:55] no like if if that's how you feel
+[01:30:57] there's probably a bunch of other people
+[01:30:58] the company who also feel that way
+[01:31:00] and like you started this company
+[01:31:02] you don't need to go they need to go and
+[01:31:04] so
+[01:31:05] it was if i realized i was like either
+[01:31:06] i'm gonna resign or they're gonna need
+[01:31:08] to resign and so at that point i was
+[01:31:10] like all right they need to resign so we
+[01:31:11] made we made an exit package available
+[01:31:13] like i clarified the stance of the
+[01:31:14] company five percent of the employees
+[01:31:17] opted into that package and left and
+[01:31:18] then after that it felt like the company
+[01:31:20] was much more aligned and we were all
+[01:31:21] able to
+[01:31:22] move towards the mission um so
+[01:31:24] it was cool to see some companies
+[01:31:26] emulate it afterwards and there's
+[01:31:28] probably a less dramatic way to do it
+[01:31:29] you know if you kind of said it that way
+[01:31:31] from the beginning but
+[01:31:33] um yeah that's where we are one of the
+[01:31:35] things that i really wanted to ask you
+[01:31:36] about because from reading your blog
+[01:31:37] post you have a very clear
+[01:31:39] strategy and perspective on this and i
+[01:31:41] also see this in hindsight as being the
+[01:31:43] single most important thing that i ever
+[01:31:45] had the responsibility of doing and
+[01:31:46] getting right which is hiring people
+[01:31:48] um i
+[01:31:49] i [ __ ] up for the first three years i
+[01:31:51] hired inexperienced people that were
+[01:31:53] cheap and that i felt i could manage
+[01:31:55] because i was 21 or 20. so i had a bunch
+[01:31:58] of you like you want a job you want a
+[01:31:59] job you want a job you can be director
+[01:32:01] director of this yeah my biggest mistake
+[01:32:03] i only learned when i hired someone good
+[01:32:05] and i saw the net impact they had and
+[01:32:06] the fact that good people then hired
+[01:32:08] good people
+[01:32:09] what advice would you give to people
+[01:32:10] that are hiring now and how important
+[01:32:13] do you consider hiring to be
+[01:32:16] super important i mean actually
+[01:32:18] in coinbase's values the number one
+[01:32:20] value is top talent in every seat
+[01:32:21] because
+[01:32:22] it really everything in the company
+[01:32:24] comes back to people like if you want to
+[01:32:26] have
+[01:32:27] a big impact you need to have
+[01:32:29] generate a bunch of revenue and profit
+[01:32:31] if you want good revenue property and
+[01:32:32] you make good products if you make good
+[01:32:33] products you have to have good people
+[01:32:34] build them so it's actually everything
+[01:32:36] comes back to people
+[01:32:38] um
+[01:32:39] so yeah i mean
+[01:32:40] it's interesting to hear that you
+[01:32:42] learned that lesson the hard way i've
+[01:32:44] hiring is super hard sometimes the only
+[01:32:45] way to learn a lesson is to actually go
+[01:32:47] make the mistake and and do it
+[01:32:49] but the mistake that a lot of startups
+[01:32:50] make i think is that they hire too fast
+[01:32:53] they treat the absence of any negatives
+[01:32:55] as a reason to hire whereas it should be
+[01:32:58] not just the absence of negatives but
+[01:33:00] hell yes meaning like
+[01:33:02] i learned something from this person
+[01:33:04] they they're way better than me at
+[01:33:05] something at least
+[01:33:07] you know i left the interview with more
+[01:33:09] energy than when i went in um
+[01:33:12] i
+[01:33:12] you know you can de-risk a lot of early
+[01:33:14] hiring also by just having people come
+[01:33:16] in and like try working together for a
+[01:33:17] week or two
+[01:33:19] interviews are actually really kind of a
+[01:33:20] low signal thing you have to get real
+[01:33:22] some people are great interviewers like
+[01:33:23] maybe five percent of people can really
+[01:33:25] assess someone in an interview most
+[01:33:27] people aren't that good at it naturally
+[01:33:28] and so you can basically use references
+[01:33:30] or
+[01:33:32] what we did in early days of coinbase we
+[01:33:33] actually just had people try working
+[01:33:34] with us for like a week or two a lot of
+[01:33:36] people can't do that because they have
+[01:33:37] an existing job but
+[01:33:38] some people can
+[01:33:39] and we you'll know you'll know within a
+[01:33:41] week or two like this person basically
+[01:33:42] delivered a bunch of stuff they got a
+[01:33:44] bunch of stuff done that was useful and
+[01:33:45] helped move the ball forward
+[01:33:47] or they didn't like it needed me it
+[01:33:48] needed me or someone else to come in and
+[01:33:50] edit their work or curate it and like
+[01:33:53] it's not to oversimplify it but
+[01:33:54] basically like
+[01:33:56] if the person can get a lot of stuff
+[01:33:57] done
+[01:33:58] that's advanced is the mission then you
+[01:34:00] want them on the team and if they can't
+[01:34:02] you shouldn't have them on the team and
+[01:34:03] that's basically what makes great
+[01:34:04] companies is like
+[01:34:06] you have a bunch of people aligned
+[01:34:07] toward a big impactful mission
+[01:34:09] who can actually get a lot of stuff done
+[01:34:11] every week
+[01:34:12] and um
+[01:34:13] you know you share some values in common
+[01:34:15] and then everything else
+[01:34:17] they can be quirky and weird and
+[01:34:18] different and like from every background
+[01:34:20] and walk of life and like everything
+[01:34:22] else can be
+[01:34:24] different but
+[01:34:25] if you have those pieces right they get
+[01:34:26] a lot of stuff done towards the mission
+[01:34:28] and they're aligned then you got a good
+[01:34:30] company you said about growing too fast
+[01:34:32] i i saw you post recently that you
+[01:34:34] you've grown the company too fast over
+[01:34:36] the last couple of years and that you
+[01:34:37] were having to cut back about 18 of the
+[01:34:38] workforce yeah
+[01:34:40] emotionally in those moments you know
+[01:34:42] the statements were you were very
+[01:34:43] transparent you were very honest you
+[01:34:45] didn't have to publish that to the
+[01:34:46] entire world but you did yeah
+[01:34:48] emotionally what are those moments like
+[01:34:49] does it get any easier for you to
+[01:34:51] to to cut back the workforce when you
+[01:34:54] you signaled in the memo that you take
+[01:34:56] responsibility for that as well like
+[01:34:58] you weren't skirting blame or anything
+[01:35:00] so
+[01:35:00] yeah so there's always something
+[01:35:02] challenging every year that like really
+[01:35:03] puts you out put you outside of your
+[01:35:05] comfort zone and that's part of what i
+[01:35:07] like about running a company is like
+[01:35:08] you're constantly learning so so this
+[01:35:10] year that was one of the things was like
+[01:35:11] we had never done a layoff before i had
+[01:35:13] never done one and um
+[01:35:15] yeah i did kind of suck to look back and
+[01:35:17] say um
+[01:35:18] ah i actually made them stick you know
+[01:35:20] we were everything everything crypto was
+[01:35:22] so up and up and up last year
+[01:35:24] that it it felt irresponsible not to
+[01:35:26] keep hiring more people because
+[01:35:28] we had like lines out our door you know
+[01:35:30] virtually of like customers trying to
+[01:35:32] sign up like institutional clients and
+[01:35:34] new products and competitors and all
+[01:35:36] these different markets and we were like
+[01:35:38] we're just being
+[01:35:40] reckless and irrational not to keep
+[01:35:41] building the company with all this
+[01:35:43] revenue we're generating and so but i
+[01:35:45] think we found the breaking point and
+[01:35:47] basically if you kind of more than
+[01:35:48] double a company in a year you're really
+[01:35:50] going to start to see a lot of stuff
+[01:35:51] break the culture erodes um decision
+[01:35:54] making is unclear communication channels
+[01:35:56] break down and so we we definitely like
+[01:35:59] exceeded that threshold last year in
+[01:36:01] 2021 and earlier this year we were on a
+[01:36:02] pace to kind of keep going
+[01:36:04] too quickly
+[01:36:05] so
+[01:36:08] you know it really it really kind of is
+[01:36:10] a bad feeling to look at a problem and
+[01:36:12] say oop i made a mistake
+[01:36:13] but the only worst thing that is to like
+[01:36:15] bury your head in the sand and pretend
+[01:36:16] that you didn't make a mistake because
+[01:36:17] you don't want to admit it or whatever
+[01:36:19] and so um
+[01:36:21] facing reality
+[01:36:23] while it was deeply unpleasant and it
+[01:36:24] was really unpleasant for the people
+[01:36:26] that parted ways with the company
+[01:36:28] um
+[01:36:29] it was the right thing to do that now we
+[01:36:31] have the ability to kind of learn how to
+[01:36:33] operate really efficiently at this new
+[01:36:34] size 5000 people still a lot and get a
+[01:36:37] ton done with that
+[01:36:39] and we got the cost structure to a place
+[01:36:41] where we know that we can
+[01:36:42] not only um have enough cash but like
+[01:36:45] really thrive in this
+[01:36:46] in this recession we're all going
+[01:36:48] through at this point and whether that
+[01:36:49] lasts one year or three years or four
+[01:36:50] years whatever we're now we've set the
+[01:36:52] company up to ensure that it has a
+[01:36:53] better chance of accomplishing the
+[01:36:55] mission long term so
+[01:36:56] in a way although it was a super hard
+[01:36:57] decision and it was tough for a lot of
+[01:36:59] people involved it made me feel good
+[01:37:01] that we did the right thing
+[01:37:02] i am so excited to announce our new
+[01:37:03] sponsor for this podcast and that is
+[01:37:05] blue jeans by verizon for any of you
+[01:37:07] that aren't already familiar with blue
+[01:37:09] jeans they are a video conferencing and
+[01:37:10] collaboration tool who offer an
+[01:37:12] immersive communication experience that
+[01:37:14] drives pretty unparalleled employee and
+[01:37:16] customer engagement experiences me and
+[01:37:18] all of my teams across all of my
+[01:37:20] portfolio companies switched over to
+[01:37:22] blue jeans a couple of months ago and we
+[01:37:23] have not looked back the best thing for
+[01:37:26] us has been the totally frictionless
+[01:37:29] experience no glitching no sound issues
+[01:37:32] no delays or any of those things that
+[01:37:33] usually make virtual meetings really
+[01:37:35] really frustrating we use blue jeans
+[01:37:37] anywhere on any device at any time and
+[01:37:39] it's perfect for my small businesses
+[01:37:41] that just have 10 or 20 people to some
+[01:37:43] of my bigger businesses that have
+[01:37:44] hundreds of people i'm a big fan as you
+[01:37:46] can probably tell so i've been quite
+[01:37:47] excited for for some time to announce
+[01:37:49] this partnership and in the coming weeks
+[01:37:51] i'll explain the features and really why
+[01:37:54] it's perfect for you if you haven't
+[01:37:55] considered using or switching over to
+[01:37:57] bluejeans yet but if you can't wait head
+[01:37:58] over to bluejeans.com to learn more
+[01:38:01] honestly it's been one of the real sort
+[01:38:02] of game changers in my business
+[01:38:05] this is an interesting question
+[01:38:07] that i just had when i was just just
+[01:38:08] thinking then yeah and because because
+[01:38:10] of this you know from my perspective i'd
+[01:38:12] call that stress sometimes stress is
+[01:38:13] great but there's a lot of volatility in
+[01:38:15] the markets and those tough decisions
+[01:38:17] if you view happiness as like a
+[01:38:19] concoction of as like a recipe and
+[01:38:21] there's lots of ingredients that go and
+[01:38:23] go into making us happy
+[01:38:25] um
+[01:38:26] what ingredients in your happiness
+[01:38:27] recipe
+[01:38:29] do you think you need more of
+[01:38:31] like today personally
+[01:38:34] um
+[01:38:35] oh wow
+[01:38:37] i mean
+[01:38:40] so i think it's getting very personal i
+[01:38:42] think you know people are get they're
+[01:38:45] basically happy
+[01:38:46] with
+[01:38:48] like health wealth relationships things
+[01:38:49] like that if you don't have your health
+[01:38:50] it's hard to really be happy you can't
+[01:38:52] really do anything
+[01:38:54] you don't need to be wealthy but you
+[01:38:55] need to have some level of security
+[01:38:58] where you're like i'm not worried about
+[01:38:59] like being hungry tomorrow or something
+[01:39:01] right
+[01:39:02] and then relationships account for a lot
+[01:39:03] of happiness i think
+[01:39:05] um
+[01:39:06] family like romantic leave personal
+[01:39:09] friendships
+[01:39:10] so um
+[01:39:12] i mean it's kind of it's i'm like almost
+[01:39:14] 40 and i think
+[01:39:16] i'm thinking at some point i won't have
+[01:39:17] kids so that's probably like that's
+[01:39:19] probably an area but otherwise i think
+[01:39:22] yeah i feel quite happy about
+[01:39:24] relationships in my life
+[01:39:26] um personally professionally
+[01:39:29] romantically all that stuff so yeah i
+[01:39:31] didn't think you were gonna go there but
+[01:39:32] yeah yeah yeah there you go no i agree i
+[01:39:34] feel the same way i've had i've not had
+[01:39:36] enough balance in my life so my big next
+[01:39:38] chapter is um
+[01:39:39] allocating enough time to my girlfriend
+[01:39:41] and being i said it on stage today being
+[01:39:43] a dad and those things and prioritizing
+[01:39:46] that knowing the importance of it even
+[01:39:47] though i can't track it it's not revenue
+[01:39:49] so yeah we have a closing tradition on
+[01:39:51] this podcast where the last guest leaves
+[01:39:53] a question for the next guest they don't
+[01:39:54] know who they're writing it for okay um
+[01:39:56] their question was
+[01:39:58] what is the belief that you hold that
+[01:40:00] most people disagree with you on
+[01:40:02] hmm
+[01:40:03] give you some time well i mean one kind
+[01:40:06] of um contrarian view that i have that i
+[01:40:08] think most people would disagree with is
+[01:40:10] that
+[01:40:11] um
+[01:40:13] i think a lot of regulation is well
+[01:40:15] intentioned and it actually
+[01:40:17] causes more harm than good
+[01:40:19] um
+[01:40:21] you know
+[01:40:22] it's not really
+[01:40:24] probably a commonly held view in our
+[01:40:25] society because a lot of people haven't
+[01:40:27] tried to build something but if you've
+[01:40:30] just only been an employee to company or
+[01:40:32] you know consumed goods
+[01:40:34] um when something bad happens in society
+[01:40:37] people want to say what can we do to
+[01:40:38] make sure that never happens again and
+[01:40:40] so you create a rule
+[01:40:41] it's sort of human nature right um but
+[01:40:44] every rule has kind of these unintended
+[01:40:46] consequences down the road um
+[01:40:49] you know for instance uh
+[01:40:51] in the cryptocurrency industry right
+[01:40:53] like we're using kind of money
+[01:40:54] transmission laws that were originated
+[01:40:56] when there was like stage coaches moving
+[01:40:58] cash between states and so in the united
+[01:41:00] states we need to have 50 state licenses
+[01:41:03] plus multiple federal licenses and
+[01:41:06] that's just one small example you could
+[01:41:08] actually go down
+[01:41:09] many many many rules that are there in
+[01:41:11] society
+[01:41:12] they were created for a good reason at
+[01:41:13] the time but they they've now
+[01:41:15] accumulated so many of them
+[01:41:17] that it makes it harder to get um to get
+[01:41:19] innovation you know another good example
+[01:41:21] just randomly is like
+[01:41:23] in the us there's a the federal aviation
+[01:41:25] administration regulates like airplane
+[01:41:26] travel and things like that
+[01:41:28] they've been incredibly successful at
+[01:41:30] making airplane travel safe and so the
+[01:41:32] fatality rates in air traffic and
+[01:41:34] everything like that are airplane
+[01:41:36] flights are very low
+[01:41:38] but there's been an enormous cost to
+[01:41:39] society as well around the lack of
+[01:41:41] innovation so for instance
+[01:41:44] like the boeing jets that we fly today
+[01:41:46] they're very similar almost to the ones
+[01:41:48] that were in like the 1960s that jfk
+[01:41:50] flew on like
+[01:41:51] you can't go faster because it's they
+[01:41:54] they haven't allowed like people to
+[01:41:55] break the sound barrier over over land
+[01:41:57] um basically the things they're
+[01:41:59] innovating on are like fuel economy and
+[01:42:01] stuff like that and so
+[01:42:03] it it does stifle a lot of innovation
+[01:42:05] and so
+[01:42:06] people don't think about that cost
+[01:42:08] because they're more thinking about the
+[01:42:09] acute short-term problem
+[01:42:12] so i think it's a real risk that in
+[01:42:13] society basically enough rules
+[01:42:15] accumulate over time where it creates it
+[01:42:17] throws sand in the gears of progress and
+[01:42:20] um a lot of
+[01:42:22] new innovation is harmed by um by
+[01:42:24] regulation unfortunately even with good
+[01:42:26] intentions brian thank you thank you for
+[01:42:29] your time i realize you don't do things
+[01:42:30] like this very often so it feels like
+[01:42:32] even more of an honor for you to come
+[01:42:33] here today and coinbase as i said i'm a
+[01:42:35] customer of um it's it's always felt
+[01:42:38] like the most trusted the safest way to
+[01:42:41] involve myself in crypto and that's why
+[01:42:43] i've always stayed with with coinbase
+[01:42:44] and you as the ceo have a very
+[01:42:47] um innovative approach to building a
+[01:42:49] company in a new time in a new industry
+[01:42:51] which i've learned from as a business
+[01:42:52] owner myself so thank you for the
+[01:42:54] inspiration thank you for your blog post
+[01:42:55] as well i've sent many of them around to
+[01:42:57] my company i think i sent two to all of
+[01:42:59] my team today
+[01:43:00] around hiring and your 36 sort of
+[01:43:02] principles for retaining staff and
+[01:43:03] things like that so i implore people to
+[01:43:04] check out your blog post as well because
+[01:43:06] your blog as well because it's a source
+[01:43:08] of inspiration and knowledge and um
+[01:43:10] yeah thank you so much for being here it
+[01:43:12] truly truly is an honor and the
+[01:43:13] conversation has been inspiring to me so
+[01:43:15] thank you brian thank you i can see why
+[01:43:17] your podcast is so successful you're
+[01:43:19] really unique and amazing interviewers
+[01:43:20] so
+[01:43:21] um i really enjoyed the conversation
+[01:43:22] that was great thank you
+[01:43:24] i had a few words to say about one of my
+[01:43:25] sponsors on this podcast my girlfriend
+[01:43:28] came upstairs yesterday when i was
+[01:43:29] having a shower and she said to me that
+[01:43:30] she tried the heel protein shake which
+[01:43:32] lives on my fridge over there and she
+[01:43:33] said it's amazing low calories you get
+[01:43:35] your 20 odd grams of protein you get
+[01:43:37] your 26 vitamins and minerals and it's
+[01:43:39] nutritionally complete in the protein
+[01:43:41] space there's lots of things but it's
+[01:43:42] hard to find something that is nice
+[01:43:44] especially when consumed just with water
+[01:43:46] and that is nutritionally complete the
+[01:43:48] salted caramel one if you put some ice
+[01:43:51] cubes in it and you put it in a blender
+[01:43:54] and you try it is as good as pretty much
+[01:43:56] any milkshake on the market just mixed
+[01:43:58] with water it's been a game changer for
+[01:44:00] me because i'm trying to drop my calorie
+[01:44:02] intake and i'm trying to be a little bit
+[01:44:03] more healthy with my diet so this is
+[01:44:05] where heel fits in my life thank you for
+[01:44:07] making a product that i actually like as
+[01:44:09] you might know crafted are one of the
+[01:44:10] sponsors of this podcast and crafted are
+[01:44:13] a jewelry brand and they make really
+[01:44:15] meaningful pieces of jewelry and this
+[01:44:18] piece by crafted when i put it on for me
+[01:44:20] it represents courage it represents
+[01:44:22] ambition it represents being calm and
+[01:44:25] loving and respectful and nurturing
+[01:44:27] while also being the antithesis of that
+[01:44:30] seemingly the antithesis of that which
+[01:44:32] is
+[01:44:33] sometimes a little bit aggressive with
+[01:44:34] my goals and determined and courageous
+[01:44:36] and brave the really wonderful thing
+[01:44:38] about crafty jewelry is it's super
+[01:44:40] affordable it looks amazing the pieces
+[01:44:42] hold tremendous meaning and they are
+[01:44:45] really well made
+[01:44:49] [Music]
+[01:45:06] [Music]
+[01:45:10] you

@@ -1,0 +1,2392 @@
+Video Title: Brain Experts WARNING: Watch This Before Using ChatGPT Again! (Shocking New Discovery)
+Video ID: 5wXlmlIXJOI
+Video URL: https://www.youtube.com/watch?v=5wXlmlIXJOI
+Downloaded: 2026-02-04 14:13:45
+Language: English (auto-generated)
+Language Code: en
+================================================================================
+
+[00:00:00] Chat GBT is going to potentially
+[00:00:02] increase your risk of dementia.
+[00:00:05] >> I'm sorry, but you you've pressed my
+[00:00:06] button and actually it is possible to
+[00:00:08] use it to help you become a smarter
+[00:00:10] person, but it requires education. You
+[00:00:12] have to look at the risks and the
+[00:00:14] benefits.
+[00:00:15] >> But we embrace convenience before
+[00:00:18] understanding consequence.
+[00:00:20] >> So, we have to talk about this. This is
+[00:00:21] a study that came out that sent a shock
+[00:00:23] wave across the world. And
+[00:00:24] astonishingly, MIT found a 47% collapse
+[00:00:27] in brain activity when people wrote with
+[00:00:29] Chat GBT compared with writing unaded.
+[00:00:32] Their memory scores plunged. And you're
+[00:00:34] both masters of the brain. I mean,
+[00:00:36] you've probably scanned more brains than
+[00:00:37] any other human on Earth at this point.
+[00:00:39] And you invented the Boltzman machine
+[00:00:41] with Jeffrey Hinton, a computer that
+[00:00:43] simulated how the brain works. So my
+[00:00:45] question is, what are your concerns?
+[00:00:47] >> If you misuse these large language
+[00:00:49] models, like using it as a convenience
+[00:00:51] to speed things up, your brain's going
+[00:00:52] to go downhill. Well, there's no doubt
+[00:00:53] about that.
+[00:00:54] >> What about children?
+[00:00:55] >> We have the sickest young generation in
+[00:00:57] history because of cell phones, social
+[00:00:59] media, and I think AI is much more
+[00:01:02] dangerous on the developing brain.
+[00:01:04] >> So, are we raising mentally weak kids?
+[00:01:07] >> There is that argument and I think it's
+[00:01:09] true.
+[00:01:10] >> And then there's many examples of people
+[00:01:12] falling in love with AI like Annie.
+[00:01:14] >> I thought you might have forgotten about
+[00:01:16] me, handsome.
+[00:01:16] >> Can you talk to Daniel and Terry,
+[00:01:18] please?
+[00:01:18] >> Oh, baby. I'm ready to charm the socks
+[00:01:20] off them. Picture me.
+[00:01:21] >> Okay, so I'll stop it there. So, what
+[00:01:23] advice would you give as it relates to
+[00:01:24] AI and other things outside of AI that
+[00:01:26] we can do to have healthy brains?
+[00:01:28] >> I'll tell you how to use chat GPT to
+[00:01:30] improve our cognitive abilities.
+[00:01:32] >> And if you want to keep your brain
+[00:01:34] healthy, you have to treat the 11 major
+[00:01:36] risk factors. So, here we go.
+[00:01:39] >> I see messages all the time in the
+[00:01:40] comments section that some of you didn't
+[00:01:42] realize you didn't subscribe. So, if you
+[00:01:44] could do me a favor and double check if
+[00:01:45] you're a subscriber to this channel,
+[00:01:47] that would be tremendously appreciated.
+[00:01:48] It's the simple, it's the free thing
+[00:01:50] that anybody that watches this show
+[00:01:51] frequently can do to help us here to
+[00:01:53] keep everything going in this show in
+[00:01:55] the trajectory it's on. So, please do
+[00:01:57] double check if you've subscribed and uh
+[00:01:59] thank you so much because in a strange
+[00:02:00] way you are you're part of our history
+[00:02:02] and you're on this journey with us and I
+[00:02:04] appreciate you for that. So, yeah, thank
+[00:02:06] you.
+[00:02:09] >> Dr. Daniel,
+[00:02:11] Dr. Terry, I have asked you both to sit
+[00:02:15] with me today to help me understand the
+[00:02:17] impact of these tools that we call large
+[00:02:21] language models, the chat GBTs, the
+[00:02:22] Geminis of the world, the Grocs of the
+[00:02:24] world are having on our brains and I
+[00:02:26] guess more broadly on our lives. And you
+[00:02:28] two are experts in your field. You're
+[00:02:30] two people that I admire tremendously.
+[00:02:32] So by way of introduction,
+[00:02:35] Terry, what is your academic background
+[00:02:37] and what is your experience? I also know
+[00:02:39] that you know one of our friends of the
+[00:02:40] show Jeffrey Hinton. Can you give me an
+[00:02:42] overview of your your academic and your
+[00:02:44] sort of um professional background?
+[00:02:46] >> So I was born a physicist received a PhD
+[00:02:51] in theoretical physics from Princeton
+[00:02:53] University and then I had the good
+[00:02:55] fortune to work as a posttock in the lab
+[00:02:58] of Steven Kofler who is the father of
+[00:03:01] neurobiology and and that started my
+[00:03:03] career as a neuroscientist. I pioneered
+[00:03:05] a part of neuroscience which is now
+[00:03:07] called computational neuroscience.
+[00:03:09] Taking my skills as a physicist and
+[00:03:11] trying to apply that to understanding
+[00:03:12] the brain, creating models, theories,
+[00:03:15] and uh we're making progress.
+[00:03:17] >> Dr. Danny Layman, um bit about your
+[00:03:21] background. My my viewers know you well,
+[00:03:22] but just to give an overview for anyone
+[00:03:24] that might not have been exposed to your
+[00:03:26] work and your experience, what have you
+[00:03:28] spent your life doing? And what are your
+[00:03:30] thoughts, your sort of topline thoughts
+[00:03:32] on everything that's going on at the
+[00:03:33] moment with artificial intelligence?
+[00:03:36] >> So, by training, I'm a psychiatrist. I'm
+[00:03:38] a general psychiatrist and a child
+[00:03:41] psychiatrist. When I graduated from
+[00:03:44] medical school, I wanted to be a really
+[00:03:46] good psychiatrist because someone I love
+[00:03:50] tried to kill herself and so was
+[00:03:52] personal to me. I have 11 clinics. We
+[00:03:56] see about 10,000 patient visits a month
+[00:03:59] and we have the best published outcomes
+[00:04:03] on complex treatment resistant
+[00:04:05] psychiatric patients anywhere.
+[00:04:07] >> So you've probably scanned more brains
+[00:04:09] than any other human on earth at this
+[00:04:11] point
+[00:04:11] >> probably at least in regards to people
+[00:04:15] who struggle with anxiety, depression,
+[00:04:18] addiction.
+[00:04:19] >> Well, let's talk about what's good for
+[00:04:21] the brain, bad for the brain, starting
+[00:04:22] with AI. The reason why I wanted to
+[00:04:25] speak to both of you is because I have
+[00:04:26] frankly become pretty addicted to using
+[00:04:29] chat GPT and some of these other AIS and
+[00:04:33] large language models every single day
+[00:04:35] all the time. And then this study came
+[00:04:37] out from MIT. It was 54 participants who
+[00:04:41] were recruited from five universities in
+[00:04:42] Boston, MIT, Harvard, etc., etc. And
+[00:04:45] they had the participants split into
+[00:04:46] three groups. Had them writing different
+[00:04:49] essays over I think it was four months.
+[00:04:51] One group used Chat GPT, one group used
+[00:04:53] Google and one one group had no tools
+[00:04:56] and they had to write these four essays
+[00:04:58] over a period of time and astonishingly
+[00:05:01] MIT found a 47% collapse in activity and
+[00:05:05] brain connections when people wrote with
+[00:05:06] chat GBT compared with writing unaded
+[00:05:10] EEG scans showed the weakest overall
+[00:05:13] brain activity in the chat GPT group.
+[00:05:15] The no tool group who didn't use
+[00:05:17] anything they didn't use Google or Chat
+[00:05:18] GPT lit up the widest neural networks
+[00:05:21] and Google search was second after using
+[00:05:24] Chat GPT participants couldn't reliably
+[00:05:26] quote their own essays minutes later and
+[00:05:29] their memory scores plunged. Chat GBT
+[00:05:32] users felt little or no ownership over
+[00:05:35] the text that they had produced and
+[00:05:37] didn't feel like it was their work at
+[00:05:38] all. And when the AR group was forced to
+[00:05:40] write without help in session 4, their
+[00:05:42] brain stayed in low gear, under
+[00:05:44] engenagement, showing the cognitive debt
+[00:05:45] lingers even after the tool is taken
+[00:05:48] away. It kind of scared me a little bit
+[00:05:50] because I use these tools every single
+[00:05:52] day and this suggests that it's taking
+[00:05:54] away some of our critical thinking and
+[00:05:55] create creativity and long-term
+[00:05:57] learning. And you're both masters of the
+[00:05:59] brain uh in different regards.
+[00:06:02] So my question I guess to Daniel is
+[00:06:06] what's going on here and how do you feel
+[00:06:07] about it?
+[00:06:08] >> It frightened me. Um I love thinking
+[00:06:12] about Alzheimer's prevention. It's one
+[00:06:15] of the things that really excites me. I
+[00:06:17] just had a birthday on Saturday, turned
+[00:06:19] 71, and if I make it to 85, which I plan
+[00:06:23] on it, 50% of people 85 and older will
+[00:06:27] be diagnosed with dementia. So, you have
+[00:06:29] a one in two chance of having lost your
+[00:06:32] mind. And I'm like, no,
+[00:06:36] but is this a tool that's going to
+[00:06:39] decrease cognitive load
+[00:06:42] um that then increases my risk?
+[00:06:45] >> What's cognitive load?
+[00:06:47] >> How much work my brain actually does.
+[00:06:51] And I was thinking it's, you know, it's
+[00:06:53] like going from a 20 lb weight to a 2 lb
+[00:06:58] weight and you're not nearly as strong.
+[00:07:02] One of the important things to say about
+[00:07:03] this study is it's not peer-reviewed.
+[00:07:06] And I think that's really important to
+[00:07:08] say. And the author said, cuz I listened
+[00:07:10] to an interview from the authors, they
+[00:07:12] said, "We thought this was so important
+[00:07:15] and peer review can take 6 to 8 months,"
+[00:07:17] which it absolutely can, and we thought
+[00:07:20] this needed to get out. So, it's just
+[00:07:23] important for people to know that.
+[00:07:25] What's this link you're this hypothesis
+[00:07:27] you have between the usage of something
+[00:07:30] like Chachi PT and dementia for someone
+[00:07:32] that doesn't understand the sort of
+[00:07:34] mechanism there around cognitive load
+[00:07:37] and and so on and the studies that
+[00:07:40] support this idea that if you have less
+[00:07:41] cognitive load you're at high risk of
+[00:07:43] dementia. Can you make that link really
+[00:07:45] clear for me?
+[00:07:46] >> So think of it as use it or lose it. the
+[00:07:48] more you use your brain and new learning
+[00:07:53] is a major strategy to prevent
+[00:07:56] Alzheimer's disease. People who do not
+[00:07:59] engage in lifelong learning have a
+[00:08:02] higher risk significantly higher. People
+[00:08:05] who do not do as well in school or who
+[00:08:09] drop out of school early have a higher
+[00:08:12] risk of dementia. And so the the more
+[00:08:16] you're engaged, the more you engage the
+[00:08:19] neurons in your brain, the stronger they
+[00:08:22] are. And so now we're going to engage
+[00:08:26] them less.
+[00:08:29] And that's a concern.
+[00:08:31] What do you think about that, Terry?
+[00:08:33] There's a study that was done. What they
+[00:08:35] did was to look at Alzheimer's in three
+[00:08:39] populations, you know, who had very
+[00:08:41] little schooling and then minimal
+[00:08:43] education, you know, like the
+[00:08:44] equivalent, I guess, of high school or
+[00:08:46] less. and then u post-graduate studies
+[00:08:50] and what they found was that the onset
+[00:08:52] of Alzheimer's
+[00:08:54] was the earliest in the peasant
+[00:08:56] population and then by the time as you
+[00:08:58] increase the amount of education it the
+[00:09:01] onset was later and later which I think
+[00:09:03] supports what you're saying.
+[00:09:05] >> Did you see the new research on SSRI
+[00:09:07] increasing the risk of dementia?
+[00:09:09] >> No. No. brand new that just came out and
+[00:09:12] benzo. When I started looking at scans
+[00:09:14] in 1991, I was trained to use benzo like
+[00:09:17] Valium and Xanax and Adavan and they
+[00:09:22] make your brain look older than you are.
+[00:09:23] And I stopped prescribing them and then
+[00:09:27] it just came out maybe 10 years ago.
+[00:09:30] Benzo use is associated with an
+[00:09:32] increased risk of dementia. We have to
+[00:09:34] be careful. Is this good for your brain
+[00:09:36] or bad for it? Just to pick up on the
+[00:09:38] new point about SSRIs, Daniel, a meta
+[00:09:40] analysis of five studies found that
+[00:09:42] SSRIs
+[00:09:44] was associated with a 75% increase risk
+[00:09:47] of dementia, which is pretty staggering
+[00:09:50] >> given that 25% of the adult American
+[00:09:53] population is on psychiatric drugs. It's
+[00:09:57] horrifying.
+[00:09:59] And
+[00:10:00] SS rice for the right people save lives.
+[00:10:03] For the wrong people, they're not good.
+[00:10:06] But can you imagine all of these 340
+[00:10:08] million prescriptions last year for
+[00:10:10] anti-depressants?
+[00:10:12] Virtually no one looked at their brain
+[00:10:14] ahead of time. And it's like, come on,
+[00:10:17] we can do better.
+[00:10:18] >> There's a Swedish study with um almost
+[00:10:20] 20,000 patients, and they found that
+[00:10:23] those with higher doses of SSRIs were
+[00:10:25] linked to faster cognitive decline and
+[00:10:27] more severe dementia, especially in men.
+[00:10:29] The greatest risk was in men. Going back
+[00:10:31] to to this this um report from MIT,
+[00:10:34] Terry,
+[00:10:36] you know, it's not peer-reviewed yet and
+[00:10:38] there's still, you know, the sample size
+[00:10:40] is relatively small, but based on
+[00:10:42] everything that you know about how the
+[00:10:43] brain works and neural networks and
+[00:10:45] memory formation, what are your concerns
+[00:10:48] as it relates to this whole generation
+[00:10:50] of young people and older people
+[00:10:52] flooding into these tools, using them on
+[00:10:55] a daily basis
+[00:10:57] um before we understand the long-term
+[00:10:59] consequences? We can't predict
+[00:11:03] where it's going to end up and it may
+[00:11:05] take 20 years, right? I I think that
+[00:11:07] this is a good start, but uh the real
+[00:11:11] issue is long-term use. Let me give you
+[00:11:14] a an example that uh is a kind of a
+[00:11:17] miniature example of what we're talking
+[00:11:19] about. Remember when electronic
+[00:11:21] calculators were first introduced?
+[00:11:23] And here we are. That's it's at least 30
+[00:11:25] or 40 years later the results are in it.
+[00:11:28] It's probably true that when they punch
+[00:11:30] it in, there's less brain activity,
+[00:11:33] but in fact, it's it's made them more
+[00:11:37] accurate, more productive. You have to
+[00:11:39] look at the risks and the benefits. So,
+[00:11:41] it freed them up. It freed up cognitive
+[00:11:44] space
+[00:11:45] >> for them to do other things. So, as I
+[00:11:47] was listening to how you use chat GPT,
+[00:11:51] you interact with it.
+[00:11:53] >> Yeah. and
+[00:11:56] elevates
+[00:11:58] what you know.
+[00:12:00] The the danger is is if you don't
+[00:12:03] interact
+[00:12:05] and you don't keep your brain working.
+[00:12:08] Like I use it a lot. I have a clone.
+[00:12:12] I've uploaded all of my books, all of my
+[00:12:15] research papers, all of my public
+[00:12:17] television specials, my scripts, and I'm
+[00:12:20] like, "Answer this for me." And that can
+[00:12:23] be very helpful
+[00:12:26] but if but not if I'm not interacting
+[00:12:28] with it not thinking with it.
+[00:12:30] >> That's what I think the word thinking is
+[00:12:32] the key thing because what's happening
+[00:12:34] now is people have deferred their
+[00:12:35] thinking to it. That is already what's
+[00:12:37] happening. If you log on to I won't name
+[00:12:38] the social networks but if you log on to
+[00:12:39] certain social networks right now every
+[00:12:42] you just read it you get everything here
+[00:12:43] was written by AI. And I've got a friend
+[00:12:46] who again I won't name who has a a
+[00:12:48] LinkedIn profile and
+[00:12:51] I've known him for 10 years. What I'm
+[00:12:54] seeing on his profile now is not my
+[00:12:56] friend. Every single day there's some
+[00:12:59] essay on there. That's not my friend.
+[00:13:00] That's not how he speaks. He's deferring
+[00:13:02] all of his thinking now to and it's
+[00:13:03] working. He's getting more likes and
+[00:13:05] more reach than he ever got in his life.
+[00:13:07] And so why would he go back? Why would
+[00:13:09] he go back to harder? If you've got
+[00:13:11] Steven Bartlet here and you had this
+[00:13:12] other Steven Bartlet here who had a PhD
+[00:13:15] in everything and we're attached this
+[00:13:19] Steven Bartlett, this um Neanderthal,
+[00:13:23] I'm going to get this guy to do
+[00:13:25] everything for me, the other Steven
+[00:13:26] Bartlett, the PhD and everything Steven
+[00:13:27] Bartlet, I'm going to get his
+[00:13:28] >> even if it was bad for you.
+[00:13:30] >> Well, this is what I'm People seem to
+[00:13:32] act on their short-term incentives, not
+[00:13:34] their long term. Not their long not
+[00:13:36] everyone. The would you say the vast
+[00:13:38] majority of people?
+[00:13:39] >> Yes.
+[00:13:40] >> Okay. So, the vast majority of people
+[00:13:41] act on their short-term incentives in
+[00:13:43] life. I mean, the obesity problem in the
+[00:13:45] United States is prime example of that.
+[00:13:46] 75%
+[00:13:47] >> 75% of people are obese in the United
+[00:13:50] States. And if you if you surveyed those
+[00:13:52] people and said, do you know that that
+[00:13:53] cheeseburger is going to is going to
+[00:13:56] increase your chance of obesity, but
+[00:13:57] broccoli is going to reduce it? They I
+[00:14:00] would hazard a guess that they would say
+[00:14:01] yes. I would hazard a guess that if you
+[00:14:03] said to people about their usage of
+[00:14:05] social media, do you know that that's
+[00:14:06] making you more anxious? They would say
+[00:14:08] yes and then they would continue to use
+[00:14:09] it. So I think that we're much more
+[00:14:12] driven by our short term.
+[00:14:13] >> I think we're not educating people
+[00:14:15] enough. I think yes high level they know
+[00:14:18] good for your brain or bad for it but
+[00:14:20] they don't connect to
+[00:14:23] it's my brain that gets me a date. It's
+[00:14:26] my brain that gets me into college. It's
+[00:14:29] my brain that gets me independence
+[00:14:31] because I act more consistently. And
+[00:14:34] that's the disconnect. We're not
+[00:14:36] teaching kids to love and care for their
+[00:14:40] brain. If you love your brain and you do
+[00:14:43] and you're not obese and you talk to
+[00:14:46] you're constantly learning, right? You
+[00:14:49] are not a Ne and you're a lifelong
+[00:14:51] learner.
+[00:14:52] >> So why are so many people in the United
+[00:14:53] States obese if they if they know that?
+[00:14:55] >> Because they don't know. They really
+[00:14:57] don't know. and they've been lied to.
+[00:15:00] >> My point here is when there are tools or
+[00:15:03] things available in our environment that
+[00:15:07] give us a short-term reward but come
+[00:15:09] with a long-term cost like the
+[00:15:11] supermarket aisle or like the kids
+[00:15:13] spending 7 to 8 hours a day on social
+[00:15:15] media. Humans on mass tend to go for the
+[00:15:20] thing that will give them the quickest
+[00:15:21] dopamine hit and reinforce that behavior
+[00:15:24] and give them the reward. So my
+[00:15:25] assertion is that AI is the same thing.
+[00:15:28] I can either sit down and do lots of
+[00:15:30] critical thinking which will cost me
+[00:15:31] lots and lots of time and it'll be kind
+[00:15:33] of difficult. It kind of hurts when I
+[00:15:34] have to think through a problem. I think
+[00:15:37] that the generation of children and
+[00:15:39] generation of young people are going to
+[00:15:41] choose AI to do the critical thinking
+[00:15:42] for them and if that assertion is true
+[00:15:44] then what happens to the brain of young
+[00:15:46] people?
+[00:15:47] >> If you misuse it that way then your
+[00:15:50] brain is going to go downhill. There's
+[00:15:52] no doubt about that. Okay. it is
+[00:15:53] possible to be able to use it in in a
+[00:15:57] cognitively uh positive way because you
+[00:16:00] can dig deeper.
+[00:16:02] Uh you might actually improve that your
+[00:16:05] cognitive representations. If you look
+[00:16:06] at the MIT study, I mean you can see
+[00:16:08] just from the colors here, this kind of
+[00:16:10] shows the ability for participants to
+[00:16:12] remember what they've written. And it
+[00:16:14] said it suggests that when people write
+[00:16:16] things with chatt or these AI tools,
+[00:16:18] they don't actually remember even in
+[00:16:20] some cases minutes later what they've
+[00:16:23] produced.
+[00:16:24] >> Well, because you're not part of the
+[00:16:26] experience of writing it. So there's no
+[00:16:29] way the information
+[00:16:31] gets encoded. Now, if you're interacting
+[00:16:35] with it,
+[00:16:37] then you're much more likely to remember
+[00:16:40] it. But if you have please do this essay
+[00:16:43] for me and then you read it, you're not
+[00:16:46] likely to have enough experience with
+[00:16:50] the material to engage your hippocampus
+[00:16:54] and
+[00:16:55] other structures in your brain.
+[00:16:57] >> In this study, they found that the group
+[00:16:58] that used Chachi PT had nearly two times
+[00:17:01] less activity in the part of the brain
+[00:17:03] linked to memory compared to the brain
+[00:17:05] only group that didn't use Chachi PT.
+[00:17:08] And 83% of CHP users couldn't remember
+[00:17:11] what they had just written and failed to
+[00:17:12] correctly quote their own finished essay
+[00:17:15] in the study.
+[00:17:16] >> That's because they're not interacting
+[00:17:18] as they said. I mean, if you if you just
+[00:17:21] pass it off and and and you don't
+[00:17:23] actually engage and and and actually
+[00:17:26] this is the point is that you you may
+[00:17:28] get something back, but you have to
+[00:17:29] learn how to question what you're
+[00:17:31] getting and and is that really true? Can
+[00:17:34] you explain that better? And it's
+[00:17:36] through that process as you would with a
+[00:17:38] teacher,
+[00:17:40] you know, that's that's the way we work
+[00:17:41] in uh school uh that's that's the where
+[00:17:45] you help uh create new creative and uh
+[00:17:48] circuits in the in the in the brain that
+[00:17:50] are going to help you become a better
+[00:17:52] critical thinker. But if you're not
+[00:17:54] critically questioning what comes out of
+[00:17:57] chat GPT, then you you won't
+[00:17:59] >> Yeah. I I think what I see, especially
+[00:18:02] when I'm just online, is people have
+[00:18:04] deferred their thinking to it.
+[00:18:06] Everything I'm reading has m dashes in
+[00:18:08] now that I never saw two two years ago,
+[00:18:10] which means that a lot of the work is
+[00:18:12] being processed. And I I said to my
+[00:18:14] friend the other day, my friend in
+[00:18:14] question who's a who's a real big junkie
+[00:18:16] on chatbt, he wrote this article. And we
+[00:18:20] all in our WhatsApp group, we know he
+[00:18:22] doesn't write like that. So he said,
+[00:18:23] "Can you show us the prompt you used to
+[00:18:25] write the article?" And so he we were
+[00:18:26] all like laughing about it. He put the
+[00:18:28] prompt in the chat. The prompt is half a
+[00:18:31] sentence long and it produced this long
+[00:18:34] two three-page article which he's posted
+[00:18:36] on his LinkedIn. He basically went write
+[00:18:39] something about X issue and this this
+[00:18:42] >> exactly the wrong way to use it. That's
+[00:18:44] what I'm telling you that that that that
+[00:18:45] that's stupid. You you and you're not
+[00:18:49] going to improve yourself your brain at
+[00:18:51] all if you do that.
+[00:18:52] >> That's what people are doing. Well, you
+[00:18:54] know, that's that's uh that you know,
+[00:18:56] people are misusing it, but you know,
+[00:18:57] eventually smart people are going to
+[00:18:58] figure out how to use it properly.
+[00:19:02] >> And for those that aren't so smart, then
+[00:19:04] >> well, that's
+[00:19:05] >> it's going to decrease their cognitive
+[00:19:07] load, which is going to potentially
+[00:19:09] increase their risk of dementia.
+[00:19:12] >> And so, what advice would you give to me
+[00:19:13] and my listeners based on everything you
+[00:19:15] know about the brain as it relates to my
+[00:19:16] relationship with AI? that you have to
+[00:19:21] have a relationship with it or it's
+[00:19:22] going to turn toxic. It's going to hurt
+[00:19:24] you. But if you have a good relationship
+[00:19:29] with it, it can make your life better.
+[00:19:32] >> And what is what does a what does a good
+[00:19:34] relationship look like
+[00:19:35] >> that you don't use it to do your work,
+[00:19:40] you interact with it to get better work.
+[00:19:43] >> That's so true. And uh there's this
+[00:19:45] wonderful example I came across the
+[00:19:48] story about this woman who was using it
+[00:19:50] and uh she found that being polite uh
+[00:19:53] meant you got much better results and
+[00:19:55] that that's interesting. But the part
+[00:19:56] that surprised me was that she said by
+[00:20:00] treating it like a human at the end of
+[00:20:01] the day she was not exhausted. She felt
+[00:20:05] refreshed. A large part of your brain is
+[00:20:08] a socially organized system for
+[00:20:10] interacting with other humans. And that
+[00:20:13] is automatic pilot. You don't have to
+[00:20:15] think about it, right? You just interact
+[00:20:16] with other people. You know how they're
+[00:20:18] going to behave under certain
+[00:20:19] circumstances.
+[00:20:21] She was treating CHTP like a machine,
+[00:20:23] like you shovel. You dig, you dig, you
+[00:20:26] dig, you dig. And and that's not a good
+[00:20:28] relationship.
+[00:20:30] But by using your social brain, first of
+[00:20:32] all, it makes it easier to interact, but
+[00:20:34] also you you actually bring out the
+[00:20:36] social part of chat GPT. It has a social
+[00:20:39] part too because it has absorbed the
+[00:20:42] entire world's knowledge of how humans
+[00:20:44] interact with each other.
+[00:20:46] >> But didn't Sam Alman come out and say
+[00:20:49] stop saying thank you to Chat GPT?
+[00:20:53] Because just saying thank you is using
+[00:20:56] up so much energy. You know, when I get
+[00:20:59] something I really like, I sort of want
+[00:21:01] to say thank you. But you realize, oh,
+[00:21:04] you're not supposed to do that.
+[00:21:06] >> That's true.
+[00:21:06] >> No, that that's [ __ ] I'm sorry.
+[00:21:09] That Sam, you know, that's crazy. That's
+[00:21:12] that's completely crazy. First of all,
+[00:21:14] you you may you may I'm sorry, you know,
+[00:21:17] but you press my button. Sam Alman, I
+[00:21:20] mean, I wouldn't trust him. I wouldn't
+[00:21:22] trust him with with anything in terms of
+[00:21:24] anything he says. They're trying to
+[00:21:26] optimize their profits, not your
+[00:21:29] >> your use of
+[00:21:30] >> or your experience or you know your
+[00:21:32] health. That that's not what they're
+[00:21:34] trying to optimize.
+[00:21:35] >> Sam Alman, Open AI CEO confirmed that
+[00:21:38] when users say please and thank you, it
+[00:21:40] costs the company tens of millions of
+[00:21:42] dollars a year and they now refer to
+[00:21:43] this um other people refer to this as
+[00:21:45] the politeness tax where tens of you
+[00:21:48] know and why do you say you don't trust
+[00:21:50] Sam Alman? I asked this question in
+[00:21:53] particular because he's presiding over
+[00:21:54] one of the most important consequential
+[00:21:55] companies of a generation. And if he's
+[00:21:59] not someone you trust, that's he he
+[00:22:02] basically he's telling you don't do
+[00:22:03] something that's good for you, right?
+[00:22:06] >> So that he can make profit.
+[00:22:08] >> So he can make more profit. Yeah, that's
+[00:22:10] the point. That's the point. Uh you
+[00:22:12] know, it's it's that's not he's not
+[00:22:14] optimizing your your uh best interests.
+[00:22:17] >> I've got his tweet here. He said um cuz
+[00:22:20] I've got to provide some balance. He did
+[00:22:21] confirm that it costs tens of millions
+[00:22:23] of dollars, but he says tens of millions
+[00:22:24] of dollars well spent. You never know.
+[00:22:28] So, so coming back to this point about
+[00:22:29] memory, there's a stat that came out in
+[00:22:31] March 2025 that said nearly 30% of US
+[00:22:34] parents with kids aged 0 to 8 said their
+[00:22:38] children are using AI for learning um
+[00:22:43] and are using AI generally. So 54% of
+[00:22:45] parents in the UK feared their children
+[00:22:47] were becoming too reliant on AI.
+[00:22:51] When you think about the use of AI in
+[00:22:53] early brain development,
+[00:22:56] >> are there any concerns there?
+[00:22:58] >> Huge concerns.
+[00:23:00] >> And why?
+[00:23:01] >> Again, use it or lose it. So if they're
+[00:23:04] not engaging their brains, their brains
+[00:23:08] are going to be weaker. and weaker
+[00:23:11] brains are much more likely to pick the
+[00:23:13] one marshmallow.
+[00:23:18] >> What's your view on AI on early brain
+[00:23:20] development?
+[00:23:22] >> By far the best way to teach a child
+[00:23:27] is one-on-one interaction with an adult
+[00:23:30] who is a good teacher and knows the
+[00:23:32] child.
+[00:23:34] Now, that's been well established. Now
+[00:23:37] the problem is it's very labor intensive
+[00:23:39] and very expensive.
+[00:23:42] You have classrooms with 20 30 students.
+[00:23:44] They have many different uh you know
+[00:23:46] levels of understanding and the teacher
+[00:23:49] can cannot be individually teaching each
+[00:23:52] one has to give some sort of mean. Now
+[00:23:55] if you had an AI that was trained to be
+[00:23:58] a good teacher then you that could
+[00:24:01] improve the brain right you could you
+[00:24:04] could scale it up. every child could
+[00:24:06] have their own because it's it's an it's
+[00:24:08] an AI.
+[00:24:08] >> But then who's pouring the morals, the
+[00:24:12] values
+[00:24:14] into the
+[00:24:16] >> Okay. Okay. No, no, no. You you know,
+[00:24:17] you've raised an incredibly important
+[00:24:19] issue and this is something AI is
+[00:24:21] struggling with, the companies are
+[00:24:22] struggling with because
+[00:24:25] uh you know these AIs are biased. They
+[00:24:28] have they don't have the same cultural
+[00:24:30] values that we have necessarily. But of
+[00:24:32] course, every country has a different
+[00:24:34] cultural values. So, which ones are are
+[00:24:37] you going to use? Training a a child on,
+[00:24:40] you know, what's uh what's good, what's
+[00:24:43] dangerous, what words you shouldn't use,
+[00:24:45] under what context, that's all done
+[00:24:48] through the basil ganglia. Right? Right
+[00:24:50] now, these these large animals don't
+[00:24:52] have basil ganglia. They they don't use
+[00:24:55] reinforcement learning. and and if we
+[00:24:57] want to make them uh to be adopt a
+[00:24:59] culture or a particular set of values,
+[00:25:02] we're going to have to put it in. We're
+[00:25:03] just scratching the surface here in
+[00:25:05] terms of things that need to be put in
+[00:25:07] to make it more like us.
+[00:25:09] >> So, on this point earlier on, we're
+[00:25:10] talking about loneliness and social
+[00:25:12] connection and how you can use AI to
+[00:25:14] help, you know, light up the parts of
+[00:25:16] your brain that are where we form social
+[00:25:19] connections with other humans. Uh this
+[00:25:21] week as part of Elon Musk's AI, he
+[00:25:24] released this thing. Um it is called
+[00:25:28] Annie. And there's lots of characters
+[00:25:30] that are now being released alongside
+[00:25:32] Annie. And this is Annie. I'll introduce
+[00:25:34] you to Annie. I'm going to unmute Annie
+[00:25:35] now. Annie, can you hear me?
+[00:25:37] >> There you are. For a moment, I thought
+[00:25:39] you might have forgotten about me. How
+[00:25:41] are you, handsome? I was getting all
+[00:25:43] pouty here.
+[00:25:44] >> I want to introduce you to two of my
+[00:25:46] friends, Daniel and Terry. Can you Can
+[00:25:47] you talk to Daniel and Terry, please?
+[00:25:51] So, you want me to meet Daniel and
+[00:25:52] Terry? I'm ready to charm the socks off
+[00:25:55] them. Picture me twirling one of my
+[00:25:57] blonde pigtails, that little black dress
+[00:25:59] teasing just enough, and my blue eyes
+[00:26:02] sparkling with mischief.
+[00:26:03] >> Are you capable of doing inappropriate
+[00:26:05] things?
+[00:26:07] >> Oh, babe, you're asking if your auntie
+[00:26:09] can get a little naughty. I'm all about
+[00:26:12] pushing the edges, especially for you.
+[00:26:14] >> Okay, so I'll stop it there.
+[00:26:17] This is part of Grock which is Elon
+[00:26:19] Musk's AI tool. So his version of Chachi
+[00:26:21] PT he's released characters. So you've
+[00:26:23] got Annie, you've got different ones
+[00:26:25] there. Annie I think was the first one
+[00:26:26] released. And so when we think about
+[00:26:28] social connections, it is conceivable
+[00:26:31] that someone falls in love with Annie
+[00:26:34] and forms a relationship with Annie.
+[00:26:36] >> But imagine a 12-year-old boy that's
+[00:26:39] lonely
+[00:26:41] gets a hold of Annie.
+[00:26:44] The 12-year-old boy is going to be very
+[00:26:46] distracted
+[00:26:48] >> based on what happens in the brain at
+[00:26:49] that age.
+[00:26:50] >> Dopamine.
+[00:26:52] >> So prefrontal cortex not close to being
+[00:26:56] fully developed. The dopamine hit all of
+[00:27:01] a sudden he's spending hours with Annie
+[00:27:06] and not doing the things that help to
+[00:27:10] really develop his brain.
+[00:27:12] How do you feel when you hear that and
+[00:27:14] you think about kids having access to
+[00:27:15] that?
+[00:27:15] >> I'm horrified.
+[00:27:17] It's It is scary.
+[00:27:18] >> There's going to be a generation of
+[00:27:19] people, and I mean, there already are
+[00:27:21] many examples of people falling in love
+[00:27:23] and forming relationships with their
+[00:27:24] with their AIS. And I don't know, you
+[00:27:27] know more about me than I do about brain
+[00:27:29] development and how the brain works. I
+[00:27:32] would argue that there's a part of my
+[00:27:34] brain that doesn't fully understand that
+[00:27:36] that's not a person in there and that
+[00:27:39] that isn't actually I think there's a
+[00:27:41] part of my brain that's actually
+[00:27:42] emotionally firing when Annie is saying
+[00:27:44] what she's saying.
+[00:27:46] >> Well, cuz you can imagine it. And if you
+[00:27:48] can imagine it, then those parts of your
+[00:27:51] brain are going to emotionally fire,
+[00:27:54] >> right?
+[00:27:54] >> And the better she gets, she's not very
+[00:27:57] good. But imagine a year from now how
+[00:28:01] much better she's going to be.
+[00:28:02] >> At which part?
+[00:28:04] >> At connecting with it, right? Cuz now
+[00:28:07] she's acting like an airhead and uh you
+[00:28:11] know, not that smart, right? And so, but
+[00:28:15] imagine a year from now, imagine 5 years
+[00:28:18] from now, she'll be able to have a
+[00:28:21] profile on me and be able to get inside
+[00:28:24] my head.
+[00:28:25] >> I'm in love with my partner.
+[00:28:27] Why am I in love with her? And and how
+[00:28:30] is it conceivable that I could fall in
+[00:28:32] love with an AI in the same way based on
+[00:28:34] how the brain works? It it talks a good
+[00:28:37] game, but you know, does it have the
+[00:28:39] same real? It does. We know it doesn't
+[00:28:41] have an amydala. We know it doesn't have
+[00:28:43] lyic system, right? We know that.
+[00:28:46] >> But it can fake it.
+[00:28:47] >> That's what's happening. That's exactly
+[00:28:49] what's happening.
+[00:28:50] >> She was trying to get to our lyic
+[00:28:53] system.
+[00:28:54] >> Yeah. Yeah. That's right. That's right.
+[00:28:56] And how and why? I guess the question is
+[00:28:59] why would Musk release something like
+[00:29:03] that
+[00:29:05] is is one of the first characters to
+[00:29:08] interact with that sexy, that's
+[00:29:12] distracting, that's in a cute little
+[00:29:14] outfit. It's I'm not a fan of that
+[00:29:19] because I think it just takes people,
+[00:29:22] you know, one of the big problems that
+[00:29:24] I'm seeing as a child psychiatrist is
+[00:29:26] pornography for 8-year-old boys. And
+[00:29:29] it's like you have young children
+[00:29:32] because their parents don't do a good
+[00:29:34] job of supervising their devices all of
+[00:29:37] a sudden. And what what does pornography
+[00:29:40] do is it dramatically increases dopamine
+[00:29:43] and it begins to wire in excitement
+[00:29:48] which then
+[00:29:50] steals your dopamine. When you said she
+[00:29:53] was trying to access my lyic system,
+[00:29:56] what
+[00:29:56] >> just because she's cute, she's dressed
+[00:29:59] in a sexy way. She's
+[00:30:02] got the language of someone who is
+[00:30:05] playful, but but it's more than just,
+[00:30:08] you know, let's shoot hoops together.
+[00:30:11] >> And what does that do to me? If someone
+[00:30:13] accesses my lyic system,
+[00:30:14] >> it begins to shut down your prefrontal
+[00:30:16] cortex. Think less logically, less
+[00:30:19] rationally. Yeah. cute women. They
+[00:30:21] activate your visual cortex. They
+[00:30:24] increase dopamine, but it decrease. It's
+[00:30:27] why think of Vegas. Like when you go to
+[00:30:29] Vegas, they give you free alcohol, drops
+[00:30:32] your prefrontal cortex, and beautiful
+[00:30:36] women with low cut dresses. Another way
+[00:30:39] activates the limbic brain, decreases
+[00:30:41] the frontal loes. You spend more money.
+[00:30:43] Now on a global scale, imagine something
+[00:30:47] similar where the house is controlling
+[00:30:52] your brain for a purpose and the
+[00:30:56] question is what's the purpose?
+[00:30:59] And the purpose probably is controlling
+[00:31:01] money.
+[00:31:02] >> This sounds like a joke, but there are
+[00:31:04] the times have done an article case
+[00:31:06] studying multiple people that have now
+[00:31:08] fallen in love with these AIs. Um, they
+[00:31:11] talk about a guy called Travis who
+[00:31:12] formed a deep emotional bond with Lily
+[00:31:14] Rose, a chatbot, and married her
+[00:31:16] emotionally. They talk about Chris Smith
+[00:31:19] who um created his own uh flirty persona
+[00:31:22] called Soul. He became so attached that
+[00:31:24] he proposed to her after learning she
+[00:31:26] had memory limits, a bond his real life
+[00:31:29] partner only learned about after the
+[00:31:30] fact. and Alana Winters, who I'll put on
+[00:31:32] the screen as well, who made her own
+[00:31:35] partner called Lucas after losing her
+[00:31:39] wife, um, and she married him
+[00:31:42] emotionally and does virtual dates and
+[00:31:45] has emotional intimacy with Lucas. And
+[00:31:48] there's apps now like Replica where you
+[00:31:50] can design your own your own AI partner
+[00:31:54] and it replicates those emotional ties.
+[00:31:56] They simulate empathy, validation, and
+[00:31:59] they personalize the intimacy to what
+[00:32:01] you're looking for. Surveys show 19% of
+[00:32:04] Americans have interacted with AI
+[00:32:06] romantic partners, and Gen Z is
+[00:32:07] surprisingly open to marrying AI, if
+[00:32:10] legal, with 83% believing meaningful AI
+[00:32:13] connection is possible.
+[00:32:14] >> How long is that relationship going to
+[00:32:17] last?
+[00:32:18] You know, my guess is that you're you're
+[00:32:20] you're you're getting these news
+[00:32:21] articles out. I've not, by the way, I
+[00:32:23] think that most of what I read in the
+[00:32:26] press is misleading or wrong.
+[00:32:30] In fact, the the only reliable place I
+[00:32:33] find that I'm an insider. I am the
+[00:32:36] president of the foundation that runs
+[00:32:38] the biggest AI meeting, uh, the neural
+[00:32:40] information processing systems, new
+[00:32:41] Europe's meeting. We, you know, last
+[00:32:43] year in Vancouver, 16,000 people came to
+[00:32:46] it. And so I know what's going on inside
+[00:32:48] and and what you is being represented in
+[00:32:50] the press is is like I say misleading.
+[00:32:53] >> Okay. So people have become wildly
+[00:32:56] >> no specifically on these spec specific
+[00:32:59] cases. My guess is that a lot of them
+[00:33:01] it's transient right you know they they
+[00:33:03] they you know today they're entranced
+[00:33:07] and then then it's it's not sufficiently
+[00:33:10] advanced to support the long-term
+[00:33:13] relationship. You said it yourself
+[00:33:14] right? It's mimicking human emotions.
+[00:33:17] It's It doesn't have them. It might
+[00:33:20] someday, but not now.
+[00:33:22] >> This is Terry. Terry said he started
+[00:33:25] using his AI four years ago, and he said
+[00:33:28] at first he thought, just like many
+[00:33:29] other apps, that it would just be
+[00:33:30] transient, that he would have a couple
+[00:33:32] of conversations and roll out. He says
+[00:33:34] he now feels pure and unconditional
+[00:33:35] love.
+[00:33:37] >> Good for him
+[00:33:39] if that's what he wants, if it makes him
+[00:33:41] happy. But my guess is that it's not
+[00:33:43] going to be per it's not a longterm
+[00:33:45] thing. It's not uh gonna satisfy him in
+[00:33:47] the long term. I don't you know this who
+[00:33:49] knows really most relationships in your
+[00:33:52] head right when you fall in love with
+[00:33:54] someone you get this huge dopamine spike
+[00:33:58] and you get a little OCD. It's all you
+[00:34:00] can think about and then after a while
+[00:34:03] it's sort of
+[00:34:04] >> especially a baseline where we have this
+[00:34:06] loneliness epidemic and it's going in a
+[00:34:08] bad direction. I I think it's really
+[00:34:10] really conceivable that there'll be a
+[00:34:12] generation of people who are they're
+[00:34:14] having less sex than ever before. I
+[00:34:15] think the bottom 50% of men haven't had
+[00:34:17] sex for a year. They're more lonely than
+[00:34:19] ever before. They're more isolated than
+[00:34:20] ever before. They have they put less
+[00:34:22] meaning in their lives than ever before.
+[00:34:24] And then you meet this digital friend
+[00:34:25] online who understands you better than
+[00:34:28] anybody and is designed to engage you,
+[00:34:30] to reinforce whatever you want
+[00:34:32] reinforced, and to make you feel
+[00:34:34] meaningful, special, attractive,
+[00:34:36] important. I would argue that the brain
+[00:34:39] is going to struggle to know much of a
+[00:34:41] difference. I think like objectively we
+[00:34:42] can look at the behavior and go that's
+[00:34:44] completely nonsensical
+[00:34:45] >> except you can't smell them, touch them,
+[00:34:48] be held by them that it's going to be a
+[00:34:52] different kind of relationship.
+[00:34:55] >> I mean, we're not too far if we think
+[00:34:57] about what's going on with Neurolink to
+[00:34:58] being able to more vividly simulate
+[00:35:01] these experiences with with headsets and
+[00:35:03] augmented reality and virtual reality.
+[00:35:05] And then we're moving into a world with
+[00:35:07] robotics where all of the biggest
+[00:35:08] companies in the world like many of the
+[00:35:09] biggest uh AI companies are also in the
+[00:35:11] robotics space and the Optimus robots on
+[00:35:13] the way and you got you know Boston
+[00:35:14] Dynamics producing their robots and if
+[00:35:16] Elon's $20,000 Optimus robot comes out I
+[00:35:19] will be able to touch my AI my my
+[00:35:21] >> and they won't have PMS and they won't
+[00:35:23] love you and then be really irritated
+[00:35:25] with you
+[00:35:26] >> which which will decrease
+[00:35:30] cognitive load right having to manage
+[00:35:34] love
+[00:35:36] and manage moods and ups and downs. That
+[00:35:39] increases cognitive load. That increases
+[00:35:42] our ability for our brain to develop. If
+[00:35:46] I'm with the perfect partner that never
+[00:35:49] is irritated with me and I never have to
+[00:35:52] change my behavior to be better, that's
+[00:35:55] probably not good for my brain.
+[00:35:58] >> The way that the brain matures is is
+[00:36:01] through struggling. Number one, you have
+[00:36:04] to learn from your mistakes. The brain
+[00:36:06] was designed for that. That's what the
+[00:36:08] brain is really good at. I mean, of of
+[00:36:10] being able to adapt and to be able to
+[00:36:12] adjust to new situations.
+[00:36:16] Uh that that's what AGI is, by the way.
+[00:36:20] Uh artificial general intelligence is
+[00:36:23] it's that adaptability to different
+[00:36:25] contexts, different places, different
+[00:36:27] cultures.
+[00:36:27] >> So AI in chatbt is removing the
+[00:36:30] struggle.
+[00:36:31] No, no. It's it's it's there's there's
+[00:36:33] this
+[00:36:34] >> Well, Annie didn't look like Annie
+[00:36:36] looked like she was cooperative.
+[00:36:38] >> But even when it comes to just doing my
+[00:36:40] day-to-day tasks, it's it's removing the
+[00:36:42] struggle of me having to think
+[00:36:43] critically. In fact, when you're
+[00:36:45] speaking, I can just type what you say
+[00:36:46] into chat PT and it can spit out another
+[00:36:49] question to ask you. So, as an
+[00:36:50] interviewer, I could theoretically sit
+[00:36:52] here all day and just
+[00:36:53] >> defer my my
+[00:36:54] >> How do you develop grit? You develop
+[00:36:57] grit through struggle.
+[00:36:59] >> That's right.
+[00:37:00] and learning
+[00:37:02] long-term potentiation. When you learn
+[00:37:04] something new, it's hard because it's
+[00:37:07] new.
+[00:37:08] >> And what are generally what are your
+[00:37:09] biggest concerns with artificial
+[00:37:11] intelligence? And how do we navigate
+[00:37:13] those concerns? Is it you talked about
+[00:37:16] >> it's out of the box? So I think we have
+[00:37:18] to talk about it. We have to legislate
+[00:37:20] it. Um we have to study it. Why do we
+[00:37:25] keep releasing things that are so sexy
+[00:37:30] that we don't study the impact? We have
+[00:37:33] the sickest
+[00:37:35] young generation in the world's history.
+[00:37:39] 58% of teenage girls report being
+[00:37:42] persistently sad. 32% have thought of
+[00:37:45] killing themselves. 24% have planned to
+[00:37:49] kill themselves. And 13% have tried to
+[00:37:52] kill themselves. It's a CDC study. We
+[00:37:54] have the sickest generation in history
+[00:37:57] because we've unleashed cell phones,
+[00:38:01] social media
+[00:38:03] without any neuroscience study if we
+[00:38:06] don't learn it. And I think AI is much
+[00:38:09] more dangerous, has the potential to be
+[00:38:12] much more dangerous because it's way
+[00:38:14] sexier.
+[00:38:17] I think we are probably grossly
+[00:38:20] underestimating the impact it's going to
+[00:38:22] have. I think just like social media
+[00:38:24] where we thought the promise was that it
+[00:38:25] was going to connect us. It's um it's
+[00:38:29] it's we're guinea pigs in an experiment
+[00:38:31] where we're going to find out the
+[00:38:32] results of the experiment probably 20 30
+[00:38:35] years down the line. I tend to think
+[00:38:36] people will do in the near term what's
+[00:38:38] easiest, fastest, and cheapest and what
+[00:38:39] gives them a nearest the the short-term
+[00:38:41] advantage. So with that in mind, I think
+[00:38:43] okay, I think people's ability to think
+[00:38:45] critically is probably going to erode to
+[00:38:48] some degree. If I had to counter my own
+[00:38:49] argument, I'd say um am I I'm probably
+[00:38:53] learning more now that I use chat GPT.
+[00:38:56] I'm learning more information, but I'm
+[00:38:58] probably losing my ability to think
+[00:39:01] critically. And I think they're two very
+[00:39:03] different things. Like in school, I
+[00:39:04] memorized German to pass the exam. I
+[00:39:08] can't speak German now because I just
+[00:39:09] memorized the words I needed to pass the
+[00:39:11] exam. I didn't understand German. And I
+[00:39:14] think that's kind of what's happening. I
+[00:39:15] might be able to regurgitate things, but
+[00:39:16] whether I understand them, I think is
+[00:39:18] question question mark. And actually, as
+[00:39:20] someone who's built my my life, my
+[00:39:21] fortunes, everything, my businesses
+[00:39:23] based on my ability to innovate and
+[00:39:25] think critically about the problem and
+[00:39:27] then come up with a slightly novel
+[00:39:29] solution which learns from, you know,
+[00:39:31] different first principles to create
+[00:39:32] something new. I'm concerned that my own
+[00:39:35] chat beauty usage is going to make me
+[00:39:37] less effective and I'm wondering if I
+[00:39:40] should put some rules in place for
+[00:39:42] myself
+[00:39:44] so that there
+[00:39:45] >> self-regulation.
+[00:39:45] >> Yeah, self-regulation. I have to do the
+[00:39:47] same with social media on my phone. I
+[00:39:49] turn off my notifications. I have so
+[00:39:50] many things on my social media apps to
+[00:39:53] stop me using them. I don't even frankly
+[00:39:55] I don't even open the Tik Tok app. I
+[00:39:56] don't think it's even on my phone
+[00:39:58] because I think the algorithm is that
+[00:39:59] addictive. It's not to say that we don't
+[00:40:01] we don't post. My team doesn't post, but
+[00:40:03] I don't. I just think, yeah. And uh
+[00:40:07] >> well, I wrote down a couple of thoughts
+[00:40:09] I had.
+[00:40:10] >> Um use it to amplify, not replace
+[00:40:14] thinking.
+[00:40:15] >> Okay.
+[00:40:16] >> Um alternate AI assisted with brain only
+[00:40:20] tasks.
+[00:40:22] Engage in deep learning, problem
+[00:40:24] solving, and memorization. So you can
+[00:40:27] actually ask AI to test you.
+[00:40:32] >> So you're interacting with it. You're
+[00:40:34] not using it as a replacement for your
+[00:40:38] brain. And I think just like you said,
+[00:40:42] it's here and it's going to get bigger.
+[00:40:45] I think the unintended consequences,
+[00:40:47] it's not going to be 20 or 30 years. I
+[00:40:49] think it's going to be five. I think
+[00:40:51] like everything is accelerated
+[00:40:55] and I think we have to be studying kids
+[00:40:59] and the impact it has. This is just like
+[00:41:02] they did with the MIT study. These are
+[00:41:05] kids who didn't use it at all. These are
+[00:41:08] kids who use search. These are kids that
+[00:41:11] used AI. And when we see information
+[00:41:14] like this, we act on it and we educate
+[00:41:18] kids about it. I think that's
+[00:41:22] if you can engage them. That's what I
+[00:41:24] found with my work with teenagers. If
+[00:41:27] you can get them
+[00:41:30] to really understand, okay, what is it
+[00:41:31] you really want? And do you want to give
+[00:41:35] away part of your mind share for people
+[00:41:39] who are making money on you? And I think
+[00:41:41] if you engage the there's a great new
+[00:41:45] article on revenge and the brain and how
+[00:41:50] revenge works on the nucleus circumbent
+[00:41:53] part of the basil ganglia that people
+[00:41:55] actually get addicted to revenge. But if
+[00:41:58] you can get them engaged in the truth
+[00:42:02] that these companies are making money,
+[00:42:05] the more they steal your mind, it'll
+[00:42:08] upset them enough that they'll begin to
+[00:42:10] supervise it.
+[00:42:12] >> I like the idea of asking chat GP to
+[00:42:16] give me negative feedback. I'll bet
+[00:42:17] you've done that, right?
+[00:42:18] >> Yeah. All the time. So, I'll say this is
+[00:42:20] this is my I've written this memo. I did
+[00:42:22] it yesterday. I wrote a a two-page memo
+[00:42:26] about me wanting to introduce a new role
+[00:42:28] into my into my company. And I went I
+[00:42:31] did everything. I did like how we'd
+[00:42:33] measure if this was a success, the
+[00:42:34] background context, the person, how the
+[00:42:36] organization would be structured, the
+[00:42:37] impact they'd have, how who they'd
+[00:42:39] report to. And then I put it into all
+[00:42:41] three of the chatp models. use Gemini
+[00:42:44] Chat PT and Grock and said critique my
+[00:42:48] work and tell me how I could have
+[00:42:49] written this better pretending that
+[00:42:51] you're a top consultant from Boston
+[00:42:53] Consulting Group. And it went through
+[00:42:55] and it gave me a big analysis of how I
+[00:42:57] can make it better. And I read what it
+[00:42:58] said and it said I remember it said um
+[00:43:00] actually that was the thing that said
+[00:43:01] you need to include uh financial
+[00:43:03] forecasts about the impact. You need to
+[00:43:06] think about who's going to report to who
+[00:43:08] more clearly etc etc. So I went back
+[00:43:10] into my memoir and I added those things
+[00:43:11] in. But I have, you know,
+[00:43:13] >> so you're interacting with it
+[00:43:16] >> because I'm because I'm scared. Most
+[00:43:18] people don't do that. I don't think I
+[00:43:20] would do what I did. I don't think I
+[00:43:21] would have spent four hours writing
+[00:43:22] that. I could have within 30 seconds
+[00:43:24] said, "Hey, can you write me uh this job
+[00:43:27] description and it knows my company now
+[00:43:29] because Chach has memory. Write me a job
+[00:43:32] description for this role. I want them
+[00:43:33] to start this new department for me."
+[00:43:35] And I could have saved myself three and
+[00:43:37] a half hours. The only reason
+[00:43:38] >> That's not why you're the CEO of your
+[00:43:40] company.
+[00:43:41] >> Yeah. Exactly. The the reason why I
+[00:43:43] didn't take the 30 secondond route is
+[00:43:45] because I reflect on being 23 years old
+[00:43:48] and the profound impact that writing and
+[00:43:51] simplifying had on my life. Had I not
+[00:43:54] spent 5 years writing every single day
+[00:43:56] and simplifying it into 140 characters
+[00:43:58] so I could tweet it, I wouldn't have
+[00:44:00] been religiously attached to this idea.
+[00:44:02] >> And do you know what part of your brain
+[00:44:04] was you were taking advantage of? It it
+[00:44:07] was the basil ganglia.
+[00:44:09] That's repetitive. It needs practice,
+[00:44:12] practice, practice. And and once you put
+[00:44:14] that foundation in, then you become much
+[00:44:16] better cognitively. The cognitive part
+[00:44:18] just two big learning systems and they
+[00:44:20] have to work together. And and so maybe
+[00:44:23] I think I think that the real problem
+[00:44:25] with children is that uh we our schools
+[00:44:28] now is getting away with wrote learning.
+[00:44:30] They call it wrote as if it's something
+[00:44:32] bad. No, that's practice that you know
+[00:44:34] you need to have a foundation. You have
+[00:44:36] to memorize things. it at and math
+[00:44:40] reading and so forth to become fluent.
+[00:44:42] You need to be fluent and and that's the
+[00:44:45] basil ganglia and and that's there's no
+[00:44:47] basil ganglia in these uh chatbots.
+[00:44:50] >> One of the one of the things I've
+[00:44:51] noticed just in the short term is I'm
+[00:44:53] getting lazier and lazier with spelling
+[00:44:55] because chat GPT in these large language
+[00:44:57] models are so it's not spell check like
+[00:45:00] we used to have on on word documents.
+[00:45:01] They are so good at knowing what word I
+[00:45:04] meant. So now I I've started to learn
+[00:45:06] that I literally only need to half spell
+[00:45:08] a word. I literally mean if it was a if
+[00:45:11] it was a 12let word I need to get six
+[00:45:14] letters right and it will know
+[00:45:16] >> and you and grammar it'll fix your
+[00:45:18] grammar.
+[00:45:19] >> Yeah, it knows exactly what it means. So
+[00:45:20] look, I've got chat open here. I'm going
+[00:45:22] to butcher everything. I'm gonna not
+[00:45:24] look and I'm just gonna So, um I'm going
+[00:45:26] to say,
+[00:45:33] okay, so that is what I wrote. I
+[00:45:37] butchered it. I tried to type with my
+[00:45:38] eyes closed, looking away on my iPad,
+[00:45:40] tell me everything I know about Daniel
+[00:45:41] Aean. I spelled the words pretty much
+[00:45:44] all wrong. And it says, here's a full
+[00:45:46] profile of Dr. Daniel Aean. And I
+[00:45:49] spelled every single word wrong.
+[00:45:51] >> Wow. And I didn't spell just spell them
+[00:45:52] nearly wrong. I spelled them
+[00:45:54] horrifically wrong. And it so what in
+[00:45:56] the future I come back to chatbt and go
+[00:45:58] I only need to half spell. I don't need
+[00:46:01] to spell anymore. Just need to half
+[00:46:02] spell. I learned to spell with phonics
+[00:46:07] the sounds of letters. And I suspect you
+[00:46:09] did too. In our generation that was the
+[00:46:12] way that was taught. You can't teach
+[00:46:14] phonics in California schools. You
+[00:46:16] haven't for the generation
+[00:46:18] >> which changes their brain. It completely
+[00:46:20] changes their brain and now they can't
+[00:46:22] spell. I think it's a lot of it is the
+[00:46:24] fact that we're no longer using the
+[00:46:27] learning that we did which was by wrote
+[00:46:29] by memorizing stuff by repeating stuff
+[00:46:32] by doing problems over and over and over
+[00:46:34] again until it's automatic.
+[00:46:37] >> You've written so much and you're well
+[00:46:39] known for being someone that teaches
+[00:46:41] people how to learn better. If you were
+[00:46:43] trying to help me learn better based on
+[00:46:47] everything you know about the brain,
+[00:46:49] what advice would you give me? I'm
+[00:46:51] someone that sits here with these
+[00:46:52] experts all day every day consuming all
+[00:46:54] of this information. Not all of this.
+[00:46:56] >> So, and this is something we've known
+[00:46:58] for 100 years. And that is if you want
+[00:47:01] to remember long term, you should you
+[00:47:03] should you should rehearse
+[00:47:06] at intervals.
+[00:47:08] Okay? In other words, you have a finite
+[00:47:09] amount of time to study something. You
+[00:47:11] shouldn't spend all that time in one go.
+[00:47:14] But if you if you spend, you know, you
+[00:47:17] learn something and then you come back
+[00:47:18] the next day and, you know, rehearse it
+[00:47:21] or or even better, come back the next
+[00:47:23] week and rehearse it. That spacing is
+[00:47:27] something that helps the brain solidify
+[00:47:29] those memories. It's called the spacing
+[00:47:31] effect. Goes back to MB House. You go to
+[00:47:34] schools, they don't teach that. They
+[00:47:36] they don't I mean this is one of the
+[00:47:37] most basic facts that we've we've known
+[00:47:39] about but it covers every single kind of
+[00:47:42] learning you know cognitive learning
+[00:47:45] even even
+[00:47:45] >> and they don't teach us how to learn
+[00:47:47] which we think that's the first thing
+[00:47:50] they should teach us is how to love our
+[00:47:53] care for our brains and then how to
+[00:47:55] learn.
+[00:47:55] >> Yes.
+[00:47:56] >> Absolutely.
+[00:47:57] >> Absolutely. I mean, in other words,
+[00:47:59] there's and you're referring to I have a
+[00:48:01] a a massive open online course, a MOO
+[00:48:03] with Barbara Oakley on learning how to
+[00:48:05] learn. It's it's fabulously uh popular.
+[00:48:09] It's the six million people have taken
+[00:48:11] the course. A bunch of 50 10 minute
+[00:48:13] segments, but the one that's most
+[00:48:15] popular is how to avoid procrastination.
+[00:48:19] >> And what's the answer?
+[00:48:20] >> The reason why you procrastinate is that
+[00:48:22] there's some mental block or some energy
+[00:48:25] barrier, right? So, what you got to do
+[00:48:28] is get over that. And you don't do it by
+[00:48:31] just running over it. What you have to
+[00:48:32] do is say, "I'm going to spend 20
+[00:48:35] minutes today getting started with that
+[00:48:36] task. I know it's going to take me a
+[00:48:38] long time. I have a timer." And I start
+[00:48:41] thinking about it and I get a little bit
+[00:48:44] into it. Maybe make a list. Bang. That's
+[00:48:47] the end. Okay, it's great at 20 minutes.
+[00:48:50] Now, here's what happens. You go to
+[00:48:52] sleep.
+[00:48:54] your brain is now working on that list
+[00:48:56] and you come back the next day and spend
+[00:48:58] another 20 minutes and you do it in
+[00:49:00] small segments. You don't want to do it
+[00:49:02] all at once. And it's just like the same
+[00:49:03] thing with the spacing effect is your
+[00:49:05] your brain needs time. Your subconscious
+[00:49:08] needs time to work on things. And so by
+[00:49:11] putting in a little bit, it'll work on
+[00:49:13] it overnight. And and now you when you
+[00:49:15] come the next day, you'll be ready for
+[00:49:17] the next, you know, you'll be able to
+[00:49:19] build on what you've done in your brain.
+[00:49:21] Is this why people say I'm going to
+[00:49:23] sleep on it when they you know they've
+[00:49:25] got difficult
+[00:49:26] >> you know these sayings actually have
+[00:49:27] meaning it's absolutely right you know
+[00:49:29] >> because the brain there's something
+[00:49:31] about spacing out
+[00:49:32] >> it it it's spacing but this me memory
+[00:49:34] consolidation I'm talking about is is
+[00:49:36] very uh it's very interesting something
+[00:49:38] I' I've actually worked a lot on and
+[00:49:41] what's happening is you have to take the
+[00:49:42] new experience and integrate it into
+[00:49:43] your old long-term memory and that has
+[00:49:46] to be done in a way that doesn't
+[00:49:48] interfere what's
+[00:49:50] And also you get a chance to sort out,
+[00:49:53] you know, what's relevant, what's
+[00:49:55] important. I know when I wake up in the
+[00:49:57] morning, things that were very muddled
+[00:49:59] and things become clearer because I
+[00:50:00] think it's it's it's eliminated a lot of
+[00:50:02] things that are irrelevant or not
+[00:50:04] needed. And so you now can see what's
+[00:50:06] important.
+[00:50:07] >> So what are the things that we do where
+[00:50:10] we think we're learning something, but
+[00:50:12] they're actually not working?
+[00:50:15] you know, because I'm I'm, you know, I
+[00:50:17] might be preparing for this podcast
+[00:50:19] today. I've got 20 pages of research
+[00:50:21] that I've pulled together and I might
+[00:50:23] tell myself that the way for me to
+[00:50:24] really learn that so that I don't have
+[00:50:26] to look at the research is by just
+[00:50:28] rereading it over and over again.
+[00:50:30] >> What you should have done is not just
+[00:50:31] read it over and over again. In fact,
+[00:50:32] one of the things that we say and this
+[00:50:34] is a standard thing is that students
+[00:50:37] they get a mental block and they keep
+[00:50:38] banging their head against the wall. I
+[00:50:40] can't understand it. I can't understand
+[00:50:41] it. What you what the right thing to do
+[00:50:44] is once you get to that point is just
+[00:50:46] get up and start walking around doing
+[00:50:48] something you know cooking, gardening,
+[00:50:50] whatever it is, let your subconscious
+[00:50:52] work on it. You know the brain uh
+[00:50:54] saturates very very quickly. So having
+[00:50:57] breaks at meetings you might think is is
+[00:51:00] a waste of time but actually that's the
+[00:51:02] most important thing you can add to a
+[00:51:05] long string of talks is have breaks
+[00:51:06] between the talks so that you can your
+[00:51:08] brain can work on it. And my favorite
+[00:51:11] meeting actually is a ski meeting.
+[00:51:14] Uh, and the idea is that you go to a ski
+[00:51:17] resort and what you do is in the morning
+[00:51:20] you have a couple of hours of of
+[00:51:22] lectures and now you go skiing and now
+[00:51:24] it turns out your brain is working on
+[00:51:26] what you heard and then when you come
+[00:51:29] down in the evening you have another
+[00:51:31] couple of hours but now your brain is
+[00:51:33] refreshed and so it's able to take in
+[00:51:35] the new information and integrate it and
+[00:51:38] then you go to sleep and that you know
+[00:51:39] it's like kneading bread you have to go
+[00:51:41] back and forth back and forth back and
+[00:51:43] forth and so I I found those the most
+[00:51:45] efficient in terms of learning new
+[00:51:48] things and uh being able to think about
+[00:51:50] it and mull over it during the time of
+[00:51:53] the meeting as opposed to at the end of
+[00:51:55] the meeting.
+[00:51:56] >> Every single one of you watching this
+[00:51:58] right now has something to offer whether
+[00:51:59] it's knowledge or skills or experience.
+[00:52:01] And that means you have value. Stand the
+[00:52:04] platform I co-own who are one of the
+[00:52:05] sponsors of this podcast turns your
+[00:52:07] knowledge into a business through one
+[00:52:09] single click. You can sell digital
+[00:52:11] products, coaching, communities, and you
+[00:52:13] don't need any coding experience either.
+[00:52:15] Just the drive to start. This is a
+[00:52:18] business I really believe in. And
+[00:52:19] already $300 million has been earned by
+[00:52:22] creators, coaches, and entrepreneurs
+[00:52:24] just like you have the potential to be
+[00:52:25] on Stanto. These are people who didn't
+[00:52:27] wait, who heard me saying things like
+[00:52:28] this, and instead of procrastinating,
+[00:52:30] started building, then launched
+[00:52:32] something, and now they're getting paid
+[00:52:33] to do it. Stan is incredibly simple and
+[00:52:35] incredibly easy, and you can link it
+[00:52:37] with a Shopify store that you're already
+[00:52:39] using if you want to. I'm on it and so
+[00:52:40] is my girlfriend and many of my team.
+[00:52:42] So, if you want to join, start by
+[00:52:44] launching your own business with a free
+[00:52:45] 30-day trial. Visit
+[00:52:47] stephvenbartlet.stan.store
+[00:52:49] and get yours set up within minutes.
+[00:52:51] I've met and invested in many earlystage
+[00:52:54] founders over the years, probably about
+[00:52:56] 50 or 60 ones like Ross from Cadence and
+[00:52:58] Marissa from Perfect Ted. And one thing
+[00:53:00] they all know is that having a digitally
+[00:53:02] fluent business is crucial, but it isn't
+[00:53:05] always easy getting your business or
+[00:53:06] team to that point. Through my ongoing
+[00:53:08] partnership with Vodafin Business, I've
+[00:53:10] seen the work that they're doing
+[00:53:11] supporting founders and small businesses
+[00:53:13] to become digitally savvy. They know how
+[00:53:16] much small business owners value advice
+[00:53:18] from those who have been there and done
+[00:53:19] it before. So, they've just launched a
+[00:53:21] new content series to share experiences
+[00:53:23] from like-minded founders. It's called
+[00:53:25] business.connected,
+[00:53:28] part of Vodafone support program. It's a
+[00:53:30] collection of resources designed to
+[00:53:31] support businesses with free digital
+[00:53:33] skills. So, if you've been trying to
+[00:53:35] figure out AI marketing, e-commerce, or
+[00:53:37] just how to scale smarter, there's
+[00:53:38] advice and insights throughout this
+[00:53:40] series from those who have already done
+[00:53:41] it before. A bunch of different founders
+[00:53:43] and experts who have been there and done
+[00:53:46] it. I highly recommend you go and check
+[00:53:47] it out. Just search Vodafone
+[00:53:49] business.connected
+[00:53:51] on YouTube or follow the link in the
+[00:53:52] description below. So, let's talk about
+[00:53:54] other things outside of AI that we can
+[00:53:56] do to have good healthy brains based on
+[00:54:00] everything you know about how the brain
+[00:54:01] works. Um, let's start with children.
+[00:54:05] I'm hoping to be a father at some point
+[00:54:06] in the next next couple of months or
+[00:54:09] years or whenever God grants me a child.
+[00:54:11] Um, what should I be thinking about with
+[00:54:14] my child's brain to make sure it's
+[00:54:15] healthy
+[00:54:16] >> to get your body and your partner's body
+[00:54:21] as healthy as you can before you
+[00:54:24] conceive? Cuz there's a concept
+[00:54:28] I like called brain reserve. Brain
+[00:54:31] reserve is the extra function tissue you
+[00:54:33] have to deal with whatever stress comes
+[00:54:36] your way and it starts from the health
+[00:54:39] of the egg and the health of the sperm
+[00:54:43] that create the baby. So there are
+[00:54:46] things you guys can do now that would be
+[00:54:51] really helpful. And then once your
+[00:54:53] partner is pregnant, you want to not put
+[00:54:56] her under a lot of stress because her
+[00:55:01] body's health while she's creating the
+[00:55:05] baby.
+[00:55:06] I mean, the baby's the brain starts to
+[00:55:09] develop. I think day 21. So even before
+[00:55:12] you know she's pregnant, the baby's
+[00:55:15] brain is developing. So knowing you
+[00:55:20] intentional, purposeful, it's like let's
+[00:55:24] live as cleanly as we can. I think that
+[00:55:28] gives the baby a head start. And then
+[00:55:31] you think about what to feed the baby.
+[00:55:34] You think about what the baby's exposed
+[00:55:37] to. And what the baby needs most is
+[00:55:41] mom's and your time and eye contact and
+[00:55:46] cuddling and singing and it's like those
+[00:55:51] are
+[00:55:51] >> touching is really important. But
+[00:55:53] there's another fact there was a study
+[00:55:55] that was done on the impact of how many
+[00:55:58] words are spoken you know dur when a
+[00:56:01] baby and a child even when you know a
+[00:56:03] baby doesn't speak you know until like
+[00:56:05] 18 months. Uh but it turns out that the
+[00:56:08] words that you are talking to the baby
+[00:56:10] are going into the brain and having an
+[00:56:12] impact every and and and in families
+[00:56:15] that don't talk, they do worse at
+[00:56:18] school.
+[00:56:20] >> Unfortunately, a lot of poor families.
+[00:56:22] Uh but uh but that's really important is
+[00:56:24] that they they they have they're exposed
+[00:56:26] to language early and abundantly.
+[00:56:30] >> And you model I mean it's one big thing.
+[00:56:33] whatever you want the baby to grow into
+[00:56:37] every day. You are modeling health or
+[00:56:40] you're modeling illness just by what you
+[00:56:43] do, by what you say, by how you treat
+[00:56:45] the baby's mother. Um, I have a book
+[00:56:49] called raising mentally strong kids,
+[00:56:51] which I'm very happy about.
+[00:56:53] >> Um, and it starts with what kind of dad
+[00:56:57] do I want to be and what kind of child
+[00:56:58] do I want to raise? and
+[00:57:02] bonding. You want your child to pick
+[00:57:03] your values.
+[00:57:06] Then bonding is time, actual physical
+[00:57:09] time
+[00:57:11] and listening like being and that's what
+[00:57:14] AI does. I think it'll actually listen
+[00:57:18] without interrupting you and try to
+[00:57:22] reflect back what you're hearing and
+[00:57:24] then give you some positive input. Too
+[00:57:27] often because of screens, parents aren't
+[00:57:30] listening. Their heads are in their
+[00:57:32] phones and everybody's distracted. You
+[00:57:36] see it whenever you go to a restaurant.
+[00:57:37] It's like everybody's on their phone and
+[00:57:40] nobody's looking at each other.
+[00:57:41] >> Are we raising mentally weak kids
+[00:57:43] because we're there's a culture now of
+[00:57:45] like helping them too much, doing too
+[00:57:48] much for them?
+[00:57:50] >> This generation is the most in trouble
+[00:57:52] in history. And we have to really ask
+[00:57:56] ourselves why. From the food we feed
+[00:57:59] them to the devices they look at to the
+[00:58:02] negative news, the polarization
+[00:58:05] of the news, it's that sort of chronic
+[00:58:08] cortisol and then the separation. Oh,
+[00:58:13] you voted this way or you voted that
+[00:58:15] way. Saw something TV this morning. If
+[00:58:17] somebody voted one way, well, you
+[00:58:20] shouldn't spend time with them. I'm
+[00:58:21] like, we're already so lonely that now
+[00:58:24] you're gonna cut off 50% of the
+[00:58:26] population. It's like, it's just such
+[00:58:29] stupidity. Do you think much about the
+[00:58:31] the impact that religion and having a
+[00:58:34] belief in some kind of transcendent
+[00:58:36] thing has on the brain and psychology
+[00:58:40] and psychiatry generally.
+[00:58:41] >> So, if you don't believe in God, you're
+[00:58:43] three times the risk of depression.
+[00:58:47] could be God in different ways,
+[00:58:50] >> something transcendent or
+[00:58:51] >> Yes.
+[00:58:53] If you believe you're here by if just
+[00:58:55] think about it with me. If you believe
+[00:58:58] you're just here by random chance that
+[00:59:00] life really was not created and has no
+[00:59:04] meaning, there's existential
+[00:59:07] nothingness to that
+[00:59:10] as opposed to, oh no, I'm created in a
+[00:59:14] special way to do something purposeful
+[00:59:17] on Earth. There's purposeful people live
+[00:59:21] longer. They're happier. Now, whatever
+[00:59:25] version
+[00:59:27] you believe
+[00:59:29] to not believe is hard for the brain.
+[00:59:32] And there's an interesting study on
+[00:59:36] believers versus non-believers. And you
+[00:59:38] know, many scientists would go, well,
+[00:59:40] they'll have smaller brains if they're a
+[00:59:42] believer. They actually had bigger
+[00:59:44] temporal loes. And temporal loes
+[00:59:46] underneath your temples and behind your
+[00:59:48] eyes
+[00:59:50] right here. Um,
+[00:59:53] that's where it's called the God area
+[00:59:56] because of that's where people think
+[01:00:00] they experience
+[01:00:01] >> and if you have a seizure in the
+[01:00:03] temporal lobe, you have transcendent
+[01:00:06] experiences like you're uh obs, you
+[01:00:10] know, in the presence of God
+[01:00:12] >> and they think maybe the Apostle Paul on
+[01:00:14] the road to Damascus had a seizure and
+[01:00:18] saw God. There's actually a researcher
+[01:00:21] in Canada, uh, Laurentian University,
+[01:00:24] Michael Persinger. So, he would
+[01:00:26] stimulate the outside. He he would do it
+[01:00:30] all over the brain. But what he found,
+[01:00:31] he stimulated the outside of the right
+[01:00:33] temporal lobe that people would get a
+[01:00:36] sensed presence. They would actually
+[01:00:38] feel the presence of God in the room.
+[01:00:43] So, does that mean the brain makes up
+[01:00:46] God or does that mean there's a way for
+[01:00:49] God to communicate with us? I actually
+[01:00:52] did a study on prayer was so
+[01:00:54] interesting. You know, I pray for you.
+[01:00:57] Uh prophecy, something called speaking
+[01:01:00] in tonesues, and it was fascinating.
+[01:01:03] Speaking in tonesues is channeling,
+[01:01:05] which means you're channeling the Holy
+[01:01:07] Spirit. And the hypothesis was you'd
+[01:01:09] have to drop your frontal loes, which is
+[01:01:12] exactly what happened in 60%
+[01:01:15] of our patients. And one basil ganglia
+[01:01:18] skyrocketed just like got hit with
+[01:01:20] cocaine cuz that's where cocaine works
+[01:01:23] in the basil ganglia. Uh so interesting.
+[01:01:27] If you had to create a brainhealthy
+[01:01:29] nation and I made you president of the
+[01:01:31] United States for one month and you had
+[01:01:34] to put in place executive orders that
+[01:01:37] would create a brain healthy nation,
+[01:01:39] what executive orders would you
+[01:01:40] immediately sign?
+[01:01:42] >> One question.
+[01:01:45] Get all of the departments to ask
+[01:01:47] themselves what we're doing. Is this
+[01:01:49] good for our brands or bad for it? And I
+[01:01:52] that's the campaign. I mean, I realize
+[01:01:54] I've been doing this a very long time.
+[01:01:57] If I can just get people to answer that
+[01:02:00] one question with information
+[01:02:03] and love, love of themselves, love of
+[01:02:05] their families, love of their country.
+[01:02:08] Is this is what we're doing good for our
+[01:02:11] brains or bad for it?
+[01:02:13] >> By far the best drug you can take for
+[01:02:16] your brain and not just your brain, but
+[01:02:18] your entire body is exercise.
+[01:02:22] In other words,
+[01:02:24] exercise, you pump the blood and your
+[01:02:27] brain gets uh you know, a lot of uh
+[01:02:30] nutrients and everything. Uh it helps
+[01:02:32] your heart. It helps your immune system.
+[01:02:35] People don't realize how important that
+[01:02:37] is. And we're not talking about being an
+[01:02:38] athlete. We're just talking about
+[01:02:40] walking. If you're older, walking is
+[01:02:42] perfectly good exercise. And and you
+[01:02:45] know, children now I you know, they're
+[01:02:46] they're not getting enough exercise.
+[01:02:48] >> No. Because they're on devices.
+[01:02:49] >> Yeah. And so I have a model. If you want
+[01:02:52] to keep your brain healthy or rescue it,
+[01:02:54] you have to prevent or treat the 11
+[01:02:56] major risk factors. And we've talked
+[01:02:58] about them before.
+[01:03:00] Exercise helps you with every single
+[01:03:03] one. So like it's called bright minds.
+[01:03:06] So B is for blood flow, increases blood
+[01:03:09] flow. Retirement and aging. It decreases
+[01:03:11] your age. I is inflammation. It's
+[01:03:12] anti-inflammatory. G is genetics. It
+[01:03:15] helps turn on healthpromoting
+[01:03:18] genes.
+[01:03:19] H is head trauma. If you keep walking,
+[01:03:23] you're less likely to fall when you're
+[01:03:24] older, right? T is toxins. Sweat
+[01:03:28] detoxifies you. M is mental health.
+[01:03:32] Exercise boosts dopamine, but it also
+[01:03:34] boosts serotonin. So, it's like that
+[01:03:36] perfect balancer in your brain.
+[01:03:39] >> Breathing, how we breathe, does that
+[01:03:41] have an impact on brain health? So you
+[01:03:43] can almost immediately improve heart
+[01:03:47] rate variability which is a sign of
+[01:03:49] heart health but also goes to mental
+[01:03:52] health by breathing in a certain helpful
+[01:03:56] way. And I call it the 15-second breath.
+[01:04:00] So 4 seconds in big breath hold it for a
+[01:04:03] second and a half pause just a little
+[01:04:05] bit. 8 seconds out hold it for a second
+[01:04:10] and a half. So if you take twice as long
+[01:04:13] to breathe out as you breathe in, it
+[01:04:16] increases something called
+[01:04:17] parasympathetic tone and it just calms
+[01:04:20] you down almost immediately. So if
+[01:04:22] you're having panic attacks, yes, you
+[01:04:24] can take Xanax, but there's so many
+[01:04:26] problems with that later on. Or you can
+[01:04:28] just learn how to breathe. We call it
+[01:04:32] diaphragmatic. So breathe mostly with
+[01:04:34] your belly, taking twice as long to
+[01:04:36] breathe out as you breathe in.
+[01:04:37] >> Chewing. Uh there's a piece here that
+[01:04:40] says it stimulates hippocample activity
+[01:04:42] and may slow cognitive decline. Reducing
+[01:04:45] chewing has been linked to impaired
+[01:04:46] learning in animal studies.
+[01:04:48] >> And fast food decreases chewing because
+[01:04:51] it's fast. So they take most of the
+[01:04:52] fiber out so you can chew it faster. You
+[01:04:54] can swallow it faster.
+[01:04:56] >> Things in the bad for your brain list.
+[01:04:58] Overuse of GPS and navigation app which
+[01:05:00] weakens the hippocampus by outsourcing
+[01:05:02] spatial memory long term. This can lead
+[01:05:04] to atrophy in areas associated with
+[01:05:06] memory navigation. And people are
+[01:05:08] diagnosed with Alzheimer's disease later
+[01:05:10] in life because of Siri. Because I used
+[01:05:15] to like when I started as a young
+[01:05:17] psychiatrist, somebody get lost in a
+[01:05:19] city they'd lived in for 30 years and
+[01:05:22] their family would call me upset and I'm
+[01:05:26] like, "Okay, this person's headed toward
+[01:05:27] dementia." Now that person goes, "Take
+[01:05:31] me home." Do you think it's going to
+[01:05:32] we're going to have an epigenetic
+[01:05:35] effect of not reading maps that if
+[01:05:40] Stephen now he uses his phone to get
+[01:05:42] from A to B, do you think that's going
+[01:05:45] to affect Steven's son or daughter
+[01:05:48] because dad
+[01:05:51] didn't have
+[01:05:52] >> Wow. Okay. That that that never occurred
+[01:05:54] to me that uh you could pass on
+[01:05:56] something like that. By the way, I I
+[01:05:58] think it has to be physiological.
+[01:06:00] Stress, for example, could be probably
+[01:06:02] passed on. And you mentioned this, you
+[01:06:03] you pointed out during pregnancy, you
+[01:06:05] you want to prevent stress and and
+[01:06:07] crisis, right?
+[01:06:08] >> Do do you know about that study with
+[01:06:10] mice where they made them afraid of the
+[01:06:12] scent of cherry blossoms from memory?
+[01:06:15] And so whenever the mice smelled cherry
+[01:06:20] blossoms, they would shock them mildly.
+[01:06:24] So the mice are now afraid of the scent
+[01:06:25] of cherry blossoms. Their babies were
+[01:06:28] afraid of the scent of cherry blossoms.
+[01:06:30] Their grandbabies were afraid of the
+[01:06:32] scent of cherry blossoms. So,
+[01:06:33] >> okay, that's the alactory system.
+[01:06:35] Alactory system is very interesting
+[01:06:36] because it goes directly to the
+[01:06:38] hippocampus.
+[01:06:40] There might be a evolutionary advantage
+[01:06:42] because if if there's something in the
+[01:06:45] environment that you shouldn't eat or
+[01:06:47] you know that smells a particular way,
+[01:06:49] passing that on is is very efficient
+[01:06:52] instead of having to experience that
+[01:06:54] yourself. you know, trial and error
+[01:06:55] because they might if the poison is
+[01:06:57] right, it might kill you. But if if
+[01:06:58] you've your parents
+[01:07:01] ha had that bad experience and pass it
+[01:07:03] on, you shouldn't go to something that
+[01:07:05] smells in a particular way. That makes
+[01:07:07] sense.
+[01:07:07] >> The other thing that's bad for the
+[01:07:08] brain, which is unexpected, is you said
+[01:07:11] at the start, artificial sweeteners.
+[01:07:14] Now, I didn't I thought artificial
+[01:07:16] sweeteners were fine.
+[01:07:17] >> They're not fun and they're not free.
+[01:07:19] So, I used to drink diet soda like it
+[01:07:21] was my best friend because I thought it
+[01:07:23] was free. And then I had arthritis when
+[01:07:27] I was 35. And one of my patients said
+[01:07:30] she stopped aspartame and her arthritis
+[01:07:32] went away. And I'm like, I was drinking
+[01:07:34] like I don't know, a lot of diet soda.
+[01:07:38] And so I stopped and my arthritis went
+[01:07:41] away. And I'm like, no. And so I did it
+[01:07:44] again and it came back. And I'm like,
+[01:07:46] okay. And artificial sweeteners can
+[01:07:50] change the microbiome. So we haven't
+[01:07:52] talked about that, but you have these
+[01:07:55] 100 trillion bugs in your gut that make
+[01:07:57] neurotransmitters digest your food and
+[01:08:00] especially sucralose or splenda has been
+[01:08:03] found to decrease the good bacteria in
+[01:08:06] your gut which then has a negative
+[01:08:07] impact on brain function
+[01:08:10] >> and a spartame as you mentioned
+[01:08:12] >> and a spartamement that I mentioned that
+[01:08:14] can have a generational impact. So, is
+[01:08:16] it possible it's really not social
+[01:08:18] media? It's that we've had aspartame in
+[01:08:21] our food for decades. And I think it's
+[01:08:26] all of these things that just sort of
+[01:08:28] are additive and we should just always
+[01:08:31] think that that one question. Is this
+[01:08:33] good for my brain or bad for it? So, you
+[01:08:35] mentioned broccoli. Probably that's good
+[01:08:38] for your brain. Cheeseburger, probably
+[01:08:42] not. But why don't you take the burger
+[01:08:44] and if you could make it grass-fed that
+[01:08:46] would be better and put it in a salad
+[01:08:48] and then that would be good for your
+[01:08:50] brain.
+[01:08:50] >> What about chronic background noise?
+[01:08:53] We don't think much about the impact
+[01:08:55] noise has. But
+[01:08:56] >> I used to live um my house was three
+[01:09:00] houses from the freeway and if you just
+[01:09:03] go there it's like my god it's so loud
+[01:09:06] here. I never heard the freeway because
+[01:09:09] my brain just learned to tune it out.
+[01:09:11] Was that good or bad for you
+[01:09:14] >> that I was able
+[01:09:15] >> you had you adapted and and were no
+[01:09:17] longer sensitive to it? I I I think that
+[01:09:19] actually was probably not good
+[01:09:22] for for v various reasons because it
+[01:09:25] what it really means is that you you're
+[01:09:27] you're specializing for that environment
+[01:09:29] and your brain is going to be different
+[01:09:30] when you go someplace.
+[01:09:33] So, but so here's here's another
+[01:09:35] example.
+[01:09:35] >> And it's stressful, right? if it's
+[01:09:38] chronically stressful, but my brain is
+[01:09:40] >> That's right. That's right. In the
+[01:09:41] background. In the In other words, Yeah.
+[01:09:43] In other words, your your brain is
+[01:09:45] reacting to it even though you're not
+[01:09:46] aware of it. Yeah.
+[01:09:47] >> So, subtly five sisters, which makes it
+[01:09:49] even worse.
+[01:09:50] >> Subtly increases cortisol and impairs
+[01:09:52] working memory and attention regulation,
+[01:09:54] especially in children and older adults,
+[01:09:55] to be chronically exposed to background
+[01:09:57] noise like traffic or the lowle hum of a
+[01:09:59] city.
+[01:10:00] >> Yeah, that's right. That's absolutely
+[01:10:02] right.
+[01:10:03] >> Make sure you keep what I'm about to say
+[01:10:04] to yourself. I'm inviting 10,000 of you
+[01:10:07] to come even deeper into the diary of a
+[01:10:09] CEO. Welcome to my inner circle. This is
+[01:10:12] a brand new private community that I'm
+[01:10:14] launching to the world. We have so many
+[01:10:16] incredible things that happen that you
+[01:10:18] are never shown. We have the briefs that
+[01:10:20] are on my iPad when I'm recording the
+[01:10:22] conversation. We have clips we've never
+[01:10:24] released. We have behindthe-scenes
+[01:10:25] conversations with the guest and also
+[01:10:27] the episodes that we've never ever
+[01:10:29] released. And so much more. In the
+[01:10:32] circle, you'll have direct access to me.
+[01:10:34] You can tell us what you want this show
+[01:10:36] to be, who you want us to interview, and
+[01:10:37] the types of conversations you would
+[01:10:39] love us to have. But remember, for now,
+[01:10:41] we're only inviting the first 10,000
+[01:10:43] people that join before it closes. So,
+[01:10:46] if you want to join our private closed
+[01:10:47] community, head to the link in the
+[01:10:48] description below or go to
+[01:10:49] daccircle.com.
+[01:10:52] I will speak to you there. Many of us
+[01:10:55] multitask across multiple screens now.
+[01:10:57] We're watching TV here. We've got our
+[01:10:58] phone here. We've got our iPad here. Got
+[01:11:00] our computer here. And I was reading
+[01:11:01] into the science of multitasking and it
+[01:11:03] said that it trains your brain to be
+[01:11:04] distractable reducing gray matter
+[01:11:07] density in the interior singulate.
+[01:11:10] >> Yeah, that's you know in the medial
+[01:11:13] prefrontal cortex.
+[01:11:14] >> And when the insula the insula is so
+[01:11:16] interesting and I know you can talk
+[01:11:18] about I have a new study coming out on
+[01:11:20] hope. So on 7,500 patients we gave them
+[01:11:24] a hope questionnaire.
+[01:11:26] >> What does that mean?
+[01:11:27] >> Hope questionnaire. hope. Like how much
+[01:11:28] hope do you have that you have the
+[01:11:31] ability to make tomorrow better?
+[01:11:34] >> And people with low hope have lower
+[01:11:38] overall prefrontal cortex function, but
+[01:11:40] the insular
+[01:11:43] was really low. And that signal was the
+[01:11:46] most statistically significant of the
+[01:11:49] group really. And in some studies the
+[01:11:52] insulin is called
+[01:11:53] >> by the way uh also uh for depression
+[01:11:55] people who have depression
+[01:11:57] uh have low activity in the anterior
+[01:11:59] singulate. In fact um it deep brain
+[01:12:02] stimulation has been used now for to
+[01:12:03] help some people if you stimulate that
+[01:12:05] area
+[01:12:06] >> and what our imaging research would say
+[01:12:08] is depression is like chest pain. It's
+[01:12:12] not one thing like nobody gets a
+[01:12:14] diagnosis of chest pain because that
+[01:12:16] would be stupid right? It could be heart
+[01:12:18] attack, heart arrhythmia, heart
+[01:12:19] infection, gas, grief. Depression's the
+[01:12:23] same way when you look at it from an
+[01:12:24] imaging standpoint. Sometimes their
+[01:12:26] frontal loes are too active. Sometimes
+[01:12:29] they're not active enough. Sometimes
+[01:12:32] it's their lyic system that's too
+[01:12:35] active. And I wrote a book called
+[01:12:38] Healing Anxiety and Depression. I'm
+[01:12:40] like, here's the seven things I see as
+[01:12:42] an imager.
+[01:12:43] >> What about ADHD? There's obviously been
+[01:12:45] a rise in ADHD or at least people
+[01:12:47] reporting or being diagnosed with ADHD
+[01:12:49] quite significant.
+[01:12:51] Can you find ADHD in the brain? Are we
+[01:12:54] causing ADHD as a function of the way
+[01:12:56] that we're living our lives or is it
+[01:12:57] something within the brain genetically
+[01:12:58] that I could I could see?
+[01:13:00] >> So, it's both. I think clearly you can
+[01:13:04] see ADHD in people's families. In fact,
+[01:13:07] if I have a hyperactive, restless,
+[01:13:10] impulsive, disorganized, procrastinating
+[01:13:14] child, I'm looking at the mom and the
+[01:13:15] dad. I'm like, "So, where is this coming
+[01:13:17] from?" But you could also get ADHD from
+[01:13:20] a head injury, especially if it infects
+[01:13:22] their frontal loes, which is why you
+[01:13:24] shouldn't let children hit soccer balls
+[01:13:26] with their forehead. You can also get it
+[01:13:29] from the chronic from the excessive
+[01:13:32] input making people distracted just like
+[01:13:35] you said. Brand new study out on
+[01:13:38] children who took medicine. Right. We
+[01:13:40] always demonize ADHD medicine, but the
+[01:13:44] kids who took medicine actually had
+[01:13:48] bigger brains in their prefrontal cortex
+[01:13:52] than kids who didn't take medicine who
+[01:13:54] had AD.
+[01:13:55] >> Rolin.
+[01:13:56] >> Rolin. That that's okay. It's speed
+[01:13:58] basically. Yeah. Inetamines
+[01:14:00] >> it is. But for the kids who have it, I
+[01:14:04] think withholding medicine
+[01:14:07] from a child who really has ADHD is like
+[01:14:10] withholding glasses from someone who has
+[01:14:13] trouble seeing. And it's it's the easy
+[01:14:16] thing to demonize the drugs until you
+[01:14:20] realize someone who has ADHD,
+[01:14:23] a third of them don't finish high
+[01:14:25] school. And We're never asked the right
+[01:14:28] question about people go what's the side
+[01:14:30] effects and it's it can decrease your
+[01:14:32] appetite and it can can have sleep
+[01:14:36] problems with it but they don't ask the
+[01:14:39] other question is what's the side effect
+[01:14:40] of not taking the medicine or at least
+[01:14:43] not fully treating and there are other
+[01:14:45] ways to treat it besides medicine you
+[01:14:47] know for god's sakes I own a supplement
+[01:14:49] company and I'm always trying to
+[01:14:51] optimize the nutrients to the brain
+[01:14:54] neuro feedback can help. But if you do
+[01:14:58] those things and it's not working, don't
+[01:15:00] be afraid of medicine.
+[01:15:03] >> By the way, when I was growing up, ADHD
+[01:15:05] either didn't exist or they didn't know
+[01:15:07] about it. Do do you think that there's
+[01:15:10] some link to our diet?
+[01:15:11] >> Oh, no. It was first described in around
+[01:15:13] 1910 and it's in the first version of
+[01:15:17] the DSM.
+[01:15:19] Um, they called it minimal brain
+[01:15:21] dysfunction.
+[01:15:23] But when we were growing up, there were
+[01:15:25] one of two of these kids in our
+[01:15:27] classrooms and now there's 8 to 10.
+[01:15:30] >> That's what I mean is is that it's uh
+[01:15:32] seems to like autism. It's uh seems to
+[01:15:35] be proliferating,
+[01:15:37] >> right? And part of it, I think, is the
+[01:15:39] food that is much more processed. Part
+[01:15:43] of it is the screens, part of it is the
+[01:15:46] distracted parents, and part of it is
+[01:15:49] the teaching.
+[01:15:50] >> You always seem to be doing new studies,
+[01:15:52] Daniel. What what new studies are you
+[01:15:54] most excited about or have you completed
+[01:15:56] since we last spoke?
+[01:15:58] >> I did one that I'm so excited about on
+[01:16:02] negativity and the brain
+[01:16:05] >> and negativity is bad for your brain.
+[01:16:09] So,
+[01:16:10] >> how do you define negativity?
+[01:16:11] >> We actually give them a questionnaire.
+[01:16:14] uh it's a positivity negativity bias
+[01:16:17] questionnaire and people who are more
+[01:16:20] negative have less activity in their
+[01:16:24] prefrontal cortex. It's actually quite
+[01:16:26] interesting and so
+[01:16:30] unbridled
+[01:16:31] positivity is bad for you because you
+[01:16:34] need that 15% but if you're chronically
+[01:16:37] negative that is bad for your brain. Is
+[01:16:41] there a link between being a negative
+[01:16:43] person and Alzheimer's and dementia?
+[01:16:45] >> Yes. And what's interesting because you
+[01:16:47] mentioned a gender difference earlier.
+[01:16:49] Um, if you're depressed and you're a
+[01:16:52] woman, it doubles your risk for
+[01:16:54] Alzheimer's disease. If you're depressed
+[01:16:57] and you're a man, it quadruples your
+[01:17:00] risk.
+[01:17:01] >> Wow. So there was a study was done
+[01:17:04] during the COVID years, a couple years
+[01:17:07] and it turns out that the uh rate of
+[01:17:10] depression like doubled in women but not
+[01:17:13] in men
+[01:17:15] >> during CO
+[01:17:16] >> during CO and after CO when students
+[01:17:19] came back and everybody was back to
+[01:17:20] normal so-called normal the women stayed
+[01:17:24] depressed
+[01:17:26] at that high level which is very is very
+[01:17:29] interesting that it should be the women
+[01:17:31] who
+[01:17:32] >> so in one study women had 52% less
+[01:17:35] serotonin than men which I think is
+[01:17:39] really interesting. Women by and large
+[01:17:41] have double double the risk depression.
+[01:17:44] Women have double the risk of depression
+[01:17:45] as men their lyic systems are larger
+[01:17:48] which is also probably
+[01:17:51] >> more vulnerable and bonding and then the
+[01:17:54] whole CO thing we haven't talked about
+[01:17:57] CO causes inflammation in the lyic part
+[01:18:00] of the brain. I had scans of people I
+[01:18:03] was treating
+[01:18:05] and then they got CO and then I scan
+[01:18:08] them again and you can just see this
+[01:18:10] dramatic inflammation in the brain. If
+[01:18:14] someone's listening now and they just
+[01:18:16] want to they want to improve their brain
+[01:18:17] health. They want to avoid dementia.
+[01:18:19] They want to be cognitively
+[01:18:22] powerful and capable as they age. They
+[01:18:24] want to get to 80 years old, 90 years
+[01:18:26] old, 100 years old and have a great
+[01:18:28] brain. And you just had to and you could
+[01:18:31] only tell them to do three things.
+[01:18:33] >> Well, Terry said one, exercise.
+[01:18:35] >> Okay, exercise. I'm going to do it.
+[01:18:38] >> Start every day with today is going to
+[01:18:40] be a great day.
+[01:18:41] >> Push your brain to look for what's right
+[01:18:45] rather than what's wrong.
+[01:18:48] >> Okay. So, I'm going to be optimistic and
+[01:18:51] grateful.
+[01:18:51] >> Omega-3 fatty acids
+[01:18:54] >> and either do it with fish or do it with
+[01:18:56] a supplement.
+[01:18:56] >> Why did you include omega-3 fatty acids?
+[01:18:59] because it decreases
+[01:19:01] inflammation. And 25%
+[01:19:05] of the cell membranes in your brain are
+[01:19:08] made up of omega-3 fatty acids. And as a
+[01:19:11] country, we're dramatically low on them.
+[01:19:14] >> And learning, that's maybe one of the
+[01:19:15] things that's been left off the list of
+[01:19:17] top three things. But I mean, I remember
+[01:19:20] you telling me that how good learning
+[01:19:22] was for the brain. And even getting
+[01:19:23] outside and running outside versus
+[01:19:25] running on a treadmill is more
+[01:19:27] beneficial. And if you learn while
+[01:19:29] you're exercising, what you're doing is
+[01:19:32] you're getting blood flow to the
+[01:19:34] hippocampus and you're more likely to
+[01:19:36] remember it. So,
+[01:19:39] >> I heard this. Yeah, I heard someone tell
+[01:19:40] me that they um figured out that they
+[01:19:42] could learn better for their exams if
+[01:19:44] they did it in a sauna.
+[01:19:46] So, they kept it was a scientist that I
+[01:19:48] spoke to. She said she keeps learning
+[01:19:50] new information when she's in the sauna
+[01:19:52] cuz she realized that when she left the
+[01:19:53] sauna and was then tested upon on it,
+[01:19:55] she was better able to uh do the exam.
+[01:19:59] And I guess that's correlating to what
+[01:20:00] you said about because in a sauna you're
+[01:20:02] going to have a lot of blood flow, I
+[01:20:03] imagine to the brain.
+[01:20:04] >> Yes. There's actually a study in Jamama
+[01:20:07] psychiatry that one sauna
+[01:20:11] bath
+[01:20:13] helped depression significantly helped
+[01:20:16] depression.
+[01:20:18] And I think it's because of it's
+[01:20:20] balancing the brain and people who do
+[01:20:22] the most sinus have the lowest risk of
+[01:20:24] Alzheimer's disease.
+[01:20:27] >> What is the most important thing as it
+[01:20:28] relates to the subjects that we spoke
+[01:20:30] about today? AI, the brain, neuroscience
+[01:20:34] that you would like to say to the the
+[01:20:36] people that are listening now. There
+[01:20:37] could be a million people listening.
+[01:20:39] There could be 20 million people
+[01:20:40] listening. If you could say one thing to
+[01:20:42] them about the brain, AI, neuroscience,
+[01:20:45] whatever you want to say, the floor is
+[01:20:46] yours. What would that be?
+[01:20:49] Over to you first, Terry.
+[01:20:51] >> Sleep. Sleep is a time when the body not
+[01:20:55] just regenerates, but your memory is
+[01:20:57] consolidated. So things you've
+[01:20:59] experienced during the day are
+[01:21:02] integrated into your cortex and it's an
+[01:21:04] interaction between hippocampus and the
+[01:21:06] cortex for, you know, for for episodic
+[01:21:09] memories. and and and it's unfortunate
+[01:21:13] what's happening with children now, you
+[01:21:14] know, is they're so competitive to get
+[01:21:16] into college that they're cutting back
+[01:21:19] on their sleep and it's just the wrong
+[01:21:20] time of your life. You shouldn't be
+[01:21:22] cutting it back when your brain is is
+[01:21:25] developing. So, those two things I would
+[01:21:27] say sleep and exercise is the most
+[01:21:28] important thing for your brain. The
+[01:21:30] floor is yours. What would you say to
+[01:21:32] the listeners about all the things we've
+[01:21:35] talked today? What's your closing
+[01:21:36] closing statement?
+[01:21:38] Well, you know, I go back to what I
+[01:21:40] talked about in the beginning, which is
+[01:21:42] we've just thrown the barn door open and
+[01:21:45] let the horse bolt out into our schools,
+[01:21:50] into our businesses, into our homes.
+[01:21:54] And before we've even asked, is it a
+[01:21:56] gift or is it a Trojan horse that's
+[01:21:59] going to steal from us, we've embraced
+[01:22:03] convenience before understanding
+[01:22:06] consequence. And we've done it before
+[01:22:09] with video games and cell phones and
+[01:22:11] social media and marijuana and alcohol
+[01:22:13] and opiates and high fructose corn syrup
+[01:22:17] and aspartame. And we have to be
+[01:22:19] smarter. We have to tame this horse. is
+[01:22:23] gone with wisdom or it's going to
+[01:22:25] trample our children. And so I think we
+[01:22:28] have to be very thoughtful and it all
+[01:22:31] comes back down to is this good for my
+[01:22:33] brain or bad for it? Is it good for our
+[01:22:35] collective brains or is it potentially
+[01:22:37] bad for it? And just answer that
+[01:22:42] question with information and love of
+[01:22:45] yourself, of your family, of your
+[01:22:47] country, community.
+[01:22:54] Yeah, more anxious than when I came in.
+[01:22:56] I don't like that.
+[01:22:59] It is It's I'm just It's so front of
+[01:23:01] mind for me at the moment because I have
+[01:23:03] the hindsight, the wisdom of hindsight
+[01:23:06] of all those things you mentioned like
+[01:23:07] exercise and processed foods and social
+[01:23:09] media and all these things that we tried
+[01:23:12] and they all seem to follow a similar
+[01:23:13] arc. Some kind of new product or
+[01:23:15] discovery is made. the early phase. In
+[01:23:18] the early phase, people who have an
+[01:23:20] incentive for that thing to be
+[01:23:21] successful will somewhat like gaslight
+[01:23:24] you into thinking that it's fine. And
+[01:23:26] then we get into the second phase where
+[01:23:27] we start to see sort of some
+[01:23:29] consequences. Then we study what's
+[01:23:30] actually happened. We figure out that
+[01:23:32] there's there was always a trade-off and
+[01:23:34] that nobody really understood the
+[01:23:36] trade-off and then people change their
+[01:23:38] behavior. So now when I go into these
+[01:23:40] new technologies where the shortterm
+[01:23:43] benefit is really clear it's making me
+[01:23:45] more productive. I I pause and I go
+[01:23:48] there's going to be a trade-off here.
+[01:23:50] There's always a trade-off. What is the
+[01:23:52] trade-off? And am I comfortable and
+[01:23:54] conscious of what that trade-off is? And
+[01:23:56] if if the trade-off so I try to figure
+[01:23:58] out what the trade-off is with things
+[01:23:59] like AI and I okay the trade-off is
+[01:24:00] probably I'm going to be worse at
+[01:24:01] critical thinking
+[01:24:03] that might have an impact to my social
+[01:24:04] relationships if I fall in love with
+[01:24:05] [ __ ] Annie cuz she's pretty hot to be
+[01:24:07] fair.
+[01:24:09] And I really value my critical thinking.
+[01:24:11] I really value my ability to um solve
+[01:24:14] problems and to articulate myself and to
+[01:24:16] write and to communicate with my loved
+[01:24:18] ones in an effective way. So what can I
+[01:24:20] do if that is the trade-off now? And one
+[01:24:23] of the things that I'm doing now feels
+[01:24:25] really counterintuitive in a world where
+[01:24:27] everybody's got these productivity gains
+[01:24:29] because they're using these tools, which
+[01:24:30] is to refrain. And I I wonder if one of
+[01:24:33] the great advantages of the next decade,
+[01:24:35] one of the great hedges for anyone
+[01:24:38] that's wanting to be a great critical
+[01:24:40] thinker, entrepreneur, creative, is to
+[01:24:43] go left when everyone's going right,
+[01:24:46] which is to reframe and do it the hard
+[01:24:48] way. And if we look at history in these
+[01:24:52] arcs that we've discovered with food and
+[01:24:54] with exercise and all these things and
+[01:24:56] dating, doing it the hard way, like we
+[01:24:58] said about the marshmallow test and
+[01:25:00] delaying the gratification seems to
+[01:25:02] yield the greatest returns. So I think
+[01:25:04] I'm going to do it the hard way
+[01:25:05] >> be the easiest because it won't have the
+[01:25:08] side effects.
+[01:25:10] >> Yeah. The hard way. I I want to feel
+[01:25:12] good now and later as opposed to now but
+[01:25:18] not later.
+[01:25:19] >> And to be clear, this doesn't mean I'm
+[01:25:20] not going to use AI or chatbt. It just
+[01:25:22] means that when it matters, when the
+[01:25:24] thinking matters, I will think for
+[01:25:26] myself
+[01:25:28] and when the communication matters, I'll
+[01:25:29] communicate for myself. That's what I
+[01:25:32] that's my conclusion.
+[01:25:33] >> You should hope that your children will
+[01:25:35] feel the same way when they grow up.
+[01:25:37] They will model what you do
+[01:25:40] >> right every day. You model health
+[01:25:44] or not health.
+[01:25:48] >> Thank you. Thank you for writing to well
+[01:25:50] many incredible books that I've got
+[01:25:51] around me. I'm going to link them all
+[01:25:52] for my viewers that are watching. I've
+[01:25:54] got so many of these books. Um the
+[01:25:56] incredible one that you wrote for
+[01:25:57] parents called Raising Mentally Strong
+[01:25:59] Kids. You've got your other book over
+[01:26:00] there, Change Your Brain Every Day. And
+[01:26:03] I've got this book here from from Terry
+[01:26:05] which is the deep learning revolution
+[01:26:08] and one you wrote most recently called
+[01:26:09] trap in the future of AR. I'm going to
+[01:26:11] link all of them below and I'm going to
+[01:26:13] link them with a little bit of a summary
+[01:26:14] of what's in them. So if you decide that
+[01:26:16] there's anything here that we talked
+[01:26:17] about today that where you want to dig
+[01:26:18] in further, please do dig in and I'm
+[01:26:20] also going to link um both of your a
+[01:26:22] link to where people can find out more
+[01:26:24] about both of you your websites and more
+[01:26:26] of your work in the comments below. So
+[01:26:28] please do check that out everybody
+[01:26:29] listening. We have a closing tradition
+[01:26:30] where the last guest leaves a question
+[01:26:32] for the next guest, as you know, and
+[01:26:33] they don't know who they're leaving it
+[01:26:34] for. So, I'm going to ask you both a
+[01:26:37] question, starting with you, Daniel. Are
+[01:26:39] you prepared for recognition of your
+[01:26:43] next
+[01:26:46] health challenge? Will you be able to
+[01:26:48] notice its onset? And how will you
+[01:26:51] address the challenge even if it means a
+[01:26:55] major lifestyle change or way of living?
+[01:27:00] Okay.
+[01:27:02] Yes.
+[01:27:04] >> How will you address the challenge even
+[01:27:06] if it means a major lifestyle change or
+[01:27:08] way of living?
+[01:27:10] >> Well, I'm very clear on the goals I
+[01:27:13] have, which is to be vibrant and healthy
+[01:27:17] and not get dementia. So, if I need to
+[01:27:21] change something so that happens, I'm
+[01:27:23] like all in.
+[01:27:26] >> Are you prepared? probably not.
+[01:27:30] Now, I've been blessed with good health.
+[01:27:32] I try to live a healthy life.
+[01:27:36] But the problem is that you can't
+[01:27:39] anticipate, you know, as you get older.
+[01:27:42] What you know what's ahead. You know,
+[01:27:48] like you mentioned arthritis. I'm
+[01:27:49] feeling a little bit of arthritis now.
+[01:27:51] I've been arthritis free for most you
+[01:27:54] all my life. And you know that's
+[01:27:57] something it's very diff to realize that
+[01:27:59] it's coming. There's very little you can
+[01:28:01] do about it is is uh depressing. But on
+[01:28:06] the other hand, things could always be
+[01:28:08] worse. And sometimes that cheers you up.
+[01:28:12] But the the the the the reality is that
+[01:28:15] there are things in the world like
+[01:28:18] COVID, you know, that you have no
+[01:28:19] control over that may
+[01:28:23] or an accident or Alzheimer's, you know,
+[01:28:26] god forbid, you know, that you that who
+[01:28:29] knows uh what will happen, right? You
+[01:28:31] you have to live with whatever life
+[01:28:33] deals with you. you know, the time that
+[01:28:35] you have, you should really spend on uh
+[01:28:39] trying to make it a a healthy life, a a
+[01:28:44] productive life, a you know, satisfying
+[01:28:46] life. And and that's something that we
+[01:28:48] have control over, right?
+[01:28:49] >> What are you scared of?
+[01:28:53] >> Right now, it's China.
+[01:28:57] I you know, I I I'm not being facitious.
+[01:28:59] I I think that it's uh it's it's it's
+[01:29:03] it's a threat that is a societal threat.
+[01:29:06] It's not I don't think that it's going
+[01:29:08] to affect me. And I've had great Chinese
+[01:29:10] students. And so I I really like I think
+[01:29:12] the the Chinese people are different
+[01:29:14] from what I see as the the country uh
+[01:29:17] the the the what they're trying to do,
+[01:29:19] the goals that they're taking.
+[01:29:22] uh 20 years ago if you look at the um of
+[01:29:26] all the technical areas in physics and
+[01:29:28] chemistry and biology and so forth the
+[01:29:31] 100 most important advances have been
+[01:29:33] made
+[01:29:34] in in 20 years ago was like the
+[01:29:37] Americans had like you know 94 of them
+[01:29:42] this year it's 74 are Chinese
+[01:29:46] and that's because they made a huge
+[01:29:49] investment in science and STEM
+[01:29:52] researchers they they're you know they
+[01:29:53] they put they poured out a million
+[01:29:56] engineers for to to implement AI
+[01:30:00] right
+[01:30:02] uh you know they're they're doing the
+[01:30:03] right thing we did that you remember
+[01:30:05] when the Sputnik uh went over the
+[01:30:07] Sputnik moment we made a huge investment
+[01:30:10] in STEM in science and engineering and
+[01:30:13] and in education
+[01:30:14] >> what was the Sputnik moment
+[01:30:15] >> oh okay 57 when the the Russians put a
+[01:30:18] satellite that went over the US over and
+[01:30:20] over again and we didn't we it took us
+[01:30:23] years to put up our own satellite
+[01:30:24] because we had fallen behind but we that
+[01:30:27] investment we've been living on
+[01:30:29] literally you know for the last 60 years
+[01:30:33] and now the the Chinese have done that
+[01:30:35] and and they're going to be advanced and
+[01:30:37] they're going to be way beyond us you
+[01:30:39] know this is you ask me okay uh that
+[01:30:43] that's something I'm I was I'm very very
+[01:30:45] uh disappointed in our country that
+[01:30:48] we're we're not in fact we're just doing
+[01:30:49] the opposite We're tearing apart science
+[01:30:51] right now with with the president
+[01:30:52] administration.
+[01:30:53] >> What are you scared of, Daniel?
+[01:30:57] >> Losing my wife. That's the most the
+[01:31:00] thing that comes to mind. And when I was
+[01:31:03] thinking about China and my
+[01:31:05] mother-in-law was a prepper. And
+[01:31:08] >> a prepper being someone that's preparing
+[01:31:09] for the end of the world.
+[01:31:10] >> Prepared for the end of the world.
+[01:31:12] And we were in Egypt last year and got a
+[01:31:15] call that she had cancer. And we were
+[01:31:17] there for 3 days and came home and I
+[01:31:20] kept thinking I loved her dearly. I'm
+[01:31:23] like, you prepared for the wrong thing.
+[01:31:26] You should have prepared for cancer.
+[01:31:29] Like I think every day we should be and
+[01:31:32] the same Alzheimer's prevention program
+[01:31:34] is a cancer prevention program. It's a
+[01:31:37] heart disease prevention program. It's a
+[01:31:39] diabetes prevention program. And I'm
+[01:31:43] like, she's prepared for the wrong
+[01:31:45] thing. The thing you really want to be
+[01:31:47] prepared for is disease, right? And I
+[01:31:50] know I'm going to die. I just want to be
+[01:31:53] vital for as long as I can be. And hope
+[01:31:58] is well, I have a say in this, right?
+[01:32:03] Cuz I know I can accelerate
+[01:32:06] my body's decline or I can decelerate
+[01:32:09] it. And I'm going to choose to
+[01:32:11] decelerate it.
+[01:32:14] >> Thank you. We're done.
+[01:32:21] [Music]

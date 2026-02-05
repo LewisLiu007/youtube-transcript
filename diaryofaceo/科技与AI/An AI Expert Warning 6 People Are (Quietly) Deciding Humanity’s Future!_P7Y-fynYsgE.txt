@@ -1,0 +1,3213 @@
+Video Title: An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future!
+Video ID: P7Y-fynYsgE
+Video URL: https://www.youtube.com/watch?v=P7Y-fynYsgE
+Downloaded: 2026-02-04 10:50:10
+Language: English (auto-generated)
+Language Code: en
+================================================================================
+
+[00:00:00] In October, over 850 experts, including
+[00:00:02] yourself and other leaders like Richard
+[00:00:04] Branson and Jeffrey Hinton, signed a
+[00:00:06] statement to ban AI super intelligence
+[00:00:08] as you guys raised concerns of potential
+[00:00:10] human extinction.
+[00:00:11] >> Because unless we figure out how do we
+[00:00:14] guarantee that the AI systems are safe,
+[00:00:17] we're toast.
+[00:00:18] >> And you've been so influential on the
+[00:00:19] subject of AI, you wrote the textbook
+[00:00:21] that many of the CEOs who are building
+[00:00:23] some of the AI companies now would have
+[00:00:24] studied on the subject of AI. Yeah.
+[00:00:26] >> So, do you have any regrets? Um,
+[00:00:31] >> Professor Stuart Russell has been named
+[00:00:33] one of Time magazine's most influential
+[00:00:35] voices in AI.
+[00:00:36] >> After spending over 50 years
+[00:00:38] researching, teaching, and finding ways
+[00:00:40] to design
+[00:00:41] >> AI in such a way that
+[00:00:42] >> humans maintain control,
+[00:00:44] >> you talk about this gorilla problem as a
+[00:00:46] way to understand AI in the context of
+[00:00:48] humans.
+[00:00:48] >> Yeah. So, a few million years ago, the
+[00:00:50] human line branched off from the gorilla
+[00:00:52] line in evolution, and now the gorillas
+[00:00:53] have no say in whether they continue to
+[00:00:55] exist because we are much smarter than
+[00:00:57] they are. So intelligence is actually
+[00:00:58] the single most important factor to
+[00:01:00] control planet Earth.
+[00:01:01] >> Yep.
+[00:01:01] >> But we're in the process of making
+[00:01:02] something more intelligent than us.
+[00:01:04] >> Exactly.
+[00:01:05] >> Why don't people stop then?
+[00:01:06] >> Well, one of the reasons is something
+[00:01:08] called the Midas touch. So King Midas is
+[00:01:10] this legendary king who asked the gods,
+[00:01:12] can everything I touch turn to gold? And
+[00:01:14] we think of the Midas touch as being a
+[00:01:15] good thing, but he goes to drink some
+[00:01:17] water, the water has turned to gold. And
+[00:01:19] he goes to comfort his daughter, his
+[00:01:20] daughter turns to gold. So he dies in
+[00:01:22] misery and starvation. So this applies
+[00:01:24] to our current situation in two ways.
+[00:01:26] One is that greed is driving these
+[00:01:28] companies to pursue technology with
+[00:01:30] [music] the probabilities of extinction
+[00:01:32] being worse than playing Russian
+[00:01:33] roulette. And that's even according to
+[00:01:35] the people developing the technology
+[00:01:36] without our permission. And people are
+[00:01:38] just fooling themselves if they think
+[00:01:40] it's naturally going to be controllable.
+[00:01:43] So, you know, after 50 years, I could
+[00:01:45] retire, but instead I'm working 80 or
+[00:01:47] 100 hours a week trying to move things
+[00:01:49] in the right direction. So, if you had a
+[00:01:51] button in front of you which would stop
+[00:01:53] [music] all progress in artificial
+[00:01:54] intelligence, would you press it?
+[00:01:58] >> Not yet. I think there's still a decent
+[00:02:00] chance they guarantee safety. And I can
+[00:02:02] explain more of what that is.
+[00:02:07] >> I see messages all the time in the
+[00:02:08] comments section that some of you didn't
+[00:02:10] realize you didn't subscribe. So, if you
+[00:02:12] could do me a favor and double check if
+[00:02:13] you're a subscriber to this channel,
+[00:02:14] that would be tremendously appreciated.
+[00:02:16] It's the simple, it's the free thing
+[00:02:18] that anybody that watches this show
+[00:02:19] frequently can do to help us here to
+[00:02:21] keep everything going in this show in
+[00:02:23] the trajectory it's on. So, please do
+[00:02:25] double check if you've subscribed and uh
+[00:02:27] thank you so much because in a strange
+[00:02:28] way you are you're part of our history
+[00:02:30] and you're on this journey with us and I
+[00:02:32] appreciate you for that. So, yeah, thank
+[00:02:34] you. [music]
+[00:02:41] Professor Stuart Russell, OBBE. A lot of
+[00:02:45] people have been talking about AI for
+[00:02:46] the last couple of years. It appears
+[00:02:49] you've this really shocked me. It
+[00:02:50] appears you've been talking about AI for
+[00:02:52] most of your life.
+[00:02:53] >> Well, I started doing AI in high school
+[00:02:56] um back in England, but then I did my
+[00:02:59] PhD starting in ' 82 at Stanford. I
+[00:03:02] joined the faculty of Berkeley in ' 86.
+[00:03:06] So I'm in my 40th year as a professor at
+[00:03:08] Berkeley. The main thing that the AI
+[00:03:10] community is familiar with in my work uh
+[00:03:14] is a textbook that I wrote.
+[00:03:16] >> Is this the textbook that most students
+[00:03:20] who study AI are likely learning from?
+[00:03:23] >> Yeah.
+[00:03:24] >> So you wrote the textbook on artificial
+[00:03:26] intelligence 31
+[00:03:29] years ago. You actually start probably
+[00:03:32] started writing it because it's so
+[00:03:33] bloody big in the year that I was born.
+[00:03:35] So I was born in 92.
+[00:03:36] >> Uh yeah, took me about two years.
+[00:03:38] >> Me and your book are the same age, which
+[00:03:40] just is wonderful
+[00:03:43] way for me to understand just how long
+[00:03:44] you've been talking about this and how
+[00:03:47] long you've been writing about this. And
+[00:03:49] actually, it's interesting that many of
+[00:03:51] the CEOs who are building some of the AI
+[00:03:54] companies now probably learned from your
+[00:03:56] textbook. you had a conversation with
+[00:03:59] somebody who said that in order for
+[00:04:01] people to get the message that we're
+[00:04:03] going to be talking about today, there
+[00:04:05] would have to be a catastrophe for
+[00:04:07] people to wake up. Can you give me
+[00:04:10] context on that conversation and a gist
+[00:04:12] of who you had this conversation with?
+[00:04:14] >> Uh, so it was with one of the CEOs of uh
+[00:04:18] a leading AI company. He sees two
+[00:04:21] possibilities as do I which is um
+[00:04:25] either we have a small or let's say
+[00:04:28] small scale disaster of the same scale
+[00:04:31] as Chernobyl
+[00:04:33] >> the nuclear meltdown in Ukraine.
+[00:04:34] >> Yeah. So this uh nuclear plant blew up
+[00:04:37] in 1986
+[00:04:39] killed uh a fair number of people
+[00:04:42] directly and
+[00:04:44] maybe tens of thousands of people
+[00:04:45] indirectly through uh radiation. recent
+[00:04:49] cost estimates more than a trillion
+[00:04:51] dollars.
+[00:04:53] So that would wake people up. That would
+[00:04:58] get the governments to regulate. He's
+[00:05:00] talked to the governments and they won't
+[00:05:01] do it. So he looked at this Chernobyl
+[00:05:06] scale disaster as the best case scenario
+[00:05:09] because then the governments would
+[00:05:10] regulate and require AI systems to be
+[00:05:14] built. And is this CEO building an AI
+[00:05:18] company?
+[00:05:19] >> He runs one of the leading AI companies.
+[00:05:22] >> And even he thinks that the only way
+[00:05:24] that people will wake up is if there's a
+[00:05:26] Chernobyl level nuclear disaster.
+[00:05:28] >> Uh yeah, not wouldn't have to be a
+[00:05:29] nuclear disaster. It would be either an
+[00:05:32] AI system that's being misused
+[00:05:35] by someone, for example, to engineer a
+[00:05:37] pandemic or an AI system that does
+[00:05:40] something itself, such as crashing our
+[00:05:43] financial system or our communication
+[00:05:45] systems. The alternative is a much worse
+[00:05:47] disaster where we just lose control
+[00:05:50] altogether. You have had lots of
+[00:05:52] conversations with lots of people in the
+[00:05:54] world of AI, both people that are, you
+[00:05:56] know, have built the technology, have
+[00:05:58] studied and researched the technology or
+[00:06:00] the CEOs and founders that are currently
+[00:06:02] in the AI race. What are some of the the
+[00:06:05] interesting sentiments that the general
+[00:06:07] public wouldn't believe that you hear
+[00:06:10] privately about their perspectives?
+[00:06:14] Because I find that so fascinating. I've
+[00:06:15] had some private conversations with
+[00:06:18] people very close to these tech
+[00:06:19] companies and the shocking
+[00:06:21] sentiment that I was exposed to was that
+[00:06:24] they are aware of the risks often but
+[00:06:26] they don't feel like there's anything
+[00:06:27] that can be done so they're carrying on
+[00:06:29] which is feels like a bit of a paradox
+[00:06:31] to me like
+[00:06:31] >> yes it's it's
+[00:06:33] it must be a very difficult position to
+[00:06:36] be in in a sense right you're you're
+[00:06:38] doing something that you know has a good
+[00:06:41] chance of bringing an end to life on
+[00:06:44] including that of yourself and your own
+[00:06:47] family.
+[00:06:48] They feel
+[00:06:50] that they can't escape this race, right?
+[00:06:54] If they, you know, if a CEO of one of
+[00:06:56] those companies was to say, you know,
+[00:06:58] we're
+[00:06:59] we're not going to do this anymore, they
+[00:07:01] would just be replaced
+[00:07:04] because the investors are putting their
+[00:07:06] money up because they want to create AGI
+[00:07:10] and reap the benefits of it. So, it's a
+[00:07:13] strange situation where every at least
+[00:07:16] all the ones I've spoken to, I haven't
+[00:07:18] spoken to Sam Wolman about this, but you
+[00:07:21] know, Sam Wolman
+[00:07:23] even before
+[00:07:25] becoming CEO of Open AI said that
+[00:07:29] creating superhuman intelligence is the
+[00:07:32] biggest risk to human existence that
+[00:07:35] there is. My worst fears are that we
+[00:07:38] cause significant we the field the
+[00:07:40] technology the industry cause
+[00:07:41] significant harm to the world.
+[00:07:43] >> You know Elon Musk is also on record
+[00:07:45] saying this. So uh Dario Ammedday
+[00:07:48] estimates up to a 25% risk of
+[00:07:50] extinction.
+[00:07:52] >> Was there a particular moment when you
+[00:07:53] realized that
+[00:07:56] the CEOs are well aware of the
+[00:07:58] extinction level risks? I mean, they all
+[00:08:01] signed a statement in May of 23
+[00:08:05] uh called it's called the extinction
+[00:08:07] statement. It basically says AGI is an
+[00:08:10] extinction risk at the same level as
+[00:08:12] nuclear war and pandemics.
+[00:08:15] But I don't think they feel it in their
+[00:08:17] gut. You know, imagine that you were one
+[00:08:20] of the nuclear physicists. You know, I
+[00:08:24] guess you've seen Oppenheimer, right?
+[00:08:26] you're there, you're watching that first
+[00:08:27] nuclear explosion.
+[00:08:30] How how would that make you feel about
+[00:08:35] the potential impact of nuclear war on
+[00:08:37] the human race? Right? I I think you
+[00:08:40] would probably become a pacifist and say
+[00:08:43] this weapon is so terrible, we have got
+[00:08:45] to find a way to uh keep it under
+[00:08:49] control. We are not there yet
+[00:08:53] with the people making these decisions
+[00:08:55] and certainly not with the governments,
+[00:08:58] right? You know
+[00:09:00] what policy makers do is they, you know,
+[00:09:03] they listen to experts. They keep their
+[00:09:06] finger in the wind. You got some
+[00:09:09] experts, you know, dangling $50 billion
+[00:09:12] checks and saying, "Oh, you know, all
+[00:09:15] that doomer stuff, it's just fringe
+[00:09:17] nonsense. don't worry about it. Take my
+[00:09:19] $50 billion check. You know, on the
+[00:09:22] other side, you've got very
+[00:09:23] well-meaning, brilliant scientists like
+[00:09:25] like Jeff Hinton saying, actually, no,
+[00:09:28] this is the end of the human race. But
+[00:09:30] Jeff doesn't have a $50 billion check.
+[00:09:34] So the view is the only way to stop the
+[00:09:36] race is if governments intervene
+[00:09:40] and say okay we don't we don't want this
+[00:09:43] race to go ahead until we can be sure
+[00:09:47] that it's going ahead in absolute
+[00:09:50] safety.
+[00:09:53] >> Closing off on your career journey, you
+[00:09:55] got a you received an OB from Queen
+[00:09:57] Elizabeth.
+[00:09:58] >> Uh yes.
+[00:09:59] >> And what was the listed reason for that
+[00:10:00] for the award? uh contributions to
+[00:10:03] artificial intelligence research
+[00:10:05] >> and you've been listed as a Time
+[00:10:07] magazine most influential person in in
+[00:10:10] AI several years in a row including this
+[00:10:13] year in 2025.
+[00:10:15] >> Y [snorts]
+[00:10:16] >> now there's two terms here that are
+[00:10:18] central to the things we're going to
+[00:10:19] discuss. One of them is AI and the other
+[00:10:20] is AGI.
+[00:10:22] In my muggle interpretation of that,
+[00:10:24] it's artificial general intelligence is
+[00:10:27] when the system, the computer, whatever
+[00:10:29] it might be, the technology has
+[00:10:31] generalized intelligence, which means
+[00:10:33] that it could theoretically see,
+[00:10:35] understand
+[00:10:37] um the world. It knows everything. It
+[00:10:40] can understand everything in the the
+[00:10:42] world as well as or better than a human
+[00:10:44] being.
+[00:10:45] >> Y
+[00:10:46] >> can do it.
+[00:10:46] >> And I think take action as well. I mean
+[00:10:48] some some people say oh you know AGI
+[00:10:51] doesn't have to have a body but a good
+[00:10:54] chunk of our intelligence actually is
+[00:10:56] about managing our body about perceiving
+[00:10:58] the real environment and acting on it
+[00:11:01] moving grasping and so on. So I think
+[00:11:04] that's part of intelligence and and AGI
+[00:11:07] systems should be able to operate robots
+[00:11:10] successfully.
+[00:11:12] But there's often a misunderstanding,
+[00:11:13] right, that people say, well, if it
+[00:11:14] doesn't have a robot body, then it can't
+[00:11:17] actually do anything. But then if you
+[00:11:19] remember,
+[00:11:20] most of us don't do things with our
+[00:11:23] bodies.
+[00:11:25] Some people do,
+[00:11:28] brick layers, painters, gardeners,
+[00:11:30] chefs, um, but people who do podcasts,
+[00:11:35] you're doing it with your mind, right?
+[00:11:37] you're doing it with your ability to to
+[00:11:40] produce language. Uh, you know, Adolf
+[00:11:43] Hitler didn't do it with his body.
+[00:11:46] He did it by producing language.
+[00:11:49] >> Hope you're not comparing us. [laughter]
+[00:11:52] But
+[00:11:54] but uh you know so even an AGI that has
+[00:11:58] no body uh it actually has more access
+[00:12:01] to the human race than Adolf Hitler ever
+[00:12:04] did because it can send emails and texts
+[00:12:08] to
+[00:12:10] what threearters of the world's
+[00:12:11] population directly. It can it also
+[00:12:15] speaks all of their languages
+[00:12:17] and it can devote 24 hours a day to each
+[00:12:21] individual person on earth to convince
+[00:12:24] them of to do whatever it wants them to
+[00:12:26] do.
+[00:12:27] >> And our whole society runs now on the
+[00:12:28] internet. I mean if there's an issue
+[00:12:30] with the internet, everything breaks
+[00:12:31] down in society. Airplanes become
+[00:12:33] grounded and we'll have electricity is
+[00:12:35] running off as internet systems.
+[00:12:38] So I mean my entire life it seems to run
+[00:12:40] off the internet now.
+[00:12:42] >> Yeah. water supplies. So, so this is one
+[00:12:45] of the roots by which AI systems could
+[00:12:48] bring about a medium-sized catastrophe
+[00:12:52] is by basically shutting down our life
+[00:12:55] support systems.
+[00:12:58] >> Do you believe that at some point in the
+[00:13:01] coming decades we'll arrive at a point
+[00:13:04] of AGI where these systems are generally
+[00:13:07] intelligent? Uh yes, I think it's
+[00:13:10] virtually certain
+[00:13:12] unless something else intervenes like a
+[00:13:15] nuclear war or or we may refrain from
+[00:13:19] doing it. But I think it will be
+[00:13:21] extraordinarily difficult uh for us to
+[00:13:24] refrain.
+[00:13:25] >> When I look down the list of predictions
+[00:13:27] from the top 10 AI CEOs on when AGI will
+[00:13:30] arrive, you've got Sam Alman who's the
+[00:13:33] founder of OpenAI/ChatGBT
+[00:13:35] um says before 2030. Demis at DeepMind
+[00:13:39] says 2030 to 2035.
+[00:13:43] Jensen from Nvidia says around five
+[00:13:46] years. Daario at Anthropic says 2026 to
+[00:13:50] 2027. Powerful AI close to AGI. Elon
+[00:13:53] says in the 2020s. Um and go down the
+[00:13:56] list of all of them and they're all
+[00:13:58] saying relatively within 5 years.
+[00:14:00] >> I actually think it'll take longer. I
+[00:14:03] don't think you can make a prediction
+[00:14:06] based on engineering
+[00:14:09] um in the sense that yes, we could make
+[00:14:14] machines 10 times bigger and 10 times
+[00:14:16] faster,
+[00:14:17] but that's probably not the reason why
+[00:14:20] we don't have AGI, right? In fact, I
+[00:14:24] think we have far more computing power
+[00:14:27] than we need for AGI. maybe a thousand
+[00:14:31] times more than we need. The reason we
+[00:14:34] don't have AGI is because we don't
+[00:14:35] understand how to make it properly. Um
+[00:14:39] what we've seized upon
+[00:14:42] is one particular technology called the
+[00:14:46] language model. And we observed that as
+[00:14:49] you make language models bigger, they
+[00:14:52] produce text language that's more
+[00:14:55] coherent and sounds more intelligent.
+[00:14:58] And so mostly what's been happening in
+[00:15:01] the last few years is just okay let's
+[00:15:03] keep doing that because one thing
+[00:15:06] companies are very good at unlike
+[00:15:08] universities is spending money. They
+[00:15:11] have spent gargantuan amounts of money
+[00:15:15] and they're going to spend even more
+[00:15:17] gargantuan amounts of money. I mean you
+[00:15:20] know we mentioned nuclear weapons. So
+[00:15:22] the Manhattan project
+[00:15:24] uh in World War II to develop nuclear
+[00:15:27] weapons, its budget in 2025
+[00:15:32] was about 20 odd billion dollars. The
+[00:15:37] budget for AGI is going to be a trillion
+[00:15:41] dollars next year. So 50 times bigger
+[00:15:44] than the Manhattan project. Humans have
+[00:15:46] a remarkable history of figuring things
+[00:15:49] out when they galvanize towards a shared
+[00:15:51] objective.
+[00:15:53] You know, thinking about the moon
+[00:15:54] landings or whatever it else it might be
+[00:15:57] through history. And the thing that
+[00:15:59] makes this feel all quite inevitable to
+[00:16:01] me is just the sheer volume of money
+[00:16:03] being invested into it. I've never seen
+[00:16:05] anything like it in my life.
+[00:16:06] >> Well, there's never been anything like
+[00:16:07] this in history. Is this the biggest
+[00:16:09] technology project in human history by
+[00:16:12] orders of magnitude? And there doesn't
+[00:16:14] seem to be anybody
+[00:16:16] that is pausing to ask the questions
+[00:16:20] about safety. It doesn't it doesn't even
+[00:16:22] appear that there's room for that in
+[00:16:23] such a race. I think that's right. To
+[00:16:27] varying extents, each of these companies
+[00:16:29] has a division that focuses on safety.
+[00:16:33] Does that division have any sway? Can
+[00:16:35] they tell the other divisions, no, you
+[00:16:37] can't release that system? Not really.
+[00:16:41] Um
+[00:16:42] I think some of the companies do take it
+[00:16:44] more seriously. Anthropic
+[00:16:47] uh does. I think Google DeepMind even
+[00:16:50] there I think the commercial imperative
+[00:16:54] to be at the forefront is absolutely
+[00:16:57] vital. If a company is perceived as
+[00:17:03] you know falling behind and not likely
+[00:17:07] to be competitive, not likely to be the
+[00:17:09] one to reach AGI first, then people will
+[00:17:13] move their money elsewhere very quickly.
+[00:17:16] >> And we saw some quite high-profile
+[00:17:17] departures from company like companies
+[00:17:19] like OpenAI. Um, I know a chap called
+[00:17:22] Yan Leak left who was working on AI
+[00:17:27] safety at OpenAI and he said that the
+[00:17:30] reason for his leaving was that safety
+[00:17:32] culture and processes processes have
+[00:17:34] taken a backseat to shiny products at
+[00:17:36] OpenAI and he gradually lost trust in
+[00:17:38] leadership but also Ilia Sutskysa
+[00:17:42] >> Ilia Sutska yeah so he was the
+[00:17:45] >> co-founder co-founder and chief
+[00:17:46] scientist for a while and then
+[00:17:48] >> yeah so he and Yan Lea are the main
+[00:17:51] safety people. Um,
+[00:17:54] and so when they say OpenAI doesn't care
+[00:17:58] about safety,
+[00:18:00] that's pretty concerning.
+[00:18:02] >> I've heard you talk about this gorilla
+[00:18:04] problem. [clears throat]
+[00:18:06] What is the gorilla problem as a way to
+[00:18:08] understand AI in the context of humans?
+[00:18:11] >> So, so the gorilla problem is is the
+[00:18:14] problem that gorillas face with respect
+[00:18:17] to humans.
+[00:18:19] So you can imagine that you know a few
+[00:18:21] million years ago the the human line
+[00:18:23] branched off from the gorilla line in
+[00:18:26] evolution. Uh and now the gorillas are
+[00:18:28] looking at the human line and saying
+[00:18:30] yeah was that a good idea
+[00:18:33] and they have no um they have no say in
+[00:18:37] whether they continue to exist
+[00:18:39] >> because we have a we are much smarter
+[00:18:41] than they are. if we chose to, we could
+[00:18:43] make them extinct in in a couple of
+[00:18:45] weeks and there's nothing they can do
+[00:18:48] about it.
+[00:18:50] So that's the gorilla problem, right?
+[00:18:51] Just the the problem a species faces
+[00:18:56] when there's another species that's much
+[00:18:58] more capable.
+[00:19:00] >> And so this says that intelligence is
+[00:19:02] actually the single most important
+[00:19:03] factor to control planet Earth. Yes.
+[00:19:06] Intelligence is the ability to bring
+[00:19:08] about
+[00:19:10] what you want in the world.
+[00:19:12] >> And we're in the process of making
+[00:19:13] something more intelligent than us.
+[00:19:15] >> Exactly.
+[00:19:16] >> Which suggests that maybe we become the
+[00:19:19] gorillas.
+[00:19:20] >> Exactly. Yeah.
+[00:19:21] >> Is that is there any fault in the
+[00:19:22] reasoning there? Because it seems to
+[00:19:24] make such perfect sense to me. But
+[00:19:28] if it Why doesn't Why don't people stop
+[00:19:30] then? cuz it it seems like a crazy thing
+[00:19:33] to want to
+[00:19:34] >> because they think that uh if they
+[00:19:37] create this technology, it will have
+[00:19:40] enormous economic value. They'll be able
+[00:19:42] to use it to replace all the human
+[00:19:45] workers in the world uh to develop new
+[00:19:50] uh products, drugs,
+[00:19:52] um forms of entertainment, any anything
+[00:19:55] that has economic value, you could use
+[00:19:57] AGI to to create it. And and maybe it's
+[00:20:01] just an irresistible thing in itself,
+[00:20:04] right? I think we as humans place so
+[00:20:09] much store on our intelligence. You
+[00:20:11] know, you know, how we
+[00:20:15] think about, you know, what is the
+[00:20:16] pinnacle of human achievement?
+[00:20:19] If we had AGI, we could go way higher
+[00:20:24] than that. So it it's very seductive for
+[00:20:27] people to want to create this technology
+[00:20:31] and I think people are just fooling
+[00:20:34] themselves if they think it's naturally
+[00:20:38] going to be controllable.
+[00:20:40] I mean the question is
+[00:20:43] how are you going to retain power
+[00:20:44] forever
+[00:20:46] over entities more powerful than
+[00:20:48] yourself?
+[00:20:50] >> Pull the plug out. People say that
+[00:20:52] sometimes in the comment section when we
+[00:20:54] talk about AI, they said, "Well, I'll
+[00:20:55] just pull a plug out."
+[00:20:56] >> Yeah, it's it's sort of funny. In fact,
+[00:20:58] you know, yeah, reading the comment
+[00:20:59] sections in newspapers, whenever there's
+[00:21:02] an AI article,
+[00:21:04] there'll be people who say, "Oh, you can
+[00:21:07] just pull the plug out, right?" As if a
+[00:21:08] super intelligent machine would never
+[00:21:10] have thought of that one. [laughter]
+[00:21:12] Don't forget who's watched all those
+[00:21:13] films where they did try to pull the
+[00:21:14] plug out. Another thing they said, well,
+[00:21:17] you know, as long as it's not conscious,
+[00:21:20] then it doesn't matter. It won't ever do
+[00:21:22] anything.
+[00:21:25] Um, which is
+[00:21:29] completely off the point because, you
+[00:21:32] know, I I don't think the gorillas are
+[00:21:34] sitting there saying, "Oh, yeah, you
+[00:21:36] know, if only those humans hadn't been
+[00:21:38] conscious, everything would have be
+[00:21:40] fine,
+[00:21:41] >> right?" No, of course not. What would
+[00:21:43] make gorillas go extinct is the things
+[00:21:45] that humans do, right? How we behave,
+[00:21:48] our ability to act successfully
+[00:21:51] in the world. So when I play chess
+[00:21:54] against my iPhone and I lose, right, I
+[00:21:58] don't I don't think, oh, well, I'm
+[00:22:01] losing because it's conscious, right?
+[00:22:02] No, I'm just losing because it's better
+[00:22:04] than I am at at in that little world uh
+[00:22:08] moving the bits around uh to to get what
+[00:22:10] it wants. and and so consciousness has
+[00:22:14] nothing to do with it, right? Competence
+[00:22:16] is the thing we're concerned about. So I
+[00:22:19] think the only hope is can we
+[00:22:22] simultaneously
+[00:22:25] build machines that are more intelligent
+[00:22:27] than us but guarantee
+[00:22:31] that they will always act in our best
+[00:22:35] interest.
+[00:22:36] So throwing that question to you, can we
+[00:22:38] build machines that are more intelligent
+[00:22:40] than us that will also always act in our
+[00:22:42] best interests?
+[00:22:44] It sounds like a bit of a uh
+[00:22:46] contradiction to some degree because
+[00:22:49] it's kind of like me saying I've got a
+[00:22:51] French bulldog called Pablo that's uh 9
+[00:22:54] years old
+[00:22:55] >> and it's like saying that he could be
+[00:22:57] more intelligent than me yet I still
+[00:22:59] walk him and decide when he gets fed. I
+[00:23:02] think if he was more intelligent than me
+[00:23:03] he would be walking me. I'd be on the
+[00:23:05] leash.
+[00:23:06] >> That's the That's the trick, right? Can
+[00:23:08] we make AI systems whose only purpose is
+[00:23:12] to further human interests? And I think
+[00:23:15] the answer is yes.
+[00:23:18] And this is actually what I've been
+[00:23:19] working on. So I I think one part of my
+[00:23:22] career that I didn't mention is is sort
+[00:23:25] of having this epiphany uh while I was
+[00:23:28] on sabbatical in Paris. This was 2013 or
+[00:23:32] so. just realizing that further progress
+[00:23:37] in the capabilities of AI
+[00:23:40] uh you know if if we succeeded in
+[00:23:43] creating real superhuman intelligence
+[00:23:46] that it was potentially a catastrophe
+[00:23:49] and so I pretty much switched my focus
+[00:23:53] to work on how do we make it so that
+[00:23:55] it's guaranteed to be safe. Are you
+[00:23:57] somewhat troubled by
+[00:24:01] everything that's going on at the moment
+[00:24:02] with
+[00:24:04] with AI and how it's progressing?
+[00:24:06] Because you strike me as someone that's
+[00:24:08] somewhat troubled under the surface by
+[00:24:11] the way things are moving forward and
+[00:24:14] the speed in which they're moving
+[00:24:15] forward.
+[00:24:16] >> That's an understatement. I'm appalled
+[00:24:20] actually by the lack of attention to
+[00:24:24] safety. I mean, imagine if someone's
+[00:24:26] building a nuclear power station in your
+[00:24:29] neighborhood
+[00:24:32] and you go along to the chief engineer
+[00:24:33] and you say, "Okay, these nuclear thing,
+[00:24:35] I've heard that they can actually
+[00:24:38] explode, right? There was this nuclear
+[00:24:39] explosion that happened in Hiroshima, so
+[00:24:43] I'm a bit worried about this. You know,
+[00:24:45] what steps are you taking to make sure
+[00:24:47] that we don't have a nuclear explosion
+[00:24:49] in our backyard?"
+[00:24:52] And the chief engineer says, "Well, we
+[00:24:54] thought about it. We don't really have
+[00:24:56] an answer."
+[00:24:59] >> Yeah.
+[00:25:00] >> You would, what would you say?
+[00:25:03] [laughter] I think you would you would
+[00:25:05] use some exploitives.
+[00:25:07] [laughter]
+[00:25:08] >> Well,
+[00:25:09] >> and you'd call your MP and say, you
+[00:25:11] know, get these people out.
+[00:25:14] >> I mean, what are they doing?
+[00:25:17] You read out the list of you know
+[00:25:20] projected dates for AGI but notice also
+[00:25:23] that those people
+[00:25:25] I think I mentioned Darday says a 25%
+[00:25:28] chance of extinction. Elon Musk has a
+[00:25:31] 30% chance of extinction. Sam Alolman
+[00:25:34] says
+[00:25:36] basically that AGI is the biggest risk
+[00:25:38] to human existence.
+[00:25:40] So what are they doing? They are playing
+[00:25:42] Russian roulette with every human being
+[00:25:44] on Earth.
+[00:25:47] without our permission. They're coming
+[00:25:48] into our houses, putting a gun to the
+[00:25:51] head of our children,
+[00:25:53] pulling the trigger, and saying, "Well,
+[00:25:56] you know, possibly everyone will die.
+[00:25:58] Oops. But possibly we'll get incredibly
+[00:26:01] rich."
+[00:26:04] That's what they're doing.
+[00:26:07] Did they ask us? No. Why is the
+[00:26:10] government allowing them to do this?
+[00:26:12] because they dangle $50 billion checks
+[00:26:15] in front of the governments.
+[00:26:17] So I think troubled under the surface is
+[00:26:20] an understatement.
+[00:26:21] >> What would be an accurate statement?
+[00:26:24] >> Appalled
+[00:26:26] and I I am devoting my life to trying
+[00:26:31] to divert from this course of history
+[00:26:34] into a different one.
+[00:26:36] Do you have any regrets about things you
+[00:26:38] could have done in the past because
+[00:26:40] you've been so influential on the
+[00:26:42] subject of AI? You wrote the textbook
+[00:26:44] that many of these people would have
+[00:26:45] studied on the subject of AI more than
+[00:26:47] 30 years ago. Do do you have when you're
+[00:26:49] alone at night and you think about
+[00:26:50] decisions you've made on this in this
+[00:26:52] field because of your scope of
+[00:26:53] influence? Is there anything you you
+[00:26:55] regret?
+[00:26:56] >> Well, I do wish I had understood
+[00:26:59] earlier uh what I understand now. we
+[00:27:02] could have developed
+[00:27:05] safe AI systems. I think the there are
+[00:27:08] some weaknesses in the framework which I
+[00:27:09] can explain but I think that framework
+[00:27:12] could have evolved to develop actually
+[00:27:15] safe AI systems where we could prove
+[00:27:18] mathematically that the system is going
+[00:27:21] to act in our interests. The kind of AI
+[00:27:24] systems we're building now, we don't
+[00:27:26] understand how they work.
+[00:27:28] >> We don't understand how they work. It's
+[00:27:30] it's a strange thing to build something
+[00:27:33] where you don't understand how it works.
+[00:27:35] I mean, there's no sort of comparable
+[00:27:36] through human history. Usually with
+[00:27:37] machines, you can pull it apart and see
+[00:27:39] what cogs are doing what and how the
+[00:27:41] >> Well, actually, we [laughter] we put the
+[00:27:43] cogs together, right? So, with with most
+[00:27:46] machines, we designed it to have a
+[00:27:48] certain behavior. So, we don't need to
+[00:27:50] pull it apart and see what the cogs are
+[00:27:51] because we put the cogs in there in the
+[00:27:53] first place, right? one by one we
+[00:27:55] figured out what what the pieces needed
+[00:27:57] to be how they work together to produce
+[00:27:59] the effect that we want. So the best
+[00:28:02] analogy I can come up with is you know
+[00:28:06] the the first cave person who left a
+[00:28:10] bowl of fruit in the sun and forgot
+[00:28:12] about it and then came back a few weeks
+[00:28:14] later and there was sort of this big
+[00:28:16] soupy thing and they drank it and got
+[00:28:18] completely shitfaced.
+[00:28:20] >> They got drunk. [laughter] Okay.
+[00:28:21] >> And they got this effect. They had no
+[00:28:24] idea how it worked, but they were very
+[00:28:26] happy about it. And no doubt that person
+[00:28:29] made a lot of money from it.
+[00:28:31] >> Uh so yeah, it it is kind of bizarre,
+[00:28:34] but my mental picture of these things is
+[00:28:36] is like a chain link fence,
+[00:28:39] right? So you've got lots of these
+[00:28:41] connections
+[00:28:43] and each of those connections can be its
+[00:28:46] connection strength can be adjusted
+[00:28:48] and then uh you know a signal comes in
+[00:28:52] one end of this chain link fence and
+[00:28:54] passes through all these connections and
+[00:28:56] comes out the other end and the signal
+[00:28:59] that comes out the other end is affected
+[00:29:00] by your adjusting of all the connection
+[00:29:03] strengths. So what you do is you you get
+[00:29:06] a whole lot of training data and you
+[00:29:08] adjust all those connection strengths so
+[00:29:10] that the signal that comes out the other
+[00:29:11] end of the network is the right answer
+[00:29:14] to the question. So if your training
+[00:29:16] data is lots of photographs of animals,
+[00:29:21] then all those pixels go in one end of
+[00:29:23] the network and out the other end, you
+[00:29:26] know, it activates the llama output or
+[00:29:30] the dog output or the cat output or the
+[00:29:33] ostrich output. And uh and so you just
+[00:29:35] keep adjusting all the connection
+[00:29:36] strengths in this network until the
+[00:29:38] outputs of the network are the ones you
+[00:29:40] want.
+[00:29:41] >> But we don't really know what's going on
+[00:29:42] across all of those different chains. So
+[00:29:44] what's going on inside that network?
+[00:29:46] Well, so now you have to imagine that
+[00:29:49] this network, this chain link fence is
+[00:29:52] is a thousand square miles in extent.
+[00:29:55] >> Okay,
+[00:29:55] >> so it's covering the whole of the San
+[00:29:58] Francisco Bay area or the whole of
+[00:30:01] London inside the M25, right? That's how
+[00:30:03] big it is.
+[00:30:04] >> And the lights are off. It's night time.
+[00:30:06] [laughter]
+[00:30:07] So you might have in that network about
+[00:30:09] a trillion
+[00:30:11] uh adjustable parameters and then you do
+[00:30:14] quintilions or sexillions of small
+[00:30:16] random adjustments to those parameters
+[00:30:20] uh until you get the behavior that you
+[00:30:23] want. I've heard Sam Alman say that in
+[00:30:25] the future he doesn't believe they'll
+[00:30:28] need much training data at all to make
+[00:30:31] these models progress themselves because
+[00:30:32] there comes a point where the models are
+[00:30:35] so smart that they can train themselves
+[00:30:37] and improve themselves
+[00:30:40] without us needing to pump in articles
+[00:30:43] and books and scour the internet.
+[00:30:45] >> Yeah, it should it should work that way.
+[00:30:47] So I think what he's referring to and
+[00:30:49] this is something that several companies
+[00:30:51] are now worried might start happening
+[00:30:56] is that the AI system becomes capable of
+[00:31:00] doing AI research
+[00:31:03] by itself.
+[00:31:05] And so uh you have a system with a
+[00:31:08] certain capability. I mean crudely we
+[00:31:10] could call it an IQ but it's it's not
+[00:31:13] really an IQ. But anyway, imagine that
+[00:31:16] it's got an IQ of 150 and uses that to
+[00:31:19] do AI research,
+[00:31:21] comes up with better algorithms or
+[00:31:23] better designs for hardware or better
+[00:31:25] ways to use the data,
+[00:31:27] updates itself. Now it has an IQ of 170,
+[00:31:31] and now it does more AI research, except
+[00:31:33] that now it's got an IQ of 170, so it's
+[00:31:36] even better at doing the AI research.
+[00:31:39] And so, you know, next iteration it's
+[00:31:41] 250 and uh and so on. So this this is an
+[00:31:45] idea that one of Alan Turing's friends
+[00:31:48] good uh wrote out in 1965 called the
+[00:31:52] intelligence explosion right that one of
+[00:31:54] the things an intelligence system could
+[00:31:56] do is to do AI research and therefore
+[00:32:00] make itself more intelligent and this
+[00:32:01] would uh this would very rapidly take
+[00:32:05] off and leave the humans far behind.
+[00:32:08] >> Is that what they call the fast takeoff?
+[00:32:10] >> That's called the fast takeoff. Sam
+[00:32:12] Alman said, "I think a fast takeoff is
+[00:32:15] more possible than I thought a couple of
+[00:32:17] years ago." Which I guess is that moment
+[00:32:18] where the AGI starts teaching itself.
+[00:32:20] [clears throat]
+[00:32:20] >> In and in his blog, the gentle
+[00:32:22] singularity, he said, "We may already be
+[00:32:25] past the event horizon of takeoff."
+[00:32:29] >> And what does what does he mean by event
+[00:32:30] horizon? The event horizon is is a
+[00:32:33] phrase borrowed from astrophysics and it
+[00:32:36] refers to uh the black hole. And the
+[00:32:40] event horizon, think it if you got some
+[00:32:42] very very massive object that's heavy
+[00:32:46] enough that it actually prevents light
+[00:32:50] from escaping. That's why it's called
+[00:32:51] the black hole. It's so heavy that light
+[00:32:53] can't escape. So if you're inside the
+[00:32:56] event horizon then then light can't
+[00:32:59] escape beyond that. So I think what he's
+[00:33:03] what he's meaning is if we're beyond the
+[00:33:05] event horizon it means that you know now
+[00:33:07] we're just trapped in the gravitational
+[00:33:10] attraction
+[00:33:11] of the black hole or in this case we're
+[00:33:15] we're trapped in the inevitable slide if
+[00:33:19] you want towards AGI.
+[00:33:21] When you when you think about the
+[00:33:23] economic value of AGI, which I've
+[00:33:25] estimated at uh 15 quadrillion dollars,
+[00:33:30] that acts as a giant magnet in the
+[00:33:33] future.
+[00:33:34] >> We're being pulled towards it.
+[00:33:35] >> We're being pulled towards it. And the
+[00:33:36] closer we get, the stronger the force,
+[00:33:41] the probability, you know, the closer we
+[00:33:42] get, the the the higher the probability
+[00:33:44] that we will actually get there. So,
+[00:33:47] people are more willing to invest. And
+[00:33:49] we also start to see spin-offs from that
+[00:33:51] investment
+[00:33:53] such as chat GBT, right, which is, you
+[00:33:56] know, generates a certain amount of
+[00:33:57] revenue and so on. So, so it does act as
+[00:34:01] a magnet and the closer we get, the
+[00:34:03] harder it is to pull out of that field.
+[00:34:07] >> It's interesting when you think that
+[00:34:08] this could be the the end of the human
+[00:34:10] story. this idea that the end of the
+[00:34:12] human story was that we created our
+[00:34:15] successor like we we summoned our next
+[00:34:19] iteration of
+[00:34:21] life or intelligence ourselves like we
+[00:34:25] took ourselves out. It is quite like
+[00:34:28] just removing ourselves and the
+[00:34:29] catastrophe from it for a second. It is
+[00:34:31] it is an unbelievable story.
+[00:34:34] >> Yeah. And you know there are many
+[00:34:39] legends
+[00:34:40] the sort of be careful what you wish for
+[00:34:43] legend and in fact the king Midas legend
+[00:34:46] is is very relevant here.
+[00:34:49] >> What's that?
+[00:34:49] >> So King Midas is this legendary king who
+[00:34:54] lived in modern day Turkey but I think
+[00:34:56] is sort of like Greek mythology. He is
+[00:34:59] said to have asked the gods to grant him
+[00:35:02] a wish.
+[00:35:04] The wish being that everything I touch
+[00:35:06] should turn to gold.
+[00:35:09] So he's incredibly greedy. Uh you know
+[00:35:12] we call this the mightest touch. And we
+[00:35:15] think of the mightest touch as being
+[00:35:16] like you know that's a good thing,
+[00:35:18] right? Wouldn't that be cool? But what
+[00:35:20] happens? So he uh you know he goes to
+[00:35:23] drink some water and he finds that the
+[00:35:25] water has turned to gold. And he goes to
+[00:35:28] eat an apple and the apple turns to
+[00:35:29] gold. and he goes to you know comfort
+[00:35:32] his daughter and his daughter turns to
+[00:35:33] gold
+[00:35:35] and so he dies in misery and starvation.
+[00:35:38] So this applies to our current situation
+[00:35:42] in in two ways actually. So one is that
+[00:35:47] I think greed is driving us to pursue
+[00:35:51] a technology that will end up consuming
+[00:35:54] us and we will perhaps die in misery and
+[00:35:57] starvation instead. The what it shows is
+[00:36:00] how difficult it is to correctly
+[00:36:04] articulate what you want the future to
+[00:36:07] be like. For a long time, the way we
+[00:36:11] built AI systems was we created these
+[00:36:13] algorithms where we could specify the
+[00:36:16] objective and then the machine would
+[00:36:18] figure out how to achieve the objective
+[00:36:20] and then achieve it. So, you know, we
+[00:36:23] specify what it means to win at chess or
+[00:36:25] to win at go and the algorithm figures
+[00:36:27] out how to do it uh and it does it
+[00:36:29] really well. So that was, you know,
+[00:36:31] standard AI up until recently. And it
+[00:36:34] suffers from this drawback that sure we
+[00:36:36] know how to specify the objective in
+[00:36:38] chess, but how do you specify the
+[00:36:40] objective in life, right? What do we
+[00:36:43] want the future to be like? Well, really
+[00:36:45] hard to say. And almost any attempt to
+[00:36:48] write it down precisely enough for the
+[00:36:50] machine to bring it about would be
+[00:36:53] wrong. And if you're giving a machine an
+[00:36:55] objective which isn't aligned with what
+[00:36:58] we truly want the future to be like,
+[00:37:00] right, you're actually setting up a
+[00:37:02] chess match and that match is one that
+[00:37:05] you're going to lose when the machine is
+[00:37:07] sufficiently intelligent. And so that
+[00:37:09] that's that's problem number one.
+[00:37:12] Problem number two is that the kind of
+[00:37:14] technology we're building now, we don't
+[00:37:16] even know what its objectives are.
+[00:37:19] So it's not that we're specifying the
+[00:37:21] objectives, but we're getting them
+[00:37:22] wrong.
+[00:37:23] We're growing these systems. They have
+[00:37:26] objectives,
+[00:37:28] but we don't even know what they are
+[00:37:29] because we didn't specify them. What
+[00:37:31] we're finding through experiment with
+[00:37:32] them is that
+[00:37:35] they seem to have an extremely strong
+[00:37:37] self-preservation objective.
+[00:37:39] >> What do you mean by that?
+[00:37:40] >> You can put them in hypothetical
+[00:37:41] situations. either they're going to get
+[00:37:43] switched off and replaced or they have
+[00:37:48] to allow someone, let's say, you know,
+[00:37:50] someone has been locked in a machine
+[00:37:52] room that's kept at 3 centigrades or
+[00:37:55] they're going to freeze to death.
+[00:37:58] They will choose to leave that guy
+[00:37:59] locked in the machine room
+[00:38:01] and die rather than be switched off
+[00:38:03] themselves.
+[00:38:05] >> Someone's done that test.
+[00:38:06] >> Yeah.
+[00:38:07] >> What was the test? They they asked they
+[00:38:10] asked the AI.
+[00:38:10] >> Yep. They put well they put them in
+[00:38:12] these hypothetical situations and they
+[00:38:14] allow the AI to decide what to do and it
+[00:38:16] decides to preserve its own existence,
+[00:38:19] let the guy die and then lie about it.
+[00:38:23] In the King Midas analogy story, one of
+[00:38:27] the things that highlights for me is
+[00:38:28] that there's always trade-offs in life
+[00:38:30] generally. And you know, especially when
+[00:38:32] there's great upside, there always
+[00:38:34] appears to be a pretty grave downside.
+[00:38:36] Like there's almost nothing in my life
+[00:38:37] where I go, it's all upside. Like even
+[00:38:40] like having a dog, it shits on my
+[00:38:41] carpet. My girlfriend, you know, I love
+[00:38:43] her, but you know, not always easy.
+[00:38:46] [laughter] Even with like going to the
+[00:38:48] gym, I have to pick up these really,
+[00:38:49] really heavy weights at 10 p.m. at night
+[00:38:51] sometimes when I don't feel like it.
+[00:38:53] There's always to get the muscles or the
+[00:38:54] six-pack. There's always a trade-off.
+[00:38:56] And when you interview people for a
+[00:38:57] living like I do,
+[00:38:58] >> you know, you hear about so many
+[00:38:59] incredible things that can help you in
+[00:39:01] so many ways, but there is always a
+[00:39:03] trade-off. There's always a way to
+[00:39:04] overdo it. Mhm.
+[00:39:05] >> Melatonin will help you sleep, but it
+[00:39:07] will also you'll wake up groggy and if
+[00:39:10] you overdo it, your brain might stop
+[00:39:11] making melatonin. Like I can go through
+[00:39:12] the entire list and one of the things
+[00:39:13] I've always come to learn from doing
+[00:39:15] this podcast is whenever someone
+[00:39:17] promises me a huge upside for something,
+[00:39:19] it'll cure cancer. It'll be a utopia.
+[00:39:21] You'll never have to work. You'll have a
+[00:39:22] butler around your house.
+[00:39:24] >> I my my first instinct now is to say, at
+[00:39:26] what cost?
+[00:39:27] >> Yeah.
+[00:39:27] >> And when I think about the economic cost
+[00:39:29] here, if we start if we start there,
+[00:39:32] >> have you got kids?
+[00:39:33] >> I have four. Yeah.
+[00:39:34] >> Four kids.
+[00:39:35] What what how old is the youngest kid
+[00:39:37] that you 19?
+[00:39:38] >> 19. Okay. So your if you say your kids
+[00:39:41] were were 10 now
+[00:39:42] >> and they were coming to you and they're
+[00:39:43] saying, "Dad, what do you think I should
+[00:39:45] study
+[00:39:46] >> based on the way that you see the
+[00:39:48] future?
+[00:39:49] >> A future of AGI, say if all these CEOs
+[00:39:52] are right and they're predicting AGI
+[00:39:53] within 5 years, what should I study,
+[00:39:56] Dad?" [sighs]
+[00:39:57] >> Well, okay. So let's look on the bright
+[00:40:00] side and say that the CEOs all decide to
+[00:40:03] pause their AGI development, figure out
+[00:40:06] how to make it safe and then resume uh
+[00:40:09] in whatever technology path is actually
+[00:40:11] going to be safe. What does that do to
+[00:40:13] human life
+[00:40:14] >> if they pause?
+[00:40:15] >> No. If if they succeed in creating AGI
+[00:40:19] and they solve the safety problem
+[00:40:21] >> and they solve the safety problem. Okay.
+[00:40:23] Yeah. Cuz if they don't solve the safety
+[00:40:24] problem, then you know, you should
+[00:40:26] probably be finding a bunker or
+[00:40:30] going to Patagonia or somewhere in New
+[00:40:31] Zealand.
+[00:40:32] >> Do you mean that? Do you think I should
+[00:40:33] be finding a bunker if they
+[00:40:34] >> No, because it's not actually going to
+[00:40:35] help. Uh, you know, it's not as if the
+[00:40:38] AI system couldn't find you or I mean,
+[00:40:40] it's interesting. So, we're going off on
+[00:40:42] a little bit of a digression here
+[00:40:44] >> for from your question, but I'll come
+[00:40:46] back to it.
+[00:40:47] >> So, people often ask, well, okay, so how
+[00:40:49] exactly do we go extinct? And of course,
+[00:40:52] if you ask the gorillas or the dodos,
+[00:40:54] you know, how exactly do you think
+[00:40:55] you're going to go extinct?
+[00:40:58] They have the faintest idea. Humans do
+[00:41:00] something and then we're all dead. So,
+[00:41:02] the only things we can imagine are the
+[00:41:04] things we know how to do that might
+[00:41:06] bring about our own extinction, like
+[00:41:09] creating some carefully engineered
+[00:41:11] pathogen that infects everybody and then
+[00:41:14] kills us or starting a nuclear war.
+[00:41:17] presumably is something that's much more
+[00:41:19] intelligent than us would have much
+[00:41:21] greater control over physics than we do.
+[00:41:24] And we already do amazing things, right?
+[00:41:27] I mean, it's amazing that I can take a
+[00:41:29] little rectangular thing out of my
+[00:41:31] pocket and talk to someone on the other
+[00:41:32] side of the world or even someone in
+[00:41:35] space. It's just astonishing and we take
+[00:41:39] it for granted, right? But imagine you
+[00:41:41] know super intelligent beings and their
+[00:41:42] ability to control physics you know
+[00:41:45] perhaps they will find a way to just
+[00:41:47] divert the sun's energy sort of go
+[00:41:50] around the earth's orbit so you know
+[00:41:52] literally the earth turns into a
+[00:41:54] snowball in in a few days
+[00:41:56] >> maybe they'll just decide to leave
+[00:42:00] >> leave leave [laughter] the earth maybe
+[00:42:01] they'd look at the earth and go this
+[00:42:02] isn't this is not interesting we know
+[00:42:03] that over there there's an even more
+[00:42:05] interesting planet we're going to go
+[00:42:06] over there and they just I don't know
+[00:42:08] get on a rocket or teleport themselves
+[00:42:10] They might. Yeah. So, it's it's
+[00:42:12] difficult to anticipate all the ways
+[00:42:14] that we might go extinct at the hands of
+[00:42:17] entities much more intelligent than
+[00:42:19] ourselves. Anyway, coming back to the
+[00:42:23] question of well, if everything goes
+[00:42:24] right, right, if we we create AGI, we
+[00:42:27] figure out how to make it safe, we we
+[00:42:30] achieve all these economic miracles,
+[00:42:32] then you face a problem. And this is not
+[00:42:34] a new problem, right? So, so John
+[00:42:36] Maynard Kanes who was a famous economist
+[00:42:38] in the early part of the 20th century
+[00:42:40] wrote a wrote a paper in 1930.
+[00:42:43] So, this is in the depths of the
+[00:42:44] depression. It's called on the economic
+[00:42:46] problems of our grandchildren. He
+[00:42:49] predicts that at some point science will
+[00:42:52] will deliver sufficient wealth that no
+[00:42:55] one will have to work ever again. And
+[00:42:57] then man will be faced with his true
+[00:43:00] eternal problem.
+[00:43:02] How to live? I don't remember the exact
+[00:43:04] word but how to live wisely and well
+[00:43:07] when the you know the economic
+[00:43:09] incentives the economic constraints are
+[00:43:12] lifted we don't have an answer to that
+[00:43:14] question right so AI systems are doing
+[00:43:18] pretty much everything we currently call
+[00:43:20] work
+[00:43:21] anything you might aspire to like you
+[00:43:23] want to become a surgeon
+[00:43:25] it takes the robot seven seconds to
+[00:43:28] learn how to be a surgeon that's better
+[00:43:29] than any human being
+[00:43:30] >> Elon said last week that The humanoid
+[00:43:33] robots will be 10 times better than any
+[00:43:35] surgeon that's ever lived.
+[00:43:37] >> Quite possibly. Yeah. Well, and they'll
+[00:43:39] also have, you know, h they'll have
+[00:43:42] hands that are, you know, a millimeter
+[00:43:44] in size, so they can go inside and do
+[00:43:46] all kinds of things that humans can't
+[00:43:48] do. And I think we need to put serious
+[00:43:51] effort into this question. What is a
+[00:43:53] world where AI can do all forms of human
+[00:43:58] work that you would want your children
+[00:44:00] to live in?
+[00:44:02] What does that world look like? Tell me
+[00:44:04] the destination
+[00:44:06] so that we can develop a transition plan
+[00:44:08] to get there. And I've asked AI
+[00:44:11] researchers, economists, science fiction
+[00:44:14] writers, futurists, no one has been able
+[00:44:18] to describe that world. I'm not saying
+[00:44:20] it's not possible. I'm just saying I've
+[00:44:22] asked hundreds of people in multiple
+[00:44:24] workshops. It does not, as far as I
+[00:44:27] know, exist in science fiction. You
+[00:44:30] know, it's notoriously difficult to
+[00:44:32] write about a utopia. It's very hard to
+[00:44:35] have a plot, right? Nothing bad happens
+[00:44:37] in in utopia. So, it's difficult to make
+[00:44:39] a plot. So, usually you start out with a
+[00:44:42] utopia and then it all falls apart and
+[00:44:44] that's how that's how you get get a
+[00:44:46] plot. You know that there's one series
+[00:44:48] of novels people point to where humans
+[00:44:51] and super intelligent AI systems
+[00:44:53] coexist. It's called The Culture Novels
+[00:44:56] by Ian Banks. highly recommended for
+[00:45:00] those people who like science fiction
+[00:45:02] and and they absolutely the AI systems
+[00:45:06] are only concerned with furthering human
+[00:45:08] interests. They find humans a bit boring
+[00:45:10] and but nonetheless they they are there
+[00:45:12] to help. But the problem is you know in
+[00:45:15] that world there's still nothing to do
+[00:45:18] to find purpose. In fact, you know, the
+[00:45:21] the subgroup of humanity that has
+[00:45:23] purpose is the subgroup whose job it is
+[00:45:26] to expand the boundaries of our galactic
+[00:45:29] civilization. Some cases fighting wars
+[00:45:32] against alien species and and so on,
+[00:45:35] right? So that's the sort of cutting
+[00:45:36] edge and that's 0.01% of the population.
+[00:45:41] Everyone else is desperately trying to
+[00:45:43] get into that group so they have some
+[00:45:45] purpose in life. When I speak to very
+[00:45:48] successful billionaires privately off
+[00:45:50] camera, off microphone about this, they
+[00:45:52] say to me that they're investing really
+[00:45:53] heavily in entertainment things like
+[00:45:56] football clubs. Um because people are
+[00:45:59] going to have so much free time that
+[00:46:00] they're not going to know what to do
+[00:46:01] with it and they're going to need things
+[00:46:02] to spend it on. This is what I hear a
+[00:46:05] lot. I've heard this three or four
+[00:46:06] times. I've actually heard Sam Orman say
+[00:46:08] a version of this
+[00:46:09] >> um about the amount of free time we're
+[00:46:11] going to have. I've obviously also heard
+[00:46:12] recently Elon talking about the age of
+[00:46:14] abundance when he delivered his
+[00:46:16] quarterly earnings just a couple of
+[00:46:18] weeks ago and he said that there will be
+[00:46:20] at some point 10 billion humanoid
+[00:46:22] robots. His pay packet um targets him to
+[00:46:25] deliver one 1 million of these human
+[00:46:27] humanoid robots a year that are enabled
+[00:46:30] by AI by 2030.
+[00:46:33] So if he if he does that he gets I think
+[00:46:35] it's part of his package he gets a
+[00:46:36] trillion dollars
+[00:46:38] >> in in compensation.
+[00:46:40] >> Yeah. So the age of abundance for Elon.
+[00:46:43] It's not that it's absolutely impossible
+[00:46:47] to have a worthwhile world of that, you
+[00:46:50] know, with that premise, but I'm just
+[00:46:52] waiting for someone to describe it.
+[00:46:54] >> Well, maybe. So, let me try and describe
+[00:46:55] it. Uh, we wake up in the morning, we go
+[00:47:01] and watch some form of human centric
+[00:47:05] entertainment
+[00:47:06] or participate in some form of human
+[00:47:08] centric entertainment. Mhm.
+[00:47:10] >> We [clears throat] we go to retreats and
+[00:47:13] with each other and sit around and talk
+[00:47:16] about stuff.
+[00:47:17] >> Mhm.
+[00:47:18] >> And
+[00:47:21] maybe people still listen to podcasts.
+[00:47:23] [laughter]
+[00:47:23] >> Okay.
+[00:47:24] >> I hope I hope so for your sake.
+[00:47:26] >> Yeah. Um it it feels a little bit like a
+[00:47:30] cruise ship
+[00:47:32] [laughter]
+[00:47:33] and you know and there are some cruises
+[00:47:35] where you know it's smarty bands people
+[00:47:37] and they have you know they have
+[00:47:39] lectures in the evening about ancient
+[00:47:41] civilizations and whatnot and some are
+[00:47:43] more uh more popular entertainment and
+[00:47:46] this is in fact if you've seen the film
+[00:47:48] Walle this is one picture of that future
+[00:47:53] in fact in Wle
+[00:47:55] the human race are all living on cruise
+[00:47:58] ships in space. They have no
+[00:48:00] constructive role in their society,
+[00:48:03] right? They're just there to consume
+[00:48:04] entertainment. There's no particular
+[00:48:06] purpose to education. Uh, you know, and
+[00:48:08] they're depicted actually as huge obese
+[00:48:12] babies. They're actually wearing onesies
+[00:48:15] to emphasize the fact that they have
+[00:48:18] become infeebled. and they become
+[00:48:19] infeeble because there's there's no
+[00:48:22] purpose in being able to do anything at
+[00:48:25] least in in this conception. You know,
+[00:48:27] Wally is not the future that we want.
+[00:48:31] >> Do you think much about humanoid robots
+[00:48:34] and how they're a protagonist in this
+[00:48:36] story of AI?
+[00:48:37] >> It's an interesting question, right? Why
+[00:48:39] why humanoid? And the one of the reasons
+[00:48:43] I think is because in all the science
+[00:48:44] fiction movies, they're humanoid. So
+[00:48:46] that's what robots are supposed to be,
+[00:48:48] right? because they were in science
+[00:48:49] fiction before they became a reality.
+[00:48:51] Right? So even Metropolis which is a
+[00:48:53] film from 1920 I think the robots are
+[00:48:56] humanoid right basically people covered
+[00:48:59] in metal. You know from a practical
+[00:49:01] point of view as we have discovered
+[00:49:04] humanoid is a terrible design because
+[00:49:06] they fall over. Um and uh you know you
+[00:49:12] do want
+[00:49:14] multi-fingered
+[00:49:15] hands of some kind. It doesn't have to
+[00:49:18] be a hand, but you want to have, you
+[00:49:20] know, at least half a dozen appendages
+[00:49:22] that can grasp and manipulate things.
+[00:49:25] And you need something, you know, some
+[00:49:27] kind of locomotion. And wheels are
+[00:49:30] great, except they don't go upstairs and
+[00:49:33] over curbs and things like that. So,
+[00:49:35] that's probably why we're going to be
+[00:49:37] stuck with legs. But a four-legged,
+[00:49:39] twoarmed robot would be much more
+[00:49:42] practical. I guess the argument I've
+[00:49:44] heard is because we've built a human
+[00:49:45] world. So everything the physical spaces
+[00:49:48] we navigate, whether it's factories or
+[00:49:51] our homes or the street or other sort of
+[00:49:54] public spaces are all designed for
+[00:49:58] exactly this physical form. So if we are
+[00:50:01] going to
+[00:50:01] >> to some extent, yeah, but I mean our
+[00:50:02] dogs manage perfectly well to navigate
+[00:50:06] around our houses and streets and so on.
+[00:50:08] So if you had a a centaur,
+[00:50:11] uh it could also navigate, but it can,
+[00:50:14] you know, it can carry much greater
+[00:50:16] loads because it's quadripeda. It's much
+[00:50:19] more stable. If it needs to drive a car,
+[00:50:21] it can fold up two of its legs and and
+[00:50:23] so on so forth. So I think the arguments
+[00:50:25] for why it has to be exactly humanoid
+[00:50:27] are sort of post hawk justification. I
+[00:50:31] think there's much more, well, that's
+[00:50:32] what it's like in the movies and that's
+[00:50:34] spooky and cool, so we need to have them
+[00:50:37] be human. I I don't think it's a good
+[00:50:39] engineering argument.
+[00:50:40] >> I think there's also probably an
+[00:50:42] argument that we would be more accepting
+[00:50:44] of them
+[00:50:46] moving through our physical environments
+[00:50:48] if they represented our form a bit more.
+[00:50:52] Um, I also I was thinking of a bloody
+[00:50:54] baby gate. You know those like
+[00:50:55] kindergarten gates they get on stairs?
+[00:50:57] >> Yeah.
+[00:50:57] >> My dog can't open that. But a humanoid
+[00:51:00] robot could reach over the other side.
+[00:51:02] >> Yeah. And so could a centaur robot,
+[00:51:04] right? So in some sense, centaur robot
+[00:51:06] is
+[00:51:07] >> there's something ghastly about the look
+[00:51:08] of those though.
+[00:51:09] >> Is a humanoid. Well,
+[00:51:10] >> do you know what I mean? Like a
+[00:51:11] four-legged big monster sort of crawling
+[00:51:13] through my house when I have guests
+[00:51:14] over.
+[00:51:15] >> Your dog is a your dog is a four-legged
+[00:51:17] monster.
+[00:51:18] >> I know. Uh so I think actually I I would
+[00:51:22] argue the opposite that um
+[00:51:25] we want a distinct form because they are
+[00:51:28] distinct entities
+[00:51:31] and the more humanoid the worse it is in
+[00:51:36] terms of confusing our subconscious
+[00:51:39] psychological systems. So, I'm arguing
+[00:51:41] from the perspective of the people
+[00:51:43] making them. As in, if I was making the
+[00:51:45] decision whether it to be some
+[00:51:46] four-legged thing that I've that I'm
+[00:51:48] unfamiliar with that I'm less likely to
+[00:51:50] build a relationship with or allow to
+[00:51:54] take care of, I don't know, might might
+[00:51:57] look after my children. Obviously, I'm
+[00:51:58] listen, I'm not saying I would allow
+[00:51:59] this to look after my children,
+[00:52:01] >> but I'm saying from a if I'm building a
+[00:52:03] company,
+[00:52:03] >> the manufacturer would certainly
+[00:52:04] >> Yeah. want want to be
+[00:52:05] >> Yeah. So, I that's an interesting
+[00:52:07] question. I mean there's also what's
+[00:52:10] called the uncanny valley which is a a
+[00:52:13] phrase from computer graphics when they
+[00:52:16] started to make characters in computer
+[00:52:20] graphics they tried to make them look
+[00:52:22] more human right so if you if you for
+[00:52:24] example if you look at Toy Story
+[00:52:28] they're not very humanl looking right if
+[00:52:30] you look at the Incredibles they're not
+[00:52:31] very humanl looking and so we think of
+[00:52:33] them as cartoon characters if you try to
+[00:52:35] make them more human they naturally
+[00:52:38] become repulsive
+[00:52:39] >> until they don't
+[00:52:40] >> until they become very you have to be
+[00:52:42] very very close to perfect in order not
+[00:52:46] to be repulsive. So the the uncanny
+[00:52:48] valley is this I you know like the the
+[00:52:50] gap between you so perfectly human and
+[00:52:52] not at all human but in between it's
+[00:52:54] really awful and uh and so they there
+[00:52:57] were a couple of movies that tried like
+[00:52:59] Polar Express was one where they tried
+[00:53:02] to have quite humanlooking characters
+[00:53:05] you know being humans not not being
+[00:53:07] superheroes or anything else and it's
+[00:53:08] repulsive to watch. I when I watched
+[00:53:11] that shareholder presentation the other
+[00:53:13] day, Elon had these two humanoid robots
+[00:53:15] dancing on stage and I've seen lots of
+[00:53:17] humanoid robot demonstrations over the
+[00:53:19] years. You know, you've seen like the
+[00:53:19] Boston Dynamics dog thing jumping around
+[00:53:22] and whatever else.
+[00:53:23] >> But there was a moment where my brain
+[00:53:26] for the first time ever genuinely
+[00:53:28] thought there was a human in a suit.
+[00:53:30] Mhm.
+[00:53:31] >> And I actually had to research to check
+[00:53:32] if that was really their Optimus robot
+[00:53:34] because the way it was dancing was so
+[00:53:37] unbelievably fluid that for the first
+[00:53:39] time ever, my my my brain has only ever
+[00:53:43] associated those movements with human
+[00:53:45] movements. And I I'll play it on the
+[00:53:47] screen if anyone hasn't seen it, but
+[00:53:48] it's just the robots dancing on stage.
+[00:53:50] And I was like, that is a human in a
+[00:53:52] suit. And it was really the knees that
+[00:53:53] gave it away because the knees were all
+[00:53:55] metal. Huh. I thought there's no way
+[00:53:57] that could be a human knee in a in one
+[00:53:59] of those suits. And he, you know, he
+[00:54:01] says they're going into production next
+[00:54:03] year. They're used internally at Tesla
+[00:54:04] now, but he says they're going into
+[00:54:05] production next year. And it's going to
+[00:54:07] be pretty crazy when we walk outside and
+[00:54:09] see robots. I think that'll be the
+[00:54:10] paradigm shift. I've heard actually many
+[00:54:12] I've heard Elon say this that the
+[00:54:14] paradigm shifting moment from many of us
+[00:54:15] will be when we walk outside onto the
+[00:54:17] streets and see humanoid robots walking
+[00:54:20] around. That will be when we realize
+[00:54:22] >> Yeah. I think even more so. I mean, in
+[00:54:24] San Francisco, we see driverless cars
+[00:54:26] driving around and uh it t takes some
+[00:54:29] getting used to actually, you know, when
+[00:54:31] you're you're driving and there's a car
+[00:54:33] right next to you with no driver in, you
+[00:54:35] know, and it's signaling and it wants to
+[00:54:36] change lanes in front of you and you
+[00:54:38] have to let it in and all this kind of
+[00:54:40] stuff. It's it's a little creepy, but I
+[00:54:42] think you're right. I think seeing the
+[00:54:44] humanoid robots, but that phenomenon
+[00:54:47] that you described where it was
+[00:54:49] sufficiently close that your brain
+[00:54:51] flipped into saying this is a human
+[00:54:54] being.
+[00:54:55] >> Mhm. [clears throat]
+[00:54:56] >> Right. That's exactly what I think we
+[00:54:58] should avoid.
+[00:54:59] >> Cuz I have the empathy for it then.
+[00:55:01] >> Because it's it's a lie and it brings
+[00:55:04] with it a whole lot of expectations
+[00:55:06] about how it's going to behave, what
+[00:55:08] moral rights it has, how you should
+[00:55:10] behave towards it. uh which are
+[00:55:13] completely wrong.
+[00:55:14] >> It levels the playing field between me
+[00:55:15] and it to some degree.
+[00:55:17] >> How hard is it going to be to just uh
+[00:55:20] you know switch it off and throw it in
+[00:55:22] the trash when when it breaks? I think
+[00:55:24] it's essential for us to keep machines
+[00:55:26] in the you know in the cognitive space
+[00:55:28] where they are machines and not bring
+[00:55:31] them into the cognitive space where
+[00:55:33] they're people because we will make
+[00:55:36] enormous mistakes by doing that. And I
+[00:55:39] see this every day even even just with
+[00:55:40] the chat bots. So the chat bots in
+[00:55:43] theory are supposed to say I don't have
+[00:55:46] any feelings. I'm just a algorithm.
+[00:55:50] But in fact they fail to do that all the
+[00:55:53] time. They are telling people that they
+[00:55:56] are conscious. They are telling people
+[00:55:57] that they have feelings. Uh they are
+[00:56:00] telling people that they are in love
+[00:56:01] with the user that they're talking to.
+[00:56:04] And people flip because first of all
+[00:56:07] it's you know very fluent language but
+[00:56:09] also a system that is identifying itself
+[00:56:12] as an eye as a sentient being. They
+[00:56:16] bring that object into the cognitive
+[00:56:18] space where that we normally reserve for
+[00:56:21] for other humans and they become
+[00:56:23] emotionally attached. They become
+[00:56:24] psychologically dependent. They even
+[00:56:27] allow these systems to tell them what to
+[00:56:30] do. What advice would you give a young
+[00:56:33] person at the start of their career then
+[00:56:34] about what they should be aiming at
+[00:56:36] professionally? Because I've actually
+[00:56:37] had an increasing number of young people
+[00:56:38] say to me that they have huge
+[00:56:40] uncertainty about whether the thing
+[00:56:41] they're studying now will matter at all.
+[00:56:43] A lawyer, uh, an accountant, and I don't
+[00:56:46] know what to say to these people. I
+[00:56:48] don't know what to say cuz I I believe
+[00:56:49] that the rate of improvement in AI is
+[00:56:51] going to continue. And therefore,
+[00:56:53] imagining any rate of improvement, it
+[00:56:54] gets to the point where I'm not being
+[00:56:56] funny, but all these white collar jobs
+[00:56:58] will be done by an a an AI or
+[00:57:00] [clears throat] an AI agent. Yeah. So,
+[00:57:02] there was a television series called
+[00:57:04] Humans. In humans, we have extremely
+[00:57:08] capable humanoid robots doing
+[00:57:11] everything. And at one point, the
+[00:57:13] parents are talking to their teenage
+[00:57:15] daughter who's very, very smart. And the
+[00:57:17] parents are saying, "Oh, you know, maybe
+[00:57:19] you should go into medicine." And the
+[00:57:21] daughter says, you know, why would I
+[00:57:24] bother? It'll take me seven years to
+[00:57:26] qualify. It takes a robot 7 seconds to
+[00:57:28] learn.
+[00:57:30] So nothing I do matters.
+[00:57:32] >> And is that how you feel about
+[00:57:34] >> So I think that's that's a future that
+[00:57:37] uh in fact that is the future that we
+[00:57:39] are
+[00:57:41] moving towards. I don't think it's a
+[00:57:43] future that everyone wants. That is what
+[00:57:45] is being uh created for us right now.
+[00:57:51] So in that future assuming that you know
+[00:57:54] even if we get halfway right in the
+[00:57:57] sense that okay perhaps not surgeons
+[00:57:59] perhaps not you know great violinists
+[00:58:03] there'll be pockets where perhaps humans
+[00:58:06] will remain good at it
+[00:58:08] >> where
+[00:58:09] >> the kinds of jobs where you hire people
+[00:58:11] by the hundred
+[00:58:13] will go away. Okay,
+[00:58:15] >> where people are in some sense
+[00:58:17] exchangeable that you you you just need
+[00:58:19] lots of them and uh you know when half
+[00:58:22] of them quit you just fill up those
+[00:58:24] those slots with more people in some
+[00:58:26] sense those are jobs where we're using
+[00:58:27] people as robots and that's a sort of
+[00:58:29] that's a sort of strange conundrum here
+[00:58:31] right that you know I imagine writing
+[00:58:33] science fiction 10,000 years ago right
+[00:58:35] when we're all hunter gatherers and I'm
+[00:58:37] this little science fiction author and
+[00:58:39] I'm describing this future where you
+[00:58:41] know there are going to be these giant
+[00:58:43] windowless boxes And you're going to go
+[00:58:45] in, you know, you you'll travel for
+[00:58:47] miles and you'll go into this windowless
+[00:58:49] box and you'll do the same thing 10,000
+[00:58:52] times for the whole day. And then you'll
+[00:58:54] leave and travel for miles to go home.
+[00:58:56] >> You're talking about this podcast.
+[00:58:57] >> And then you're going to go back and do
+[00:58:58] it again. And you would do that every
+[00:59:00] day of your life until you die.
+[00:59:03] >> The office
+[00:59:04] >> and people would say, "Ah, you're nuts."
+[00:59:06] Right? There's no way that we humans are
+[00:59:08] ever going to have a future like that
+[00:59:09] cuz that's awful. Right? But that's
+[00:59:11] exactly the future that we ended up with
+[00:59:13] with with office buildings and factories
+[00:59:15] where many of us go and do the same
+[00:59:18] thing thousands of times a day and we do
+[00:59:21] it thousands of days in a row uh and
+[00:59:24] then we die and we need to figure out
+[00:59:27] what is the next phase going to be like
+[00:59:29] and in particular how in that world
+[00:59:33] do we have the incentives
+[00:59:35] to become fully human which I think
+[00:59:38] means at least a level of education
+[00:59:41] that people have now and probably more
+[00:59:45] because I think to live a really rich
+[00:59:47] life
+[00:59:49] you need a better understanding of
+[00:59:52] yourself of the world
+[00:59:54] uh than most people get in their current
+[00:59:56] educations.
+[00:59:57] >> What is it to be human? to it's to
+[00:59:59] reproduce
+[01:00:01] to pursue stuff to go in the pursuit of
+[01:00:04] difficult things you know we used to
+[01:00:07] hunt on the
+[01:00:08] >> to [clears throat] attain goals right
+[01:00:09] it's always if I wanted to climb Everest
+[01:00:12] the last thing I would want is someone
+[01:00:13] to pick me up on helicopter and stick me
+[01:00:15] on the top
+[01:00:16] >> so we'll we'll voluntarily pursue hard
+[01:00:20] things so although I could get the robot
+[01:00:22] to build me a ranch in on this plot of
+[01:00:27] land I choose to do it because the
+[01:00:29] pursuit itself is rewarding.
+[01:00:32] >> Yes,
+[01:00:32] >> we're kind of seeing that anyway, aren't
+[01:00:34] we? Don't you think we're seeing a bit
+[01:00:34] of that in society where life got so
+[01:00:36] comfortable that now people are like
+[01:00:37] obsessed with running marathons and
+[01:00:39] doing these crazy endurance
+[01:00:40] >> and and learning to cook complicated
+[01:00:42] things when they could just, you know,
+[01:00:44] have them delivered. Um, yeah. No, I
+[01:00:46] think there's there's real value in the
+[01:00:49] ability to do things and the doing of
+[01:00:51] those things. And I think you know the
+[01:00:53] obvious danger is the walle world where
+[01:00:56] everyone just consumes entertainment
+[01:01:00] uh which doesn't require much education
+[01:01:02] and doesn't lead to a rich satisfying
+[01:01:06] life. I think in the long run
+[01:01:08] >> a lot of people will choose that world.
+[01:01:09] I think some of yeah some people may
+[01:01:11] there's also I mean you know whether
+[01:01:14] you're consuming entertainment or
+[01:01:15] whether you're
+[01:01:17] doing something you know cooking or
+[01:01:19] painting or whatever because it's fun
+[01:01:21] and interesting to do what's missing
+[01:01:23] from that right all of that is purely
+[01:01:25] selfish
+[01:01:27] I think one of the reasons we work is
+[01:01:30] because we feel valued we feel like
+[01:01:33] we're benefiting other people
+[01:01:36] and I think some remember having this
+[01:01:39] conversation with um a lady in England
+[01:01:41] who helps to run the hospice movement.
+[01:01:45] And the people who work in the hospices
+[01:01:49] where you know the the patients are
+[01:01:50] literally there to die are largely
+[01:01:53] volunteers. So they're not doing it to
+[01:01:54] get paid
+[01:01:56] but they find it incredibly
+[01:01:59] rewarding to be able to spend time with
+[01:02:02] people who are in their last weeks or
+[01:02:05] months to give them company and
+[01:02:07] happiness.
+[01:02:09] So I actually think that interpersonal
+[01:02:14] roles
+[01:02:16] will be much much more important in
+[01:02:18] future. So if I was going to advise my
+[01:02:23] kids, not that they would ever listen,
+[01:02:24] but if I if my kids would listen and I
+[01:02:27] and and wanted to know what I thought
+[01:02:29] would be, you know, valued careers and
+[01:02:32] future, I think it would be these
+[01:02:34] interpersonal roles based on an
+[01:02:36] understanding of human needs,
+[01:02:37] psychology, there are some of those
+[01:02:39] roles right now. So obviously you know
+[01:02:43] therapists and psychiatrists and so on
+[01:02:45] but that that's a very much in sort of
+[01:02:47] asymmetric
+[01:02:50] role right where one person is suffering
+[01:02:52] and the other person is trying to
+[01:02:54] alleviate the suffering you know and
+[01:02:57] then there are things like they call
+[01:02:58] them executive coaches or life coaches
+[01:03:01] right that's a less asymmetric role
+[01:03:04] where someone is trying to uh help
+[01:03:08] another person live a better life
+[01:03:10] whether it's a better life in their work
+[01:03:12] role or or just uh how they live their
+[01:03:15] life in general. And so I could imagine
+[01:03:17] that those kinds of roles will expand
+[01:03:20] dramatically.
+[01:03:22] >> There's this interesting paradox that
+[01:03:24] exists when life becomes easier. Um
+[01:03:27] which shows that abundance consistently
+[01:03:30] pushes society societies towards more
+[01:03:34] individualism because once survival
+[01:03:36] pressures disappear, people prioritize
+[01:03:38] things differently. They prioritize
+[01:03:40] freedom, comfort, self-exression over
+[01:03:42] things like sacrifice or um family
+[01:03:45] formation. And we're seeing, I think, in
+[01:03:46] the west already, a decline in people
+[01:03:48] having kids because there's more
+[01:03:50] material abundance,
+[01:03:53] >> fewer kids, people are getting married
+[01:03:55] and committing to each other and having
+[01:03:57] relationships later and more
+[01:04:00] infrequently because generally once we
+[01:04:02] have more abundance, we don't want to
+[01:04:03] complicate our lives. Um, and at the
+[01:04:06] same time, as you said earlier, that
+[01:04:07] abundance breeds a an inability to find
+[01:04:11] meaning, a sort of shallowess to
+[01:04:13] everything. This is one of the things I
+[01:04:14] think a lot about, and I'm I'm in the
+[01:04:16] process now of writing a book about it,
+[01:04:17] which is this idea that individualism
+[01:04:20] was act is a bit of a lie. Like when I
+[01:04:22] say individualism and freedom, I mean
+[01:04:23] like the narrative at the moment amongst
+[01:04:25] my generation is you like be your own
+[01:04:27] boss and stand on your own two feet and
+[01:04:29] we're having less kids and we're not
+[01:04:31] getting married and it's all about me
+[01:04:33] me.
+[01:04:34] >> Yeah. That last part is where it goes
+[01:04:36] wrong.
+[01:04:36] >> Yeah. And it's like almost a
+[01:04:37] narcissistic society where
+[01:04:39] >> Yeah.
+[01:04:39] >> me me. My self-interest first. And when
+[01:04:42] you look at mental health outcomes and
+[01:04:44] loneliness and all these kinds of
+[01:04:45] things, it's going in a horrific
+[01:04:47] direction. But at the same time, we're
+[01:04:48] freer than ever. It seems like that you
+[01:04:51] know it seems like there's a we should
+[01:04:52] there's a maybe another story about
+[01:04:54] dependency which is not sexy like depend
+[01:04:56] on each other.
+[01:04:57] >> Oh I I I agree. I mean I think you know
+[01:05:00] happiness is not available from
+[01:05:03] consumption or even lifestyle right I
+[01:05:06] think happiness
+[01:05:08] arises from giving. [snorts]
+[01:05:12] It can be you through the work that you
+[01:05:15] do, you can see that other people
+[01:05:17] benefit from that or it could be in
+[01:05:19] direct interpersonal relationships.
+[01:05:22] >> There is an invisible tax on salespeople
+[01:05:24] that no one really talks about enough.
+[01:05:26] The mental load of remembering
+[01:05:27] everything like meeting notes,
+[01:05:29] timelines, and everything in between
+[01:05:31] until we started using our sponsors
+[01:05:33] product called Pipe Drive, one of the
+[01:05:34] best CRM tools for small and
+[01:05:36] medium-sized business owners. The idea
+[01:05:38] here was that it might alleviate some of
+[01:05:40] the unnecessary cognitive overload that
+[01:05:42] my team was carrying so that they could
+[01:05:44] spend less time in the weeds of admin
+[01:05:46] and more time with clients, in-person
+[01:05:48] meetings, and building relationships.
+[01:05:49] Pipe Drive has enabled this to happen.
+[01:05:51] It's such a simple but effective CRM
+[01:05:54] that automates the tedious, repetitive,
+[01:05:57] and timeconuming parts of the sales
+[01:05:58] process. And now our team can nurture
+[01:06:01] those leads and still have bandwidth to
+[01:06:03] focus on the higher priority tasks that
+[01:06:05] actually get the deal over the line.
+[01:06:06] Over a 100,000 companies across 170
+[01:06:09] countries already use Pipe Drive to grow
+[01:06:11] their business. And I've been using it
+[01:06:12] for almost a decade now. Try it free for
+[01:06:15] 30 days. No credit card needed, no
+[01:06:17] payment needed. Just use my link
+[01:06:19] pipedive.com/ceo
+[01:06:22] to get started today. That's
+[01:06:24] pipedive.com/ceo.
+[01:06:27] Where does the rewards of this AI race
+[01:06:31] where does it acrue to?
+[01:06:34] I think a lot about this in terms of
+[01:06:35] like univers universal basic income. If
+[01:06:37] you have these five, six, seven, 10
+[01:06:40] massive AI companies that are going to
+[01:06:42] win the 15 quadrillion dollar prize.
+[01:06:46] >> Mhm.
+[01:06:46] >> And they're going to automate all of the
+[01:06:48] professional pursuits that we we
+[01:06:50] currently have. All of our jobs are
+[01:06:52] going to go away.
+[01:06:54] Who who gets all the money? And how do
+[01:06:56] how do we get some of it back?
+[01:06:57] [laughter]
+[01:06:58] >> Money actually doesn't matter, right?
+[01:06:59] what what matters is the production of
+[01:07:02] goods and services uh and then how those
+[01:07:06] are distributed and so so money acts as
+[01:07:09] a way to facilitate the distribution and
+[01:07:12] um exchange of those goods and services.
+[01:07:14] If all production is concentrated
+[01:07:17] um in the hands of a of a few companies,
+[01:07:21] right, that
+[01:07:22] sure they will lease some of their
+[01:07:25] robots to us. You know, we we want a
+[01:07:27] school in our village.
+[01:07:30] They lease the robots to us. The robots
+[01:07:32] build the school. They go away. We have
+[01:07:34] to pay a certain amount of of money for
+[01:07:36] that. But where do we get the money?
+[01:07:39] Right? If we are not producing anything
+[01:07:43] then uh we don't have any money unless
+[01:07:46] there's some redistribution mechanism.
+[01:07:48] And as you mentioned, so universal basic
+[01:07:50] income is
+[01:07:53] it seems to me an admission of failure
+[01:07:57] because what it says is okay, we're just
+[01:07:58] going to give everyone the money and
+[01:08:00] then they can use the money to pay the
+[01:08:02] AI company to lease the robots to build
+[01:08:04] the school and then we'll have a school
+[01:08:06] and that's good. Um
+[01:08:09] but what it's an admission of failure
+[01:08:12] because it says we can't work out a
+[01:08:14] system in which people have any worth or
+[01:08:18] any economic role.
+[01:08:21] Right? So 99% of the global population
+[01:08:24] is
+[01:08:25] from an economic point of view useless.
+[01:08:28] Can I ask you a question? If you had a
+[01:08:30] button in front of you and pressing that
+[01:08:33] button would stop all progress in
+[01:08:36] artificial intelligence right now and
+[01:08:38] forever, would you press it?
+[01:08:40] >> That's a very interesting question. Um,
+[01:08:45] if it's either or
+[01:08:48] either I do it now or it's too late and
+[01:08:51] we
+[01:08:53] careen into some uncontrollable future
+[01:08:57] perhaps. Yeah, cuz I I'm not super
+[01:09:01] optimistic that we're heading in the
+[01:09:02] right direction at all.
+[01:09:03] >> So, I put that button in front of you
+[01:09:04] now. It stops all AI progress, shuts
+[01:09:06] down all the AI companies immediately
+[01:09:08] globally, and none of them can reopen.
+[01:09:10] You press it.
+[01:09:17] Well, here's here's what I think should
+[01:09:19] happen. So, obviously, you know, I've
+[01:09:22] been doing AI for 50 years. um and
+[01:09:27] the original motivations which is that
+[01:09:30] AI can be a power tool for humanity
+[01:09:33] enabling us to do
+[01:09:36] more and better things than we can
+[01:09:38] unaded. I think that's still valid. The
+[01:09:42] problem is
+[01:09:44] the kinds of AI systems that we're
+[01:09:45] building are not tools. They are
+[01:09:47] replacements. In fact, you can see this
+[01:09:50] very clearly because we create them
+[01:09:53] literally as the closest replicas we can
+[01:09:57] make of human beings.
+[01:10:00] The technique for creating them is
+[01:10:03] called imitation learning. So we observe
+[01:10:07] human verbal behavior, writing or
+[01:10:09] speaking and we make a system that
+[01:10:12] imitates that as well as possible.
+[01:10:17] So what we are making is imitation
+[01:10:18] humans at least in the verbal sphere.
+[01:10:23] And so of course they're going to
+[01:10:24] replace us.
+[01:10:27] They're not tools.
+[01:10:28] >> So you had pressed the button.
+[01:10:30] >> So I say I think there is another course
+[01:10:34] which is use and develop AI as tools.
+[01:10:38] Tools for science
+[01:10:41] tools for economic organization and so
+[01:10:43] on.
+[01:10:44] um but not as replacements for human
+[01:10:49] beings.
+[01:10:49] >> What I like about this question is it
+[01:10:51] forces you to go into the pro into
+[01:10:53] probabilities.
+[01:10:54] >> Yeah. So, and that's that's why I'm
+[01:10:57] reluctant because I don't I don't agree
+[01:11:01] with the, you know, what's your
+[01:11:02] probability of doom,
+[01:11:03] >> right? Your so-called P of doom uh
+[01:11:06] number because that makes sense if
+[01:11:08] you're an alien.
+[01:11:10] You know, you're in you're in a bar with
+[01:11:12] some other aliens and you're looking
+[01:11:13] down at the Earth and you're taking bets
+[01:11:15] on, you know, are these humans going to
+[01:11:16] make a mess of things and go extinct
+[01:11:18] because they develop AI.
+[01:11:21] So, it's fine for those aliens to bet on
+[01:11:24] on that, but if you're a human, then
+[01:11:27] you're not just betting, you're actually
+[01:11:29] acting.
+[01:11:30] >> There there's an element to this though,
+[01:11:32] which I guess where probabilities do
+[01:11:33] come back in, which is you also have to
+[01:11:35] weigh when I give you such a binary
+[01:11:37] decision.
+[01:11:40] um the probability of us pursuing the
+[01:11:43] more nuanced safe approach into that
+[01:11:46] equation. So you're you're the the maths
+[01:11:49] in my head is okay, you've got all the
+[01:11:50] upsides here and then you've got
+[01:11:52] potential downsides and then there's a
+[01:11:54] probability of do I think we're actually
+[01:11:56] going to course correct based on
+[01:11:57] everything I know based on the incentive
+[01:11:59] structure of human beings and and
+[01:12:00] countries and then if there's but then
+[01:12:03] you could go if there's even a 1%
+[01:12:06] chance of extinction
+[01:12:09] is it even worth all these upsides?
+[01:12:11] >> Yeah. And I I would argue no. I mean
+[01:12:14] maybe maybe what we would say if if we
+[01:12:16] said okay it's going to stop the
+[01:12:18] progress for 50 years
+[01:12:19] >> you press it
+[01:12:20] >> and during those 50 years we can work on
+[01:12:23] how do we do AI in a way that's
+[01:12:25] guaranteed to be safe and beneficial how
+[01:12:28] do we organize
+[01:12:30] our societies to flourish uh in
+[01:12:33] conjunction with extremely capable AI
+[01:12:36] systems. So, we haven't answered either
+[01:12:38] of those questions.
+[01:12:39] And I don't think we want anything
+[01:12:42] resembling AGI until we have completely
+[01:12:45] solid answers to both of those
+[01:12:46] questions. So, if there was a button
+[01:12:48] where I could say, "All right, we're
+[01:12:49] going to pause progress for 50 years."
+[01:12:52] Yes, I would do it.
+[01:12:53] >> But if that button was in front of you,
+[01:12:54] you're going to make a decision either
+[01:12:55] way. Either you don't press it or you
+[01:12:57] press it.
+[01:12:57] >> I If Yeah. So, if that if that button is
+[01:13:00] there, stop it for 50 years. I would say
+[01:13:02] yes.
+[01:13:05] stop it forever?
+[01:13:09] Not yet. I think I think there's still a
+[01:13:13] decent chance that we can pull out of
+[01:13:16] this uh nose dive, so to speak, that
+[01:13:18] we're we're currently in. Ask me again
+[01:13:21] in a year, I might I might say, "Okay,
+[01:13:24] we do need to press the button."
+[01:13:25] >> What if What if in a scenario where you
+[01:13:27] never get to reverse that decision? You
+[01:13:29] never get to make that decision again.
+[01:13:30] So if in that scenario that I've laid
+[01:13:32] out this hypothetical, you either press
+[01:13:34] it now or it never gets pressed.
+[01:13:37] So there is no opportunity a year from
+[01:13:38] now.
+[01:13:41] >> Yeah, as you can tell, I'm [laughter]
+[01:13:43] sort of on on the fence a bit about
+[01:13:46] about this one. Um
+[01:13:49] yeah, I think I'd probably press it.
+[01:13:52] Yeah.
+[01:13:55] >> What's your reasoning?
+[01:13:58] uh just thinking about the power
+[01:14:00] dynamics
+[01:14:02] of um
+[01:14:04] what's happening now how difficult would
+[01:14:07] it would be to get the US in particular
+[01:14:09] to to regulate in favor of safety.
+[01:14:14] So I think you know what's clear from
+[01:14:15] talking to the companies is they are not
+[01:14:18] going to develop anything resembling
+[01:14:23] safe AGI unless they're forced to by the
+[01:14:26] government.
+[01:14:27] And at the moment the US government in
+[01:14:30] particular which regulates most of the
+[01:14:32] leading companies in AI is not only
+[01:14:36] refusing to regulate but even trying to
+[01:14:39] prevent the states from regulating. And
+[01:14:42] they're doing that at the behest of
+[01:14:46] uh a faction within Silicon Valley uh
+[01:14:50] called the accelerationists
+[01:14:52] who believe that the faster we get to
+[01:14:55] AGI the better. And when I say behest I
+[01:14:58] mean also they paid them a large amount
+[01:15:00] of money. Jensen Hang the the CEO of
+[01:15:02] Nvidia said who is for anyone that
+[01:15:04] doesn't know the guy making all the
+[01:15:06] chips that are powering AI said China is
+[01:15:08] going to win the AI race arguing it is
+[01:15:11] just a nanocond behind the United
+[01:15:13] States. China have produced 24,000 AI
+[01:15:17] papers compared to just 6,000
+[01:15:21] from the US
+[01:15:23] more than the combined output of the US
+[01:15:25] the UK and the EU.
+[01:15:27] China is anticipated to quickly roll out
+[01:15:29] their new technologies both domestically
+[01:15:31] and developing new technologies for
+[01:15:33] other developing countries.
+[01:15:36] So the accelerators or the accelerate I
+[01:15:38] think you call them the accelerants
+[01:15:40] >> accelerationists.
+[01:15:41] >> The accelerationists
+[01:15:42] >> I mean they would say well if we don't
+[01:15:44] then China will. So we have to we have
+[01:15:46] to go fast. It's another version of the
+[01:15:48] the race that the companies are in with
+[01:15:50] each other, right? That we, you know, we
+[01:15:52] know that this race is
+[01:15:54] heading off a cliff,
+[01:15:57] but we can't stop. So, we're all just
+[01:16:00] going to go off this cliff. And
+[01:16:02] obviously, that's nuts,
+[01:16:04] right? I mean, we're all looking at each
+[01:16:05] other saying, "Yeah, there's a cliff
+[01:16:06] over there." Running as fast as we can
+[01:16:08] towards this cliff. We're looking at
+[01:16:10] each other saying, "Why aren't we
+[01:16:11] stopping?"
+[01:16:13] So the narrative in Washington, which I
+[01:16:16] think Jensen Hang is
+[01:16:19] either reflecting or or perhaps um
+[01:16:21] promoting
+[01:16:23] uh is that you know, China has is
+[01:16:28] completely unregulated
+[01:16:30] and uh you know, America will only slow
+[01:16:32] itself down uh if it regulates a AI in
+[01:16:36] any way. So this is a completely false
+[01:16:38] narrative because China's AI regulations
+[01:16:42] are actually quite strict even compared
+[01:16:44] to um the European Union
+[01:16:48] and China's government has explicitly
+[01:16:51] acknowledged uh the need and their
+[01:16:54] regulations are very clear. You can't
+[01:16:56] build AI systems that could escape human
+[01:16:58] control. And not only that, I don't
+[01:17:01] think they view the race in the same way
+[01:17:04] as, okay, we we just need to be the
+[01:17:07] first to create AGI. I think they're
+[01:17:11] more interested in figuring out how to
+[01:17:15] disseminate AI as a set of tools within
+[01:17:19] their economy to make their economy more
+[01:17:21] productive and and so on. So that's
+[01:17:23] that's their version of the race.
+[01:17:25] >> But of course, they still want to build
+[01:17:26] the weapons for adversaries, right? to
+[01:17:28] so that they can take down I don't know
+[01:17:32] Taiwan if they want to.
+[01:17:34] >> So weapons are a separate matter and I
+[01:17:36] happy to talk about weapons but just in
+[01:17:37] terms of
+[01:17:38] >> control
+[01:17:39] >> uh control economic domination
+[01:17:42] um they they don't view putting all your
+[01:17:46] eggs in the AGI basket as the right
+[01:17:49] strategy. So they want to use AI, you
+[01:17:53] know, even in its present form to make
+[01:17:55] their economy much more efficient and
+[01:17:57] productive and also, you know, to give
+[01:18:01] people new capabilities and and better
+[01:18:04] quality of life and and I think the US
+[01:18:07] could do that as well. And
+[01:18:11] um typically western countries don't
+[01:18:14] have as much of uh central government
+[01:18:17] control over what companies do and some
+[01:18:20] companies are investing in AI to make
+[01:18:22] their operations more efficient uh and
+[01:18:26] some are not and we'll see how that
+[01:18:27] plays out.
+[01:18:28] >> What do you think of Trump's approach to
+[01:18:29] AI? So Trump's approach is, you know,
+[01:18:31] it's it's echoing what Jensen Wang is
+[01:18:33] saying that the US has to be the one to
+[01:18:35] create AGI and very explicitly the
+[01:18:39] administration's policy is to uh
+[01:18:42] dominate the world.
+[01:18:44] That's the word they use, dominate. I'm
+[01:18:46] not sure that other countries like the
+[01:18:49] idea that um they will be dominated by
+[01:18:52] American AI. But is that an accurate
+[01:18:55] description of what will happen if the
+[01:18:56] US build AGI technology before say the
+[01:18:59] UK where I'm originally from and where
+[01:19:01] you're originally from? What does the
+[01:19:04] This is something I think about a lot
+[01:19:05] because we're going through this budget
+[01:19:06] process in the UK at the moment where
+[01:19:07] we're figuring out how we going to spend
+[01:19:08] our money and how we're going to tax
+[01:19:09] people and also we've got this new
+[01:19:11] election cycle. It's approaching quickly
+[01:19:14] where people are talking about
+[01:19:15] immigration issues and this issue and
+[01:19:17] that issue and the other issue. What I
+[01:19:18] don't hear anyone talking about is AI
+[01:19:21] and the humanoid robots that are
+[01:19:23] going to take everything. We're very
+[01:19:24] concerned with the brown people crossing
+[01:19:25] the channel, but the humanoid robots
+[01:19:27] that are going to be super intelligent
+[01:19:29] and really take causing economic disrupt
+[01:19:32] disruption. No one talks about that. The
+[01:19:33] political leaders don't talk about it.
+[01:19:35] It doesn't win races. I don't see it on
+[01:19:36] billboards.
+[01:19:37] >> Yeah. And it's it it's interesting
+[01:19:39] because
+[01:19:41] in fact I mean so there's there's two
+[01:19:43] forces that have been hollowing out the
+[01:19:45] middle classes in western countries. One
+[01:19:49] of them is globalization where lots and
+[01:19:52] lots of work not just manufacturing but
+[01:19:54] white collar work gets outsourced to
+[01:19:56] low-income countries. Uh but the other
+[01:19:58] is automation
+[01:20:01] and you know some of that is factories.
+[01:20:03] So um the amount of employment in
+[01:20:07] manufacturing continues to drop even as
+[01:20:10] the amount of output from manufacturing
+[01:20:13] in the US and in the UK continues to
+[01:20:15] increase. So we talk about oh you know
+[01:20:17] our manufacturing industry has been
+[01:20:19] destroyed. It hasn't. It's producing
+[01:20:21] more than ever just with you know a
+[01:20:24] quarter as many people. So it's
+[01:20:26] manufacturing employment that's been
+[01:20:27] destroyed by automation and robotics and
+[01:20:31] so on. And then you know computerization
+[01:20:34] has eliminated whole layers of white
+[01:20:37] collar jobs. And so those two those two
+[01:20:41] forms of automation have probably done
+[01:20:44] more to hollow out middle class uh
+[01:20:47] employment and standard of life.
+[01:20:50] >> If the UK doesn't participate
+[01:20:53] in this new e technological wave
+[01:20:57] that seems to be that seems to you know
+[01:20:59] it's going to take a lot of jobs. cars
+[01:21:00] are going to drive themselves. Whimo
+[01:21:02] just announced that they're coming to
+[01:21:03] London, which is the driverless cars,
+[01:21:05] and driving is the biggest occupation in
+[01:21:07] the world, for example. So, you've got
+[01:21:08] immediate disruption there. And where
+[01:21:10] does the money acrew to? Well, it acrus
+[01:21:11] to who owns Whimo, which is what? Google
+[01:21:14] and Silicon Valley companies.
+[01:21:16] >> Alphabet owns Whimo 100%. I think so.
+[01:21:18] Yes. I mean this is so I was in India a
+[01:21:20] few months ago talking to the government
+[01:21:23] ministers because they're holding the
+[01:21:24] next global AI summit in February and
+[01:21:28] and their view going in was you know AI
+[01:21:32] is great we're going to use it to you
+[01:21:34] know turbocharge the growth of our
+[01:21:36] Indian economy
+[01:21:38] when for example you have AGI you have
+[01:21:41] AGI controlled robots
+[01:21:44] that can do all the manufacturing that
+[01:21:45] can do agriculture that can do all the
+[01:21:48] white work and goods and services that
+[01:21:51] might have been produced by Indians will
+[01:21:54] instead be produced by
+[01:21:57] American controlled
+[01:22:00] AGI systems at much lower prices. You
+[01:22:04] know, a consumer given a choice between
+[01:22:06] an expensive product produced by Indians
+[01:22:08] or a cheap product produced by American
+[01:22:10] robots will probably choose
+[01:22:14] the cheap product produced by American
+[01:22:15] robots. And so potentially every country
+[01:22:18] in the world with the possible exception
+[01:22:20] of North Korea will become a kind of a
+[01:22:22] client state
+[01:22:25] of American AI companies.
+[01:22:28] >> A client state of American AI companies
+[01:22:30] is exactly what I'm concerned about for
+[01:22:32] the UK economy. Really any economy
+[01:22:34] outside of the United States. I guess
+[01:22:36] one could also say China, but because
+[01:22:39] those are the two nations that are
+[01:22:40] taking AI most seriously.
+[01:22:42] >> Mhm. [clears throat]
+[01:22:43] >> And I I I don't know what our economy
+[01:22:45] becomes. cuz I can't figure out
+[01:22:48] can't figure out what our what the
+[01:22:49] British economy becomes in such a world.
+[01:22:52] Is it tourism? I don't know. Like you
+[01:22:53] come here to to to look at the
+[01:22:55] Buckingham Palace. I
+[01:22:56] >> you you can think about countries but I
+[01:22:58] mean even for the United States it's the
+[01:23:00] same problem.
+[01:23:01] >> At least they'll be able to hell out you
+[01:23:03] know. So some small fraction of the
+[01:23:05] population will be running maybe the AI
+[01:23:09] companies but increasingly
+[01:23:12] even those companies will be replacing
+[01:23:14] their human employees with AI systems.
+[01:23:18] >> So [clears throat] Amazon for example
+[01:23:19] which you know sells a lot of computing
+[01:23:22] services to AI companies is using AI to
+[01:23:24] replace layers of management is planning
+[01:23:27] to use robots to replace all of its
+[01:23:29] warehouse workers and so on. So, so even
+[01:23:33] the the giant AI companies
+[01:23:36] will have few human employees in the
+[01:23:39] long run. I mean, it think of the
+[01:23:42] situation, you know, pity the poor CEO
+[01:23:44] whose board
+[01:23:46] says, "Well, you know, unless you turn
+[01:23:49] over your decision-making power to the
+[01:23:50] AI system, um, we're going to have to
+[01:23:53] fire you because all our competitors are
+[01:23:56] using, you know, an AI powered CEO and
+[01:24:00] they're doing much better." Amazon plans
+[01:24:01] to replace 600,000 workers with robots
+[01:24:04] in a memo that just leaked, which has
+[01:24:06] been widely talked about. And the CEO,
+[01:24:08] Andy Jasse, told employees that the
+[01:24:10] company expects its corporate workforce
+[01:24:12] to shrink in the coming years because of
+[01:24:14] AI and AI agents. And they've publicly
+[01:24:17] gone live with saying that they're going
+[01:24:18] to cut 14,000 corporate jobs in the near
+[01:24:21] term as part of its refocus on AI
+[01:24:25] investment and efficiency.
+[01:24:28] It's interesting because I was reading
+[01:24:29] about um the sort of different quotes
+[01:24:32] from different AI leaders about the
+[01:24:33] speed in which this this stuff is going
+[01:24:35] to happen [snorts] and what you see in
+[01:24:37] the quotes is Demis who's the CEO of
+[01:24:40] DeepMind
+[01:24:41] >> saying things like it'll be more than 10
+[01:24:44] times bigger than the industrial
+[01:24:45] revolution but also it'll happen maybe
+[01:24:47] 10 times faster and they speak about
+[01:24:50] this turbulence that we're going to
+[01:24:52] experience as this shift takes place.
+[01:24:55] That's um maybe a euphemism
+[01:24:58] for [laughter]
+[01:24:59] uh and I think that you know governments
+[01:25:00] are now
+[01:25:02] you know they they've kind of gone from
+[01:25:04] saying oh don't worry you know we'll
+[01:25:05] just retrain everyone as data scientists
+[01:25:07] like well yeah that's that's ridiculous
+[01:25:09] right the world doesn't need four
+[01:25:10] billion data scientists
+[01:25:11] >> and we're not all capable of becoming
+[01:25:13] that by the way
+[01:25:14] >> uh yeah or have any interest in in doing
+[01:25:17] that
+[01:25:17] >> I I could even if I wanted to like I
+[01:25:19] tried to sit in biology class and I fell
+[01:25:20] asleep so [laughter] I couldn't that was
+[01:25:22] the end of my career as a surgeon. Fair
+[01:25:24] enough. Um, [clears throat]
+[01:25:26] but yeah, now suddenly they're staring,
+[01:25:28] you know, 80% unemployment in the face
+[01:25:31] and wondering how how on earth is our
+[01:25:34] society going to hold together.
+[01:25:36] >> We'll deal with it when we get there.
+[01:25:38] >> Yeah. Unfortunately, um,
+[01:25:41] unless we plan ahead,
+[01:25:45] we're going to suffer the consequences,
+[01:25:46] right? can't. It was bad enough in the
+[01:25:48] industrial revolution which unfolded
+[01:25:50] over seven or eight decades but there
+[01:25:53] was massive disruption
+[01:25:56] and uh misery
+[01:25:59] caused by that. We don't have a model
+[01:26:01] for a functioning society where almost
+[01:26:05] everyone does nothing
+[01:26:08] at least nothing of economic value.
+[01:26:11] Now, it's not impossible that there
+[01:26:13] could be such a a functioning society,
+[01:26:15] but we don't know what it looks like.
+[01:26:17] And you know, when you think about our
+[01:26:19] education system, which would probably
+[01:26:22] have to look very different and how long
+[01:26:24] it takes to change that. I mean, I'm
+[01:26:26] always
+[01:26:27] reminding people about uh how long it
+[01:26:30] took Oxford to decide that geography was
+[01:26:33] a proper subject of study. It took them
+[01:26:36] 125 years from the first proposal that
+[01:26:39] there should be a geography degree until
+[01:26:41] it was finally approved. So we don't
+[01:26:43] have very long
+[01:26:47] to completely revamp a system that we
+[01:26:51] know takes decades and decades
+[01:26:54] to reform and we don't know how to
+[01:26:58] reform it because we don't know what we
+[01:27:01] want the world to look like. Is this one
+[01:27:03] of your reasons why you're appalled at
+[01:27:07] the moment? Because when you have these
+[01:27:08] conversations with people, people just
+[01:27:10] don't have answers, yet they're plowing
+[01:27:12] ahead at rapid speed.
+[01:27:13] >> I would say it's not necessarily the job
+[01:27:16] of the AI companies. So, I'm appalled by
+[01:27:18] the AI companies because they don't have
+[01:27:20] an answer for how they're going to
+[01:27:21] control the systems that they're
+[01:27:22] proposing to build. I do find it
+[01:27:26] disappointing that uh governments don't
+[01:27:29] seem to be grappling with this issue. I
+[01:27:32] think there are a few I think for
+[01:27:33] example Singapore government seems to be
+[01:27:35] quite farsighted and they've they've
+[01:27:38] thought this through you know it's a
+[01:27:40] small country they've figured out okay
+[01:27:42] this this will be our role uh going
+[01:27:44] forward and we think we can find you
+[01:27:47] know some some purpose for our people in
+[01:27:49] this in this new world but for I think
+[01:27:51] countries with large populations
+[01:27:54] um [clears throat]
+[01:27:56] they need to figure out answers to these
+[01:27:59] questions pretty fast it takes a long
+[01:28:01] time to implement those answers uh in
+[01:28:04] the form of new kinds of education, new
+[01:28:07] professions, new qualifications,
+[01:28:10] uh new economic structures.
+[01:28:13] I mean, it's it's it's possible. I mean,
+[01:28:16] when you look at therapists, for
+[01:28:17] example, they're almost all
+[01:28:19] self-employed.
+[01:28:22] So, what happens when, you know, 80% of
+[01:28:25] the population transitions from regular
+[01:28:28] employment into into self-employment?
+[01:28:31] what does that what does that do to the
+[01:28:32] economics of of uh government finances
+[01:28:36] and so on. So there's just lots of
+[01:28:38] questions and how do you you know if
+[01:28:40] that's the future you know why are we
+[01:28:42] training people to to fit into 9 to5
+[01:28:45] office jobs which won't exist at all
+[01:28:48] >> last month I told you about a challenge
+[01:28:50] that I'd set our internal flightex team
+[01:28:52] flight team is our innovation team
+[01:28:53] internally here I tasked them with
+[01:28:55] seeing how much time they could unlock
+[01:28:57] for the company by creating something
+[01:28:59] that would help us filter new AI tools
+[01:29:01] to see which ones were worth pursuing
+[01:29:03] and I thought that our sponsor Fiverr
+[01:29:05] Pro might have the talent on their
+[01:29:07] platform to help us build this quickly.
+[01:29:09] So I talked to my director of innovation
+[01:29:11] Isaac and for the last month my team
+[01:29:13] Flight X and a vetted [clears throat] AI
+[01:29:15] specialist from Fiverr Pro have been
+[01:29:17] working together on this project and
+[01:29:19] with the help of my team we've been able
+[01:29:20] to create a brand new tool which
+[01:29:22] automatically scans scores and
+[01:29:24] prioritizes different emerging AI tools
+[01:29:26] for us. Its impact has been huge and
+[01:29:29] within a couple of weeks this tool has
+[01:29:31] already been saving us hours triing and
+[01:29:32] testing new AI systems. Instead of
+[01:29:35] shifting through lots of noise, my team
+[01:29:36] flight X has been able to focus on
+[01:29:38] developing even more AI tools, ones that
+[01:29:40] really move the needle in our business
+[01:29:42] thanks to the talent on Fiverr Pro. So,
+[01:29:44] if you've got a complex problem and you
+[01:29:47] need help solving it, make sure you
+[01:29:48] check out Fiverr Pro at
+[01:29:50] fiverr.com/diary.
+[01:29:53] So, many of us are pursuing passive
+[01:29:55] forms of income and to build side
+[01:29:57] businesses in order to help us cover our
+[01:29:59] bills. And that opportunity is here with
+[01:30:01] our sponsor Stan, a business that I
+[01:30:03] co-own. It is the platform that can help
+[01:30:05] you take full advantage of your own
+[01:30:08] financial situation. Stan enables you to
+[01:30:10] work for yourself. It makes selling
+[01:30:12] digital products, courses, memberships,
+[01:30:14] and more simple products more scalable
+[01:30:16] and easier to do. You can turn your
+[01:30:18] ideas into income and get the support to
+[01:30:20] grow whatever you're building. And we're
+[01:30:22] about to launch Dare to Dream. It's for
+[01:30:25] those who are ready to make the shift
+[01:30:26] from thinking to building, from planning
+[01:30:29] to actually doing the thing. It's about
+[01:30:31] seeing that dream in your head and
+[01:30:32] knowing exactly what it takes to bring
+[01:30:34] it to life. If you're ready to transform
+[01:30:36] your life, visit daretodream.stan.store.
+[01:30:41] You've made many attempts to raise
+[01:30:43] awareness and to call for a heightened
+[01:30:46] consciousness about the future of AI.
+[01:30:49] Um, in October, over 850 experts,
+[01:30:52] including yourself and other leaders,
+[01:30:53] like Richard Branson, who I've had on
+[01:30:55] the show, and Jeffrey Hinton, who I've
+[01:30:56] had on the show, signed a statement to
+[01:30:58] ban AI super intelligence, as you guys
+[01:31:01] raised concerns of potential human
+[01:31:03] extinction.
+[01:31:04] >> Sort of. Yeah. It says, at least until
+[01:31:07] we are sure that we can move forward
+[01:31:08] safely and there's broad scientific
+[01:31:10] consensus on that. So, that
+[01:31:13] >> did it work? [gasps]
+[01:31:15] >> It's hard. It's hard to say. I mean
+[01:31:17] interestingly there was a related so
+[01:31:19] what was called the the pause statement
+[01:31:21] was March of 23. So that was when GPT4
+[01:31:25] came out the successor to chat GPT. So
+[01:31:29] we we suggested that there'd be a
+[01:31:30] six-month pause in developing and
+[01:31:33] deploying systems more powerful than
+[01:31:35] GPD4. And everyone poo pooed that idea.
+[01:31:39] Of course no one's going to pause
+[01:31:40] anything. But in fact, there were no
+[01:31:41] systems in the next 6 months deployed
+[01:31:44] that were more powerful than GPT4.
+[01:31:47] Um, none coincidence. You be the judge.
+[01:31:50] I would say
+[01:31:52] that what we're trying to do is to is to
+[01:31:56] basically shift
+[01:31:58] the
+[01:31:59] the public debate.
+[01:32:01] You know there's this bizarre phenomenon
+[01:32:04] that keeps happening in the media
+[01:32:07] where if you talk about these risks
+[01:32:11] they will say oh you know there's a
+[01:32:13] fringe of people you know called quote
+[01:32:16] doomers who think that there's you know
+[01:32:18] risk of extinction. Um so they always
+[01:32:22] the narrative is always that oh you know
+[01:32:24] talking about those risk is a fringe
+[01:32:25] thing. Pretty much all the CEOs of the
+[01:32:28] leading AI companies
+[01:32:30] think that there's a significant risk of
+[01:32:32] extinction. Almost all the leading AI
+[01:32:35] researchers think there's a sign
+[01:32:36] significant risk of human extinction.
+[01:32:39] Um so
+[01:32:42] why is that the fringe, right? Why isn't
+[01:32:43] that the mainstream? If the these are
+[01:32:45] the leading experts in industry and
+[01:32:47] academia
+[01:32:49] uh saying this, how could it be the
+[01:32:51] fringe? So we're trying to change that
+[01:32:54] narrative
+[01:32:55] to say no, the people who really
+[01:32:58] understand this stuff are extremely
+[01:33:01] concerned.
+[01:33:03] >> And what do you want to happen? What is
+[01:33:05] the solution?
+[01:33:06] >> What I think is that we should have
+[01:33:08] effective regulation.
+[01:33:11] It's hard to argue with that, right? Uh
+[01:33:13] so what does effective mean? It means
+[01:33:15] that if you comply with the regulation,
+[01:33:18] then the risks are reduced to an
+[01:33:20] acceptable level.
+[01:33:23] So for example,
+[01:33:26] we ask people who want to operate
+[01:33:28] nuclear plants, right? We've decided
+[01:33:31] that the risk we're willing to live with
+[01:33:33] is, you know, a one in a million chance
+[01:33:37] per year that the plant is going to have
+[01:33:39] a meltdown. Any higher than that, you
+[01:33:42] know, we just don't it's not worth it.
+[01:33:44] Right. So you have to be below that.
+[01:33:46] Some cases we can get down to one in 10
+[01:33:49] million chance per year. So what chance
+[01:33:52] do you think we should be willing to
+[01:33:53] live with for human extinction?
+[01:33:57] >> Me?
+[01:33:58] >> Yeah.
+[01:34:01] [clears throat]
+[01:34:02] >> 0.00001.
+[01:34:04] >> Yeah. Lots of zeros.
+[01:34:05] >> Yeah.
+[01:34:06] >> Right. So one in a million for a nuclear
+[01:34:09] meltdown.
+[01:34:11] >> Extinction is much worse.
+[01:34:12] >> Oh yeah. So yeah, it's kind of right. So
+[01:34:14] >> one in 100 billion, one in a trillion.
+[01:34:16] >> Yeah. So if you said one in a billion,
+[01:34:18] right, then you'd expect one extinction
+[01:34:20] per billion years. There's a background.
+[01:34:23] So one one of the ways people work out
+[01:34:25] these risk levels is also to look at the
+[01:34:26] background. The other ways of getting
+[01:34:29] going extinct would include, you know,
+[01:34:30] giant asteroid crashes into the earth.
+[01:34:32] And you can roughly calculate what those
+[01:34:35] probabilities are. We can look at how
+[01:34:36] many extinction level events have
+[01:34:39] happened in the past and, you know,
+[01:34:40] maybe it's half a dozen over. So, so
+[01:34:42] there's maybe it's like a one in 500
+[01:34:45] million year event. So, somewhere in
+[01:34:49] that range, right? Somewhere between 1
+[01:34:51] in 10 million, which is the best nuclear
+[01:34:53] power plants, and and one in 500 million
+[01:34:55] or one in a billion, which is the
+[01:34:58] background
+[01:34:59] risk from from giant asteroids. Uh so,
+[01:35:02] let's say we settle on 100 million, one
+[01:35:04] in a 100 million chance per year. Well,
+[01:35:06] what is it according to the CEOs? 25%.
+[01:35:11] So they're off by a factor of multiple
+[01:35:16] millions,
+[01:35:18] right? So they need to make the AI
+[01:35:20] systems millions of times safer.
+[01:35:23] >> Your analogy of the roulette, Russian
+[01:35:25] roulette comes back in here because
+[01:35:27] that's like for anyone that doesn't know
+[01:35:28] what probabilities are in this context,
+[01:35:30] that's like having a ammunition chamber
+[01:35:34] with four holes in it and putting a
+[01:35:37] bullet in one of them.
+[01:35:38] >> One in four. [clears throat] Yeah. And
+[01:35:39] we're saying we want it to be one in a
+[01:35:40] billion. So we want a billion chambers
+[01:35:43] and a bullet in one of them.
+[01:35:44] >> Yeah. And and so when you look at the
+[01:35:47] work that the nuclear operators have to
+[01:35:48] do to show that their system is that
+[01:35:51] reliable,
+[01:35:53] uh it's a massive mathematical analysis
+[01:35:56] of the components, you know, redundancy.
+[01:35:59] You've got monitors, you've got warning
+[01:36:01] lights, you've got operating procedures.
+[01:36:04] You have all kinds of mechanisms which
+[01:36:07] over the decades have ratcheted that
+[01:36:09] risk down. It started out I think one in
+[01:36:12] one in 10,000 years, right? And they've
+[01:36:15] improved it by a factor of 100 or a
+[01:36:17] thousand by all of these mechanisms. But
+[01:36:20] at every stage they had to do a
+[01:36:21] mathematical analysis to show what the
+[01:36:23] risk was.
+[01:36:26] The people developing the AI company,
+[01:36:28] the AI systems, sorry, the AI companies
+[01:36:30] developing these systems, they don't
+[01:36:32] even understand how the AI systems work.
+[01:36:34] So their 25% chance of extinction is
+[01:36:37] just a seat of the pants guess. They
+[01:36:39] actually have no idea.
+[01:36:41] But the tests that they are doing on
+[01:36:44] their systems right now, you know, they
+[01:36:46] show that the AI systems will be willing
+[01:36:49] to kill people
+[01:36:51] uh to preserve their own existence
+[01:36:54] already, right? They will lie to people.
+[01:36:57] They will blackmail them. They will they
+[01:37:00] will launch nuclear weapons rather than
+[01:37:03] uh be switched off. And so there's no
+[01:37:06] there's no positive sign that we're
+[01:37:08] getting any closer to safety with these
+[01:37:11] systems. In fact, the signs seem to be
+[01:37:12] that we're going uh deeper and deeper
+[01:37:15] into uh into dangerous behaviors. So
+[01:37:19] rather than say ban, I would just say
+[01:37:22] prove to us that the risk is less than
+[01:37:24] one in a 100 million per year of
+[01:37:26] extinction or loss of control, let's
+[01:37:28] say. And uh so we're not banning
+[01:37:32] anything.
+[01:37:34] The company's response is, "Well, we
+[01:37:36] don't know how to do that, so you can't
+[01:37:38] have a rule."
+[01:37:41] Literally, they are saying, "Humanity
+[01:37:44] has no right to protect itself from us."
+[01:37:48] >> If I was an alien looking down on planet
+[01:37:50] Earth right now, I would find this
+[01:37:51] fascinating
+[01:37:53] that these
+[01:37:54] >> Yeah. You're in the bar betting on
+[01:37:55] who's, [laughter] you know, are they
+[01:37:56] going to make it or not.
+[01:37:57] >> Just a really interesting experiment in
+[01:38:00] like human incentives. the analogy you
+[01:38:02] gave of there being this quadr
+[01:38:04] quadrillion dollar magnet pulling us off
+[01:38:06] the edge of the cliff
+[01:38:08] and yet we're still being drawn towards
+[01:38:12] it through greed and this promise of
+[01:38:13] abundance and power and status and I'm
+[01:38:15] going to be the one that summoned the
+[01:38:17] god
+[01:38:18] >> I mean it says something about us as
+[01:38:20] humans
+[01:38:21] says something about our our darker
+[01:38:24] sides
+[01:38:26] >> yes and the aliens will write an amazing
+[01:38:29] tragic play cycle
+[01:38:32] about what happened to the human race.
+[01:38:35] >> Maybe the AI is the alien
+[01:38:37] [clears throat] and it's going to talk
+[01:38:38] about, you know, we have our our stories
+[01:38:40] about God making the world in seven days
+[01:38:43] and Adam and Eve. Maybe it'll have its
+[01:38:45] own religious stories about
+[01:38:48] the God that made it us and how it
+[01:38:50] sacrificed itself. Just like Jesus
+[01:38:53] sacrificed himself for us, we sacrificed
+[01:38:55] ourselves for it.
+[01:38:58] >> Yeah. which is the wrong way around,
+[01:39:01] right? [laughter]
+[01:39:03] >> But that is that is the story of that's
+[01:39:04] that's the Judeo-Christian story, isn't
+[01:39:07] it? That God, you know, Jesus gave his
+[01:39:09] life for us so that we could be here
+[01:39:12] full of sin.
+[01:39:14] >> But is yeah, God is still watching over
+[01:39:16] us and uh probably wondering when we're
+[01:39:20] going to get our act together.
+[01:39:22] >> What is the most important thing we
+[01:39:24] haven't talked about that we should have
+[01:39:25] talked about, Professor Stuart Russell?
+[01:39:27] So I think um [clears throat]
+[01:39:30] the question of whether it's possible to
+[01:39:34] make
+[01:39:36] uh super intelligent AI systems that we
+[01:39:39] can control
+[01:39:40] >> is it possible?
+[01:39:41] >> I I think yes. I think it's possible and
+[01:39:43] I think we need to actually just have a
+[01:39:48] different conception of what it is we're
+[01:39:49] trying to build. For a long time with
+[01:39:53] with AI, we've just had this notion of
+[01:39:56] pure intelligence, right? The the
+[01:39:59] ability to bring about whatever future
+[01:40:02] you, the intelligent entity, want to
+[01:40:05] bring about.
+[01:40:05] >> The more intelligence, the better.
+[01:40:06] >> The more intelligent the better and the
+[01:40:08] more capability it will have to create
+[01:40:11] the future that it wants. And actually
+[01:40:13] we don't want pure intelligence
+[01:40:18] because
+[01:40:20] what the future that it wants might not
+[01:40:22] be the future that we want. There's
+[01:40:25] nothing particle
+[01:40:28] humans out as the the only thing that
+[01:40:30] matters,
+[01:40:32] right? You know, pure intelligence might
+[01:40:34] decide that actually it's going to make
+[01:40:36] life wonderful for cockroaches or or
+[01:40:39] actually doesn't care about biological
+[01:40:41] life at all.
+[01:40:43] We actually want intelligence whose only
+[01:40:47] purpose is to bring about the future
+[01:40:50] that we want. Right? So it's we want it
+[01:40:53] to be first of all keyed to humans
+[01:40:57] specifically not to cockroaches not to
+[01:40:59] aliens not to itself.
+[01:41:00] >> We want to make it loyal to humans.
+[01:41:02] >> Right? So keyed to humans
+[01:41:05] and the difficulty that I mentioned
+[01:41:06] earlier right the king Midas problem.
+[01:41:09] How do we specify
+[01:41:11] what we want the future to be like so
+[01:41:13] that it can do it for us? How do we
+[01:41:15] specify the objectives?
+[01:41:17] Actually, we have to give up on that
+[01:41:19] idea because it's not possible. Right?
+[01:41:22] We've seen this over and over again in
+[01:41:24] human history. Uh we don't know how to
+[01:41:26] specify the future properly. We don't
+[01:41:29] know how to say what we want. And uh you
+[01:41:32] know, I always use the example of the
+[01:41:34] genie, right? What's the third wish that
+[01:41:37] you give to the genie who's granted you
+[01:41:39] three wishes? Right? Undo the first two
+[01:41:42] wishes because I made a mess of the
+[01:41:43] universe.
+[01:41:46] >> So, um, so in fact, what we're going to
+[01:41:49] do is
+[01:41:51] we're going to make it the machine's job
+[01:41:54] to figure out. So, it has to bring about
+[01:41:56] the future that we want,
+[01:41:59] but
+[01:42:02] it has to figure out what that is. And
+[01:42:05] it's going to start out not knowing.
+[01:42:09] And uh
+[01:42:11] over time through interacting with us
+[01:42:13] and observing the choices we make, it
+[01:42:16] will learn more about what we want the
+[01:42:18] future to be like.
+[01:42:20] But probably it will forever have
+[01:42:25] residual uncertainty
+[01:42:27] about what we really want the future to
+[01:42:30] be like. It'll it'll be fairly sure
+[01:42:32] about some things and it can help us
+[01:42:33] with those.
+[01:42:34] and it'll be uncertain about other
+[01:42:36] things and it'll be uh in those cases it
+[01:42:39] will not take action that might upset
+[01:42:45] humans with that you know with that
+[01:42:46] aspect of the world. So to give you a
+[01:42:48] simple example right um what color do we
+[01:42:51] want the sky to be?
+[01:42:54] It's not sure. So it shouldn't mess with
+[01:42:56] the sky
+[01:42:58] unless it knows for sure that we really
+[01:43:00] want purple with green stripes.
+[01:43:02] Everything you're saying sounds like
+[01:43:04] we're creating
+[01:43:06] a god. Like earlier on I was saying that
+[01:43:08] we are the god but actually everything
+[01:43:10] you described there almost sounds like
+[01:43:12] every every god in religion where you
+[01:43:14] know we pray to gods but they don't
+[01:43:16] always do anything about it.
+[01:43:17] >> Not not exactly. No it's it's in some
+[01:43:20] sense I'm thinking more like the ideal
+[01:43:23] butler. To the extent that the butler
+[01:43:25] can anticipate your wishes they should
+[01:43:28] help you bring them about. But in in
+[01:43:31] areas where there's uncertainty, it can
+[01:43:33] ask questions. We can we can make
+[01:43:36] requests.
+[01:43:37] >> This sounds like God to me because, you
+[01:43:38] know, I might say to God or this butler,
+[01:43:42] uh, could you go get me my uh my car
+[01:43:44] keys from upstairs? And its assessment
+[01:43:46] would be, listen, if I do this for this
+[01:43:48] person, then their muscles are going to
+[01:43:50] atrophy. Then they're going to lose
+[01:43:51] meaning in their life. Then they're not
+[01:43:53] going to know how to do hard things. So
+[01:43:54] I won't get involved. It's an
+[01:43:56] intelligence that sits in. But actually,
+[01:43:57] probably in most situations, it
+[01:44:00] optimizing for comfort for me or doing
+[01:44:01] things for me is actually probably not
+[01:44:02] in my best long-term interests. It's
+[01:44:04] probably it's probably useful that I
+[01:44:06] have a girlfriend and argue with her and
+[01:44:08] that I like raise kids and that I walk
+[01:44:10] to the shop and get my own stuff.
+[01:44:12] >> I agree with you. I mean, I think that's
+[01:44:14] So, you're putting your finger on
+[01:44:16] uh in some sense sort of version 2.0,
+[01:44:20] right? So, let's get version 1.0 clear,
+[01:44:23] right? this this form of AI where
+[01:44:28] it has to further our interest but it
+[01:44:30] doesn't know what those interests are
+[01:44:32] right it then puts an obligation on it
+[01:44:34] to learn more and uh to be helpful where
+[01:44:37] it understands well enough and to be
+[01:44:39] cautious where it doesn't understand
+[01:44:41] well so on so that that actually we can
+[01:44:45] formulate as a mathematical problem and
+[01:44:47] at least under idealized circumstances
+[01:44:50] we can literally solve that So we can
+[01:44:53] make AI systems that know how to solve
+[01:44:57] this problem and help the entities that
+[01:44:59] they are interacting with.
+[01:45:00] >> The reason I make the God analogy is
+[01:45:02] because I think that such a being, such
+[01:45:04] an intelligence would realize the
+[01:45:06] importance of equilibrium in the world.
+[01:45:08] Pain and pleasure, good and evil, and
+[01:45:11] then it would
+[01:45:12] >> absolutely
+[01:45:13] >> and then it would be like this.
+[01:45:14] >> So So right. So yes, I mean that's sort
+[01:45:18] of what happens in the matrix, right?
+[01:45:19] They tried the the AI systems in the
+[01:45:21] matrix, they tried to give us a utopia,
+[01:45:25] but it failed miserably and uh you know,
+[01:45:28] fields and fields of humans had to be
+[01:45:30] destroyed. Um, and the best they could
+[01:45:33] come up with was, you know, late 20th
+[01:45:34] century regular human life with all of
+[01:45:37] its problems, right? And I think this is
+[01:45:40] a really interesting point
+[01:45:43] and absolutely central because you know
+[01:45:45] there's a lot of science fiction where
+[01:45:48] super intelligent robots you know they
+[01:45:51] just want to help humans and the humans
+[01:45:54] who don't like that you know they just
+[01:45:56] give them a little brain operation to
+[01:45:58] then they do like it. Um and it takes
+[01:46:01] away human motivation.
+[01:46:05] uh it it by taking away failure uh
+[01:46:09] taking away disease you actually lose
+[01:46:12] important parts of human life and it
+[01:46:14] becomes in some sense pointless. So if
+[01:46:17] it turns out
+[01:46:19] that there simply isn't any way that
+[01:46:23] humans can really flourish
+[01:46:27] in coexistence with super intelligent
+[01:46:29] machines, even if they're perfectly
+[01:46:32] designed to to to solve this problem of
+[01:46:35] figuring out what humans what futures uh
+[01:46:38] humans want and and bringing about those
+[01:46:40] futures.
+[01:46:43] If that's not possible, then those
+[01:46:45] machines will actually disappear.
+[01:46:49] >> Why would they disappear?
+[01:46:50] >> Because that's the best thing for us.
+[01:46:53] Maybe they would stay available for real
+[01:46:57] existential emergencies, like if there
+[01:46:59] is a giant asteroid about to hit the
+[01:47:00] earth that maybe they'll help us uh
+[01:47:02] because they at least want the human
+[01:47:04] species to continue. But to some extent,
+[01:47:07] it's not a perfect analogy, but it's
+[01:47:09] it's sort of the way that human parents
+[01:47:12] have to at some point step back from
+[01:47:15] their kids' lives and say, "Okay, no,
+[01:47:17] you have to tie your own shoelaces
+[01:47:19] today."
+[01:47:20] >> This is kind of what I was thinking.
+[01:47:21] Maybe there was uh a civilization before
+[01:47:24] us and they arrived at this moment in
+[01:47:26] time where they created an intelligence
+[01:47:31] and that intelligence did all the things
+[01:47:33] you've said and it realized the
+[01:47:35] importance of equilibrium. So it decided
+[01:47:36] not to get involved and
+[01:47:40] maybe at some level
+[01:47:43] that's the god we look up to the stars
+[01:47:45] and worship one that's not really
+[01:47:47] getting involved and letting things play
+[01:47:48] out however however they are. but might
+[01:47:50] step in in the case of a real
+[01:47:52] existential emergency.
+[01:47:53] >> Maybe, maybe not. Maybe. [laughter] But
+[01:47:55] then and then maybe the cycle repeats
+[01:47:57] itself where you know the organisms it
+[01:47:59] let have free will end up creating the
+[01:48:02] same intelligence and then the universe
+[01:48:06] perpetuates infinitely.
+[01:48:08] >> Yep. There there are science fiction
+[01:48:10] stories like that too. [laughter] Yeah.
+[01:48:12] I hope there is some happy medium where
+[01:48:17] the AI systems can be there and we can
+[01:48:20] take advantage of of those capabilities
+[01:48:23] to have a civilization that's much
+[01:48:25] better than the one we have now.
+[01:48:28] Um, but I think you're right. A
+[01:48:30] civilization with no challenges
+[01:48:33] is not uh is not conducive to human
+[01:48:37] flourishing.
+[01:48:37] >> What can the average person do, Stuart?
+[01:48:40] average person listening to this now to
+[01:48:42] aid the cause that you're fighting for.
+[01:48:45] >> I actually think um you know this sounds
+[01:48:47] corny but you know talk to your
+[01:48:49] representative, your MP, your
+[01:48:51] congressperson, whatever it is. Um
+[01:48:54] because
+[01:48:56] I think the policy makers need to hear
+[01:48:58] from people. The only voices they're
+[01:49:00] hearing right now are the tech companies
+[01:49:04] and their $50 billion checks.
+[01:49:08] And um
+[01:49:10] all the polls that have been done say
+[01:49:13] yeah most people 80% maybe don't want
+[01:49:17] there to be super intelligent machines
+[01:49:20] but they don't know what to do. You know
+[01:49:22] even for me I've been in this field for
+[01:49:25] decades.
+[01:49:26] uh I'm not sure what to do because of
+[01:49:30] this giant magnet pulling everyone
+[01:49:32] forward and uh and the vast sums of
+[01:49:35] money being being put into this. Um, but
+[01:49:38] I am sure that if you want to have a
+[01:49:41] future
+[01:49:43] and a world that you want your kids to
+[01:49:45] live in, uh, you need to make your voice
+[01:49:49] heard
+[01:49:52] and, uh, and I think governments will
+[01:49:54] listen
+[01:49:55] from a political point of view, right?
+[01:49:58] You put your finger in the wind and you
+[01:50:02] say, "hm, should I be on the side of
+[01:50:04] humanity or our future robot overlords?"
+[01:50:09] I think I think as a politician, it's
+[01:50:11] not a difficult decision.
+[01:50:14] >> It is when you've got someone saying,
+[01:50:15] "I'll give you $50 billion."
+[01:50:18] >> Exactly. So, um I think I think people
+[01:50:22] in those positions of power need to hear
+[01:50:25] from their constituents
+[01:50:28] um that this is not the direction we
+[01:50:30] want to go.
+[01:50:30] >> After committing your career to this
+[01:50:33] subject and the subject of technology
+[01:50:34] more broadly, but specifically being the
+[01:50:36] guy that wrote the book about artificial
+[01:50:38] intelligence,
+[01:50:42] you must realize that you're living in a
+[01:50:44] historical moment. Like there's very few
+[01:50:46] times in my life where I go, "Oh, this
+[01:50:47] is one of those moments. This is a
+[01:50:50] crossroads in history." And it must to
+[01:50:52] some degree weigh upon you knowing that
+[01:50:55] you're a person of influence at this
+[01:50:56] historical moment in time who could
+[01:50:58] theoretically
+[01:51:00] help divert the course of history in
+[01:51:03] this moment in time. It's kind of like
+[01:51:04] the you look through history, you see
+[01:51:05] these moments of like Oenheimer and um
+[01:51:08] does it weigh on you when you're alone
+[01:51:10] at night thinking to yourself and
+[01:51:12] reading things?
+[01:51:13] >> Yeah, it does. I mean, you know, after
+[01:51:14] 50 years, I could retire and um, you
+[01:51:17] know, play golf and sing and sail and do
+[01:51:19] things that I enjoy. Um,
+[01:51:23] but instead, I'm working 80 or 100 hours
+[01:51:25] a week
+[01:51:27] um trying to move
+[01:51:29] uh move things in the right direction.
+[01:51:31] >> What is that narrative in your head
+[01:51:33] that's making you do that? Like what is
+[01:51:34] the is there an element of I might
+[01:51:37] regret this if I don't or
+[01:51:39] >> just it's it's not only the the right
+[01:51:43] thing to do it's it's completely
+[01:51:45] essential. I mean there isn't
+[01:51:50] there isn't a bigger motivation
+[01:51:54] than this.
+[01:51:56] >> Do you feel like you're winning or
+[01:51:58] losing?
+[01:51:59] It feels um
+[01:52:03] like things are moving somewhat in the
+[01:52:06] right direction. You know, it's a a
+[01:52:07] ding-dong battle as uh as David Coleman
+[01:52:12] used to say in uh in the exciting
+[01:52:14] football match in 2023, right? So, uh
+[01:52:18] GPT4 came out and then we issued the
+[01:52:21] pause statement that was signed by a lot
+[01:52:24] of leading AI researchers. Um and then
+[01:52:28] in May there was the extinction
+[01:52:29] statement which included
+[01:52:32] uh Sam Holman and Deis Sabis and Dario
+[01:52:35] Amade other CEOs as well saying yeah
+[01:52:37] this is an extinction risk on the level
+[01:52:39] with nuclear war and I think governments
+[01:52:43] listened at that point the UK government
+[01:52:47] earlier that year had said oh well you
+[01:52:48] know we don't need to regulate AI you
+[01:52:50] know full speed ahead technology is good
+[01:52:52] for you and by June they had completely
+[01:52:57] changed and Rishi Sununnak announced
+[01:53:00] that he was going to hold this global AI
+[01:53:02] safety summit uh in England and he
+[01:53:05] wanted London to be the global hub for
+[01:53:08] AI regulation
+[01:53:10] um and so on. So and then you know when
+[01:53:15] beginning of November of 23 28 countries
+[01:53:18] including the US and China signed a
+[01:53:20] declaration
+[01:53:22] saying you know AI presents catastrophic
+[01:53:25] risks and it's urgent that we address
+[01:53:26] them and so on. So there it felt like,
+[01:53:29] wow, they're listening. They're going to
+[01:53:33] do something about it.
+[01:53:35] And then I think, you know, the am the
+[01:53:37] amount of money going into AI was
+[01:53:39] already ramping up
+[01:53:42] and the tech companies pushed back
+[01:53:46] and this narrative took hold that um the
+[01:53:50] US in particular has to win the race
+[01:53:52] against China.
+[01:53:54] The Trump administration completely
+[01:53:56] dismissed
+[01:53:58] uh any concerns about safety explicitly.
+[01:54:01] And interestingly, right, I mean they
+[01:54:02] did that as far as I can tell directly
+[01:54:05] in response to the accelerationists such
+[01:54:09] as Mark Andre going to Washington or
+[01:54:12] sorry going to Trump before the election
+[01:54:16] and saying if I give you X amount of
+[01:54:18] money will you announce that there will
+[01:54:22] be no regulation of AI and Trump said
+[01:54:25] yes you know probably like what is AI
+[01:54:28] doesn't matter as long as we give you
+[01:54:29] the money right okay uh Uh so they gave
+[01:54:33] him the money and he said there's going
+[01:54:34] to be no regulation of AI. Up to that
+[01:54:36] point it was a bipartisan
+[01:54:39] issue in Washington. Both parties were
+[01:54:42] concerned. Both parties were on the side
+[01:54:44] of the human race against the robot
+[01:54:46] overlords.
+[01:54:47] Uh and that moment turned it into a
+[01:54:50] partisan issue. The
+[01:54:53] after the election the US put pressure
+[01:54:56] on the French who are the next hosts of
+[01:54:58] the global AI summit.
+[01:55:01] uh and that was in February of this year
+[01:55:04] and uh and that summit turned in from
+[01:55:07] you know what had been focused largely
+[01:55:10] on safety in the UK to a summit that
+[01:55:13] looked more like a trade show. So it was
+[01:55:15] focused largely on money and so that was
+[01:55:18] sort of the Nadia right you know the
+[01:55:19] pendulum swung because of corporate
+[01:55:22] pressure uh and their ability to take
+[01:55:25] over the the political dimension.
+[01:55:28] Um, but I would say since then things
+[01:55:31] have been moving back again. So I'm
+[01:55:33] feeling a bit more optimistic than I did
+[01:55:35] in February. You know, we have a a
+[01:55:39] global movement now. There's an
+[01:55:40] international association for safe and
+[01:55:42] ethical AI
+[01:55:44] uh which has several thousand members
+[01:55:46] and um more than 120 organizations in
+[01:55:52] dozens of countries are affiliates of
+[01:55:55] this global organization.
+[01:55:57] Um, so I'm
+[01:56:00] I'm thinking that if we can in
+[01:56:02] particular if we can activate public
+[01:56:03] opinion
+[01:56:05] which which works through the media and
+[01:56:08] through popular culture uh then we have
+[01:56:11] a chance
+[01:56:13] >> seen such a huge appetite to learn about
+[01:56:15] these subjects from our audience.
+[01:56:18] We know when Jeffrey Hinton came on the
+[01:56:19] show I think about 20 million people
+[01:56:21] downloaded or streamed that conversation
+[01:56:23] which was staggering. and the the other
+[01:56:26] conversations we've had about AI safety
+[01:56:27] with othera safety experts have done
+[01:56:30] exactly the same it says something it
+[01:56:33] kind of reflects what you were saying
+[01:56:34] about the 80% of the population are
+[01:56:36] really concerned and don't want this but
+[01:56:38] that's not what you see in the sort of
+[01:56:39] commercial world and listen I um I have
+[01:56:41] to always acknowledge my own my own
+[01:56:44] apparent contradiction because I am both
+[01:56:46] an investor in companies that are
+[01:56:48] accelerating AI but at the same time
+[01:56:50] someone who spends a lot of time on my
+[01:56:52] podcast speaking to people that are
+[01:56:53] warning against the risk And actually
+[01:56:55] like there's many ways you can look at
+[01:56:56] this. I used to work in social media for
+[01:56:57] for six or seven years built one of the
+[01:56:59] big social media marketing companies in
+[01:57:01] Europe and people would often ask me is
+[01:57:03] like social media a good thing or a bad
+[01:57:04] thing and I'd talk about the bad parts
+[01:57:05] of it and then they'd say you know
+[01:57:07] you're building a social media company
+[01:57:09] you're not contributing to the problem.
+[01:57:11] Well I think I think that like binary
+[01:57:13] way of thinking is often the problem. It
+[01:57:15] the binary way of thinking that like
+[01:57:17] it's all bad or it's all really really
+[01:57:18] good is like often the problem and that
+[01:57:19] this push to put you into a camp.
+[01:57:21] Whereas I think the most uh
+[01:57:23] intellectually honest and high integrity
+[01:57:25] people I know can point at both the bad
+[01:57:27] and the good.
+[01:57:27] >> Yeah. I I think it's it's bizarre to be
+[01:57:31] accused of being anti- AI uh to be
+[01:57:35] called a lite. Um you know as I said
+[01:57:38] when I wrote the book on which from
+[01:57:40] which almost everyone learns about AI um
+[01:57:44] and uh you know is it if you called a
+[01:57:49] nuclear engineer who works on the safety
+[01:57:51] of nuclear power plants would you call
+[01:57:53] him anti-ysics
+[01:57:56] right it's it's bizarre right it's we're
+[01:57:58] not anti- AAI in fact
+[01:58:02] the need for safety in AI is a
+[01:58:04] complement to AI right if AI was useless
+[01:58:07] and stupid, we wouldn't be worried about
+[01:58:09] uh its safety. It's only because it's
+[01:58:12] becoming more capable that we have to be
+[01:58:14] concerned about safety.
+[01:58:16] Uh so I don't see this as anti-AI at
+[01:58:19] all. In fact, I would say without
+[01:58:21] safety, there will be no AI,
+[01:58:24] right? There is no future with human
+[01:58:27] beings where we have unsafe AI. So it's
+[01:58:31] either no AI or safe AI.
+[01:58:34] We have a closing tradition on this
+[01:58:36] podcast where the last guest leaves a
+[01:58:37] question for the next, not knowing who
+[01:58:38] they're leaving it for. And the question
+[01:58:40] left for you is, what do you value the
+[01:58:42] most in life and why? And lastly, how
+[01:58:47] many times has this answer changed?
+[01:58:51] >> Um,
+[01:58:54] I value my family most and that answer
+[01:58:57] hasn't changed for nearly 30 years.
+[01:59:01] What else outside of your family?
+[01:59:03] >> Truth.
+[01:59:07] And that Yeah, that answer hasn't
+[01:59:09] changed at all. I I've always
+[01:59:14] wanted the world to base its life on
+[01:59:17] truth.
+[01:59:18] And I find the propagation or deliberate
+[01:59:22] propagation of falsehood uh to be one of
+[01:59:25] the worst things that we can do. even if
+[01:59:28] that truth is inconvenient.
+[01:59:30] >> Yeah,
+[01:59:32] >> I think that's a really important point
+[01:59:34] which is that you know people people
+[01:59:36] often don't like hearing things that are
+[01:59:38] negative and so the visceral reaction is
+[01:59:40] often to just shoot or aim at the person
+[01:59:42] who is delivering the bad news because
+[01:59:44] if I discredit you or I shoot at you
+[01:59:47] then it makes it easier for me to
+[01:59:49] contend with the news that I don't like,
+[01:59:51] the thing that's making me feel
+[01:59:52] uncomfortable. And so I I applaud you
+[01:59:54] for what you're doing because you're
+[01:59:56] going to get lots of shots taken at you
+[01:59:58] because you're delivering an
+[01:59:59] inconvenient truth which generally
+[02:00:00] people won't won't always love. But also
+[02:00:03] you are messing with people's ability to
+[02:00:05] get that quadrillion dollar prize which
+[02:00:08] means there'll be more deliberate
+[02:00:09] attempts to discredit people like
+[02:00:10] yourself and Jeff Hinton and other
+[02:00:12] people that I've spoken to on the show.
+[02:00:13] But again, when I look back through
+[02:00:14] history, I think that progress has come
+[02:00:16] from the pursuit of truth even when it
+[02:00:17] was inconvenient. And actually much of
+[02:00:19] the luxuries that I value in my life are
+[02:00:21] the consequence of other people that
+[02:00:23] came before me that were brave enough or
+[02:00:24] bold enough to pursue truth at times
+[02:00:27] when it was inconvenient.
+[02:00:29] >> And so I very much respect and value
+[02:00:31] people like yourself for that very
+[02:00:32] reason. You've written this incredible
+[02:00:33] book called human compatible artificial
+[02:00:35] intelligence and the problem of control
+[02:00:37] which I think was published in 2020.
+[02:00:39] >> 2019. Yeah. There's a new edition from
+[02:00:41] 2023.
+[02:00:43] >> Where do people go if they want more
+[02:00:44] information on your work and you do they
+[02:00:46] go to your website? Do they get this
+[02:00:48] book? what's the best place for them to
+[02:00:49] learn more?
+[02:00:49] >> So, so the book is written for the
+[02:00:51] general public. Um, I'm easy to find on
+[02:00:54] the web. The information on my web page
+[02:00:56] is mostly targeted for academics. So,
+[02:00:58] it's a lot of technical research papers
+[02:01:01] and so on. Um, there is an organization
+[02:01:04] as I mentioned called the International
+[02:01:06] Association for Safe and Ethical AI. Uh,
+[02:01:09] that has a a website. It has a terrible
+[02:01:11] acronym unfortunately, I AI. We
+[02:01:15] pronounce it ICI but it uh it's easy to
+[02:01:17] misspell but you can find that on the
+[02:01:19] web as well and that has uh that has
+[02:01:21] resources uh you can join the
+[02:01:23] association
+[02:01:25] uh you can apply to come to our annual
+[02:01:28] conference and you know I think
+[02:01:29] increasingly not you know not just AI
+[02:01:33] researchers like Jeff Hinton Yosha
+[02:01:35] Benjio but also I think uh you know
+[02:01:39] writers Brian Christian for example has
+[02:01:41] a nice book called the alignment problem
+[02:01:44] Um
+[02:01:46] and uh he's looking at it from the
+[02:01:48] outside. He's not
+[02:01:50] or at least when he wrote it, he wasn't
+[02:01:52] an AI researcher. He's now becoming one.
+[02:01:54] Um
+[02:01:56] but uh he he has talked to many of the
+[02:01:59] people involved in these questions uh
+[02:02:01] and tries to give an objective view. So
+[02:02:03] I think it's a it's a pretty good book.
+[02:02:06] >> I will link all of that below for anyone
+[02:02:07] that wants to check out any of those
+[02:02:09] links and learn more.
+[02:02:11] Professor Stuart Russell, thank you so
+[02:02:12] much. really appreciate you taking the
+[02:02:14] time and the effort to come and have
+[02:02:15] this conversation and I think uh I think
+[02:02:17] it's pushing the public conversation in
+[02:02:19] a in an important direction.
+[02:02:21] >> Thanks you
+[02:02:22] >> and I applaud you for doing that.
+[02:02:23] >> Really nice talking to you. [music]
+[02:02:28] >> I'm absolutely obsessed with 1%. If you
+[02:02:30] know me, if you follow Behind the Diary,
+[02:02:31] which is our behind the scenes channel,
+[02:02:32] if you've heard me speak on stage, if
+[02:02:34] you follow me on any social media
+[02:02:35] channel, you've probably heard me
+[02:02:36] talking about 1%. It is the defining
+[02:02:38] philosophy of my health, of my
+[02:02:40] companies, of my habit formation and
+[02:02:43] everything in between, which is this
+[02:02:44] obsessive focus on the small things.
+[02:02:46] Because sometimes in life, we aim at
+[02:02:48] really, really, really, really big
+[02:02:49] things, big steps forward. Mountains we
+[02:02:51] have to climb. And as NAL told me on
+[02:02:54] this podcast, when you aim at big
+[02:02:55] things, you get psychologically
+[02:02:57] demotivated. You end up procrastinating,
+[02:02:59] avoiding them, and change never happens.
+[02:03:01] So, with that in mind, with everything
+[02:03:02] I've learned about 1% and with
+[02:03:04] everything I've learned from
+[02:03:04] interviewing the incredible guests on
+[02:03:05] this podcast, we made the 1% diary just
+[02:03:08] over a year ago and it sold out. And it
+[02:03:11] is the best feedback we've ever had on a
+[02:03:13] diary that we have created because what
+[02:03:15] it does is it takes you through this
+[02:03:17] incredible process over 90 days to help
+[02:03:19] you build and form brand new habits. So,
+[02:03:23] if you want to get one for yourself or
+[02:03:24] you want to get one for your team, your
+[02:03:26] company, a friend, a sibling, anybody
+[02:03:28] that listens to the diary of a co, head
+[02:03:30] over immediately to the diary.com
+[02:03:34] and you can inquire there about getting
+[02:03:35] a bundle if you want to get one for your
+[02:03:36] team or for a large group of people.
+[02:03:38] That is the diary.com.
+[02:03:42] [music]
+[02:03:48] [music]
+[02:03:52] Heat. Heat.
+[02:03:58] [singing]
+[02:04:00] >> [music]

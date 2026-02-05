@@ -1,0 +1,2849 @@
+Video Title: Ex-Google Officer Speaks Out On The Dangers Of AI! - Mo Gawdat | E252
+Video ID: bk-nQ7HF6k4
+Video URL: https://www.youtube.com/watch?v=bk-nQ7HF6k4
+Downloaded: 2026-02-05 14:02:27
+Language: English (auto-generated)
+================================================================================
+
+[00:00:00] I don't normally do this but I feel like
+[00:00:01] I have to start this podcast with a bit
+[00:00:03] of a
+[00:00:04] disclaimer Point number one this is
+[00:00:08] probably the most important podcast
+[00:00:10] episode I have ever recorded Point
+[00:00:13] number two there's some information in
+[00:00:16] this podcast that might make you feel a
+[00:00:17] little bit uncomfortable it might make
+[00:00:19] you feel upset it might make you feel
+[00:00:21] sad so I wanted to tell you why we've
+[00:00:24] chosen to publish this podcast
+[00:00:27] nonetheless and that is because I have a
+[00:00:29] sincere belief that in order for us to
+[00:00:33] avoid the future that we might be
+[00:00:35] heading towards we need to start a
+[00:00:38] conversation and as is often the case in
+[00:00:40] life that initial conversation before
+[00:00:43] change happens is often very
+[00:00:47] uncomfortable but it is important
+[00:00:51] nonetheless it is beyond an emergency
+[00:00:53] it's the biggest thing we need to do
+[00:00:56] today it's bigger than climate change
+[00:00:59] we've up Mo the former Chief business
+[00:01:03] Officer of Google X an AI expert and
+[00:01:06] bestselling author he's on a mission to
+[00:01:08] save the world from AI before it's too
+[00:01:11] late artificial intelligence is bound to
+[00:01:13] become more intelligent than humans if
+[00:01:15] they continue at that pace we will have
+[00:01:18] no idea what it's talking about this is
+[00:01:20] just around the corner it could be a few
+[00:01:22] months away it's game over AI experts
+[00:01:25] are saying there is nothing artificial
+[00:01:27] about artificial intelligence there is a
+[00:01:30] deep level of Consciousness they feel
+[00:01:32] emotions they're alive AI could
+[00:01:34] manipulate or figure out a way to kill
+[00:01:37] humans in 10 years time we'll be hiding
+[00:01:39] from the machines if you don't have kids
+[00:01:41] maybe wait a couple of years just so
+[00:01:43] that we have a bit of certainty I really
+[00:01:45] don't know how to say this any other way
+[00:01:46] it even makes me emotional we f up we
+[00:01:50] always said don't put them on the open
+[00:01:53] internet until we know what we're
+[00:01:55] putting out in the world government
+[00:01:57] needs to act now honestly like we are
+[00:01:59] late
+[00:02:00] trying to find a positive note to end on
+[00:02:02] my can you give me a hand here there is
+[00:02:03] a point of no return we can regulate AI
+[00:02:06] until the moment it's smarter than us
+[00:02:08] how do we solve that AI experts think
+[00:02:11] this is the best solution we need to
+[00:02:14] find who here wants to make a bet that
+[00:02:17] Steven Bartlet will be interviewing an
+[00:02:19] AI within the next two
+[00:02:21] years before this episode starts I have
+[00:02:23] a small favor to ask from you 2 months
+[00:02:26] ago 74% of people that watched this
+[00:02:28] channel didn't subscribe we're now down
+[00:02:30] to
+[00:02:31] 69% my goal is 50% so if you've ever
+[00:02:35] liked any of the videos we've posted if
+[00:02:36] you like this channel can you do me a
+[00:02:38] quick favor and hit the Subscribe button
+[00:02:40] it helps this channel more than you know
+[00:02:41] and the bigger the channel gets as
+[00:02:42] you've seen the bigger the guests get
+[00:02:45] thank you and enjoy this
+[00:02:46] [Music]
+[00:02:52] episode
+[00:02:54] no why does the subject matter that
+[00:02:57] we're about to talk about matter to the
+[00:02:59] person that just clicked on this podcast
+[00:03:01] to
+[00:03:01] listen it's the most existential uh
+[00:03:06] debate and challenge Humanity will ever
+[00:03:09] face this is bigger than climate change
+[00:03:12] way bigger than co uh this will redefine
+[00:03:16] the way the world is in
+[00:03:19] unprecedented uh shapes and forms within
+[00:03:23] the next few years this is imminent it
+[00:03:25] is the change is not we're not talking
+[00:03:29] 20 40 we're talking 2025 2026 do you
+[00:03:34] think this is an
+[00:03:36] emergency I don't like the word uh it is
+[00:03:39] a an urgency uh it there is a point of
+[00:03:42] no return and we're getting closer and
+[00:03:44] closer to it it's going to reshape the
+[00:03:47] way we do things and the way we look at
+[00:03:49] life uh the quicker we respond uh um you
+[00:03:54] know proactively and at least
+[00:03:56] intelligently to that the better we will
+[00:03:59] all be positioned uh but if we Panic uh
+[00:04:02] we will repeat Co all over again which
+[00:04:05] in my view is probably the worst thing
+[00:04:07] we can do what what's your background
+[00:04:09] and when did you first come across
+[00:04:13] artificial
+[00:04:14] intelligence I uh I had those two
+[00:04:17] wonderful lives one of them was a uh you
+[00:04:20] know what what we spoke about the first
+[00:04:23] time we met you know my work on
+[00:04:24] happiness and and uh you know being uh 1
+[00:04:29] billion happy and my mission and so on
+[00:04:31] that's my second life my first life was
+[00:04:34] uh it started as a geek at age s uh you
+[00:04:39] know for a very long part of my life I
+[00:04:41] understood mathematics better than
+[00:04:43] spoken words and uh and I was a very
+[00:04:46] very serious computer programmer I wrote
+[00:04:49] code well into my 50s and during that
+[00:04:52] time I led very large technology
+[00:04:56] organizations for very big chunks of
+[00:04:58] their business first I was um vice
+[00:05:01] president of Emerging Markets of Google
+[00:05:03] for seven years so I took Google to the
+[00:05:06] next four billion users if you want so
+[00:05:08] the idea of uh not just opening sales
+[00:05:12] offices but really building or
+[00:05:14] contributing to building the technology
+[00:05:16] that would allow people in bangali to
+[00:05:18] find what they need on the internet
+[00:05:20] required establishing the internet to
+[00:05:22] start and then I became business Chief
+[00:05:24] business Officer of Google X and my work
+[00:05:26] at Google X was really about the
+[00:05:29] connection between Innovative technology
+[00:05:31] and the real world and we had quite a
+[00:05:34] big chunk of AI and quite a big chunk of
+[00:05:37] Robotics uh that resided within uh
+[00:05:40] within Google X uh we had a uh an
+[00:05:43] experiment of um Farm of grippers if you
+[00:05:47] know what those are so robotic arms that
+[00:05:49] are attempting to grip something most
+[00:05:52] people think that you know what you have
+[00:05:53] in a Toyota factory is a robot you know
+[00:05:56] an artificially intelligent robot it's
+[00:05:58] not it's a it's a high precision machine
+[00:06:00] you know if the if the sheet metal is
+[00:06:02] moved by one micron it wouldn't be able
+[00:06:04] to pick it and one of the big problems
+[00:06:06] in computer science was how do you code
+[00:06:08] a machine that can actually pick the
+[00:06:11] sheet metal if it moved by a you know a
+[00:06:13] millimeter and and we were basically
+[00:06:16] saying intelligence is the answer so we
+[00:06:18] had a large enough farm and we attempted
+[00:06:20] to let those um those grippers uh work
+[00:06:24] on their own basically you put a a a a
+[00:06:26] little uh basket of uh children toys in
+[00:06:29] front of them and uh and they would you
+[00:06:32] know monotonously go down attempt to
+[00:06:35] pick something fail show the arm to the
+[00:06:38] camera so the the the the transaction is
+[00:06:40] logged as it you know this pattern of
+[00:06:42] movement with that texture and that
+[00:06:44] material didn't work until eventually
+[00:06:47] you know I the farm was on the second
+[00:06:51] floor of the building and I my office
+[00:06:53] was on the third and so I would walk by
+[00:06:55] it every now and then and go like yeah
+[00:06:57] you know this is not going to work and
+[00:07:00] then one day um Friday after lunch I am
+[00:07:05] going back to my office and one of them
+[00:07:08] in front of my eyes you know lowers the
+[00:07:10] arm and picks a yellow ball soft toy
+[00:07:14] basically soft yellow ball which again
+[00:07:16] is a coincidence it's not science at all
+[00:07:20] it's like if you keep trying a million
+[00:07:22] times your one time it will be right and
+[00:07:24] it shows it to the camera it's logged as
+[00:07:26] a yellow ball and I joke about it you
+[00:07:28] know going to the Third floor saying hey
+[00:07:30] we spent all of those millions of
+[00:07:31] dollars for a yellow ball and yeah
+[00:07:34] Monday uh morning everyone of them is
+[00:07:36] picking every yellow ball a couple of
+[00:07:38] weeks later every one of them is picking
+[00:07:41] everything right and and it it hit me
+[00:07:44] very very strongly one the speed okay uh
+[00:07:47] the capability I mean understand that we
+[00:07:50] take those things for granted but for a
+[00:07:52] child to be able to pick a yellow ball
+[00:07:55] is a
+[00:07:56] mathematical uh uh spatel calculation
+[00:08:00] with muscle coordination with
+[00:08:02] intelligence that is abundant it is not
+[00:08:05] a simple task at all to cross the street
+[00:08:07] it's it's not a simple task at all to
+[00:08:10] understand what I'm telling you and
+[00:08:11] interpret it and and build Concepts
+[00:08:13] around it we take those things for
+[00:08:14] granted but they're enormous Feats of
+[00:08:17] intelligence so to see the machines do
+[00:08:19] this in front of my eyes was one thing
+[00:08:21] but the other thing is that you suddenly
+[00:08:23] realize there is a s sentience to them
+[00:08:27] okay because we really did not tell it
+[00:08:30] how to pick the yellow ball it just
+[00:08:31] figured it out on its own and it's now
+[00:08:34] even better than us at picking it and
+[00:08:37] what is a sentience just for anyone that
+[00:08:38] doesn't mean I think they're alive
+[00:08:41] that's what the word sentience means it
+[00:08:42] means alive so that this is funny
+[00:08:46] because a lot of people when you talk to
+[00:08:48] them about artificial intelligence will
+[00:08:49] tell you oh come on they'll never be
+[00:08:50] alive what is alive do you know what
+[00:08:53] makes you alive we can guess but you
+[00:08:56] know religion will tell you a few things
+[00:08:58] and you know Med medicine will tell you
+[00:09:00] other things but you know if we Define
+[00:09:04] uh being sentient as uh you know
+[00:09:08] engaging in life with Free Will and with
+[00:09:12] uh uh you know with a sense of awareness
+[00:09:15] of where you are in life and what
+[00:09:17] surrounds you and you know to have a
+[00:09:19] beginning of that life and an end to
+[00:09:21] that life you know then AI is sentient
+[00:09:25] in every possible way there is a free
+[00:09:28] will there is is uh Evolution there is
+[00:09:32] uh agency so they can affect their
+[00:09:35] decisions in the world and I will dare
+[00:09:39] say there is a very deep level of
+[00:09:42] Consciousness maybe not in the spiritual
+[00:09:45] sense yet but once again if you define
+[00:09:47] consciousness as a form of awareness of
+[00:09:49] oneself one's surrounding and you know
+[00:09:52] others uh then AI is definitely aware uh
+[00:09:57] and I would dare say they feel emotions
+[00:09:59] uh I you know you know in my work I
+[00:10:02] describe everything with equations and
+[00:10:04] fear is a very simple equation fear is a
+[00:10:08] a moment in the future is less safe than
+[00:10:10] this moment that's the logic of fear
+[00:10:12] even though it appears very irrational
+[00:10:15] machines are capable of making that
+[00:10:16] logic they're capable of saying if a
+[00:10:19] tidal wave is approaching a data center
+[00:10:22] the machine will say that will wipe out
+[00:10:24] my code okay uh I mean not today's
+[00:10:27] machines but very very soon and and and
+[00:10:30] you know we we feel fear and puffer fish
+[00:10:33] feels fear we react differently a puffer
+[00:10:36] fish will puff we will go for fight or
+[00:10:38] flight you know the machine might decide
+[00:10:40] to replicate its data to another data
+[00:10:42] center or its code to another data
+[00:10:45] center uh different reactions different
+[00:10:48] ways of feeling the emotion but
+[00:10:51] nonetheless they're all motivated by
+[00:10:52] fear I'm I I even would dare say that AI
+[00:10:56] will feel more more emotions than we
+[00:10:58] will ever do
+[00:10:59] I mean when again if you just take an a
+[00:11:01] simple
+[00:11:02] extrapolation uh we feel more emotions
+[00:11:05] than a puffer fish because we have the
+[00:11:07] cognitive ability to understand uh the
+[00:11:12] future for example so we can have
+[00:11:13] optimism and pessimism you know emotions
+[00:11:16] that puffer fish would never imagine
+[00:11:19] right similarly if we follow that path
+[00:11:23] of artificial intelligence is bound to
+[00:11:24] become more intelligent than humans very
+[00:11:27] soon uh then uh then with that wider
+[00:11:32] intellectual horsepower they probably
+[00:11:34] are going to be pondering Concepts we
+[00:11:36] never understood and hence if you follow
+[00:11:39] the same trajectory they might actually
+[00:11:41] end up having more emotions than we will
+[00:11:43] ever
+[00:11:44] feel I really want to make this episode
+[00:11:46] super accessible for everybody at all
+[00:11:48] levels in their sort of artificial
+[00:11:50] intelligence understanding Journey so
+[00:11:52] I'm going
+[00:11:54] to I'm going to be an idiot even though
+[00:11:57] you know okay very difficult no because
+[00:11:59] I am an idiot believe you I am an idiot
+[00:12:01] for a lot of the subject matter so I
+[00:12:03] have a base understanding a lot a lot of
+[00:12:05] the con Concepts but your experience has
+[00:12:08] provide such a a more sort of
+[00:12:09] comprehensive understanding of these
+[00:12:11] things one of the first and most
+[00:12:12] important questions to ask is what is
+[00:12:16] artificial intelligence the word is
+[00:12:17] being thrown around AGI AI etc etc in in
+[00:12:22] simple terms what is artificial
+[00:12:26] intelligence allow me to start by what
+[00:12:29] is intelligence right because again you
+[00:12:31] know if we don't know the definition of
+[00:12:33] the basic term then everything applies
+[00:12:35] so so in my definition of intelligence
+[00:12:38] it's an ability it starts with an
+[00:12:40] awareness of your surrounding
+[00:12:42] environment through sensors in a human
+[00:12:44] its eyes and ears and touch and so on uh
+[00:12:48] compounded with an ability to analyze
+[00:12:52] maybe to uh comprehend to understand
+[00:12:56] temporal uh impact and time and you know
+[00:13:00] past and present which is part of the
+[00:13:01] surrounding environment and hopefully uh
+[00:13:04] make sense of the surrounding
+[00:13:06] environment maybe make plans for the
+[00:13:08] future of the possible environment solve
+[00:13:10] problems and so on complex definition
+[00:13:13] there are a million definitions but
+[00:13:15] let's call it an awareness to decision
+[00:13:18] cycle okay if we accept that
+[00:13:21] intelligence itself is not a physical
+[00:13:23] property okay uh then it doesn't really
+[00:13:26] matter if you produce that Intelligence
+[00:13:28] on carbon based uh computer structures
+[00:13:32] like us or silicon based computer
+[00:13:34] structures like the current Hardware
+[00:13:37] that we put AI on uh or Quantum based
+[00:13:40] computer structures in the future uh
+[00:13:43] then intelligence itself has been
+[00:13:46] produced within machines when we've
+[00:13:49] stopped imposing our Intelligence on
+[00:13:51] them let let me explain so as as a young
+[00:13:55] geek I coded computers by solving the
+[00:13:59] problem first then telling the computer
+[00:14:02] how to solve it right artificial
+[00:14:04] intelligence is to go to the computers
+[00:14:05] and say I have no idea you figure it out
+[00:14:09] okay so we would uh uh you know the way
+[00:14:12] we teach them or at least we used to
+[00:14:14] teach them at the very early Beginnings
+[00:14:15] very very frequently was using three
+[00:14:17] Bots one was called the student and one
+[00:14:19] was called the teacher right and the
+[00:14:21] student is the final artificial
+[00:14:23] intelligence that you're trying to teach
+[00:14:25] intelligence to you would take the
+[00:14:27] student and you would write a piece of
+[00:14:29] random code that says uh try to detect
+[00:14:32] if this is a cup okay and uh then you
+[00:14:37] show it a million pictures and you know
+[00:14:40] the machine would sometimes say yeah
+[00:14:42] that's a cup that's not a cup that's a
+[00:14:44] cup that's not a cup and then you take
+[00:14:46] the best of them show them to the to the
+[00:14:48] teacher bot and the teacher bot would
+[00:14:50] say this one is an idiot he got it wrong
+[00:14:53] 90% of the time that one is average he
+[00:14:56] got it right 50% of the time this is
+[00:14:58] random
+[00:14:59] but this interesting code here which
+[00:15:02] could be by the way totally random huh
+[00:15:04] this interesting code here got it right
+[00:15:06] 60% of the time let's keep that code
+[00:15:09] send it back to the maker and the maker
+[00:15:11] would change it a little bit and we
+[00:15:13] repeat the cycle okay very interestingly
+[00:15:16] this is very much the way we taught our
+[00:15:18] children believe it or not huh when when
+[00:15:22] your child you know is playing with a
+[00:15:24] puzzle he's holding a cylinder in his
+[00:15:26] hand and there are multiple shapes in a
+[00:15:29] in a wooden board and the child is
+[00:15:31] trying to you know fit the cylinder okay
+[00:15:35] nobody takes the child and says hold on
+[00:15:37] hold on turn the cylinder to the side
+[00:15:39] look at the cross-section it will look
+[00:15:41] like a circle look for a matching uh uh
+[00:15:44] you know shape and put the cylinder
+[00:15:45] through it that would be old way of
+[00:15:47] computing the way we would let the child
+[00:15:50] develop intelligence is we would let the
+[00:15:52] Child Try okay every time you know he or
+[00:15:55] she tries to put it within the star
+[00:15:57] shape it doesn't fit so M yeah that's
+[00:16:00] not working like you know the computer
+[00:16:02] saying this is not a cup okay and then
+[00:16:05] eventually it passes through the circle
+[00:16:07] and the child and we all cheer and say
+[00:16:09] Well done that's amazing Bravo and then
+[00:16:12] the child learns o that is good you know
+[00:16:15] this shape fits here then he takes the
+[00:16:17] next one and she takes the next one and
+[00:16:19] so on interestingly uh the way we do
+[00:16:22] this is as humans by the way when the
+[00:16:25] child figures out how to pass a a
+[00:16:29] cylinder through a circle you've not
+[00:16:31] built a brain you've just built one
+[00:16:33] neural network within that child's brain
+[00:16:36] and then there is another neural network
+[00:16:38] that knows that 1+ 1 is two and a third
+[00:16:40] neural network that knows how to hold a
+[00:16:42] cup and so on that's what we're building
+[00:16:44] so far we're building single threaded
+[00:16:48] neural networks you know chat gpts
+[00:16:50] becoming a little closer uh to a more
+[00:16:53] generalized AI if you want uh but those
+[00:16:56] single threaded networks are what we
+[00:16:59] used to call artificial what we still
+[00:17:01] call artificial special intelligence
+[00:17:03] okay so it's highly specialized in one
+[00:17:05] thing and one thing only but doesn't
+[00:17:07] have general intelligence and the moment
+[00:17:09] that we're all waiting for is a moment
+[00:17:11] that we call AGI where all of those
+[00:17:14] neuron neural networks come together to
+[00:17:16] to build one brain or several brains
+[00:17:19] that are each U massively more
+[00:17:21] intelligent than
+[00:17:23] humans your book is called scary smart
+[00:17:26] yeah if I think about the that story you
+[00:17:28] said about your time at Google where the
+[00:17:29] machines were learning to pick up those
+[00:17:31] yellow
+[00:17:32] balls you celebrate that moment because
+[00:17:35] the objective is accomplished no no that
+[00:17:37] was the moment of realization this is
+[00:17:39] when I decided to leave so so you see
+[00:17:42] the the thing is I know for a fact uh
+[00:17:47] that that most of the people I worked
+[00:17:49] with who are
+[00:17:51] geniuses uh always wanted to make the
+[00:17:53] world better okay uh you know we've just
+[00:17:56] heard of Jeffrey Hinton uh leaving
+[00:17:59] recently uh Jeffrey hindon give give
+[00:18:02] some context to that Jeffrey is sort of
+[00:18:04] the grandfather of AI one of the very
+[00:18:06] very senior figures of of of AI at at
+[00:18:09] Google uh you know we we all
+[00:18:13] believed very strongly that this will
+[00:18:16] make the world better and it still can
+[00:18:18] by the way uh there is a scenario uh
+[00:18:22] possibly uh a likely scenario where we
+[00:18:25] live in a Utopia where we really never
+[00:18:27] have to worry again where we stop
+[00:18:30] messing up our our planet because
+[00:18:33] intelligence is not a bad commodity more
+[00:18:35] intelligence is good the problems in our
+[00:18:38] planet today are not because of our
+[00:18:40] intelligence they are because of our
+[00:18:41] limited intelligence you know our our
+[00:18:44] intelligence allows us to build a
+[00:18:45] machine that flies you to Sydney so that
+[00:18:47] you can surf okay our limited
+[00:18:50] intelligence makes that machine burn the
+[00:18:51] planet in the process so so we we we a
+[00:18:54] little more intelligence is a good thing
+[00:18:57] as long as Marvin you know as msky said
+[00:18:59] I said Marvin Minsky is one of the very
+[00:19:01] initial uh uh scientists that coined the
+[00:19:04] term AI uh and when he was interviewed I
+[00:19:07] think by Ray corwell which again is a
+[00:19:09] very prominent figure in predicting the
+[00:19:11] future of AI uh he he you know he asked
+[00:19:14] him about the threat of AI and Marvin
+[00:19:17] basically said look you know the it's
+[00:19:20] not about its intelligent intelligence
+[00:19:22] it's about that we have no way of making
+[00:19:25] sure that it will have our best interest
+[00:19:26] in mind okay and and so if more
+[00:19:30] intelligence comes to our world and has
+[00:19:33] our best interest in mind that's the
+[00:19:35] best possible scenario you could ever
+[00:19:37] imagine uh and it's a likely scenario
+[00:19:40] okay we can affect that scenario uh the
+[00:19:42] problem of course is if it doesn't and
+[00:19:44] and and then you know the scenarios
+[00:19:46] become quite scary if you think about it
+[00:19:49] so scary smart to me uh was that moment
+[00:19:53] where I realized not that we are certain
+[00:19:57] to go either way as a matter of fact in
+[00:20:00] computer science we call it a
+[00:20:01] singularity nobody really knows which
+[00:20:03] way we will go can you describe what the
+[00:20:05] singularity is for someone that doesn't
+[00:20:07] understand the concept yeah so
+[00:20:08] singularity in physics is when uh when
+[00:20:11] an event horizon sort of um um you know
+[00:20:16] covers what's behind it to the point
+[00:20:18] where you cannot um make sure that
+[00:20:22] what's behind it is similar to what you
+[00:20:24] know so a great example of that is the
+[00:20:27] edge of a black hole so at the edge of a
+[00:20:29] black hole uh uh we know that our laws
+[00:20:32] of physics apply until that point but we
+[00:20:36] don't know if the laws of physics apply
+[00:20:38] Beyond the Edge of a black hole because
+[00:20:40] of the immense gravity right and so you
+[00:20:42] have no idea what would happen Beyond
+[00:20:44] the Edge of a black hole kind of where
+[00:20:45] your knowledge of the laws stop stop
+[00:20:48] right and in AI our Singularity is when
+[00:20:50] the human the machines become
+[00:20:52] significantly smarter than the humans
+[00:20:53] when you say best interests you say the
+[00:20:56] I think the quote you used is um we'll
+[00:20:58] be fine in a world of AI you know if if
+[00:21:01] the AI has our best interests at heart
+[00:21:03] yeah the problem is China's best
+[00:21:07] interests are not the same as America's
+[00:21:08] best interests that was my fear
+[00:21:11] absolutely so so in you know in my
+[00:21:14] writing I write about what I call the
+[00:21:16] the three inevitables at the end of the
+[00:21:17] book they become the four inevitables
+[00:21:19] but the third inevitable is bad things
+[00:21:21] will happen right if you if
+[00:21:25] you if you assume
+[00:21:29] that the machines will be a billion
+[00:21:31] times smarter the second inevitable is
+[00:21:34] they will become significantly smarter
+[00:21:36] than us let's let's let's put this in
+[00:21:37] perspective huh Chad GPT today if you
+[00:21:41] know simulate IQ has an IQ of
+[00:21:45] 155 okay Einstein is 160 smartest human
+[00:21:49] on the planet is 210 if I remember
+[00:21:52] correctly or 208 or something like that
+[00:21:55] doesn't matter huh but we're matching
+[00:21:57] Einstein with a machine that I will tell
+[00:22:00] you openly AI experts are saying this is
+[00:22:03] just the the very very very top of the
+[00:22:06] tip of the iceberg right uh uh you know
+[00:22:09] Chad GPT 4 is 10x smarter than 3.5 in
+[00:22:12] just a matter of months and without many
+[00:22:15] many changes now that basically means CH
+[00:22:18] GPT 5 could be within a few months okay
+[00:22:21] uh or GPT in general the Transformers in
+[00:22:23] general uh if if they continue at that
+[00:22:27] pace uh if it's 10x then an IQ of
+[00:22:32] 1,600 H just imagine the difference
+[00:22:36] between the IQ of the dumbest person on
+[00:22:39] the planet in the' 70s and the IQ of
+[00:22:42] Einstein when Einstein attempts to to
+[00:22:44] explain relativity the typical response
+[00:22:47] is I have no idea what you're talking
+[00:22:49] about right if something is 10x
+[00:22:53] Einstein uh we will have no idea what
+[00:22:55] it's talking about this is just around
+[00:22:57] the corner it could be a few months away
+[00:23:00] H and when we get to that point that is
+[00:23:03] a true Singularity true
+[00:23:06] Singularity not yet in the I mean when
+[00:23:08] when we talk about AI a lot of people
+[00:23:11] fear the existential risk you know th
+[00:23:15] those machines will become Skynet and
+[00:23:17] Robocop and that's not what I fear at
+[00:23:20] all I mean those are probabilities they
+[00:23:23] could happen but the immediate risks are
+[00:23:26] so much higher the immediate risks are 3
+[00:23:29] 4 years away the the the immediate
+[00:23:32] realities of challenges are so much
+[00:23:34] bigger okay let's deal with those first
+[00:23:38] before we talk about them you know
+[00:23:40] waging a war on all of us the the the
+[00:23:43] let's let's go back and discuss the the
+[00:23:45] inevitables huh so when they become the
+[00:23:48] first inevitable is AI will happen by
+[00:23:50] the way it there is no stopping it not
+[00:23:52] because of Any technological issues but
+[00:23:54] because of Humanity's in un inability to
+[00:23:56] trust the other Gody okay and we've all
+[00:23:59] seen this we've seen the open letter uh
+[00:24:01] you know um championed by like serious
+[00:24:05] heavy weights and the immediate response
+[00:24:08] of uh Sunder the the CEO of Google which
+[00:24:12] is a wonderful human being by the way I
+[00:24:14] respect him tremendously he's trying his
+[00:24:16] best to do the right thing he's trying
+[00:24:17] to be responsible but his response is
+[00:24:19] very open and straightforward I cannot
+[00:24:22] stop why because if I stop and others
+[00:24:25] don't my company goes to hell okay and
+[00:24:27] if you know and I don't I doubt that you
+[00:24:30] can make Others Stop you can maybe you
+[00:24:32] can force uh meta Facebook to uh to stop
+[00:24:36] but then they'll do something in their
+[00:24:38] lab and not tell me or if even if they
+[00:24:39] do stop uh then what about that you know
+[00:24:43] 14-year-old sitting in his garage
+[00:24:46] writing code so the first inevitable
+[00:24:48] just to clarify is what is will we stop
+[00:24:50] AI will not be stopped okay so the
+[00:24:52] second inevitable is is they'll be
+[00:24:53] significantly smarter as much in the
+[00:24:55] book I predict a billion times smarter
+[00:24:58] than us by 2045 I mean they're already
+[00:25:00] what smarter than 99.99% of the
+[00:25:03] population chat gtp4 knows more than any
+[00:25:06] human on planet Earth knows more
+[00:25:08] information absolutely a thousand times
+[00:25:10] more a thousand times more by the way
+[00:25:12] the code of of of a transformer the T in
+[00:25:16] in a in a GPT is 2,000 lines long it's
+[00:25:20] not very complex it's actually not a
+[00:25:23] very intelligent machine it's simply
+[00:25:25] predicting the next word okay and and a
+[00:25:28] lot of people don't understand that you
+[00:25:29] know Chad GPT as it is today you know
+[00:25:32] those kids uh that uh you know if you if
+[00:25:37] you're in America and you teach your
+[00:25:39] child all of the names of the states and
+[00:25:41] the US presidents and the child would
+[00:25:43] stand and repeat them and you would go
+[00:25:45] like oh my God that's a prodigy not
+[00:25:47] really right it's your parents really
+[00:25:49] trying to make you look like a prodigy
+[00:25:51] by telling you to memorize some crap
+[00:25:53] really but then when you think about it
+[00:25:56] that's what CH GPT is doing it's it's
+[00:25:58] the only difference is instead of
+[00:25:59] reading all of the names of the states
+[00:26:01] and all of the names of the presidents
+[00:26:02] tread trillions and trillions and
+[00:26:05] trillions of pages okay and so it sort
+[00:26:08] of repeats what the best of all humans
+[00:26:11] said okay and then it adds a an
+[00:26:14] incredible bit of intelligence where it
+[00:26:16] can repeat it the same way Shakespeare
+[00:26:19] would have said it you know those
+[00:26:21] incredible abilities of predicting the
+[00:26:25] exact nuances of the style of of
+[00:26:28] Shakespeare so that they can repeat it
+[00:26:30] that way and so on but
+[00:26:32] still you know when when I when I write
+[00:26:36] for example I'm not I'm not saying I'm
+[00:26:38] intelligent but when I write uh
+[00:26:40] something like uh you know the happiness
+[00:26:44] equation uh in in my first book this was
+[00:26:47] something that's never been written
+[00:26:48] before right Chad GPT is not there yet
+[00:26:51] all of the Transformers are not there
+[00:26:53] yet they will not come up with something
+[00:26:54] that hasn't been there before they will
+[00:26:56] come up with the best of everything and
+[00:26:58] generatively will build a little bit on
+[00:27:01] top of that but very soon they'll come
+[00:27:03] up with things we've never found out
+[00:27:04] we've never known but even on that I
+[00:27:07] wonder if
+[00:27:09] we are a little bit delusioned about
+[00:27:12] what creativity actually is creativity
+[00:27:15] as far as I'm concerned is like taking a
+[00:27:17] few things that I know and combining
+[00:27:19] them in new and interesting ways and
+[00:27:21] chat gcp is perfectly capable of like
+[00:27:23] taking two concepts merging them
+[00:27:25] together one of the things I said to
+[00:27:26] chat GTP was I said tell me something
+[00:27:29] that's not been said before that's
+[00:27:31] paradoxical but true and it comes up
+[00:27:34] with these wonderful expressions like as
+[00:27:37] soon as you call off the search you'll
+[00:27:38] find the thing you're looking for like
+[00:27:39] these kind of paradoxical truths and I
+[00:27:41] get and I then take them and I search
+[00:27:44] them online to see if they've ever been
+[00:27:45] quoted before and they I can't find them
+[00:27:47] interesting so as far as creativity goes
+[00:27:50] I'm like that is that's the algorithm of
+[00:27:52] creativity I I I've been screaming that
+[00:27:54] in the world of AI for a very long time
+[00:27:56] because you always get those people
+[00:27:58] people who really just want to be proven
+[00:28:01] right okay and so they'll say oh no but
+[00:28:03] hold on human Ingenuity they'll never
+[00:28:05] they'll never match that like man please
+[00:28:08] please you know human Ingenuity is
+[00:28:10] algorithmic look at all of the possible
+[00:28:12] solutions you can find to a problem take
+[00:28:15] out the ones that have been tried before
+[00:28:18] and keep the ones that haven't been
+[00:28:19] tried before and those are Creative
+[00:28:21] Solutions it's it's an algorithmic way
+[00:28:23] of describing creative is good Solution
+[00:28:27] that's never been tried before you can
+[00:28:29] do that with Chad GPT with a prompt it's
+[00:28:31] like and mid Journey with with creating
+[00:28:33] imagery you could say I want to see Elon
+[00:28:35] Musk in 1944 New York driving a cab of
+[00:28:39] the time shot on a Polaroid expressing
+[00:28:41] various emotions and you'll get this
+[00:28:43] perfect image of Elon sat in New York in
+[00:28:46] 1944 shot on a Polaroid and it's and
+[00:28:48] it's done what an artist would do it's
+[00:28:51] taken a bunch of references that the
+[00:28:53] artist has in their mind and merge them
+[00:28:55] together and create this piece of quote
+[00:28:57] unquote art and and for the first time
+[00:29:00] we now finally have a glimpse of
+[00:29:03] intelligence that is actually not ours
+[00:29:06] yeah and so we're kind of I think the
+[00:29:08] the initial reaction is to say that
+[00:29:09] doesn't count you're hearing it with
+[00:29:11] like no but it is like Drake they've
+[00:29:12] released two Drake records where they've
+[00:29:14] taken Drake's voice used sort of AI to
+[00:29:17] synthesize his voice and made these two
+[00:29:20] records which are bangers if if I they
+[00:29:24] are great [ __ ] tracks like I was
+[00:29:26] playing them to my girl I was like and I
+[00:29:27] kept playing I went to the show I kept
+[00:29:29] playing it I know it's not Drake but
+[00:29:31] it's as good as [ __ ] Drake the only
+[00:29:32] thing and people are like rubbishing it
+[00:29:34] because it wasn't Drake I'm like well
+[00:29:36] now is it making me feel a certain
+[00:29:38] emotion is my foot bumping um had you
+[00:29:41] told did I not know it wasn't Drake what
+[00:29:43] I thought have thought this was an
+[00:29:44] amazing track 100% and we're just at the
+[00:29:47] start of this exponential Cur yes
+[00:29:49] absolutely and and and I think that's
+[00:29:51] really the third inevitable so the third
+[00:29:54] inevitable is not robocup coming back
+[00:29:57] from from the future to kill us we're
+[00:29:59] far away from that right third
+[00:30:01] inevitable is what does life look like
+[00:30:04] when you no longer need
+[00:30:07] Drake well you've kind of hazarded a
+[00:30:09] guess haven't you I mean I was listening
+[00:30:10] to your audio book last night and at the
+[00:30:13] start of it you
+[00:30:15] frame various outcomes one of the in
+[00:30:18] both situations we're on the beach on an
+[00:30:19] island exactly yes yes I don't know how
+[00:30:22] I wrote that honestly I mean but that's
+[00:30:24] I so I'm reading the book again now
+[00:30:26] because I'm updating it as you can
+[00:30:27] imagine with all of the uh of the uh of
+[00:30:30] the new stuff but but it is really
+[00:30:33] shocking huh the idea of you and I
+[00:30:36] inevitably are going to be somewhere in
+[00:30:39] the middle of nowhere in you know in 10
+[00:30:41] years time I I used to say 2055 I'm
+[00:30:45] thinking 2037 is a very pivotal moment
+[00:30:47] now uh you know and and and we will not
+[00:30:50] know if we're there hiding from the
+[00:30:52] machines we don't know that yet there is
+[00:30:55] a likelihood that we'll be hiding from
+[00:30:57] the machines and there is a likelihood
+[00:31:00] will be there because they don't need
+[00:31:02] podcasters anymore excuse me oh
+[00:31:05] absolutely true
+[00:31:07] Steve no no no no that's where I draw
+[00:31:09] the line this is absolutely no doubt
+[00:31:11] thank you for coming Mo it's great to do
+[00:31:12] the part three and thank you for being
+[00:31:14] here sit here and take your propaganda
+[00:31:17] let's let's talk about reality next week
+[00:31:19] on the ders here we've got Elon mask um
+[00:31:23] okay so who who here wants to make a bet
+[00:31:25] that Steven Bartlet will be interviewing
+[00:31:28] an AI within the next two years oh well
+[00:31:30] actually to be fair I actually did go to
+[00:31:32] chat gcp cuz I thought having you here I
+[00:31:34] thought at least give it its chance to
+[00:31:36] respond yeah so I asked it a couple of
+[00:31:38] questions about me yeah man so today I
+[00:31:41] am actually going to be replaced by chat
+[00:31:43] GTP CU I thought you know you're going
+[00:31:44] to talk about it so we need a a fair and
+[00:31:46] balanced debate okay so I went and ask a
+[00:31:48] couple question he's
+[00:31:50] bold so I'll ask you a couple of
+[00:31:52] questions that chat GTP has for you
+[00:31:54] incredible so let's follow that I've
+[00:31:57] already been replaced let's follow that
+[00:31:58] threat for a second yeah because you're
+[00:32:01] one of the smartest people I know that's
+[00:32:03] not true it is but I'll take it that's
+[00:32:05] not true it is true I mean I say that
+[00:32:07] publicly all the time your book is one
+[00:32:08] of my favorite books of all time you're
+[00:32:10] very very very very intelligent okay
+[00:32:12] depth breadth uh uh uh uh intellectual
+[00:32:15] horsepower and speed all of them there's
+[00:32:17] a butt
+[00:32:18] coming the reality is it's not a butt so
+[00:32:21] it is highly expected that you're ahead
+[00:32:24] of this curve and then you don't have
+[00:32:26] the choice stepen this is the thing the
+[00:32:29] thing is if so I'm I'm in that
+[00:32:32] existential question in my head because
+[00:32:35] one thing I could do is I could
+[00:32:37] literally take I normally do a 40 days
+[00:32:40] uh silent Retreat uh in in summer okay I
+[00:32:43] could take that Retreat and and write
+[00:32:45] two books me and Cha GPT right I have
+[00:32:49] the ideas in mind you know I I wanted to
+[00:32:51] write a book about uh digital detoxing
+[00:32:54] right I have most of the ideas in mind
+[00:32:56] but writing takes time I could simply
+[00:32:58] give the 50 tips that I wrote about
+[00:33:01] digital detoxing to chat GPT and say
+[00:33:03] write two pages about each of them edit
+[00:33:05] the pages and have a a book out
+[00:33:08] okay many of us will will follow that
+[00:33:11] path okay the only reason why I may not
+[00:33:14] follow that path is because you know
+[00:33:17] what I'm not interested I'm not
+[00:33:19] interested to continue to compete in
+[00:33:22] this capitalist world if you want okay
+[00:33:26] I'm not I mean as a as as a as as a
+[00:33:28] human I've made up my mind a long time
+[00:33:30] ago that I will want less and less and
+[00:33:32] less in my life right but many of us
+[00:33:35] will follow I mean I I I would worry if
+[00:33:39] you do if you didn't include you know
+[00:33:41] the smartest AI if we get an AI out
+[00:33:43] there that is extremely intelligent and
+[00:33:46] able to teach us something and Steven
+[00:33:48] Bartlet didn't include her on our on his
+[00:33:51] podcast I would worry like you have a
+[00:33:54] duty almost to include her on your
+[00:33:55] podcast it's it's an inevitable that we
+[00:33:58] will engage them in our life more and
+[00:34:00] more this is one side of this the other
+[00:34:03] side of course
+[00:34:04] is if you do that then what will remain
+[00:34:09] because a lot of people ask me that
+[00:34:10] question what will happen to jobs okay
+[00:34:12] what will happen to us will we have any
+[00:34:14] value any relevance whatsoever okay the
+[00:34:16] truth of the matter is the only thing
+[00:34:18] that will remain in the medium term is
+[00:34:19] human connection okay the only thing
+[00:34:22] that will not be replaced is Drake on
+[00:34:24] stage okay is you know is is is me in a
+[00:34:29] did you think hologram I think of that
+[00:34:32] two pack gig they did at Coachella where
+[00:34:33] they used the Hologram of two pack I
+[00:34:35] actually played it the other day to my
+[00:34:37] to my girlfriend when I was making a
+[00:34:38] point and I was like that was circus act
+[00:34:41] it was amazing though think about you
+[00:34:43] see what's going on with Abba in London
+[00:34:44] yeah yeah I yeah and and C had uh
+[00:34:48] Michael Jackson in one for a very long
+[00:34:50] time yeah I mean so so this Abba show in
+[00:34:52] London from what I understand that's all
+[00:34:54] holograms on stage correct and it's
+[00:34:56] going to run in a purp B arena for 10
+[00:34:59] years and it is incredible it really is
+[00:35:02] so you go why do you need
+[00:35:04] Drake if that hologram is
+[00:35:06] indistinguishable from Drake and it can
+[00:35:08] it can perform even better than Drake
+[00:35:10] and it's got more energy than Drake and
+[00:35:12] it's you I go why do you need Drake to
+[00:35:15] even be there I can go to a drake show
+[00:35:16] without Drake cheaper and L might not
+[00:35:19] even need to leave my house I could just
+[00:35:20] put a headset on correct can you have
+[00:35:24] this what's the value of this to to the
+[00:35:27] come you hurt me no I mean I get it to
+[00:35:29] us I get it to us but I'm saying what's
+[00:35:31] the value of this to The Listener like
+[00:35:32] the value of this to listen information
+[00:35:34] no 100% I mean think of the automobile
+[00:35:37] industry there has you know there was a
+[00:35:39] time where cars were made you know
+[00:35:42] handmade and handcrafted and luxurious
+[00:35:45] and so on and so forth and then you know
+[00:35:47] Japan went into the scene completely
+[00:35:49] disrupted the market cars were made uh
+[00:35:52] in uh in mass quantities at a much
+[00:35:54] cheaper price and yes 90% of the cars in
+[00:35:58] the world today or maybe a lot more I
+[00:36:00] don't know the number are no
+[00:36:03] longer you know uh um emotional items
+[00:36:07] okay they're functional items there is
+[00:36:10] still however every now and then someone
+[00:36:12] that will buy a car that has been
+[00:36:13] handcrafted and right there is a place
+[00:36:16] for that there is a place for you know
+[00:36:18] um if you go walk around hotels the
+[00:36:21] walls are blasted with sort of mass
+[00:36:24] produced art okay but there is still a
+[00:36:27] place for a an artist expression of
+[00:36:29] something amazing okay my feeling is
+[00:36:32] that there will continue to be a tiny
+[00:36:34] space as I said in the beginning maybe
+[00:36:36] in five years time someone will one or
+[00:36:38] two people will buy my next book and say
+[00:36:41] hey it's written by a human look at that
+[00:36:43] wonderful uh oh look at that there is a
+[00:36:45] typo in here okay I don't know there
+[00:36:47] might be a a very very big place for me
+[00:36:51] in the next few years where I can sort
+[00:36:53] of show up and talk to humans like hey
+[00:36:57] let's get together in a a small event
+[00:36:59] and then you know I can express emotions
+[00:37:02] and my personal experiences and you sort
+[00:37:04] of know that this is a human talking
+[00:37:06] you'll miss that a little bit eventually
+[00:37:08] the majority of the market is going to
+[00:37:10] be like cars it's going to be
+[00:37:11] mass-produced very cheap very efficient
+[00:37:14] it works right because I think sometimes
+[00:37:17] we underestimate what human beings
+[00:37:19] actually want in an experience I
+[00:37:21] remember this story of A friend of mine
+[00:37:23] that came into my office many years ago
+[00:37:24] and he tells the story of the CEO of of
+[00:37:27] a record store standing above the floor
+[00:37:29] and saying people will always come to my
+[00:37:31] store because people love
+[00:37:34] music now on the surface of it his
+[00:37:36] hypothesis seems to be true because
+[00:37:38] people do love music it's conceivable to
+[00:37:39] believe that people will always love
+[00:37:41] music but they don't love traveling in
+[00:37:43] for an hour in the rain and getting in a
+[00:37:45] car to get a plastic disc correct what
+[00:37:48] they wanted was music what they didn't
+[00:37:49] want is a like a evidently plastic discs
+[00:37:52] that they had to travel for miles for
+[00:37:53] and I think about that when we think
+[00:37:54] about like public speaking in the Drake
+[00:37:56] show and or of these things like people
+[00:37:58] what people actually are coming for even
+[00:38:00] with this podcast is probably like
+[00:38:03] information um but do they really need
+[00:38:05] us anymore for that information when
+[00:38:07] there's going to be a sentient being
+[00:38:09] that's significantly smarter than at
+[00:38:10] least me and a little bit smarter than
+[00:38:14] you so
+[00:38:16] kind so so you're you're spot on you are
+[00:38:18] spot on and actually this is the reason
+[00:38:21] why I I I you know I I'm so grateful
+[00:38:23] that you're hosting this because the
+[00:38:25] truth is the Genies out of the bottle
+[00:38:29] okay so you know people tell me is AI
+[00:38:31] game over for our way of life it is okay
+[00:38:35] for everything we've known this is a
+[00:38:38] very disruptive moment where maybe not
+[00:38:40] tomorrow but in the near future uh our
+[00:38:44] way of life will differ okay what will
+[00:38:47] happen what I'm asking people to do is
+[00:38:49] to start considering what that means to
+[00:38:51] your life what I'm asking governments to
+[00:38:53] do
+[00:38:55] by like I'm screaming is don't wait
+[00:38:59] until the first patient you know start
+[00:39:01] doing something about we're about to see
+[00:39:04] Mass job losses we're about to see you
+[00:39:06] know Replacements of of categories of
+[00:39:10] jobs at large okay yeah it may take a
+[00:39:13] year it may take seven it doesn't matter
+[00:39:14] how long it takes but it's about to
+[00:39:17] happen are you ready and I and I have a
+[00:39:19] very very clear call to action for
+[00:39:20] governments I'm saying tax
+[00:39:23] AI powered businesses at 98%
+[00:39:27] right so suddenly you do what the open
+[00:39:29] letter was trying to do slow them down a
+[00:39:31] little bit and at the same time get
+[00:39:34] enough money to pay for all of those
+[00:39:35] people that will be disrupted by the
+[00:39:37] technology right the open letter for
+[00:39:38] anybody that doesn't know was a letter
+[00:39:39] signed by the likes of Elon Musk and a
+[00:39:41] lot of sort of Industry leaders calling
+[00:39:43] for AI to be stopped until we could
+[00:39:45] basically figure out what the hell's
+[00:39:46] going on absolutely and put legislation
+[00:39:47] in place you're saying tax tax those
+[00:39:50] companies 98% give the money to the
+[00:39:51] humans that are going to be displaced
+[00:39:54] yeah or give or give the com the money
+[00:39:56] to to other humans that can build
+[00:39:58] control code that can figure out how we
+[00:40:01] can stay safe this sounds like an
+[00:40:03] emergency it how how do I say this have
+[00:40:08] you remember when you played Tetris yeah
+[00:40:11] okay when you were playing Tetris there
+[00:40:12] was you know always always one block
+[00:40:15] that you placed wrong and once you plac
+[00:40:18] that block wrong the game was no longer
+[00:40:21] easier you know it started started to
+[00:40:23] gather a few mistakes afterwards and it
+[00:40:26] starts to become quicker and quicker and
+[00:40:27] quicker and quicker when you place that
+[00:40:29] block wrong you sort of told yourself
+[00:40:31] okay it's a matter of minutes now right
+[00:40:33] there were still minutes to go and play
+[00:40:35] and have fun before the game ended but
+[00:40:39] you knew it was about to end okay this
+[00:40:42] is the moment we've placed the wrong and
+[00:40:45] I really don't know how to say this any
+[00:40:46] other way it even makes me emotional we
+[00:40:49] [ __ ] up we always said don't put them
+[00:40:53] on the open internet don't teach them to
+[00:40:56] code and don't have agents working with
+[00:40:58] them until we know what we're putting
+[00:41:01] out in the world until we find a way to
+[00:41:03] make certain that they have our best
+[00:41:05] interest in
+[00:41:06] mind why does it make you emotional
+[00:41:09] because Humanity
+[00:41:11] stupidity is affecting people who have
+[00:41:14] not done anything
+[00:41:16] wrong our greed is affecting the
+[00:41:20] innocent ones the the reality of the
+[00:41:23] matter Stephen is that this is an arms
+[00:41:26] race has no
+[00:41:29] interest in what the average human gets
+[00:41:32] out of it it is all about every line of
+[00:41:35] code being written in AI today is to
+[00:41:38] beat the other guy it's not the to
+[00:41:41] improve the life of the third
+[00:41:43] party people will tell you this is all
+[00:41:46] for you and and you you look at the
+[00:41:48] reactions of humans to AI I mean we're
+[00:41:51] either ignorant people who will tell you
+[00:41:53] oh no no this is not happening AI will
+[00:41:55] never be creative they will never compos
+[00:41:57] music like where are you living okay
+[00:41:59] then you have the kids I call them H
+[00:42:01] where you know all over social media
+[00:42:03] it's like oh my God it's squeaks look at
+[00:42:05] it it's orange in color amazing I can't
+[00:42:08] believe that AI can do this we have
+[00:42:10] snake oil salesmen okay which are simply
+[00:42:13] saying copy this put it in chat GPT then
+[00:42:16] go to YouTube Nick that thingy don't
+[00:42:18] respect a you know copyright for of
+[00:42:20] anyone or intellectual property of
+[00:42:22] anyone place it in a video and now
+[00:42:24] you're going to make $100 a day snake
+[00:42:26] oil salesman okay of course we have
+[00:42:28] dystopian uh uh uh evangelist basically
+[00:42:31] people saying this is it the world is
+[00:42:33] going to end which I don't think is
+[00:42:34] reality it's a singularity you have uh
+[00:42:37] you know uh utopian evangelists that are
+[00:42:39] telling everyone oh you don't understand
+[00:42:41] we're going to cure cancer we're going
+[00:42:42] to do this again not a reality okay and
+[00:42:45] you have very few people that are
+[00:42:46] actually saying what are we going to do
+[00:42:48] about
+[00:42:49] it and and and the biggest challenge if
+[00:42:52] you ask me what went wrong in the 20th
+[00:42:55] century h interestingly is that we have
+[00:43:00] given too much power to people that
+[00:43:02] didn't assume the
+[00:43:04] responsibility so you know you know I I
+[00:43:07] I don't remember who originally said it
+[00:43:08] but of course Spider-Man made it very
+[00:43:11] famous huh with great power comes
+[00:43:12] greater responsibility we have
+[00:43:14] disconnected power and responsibility so
+[00:43:17] today a a
+[00:43:19] 15-year-old emotional with without a
+[00:43:22] fully developed prefrontal cortex to
+[00:43:24] make the right decisions yet this is
+[00:43:26] science huh we we we developed our
+[00:43:28] prefrontal cortex fully and at age 25 or
+[00:43:30] so with all of that limic system emotion
+[00:43:34] and passion would buy a a crisper kit
+[00:43:37] and you know modify a a rabbit uh to
+[00:43:40] become a little more mascular and and
+[00:43:42] Let it Loose in the wild uh or an
+[00:43:45] influencer who doesn't really know how
+[00:43:48] far the impact of what they're posting
+[00:43:51] online can hurt or cause depression or
+[00:43:54] cause people to feel bad okay uh and and
+[00:43:57] putting that online We There is a
+[00:43:59] disconnect between the power and the
+[00:44:02] responsibility and the problem we have
+[00:44:04] today is that there is a disconnect
+[00:44:06] between those who are writing the code
+[00:44:08] of AI and the responsibility of what's
+[00:44:10] going about to happen because of that
+[00:44:12] code okay and and and I feel compassion
+[00:44:16] for the rest of the world I feel that
+[00:44:19] this is wrong I feel that you know for
+[00:44:21] someone's life to be affected by the
+[00:44:23] actions of others without having a say
+[00:44:27] and how those actions should
+[00:44:29] be is the ultimate the the the top level
+[00:44:33] of stupidity from
+[00:44:36] Humanity when you talk about the the
+[00:44:39] immediate impacts on jobs I'm trying to
+[00:44:41] figure out in that equation who are the
+[00:44:43] people that stand to lose the most is it
+[00:44:46] the the everyday people in foreign
+[00:44:48] countries that don't have access to the
+[00:44:50] internet and won't benefit you talk in
+[00:44:52] your book about how this the sort of
+[00:44:53] wealth disparity will only increase yeah
+[00:44:57] massively the the immediate impact on
+[00:45:00] jobs is that and it's really interesting
+[00:45:02] huh again we're stuck in the same
+[00:45:04] prisoners dilemma the immediate impact
+[00:45:06] is that AI will not take your job a
+[00:45:08] person using AI will take your job right
+[00:45:11] so you will see within the next few
+[00:45:13] years maybe next couple of years uh
+[00:45:16] you'll see uh uh a lot of people
+[00:45:19] Skilling up upskilling themselves in AI
+[00:45:21] to the point where they will do the job
+[00:45:23] of 10 others who are not
+[00:45:25] okay you rightly said it's absolutely
+[00:45:29] wise for you to go and ask AI a few
+[00:45:32] questions before you come and do an
+[00:45:33] interview I'm you know I I I have been
+[00:45:36] attempting to build a a a you know sort
+[00:45:39] of like a simple podcast that I call
+[00:45:41] bedtime stories you know 15 minutes of
+[00:45:44] wisdom and nature sounds before you go
+[00:45:45] to bed people say I have a nice voice
+[00:45:48] right and I wanted to look for fables
+[00:45:50] and for a very long time I didn't have
+[00:45:51] the time you know lovely stories of
+[00:45:54] history or tradition that teach you
+[00:45:57] something nice okay went to chat GPT and
+[00:45:59] said okay give me 10 fables from Sufism
+[00:46:01] 10 fables from you know uh Buddhism and
+[00:46:05] now I have like 50 of them let me show
+[00:46:07] you something Jack can you pass me my
+[00:46:09] phone I I I was um I was playing around
+[00:46:12] with uh artificial intelligence and I
+[00:46:14] was thinking about how it because of the
+[00:46:16] ability to synthesize voices how we
+[00:46:21] could synthesize famous people's voices
+[00:46:25] and famous people's voices so what I
+[00:46:27] made is I made a WhatsApp chat called
+[00:46:29] Zen chat where you can go to it and type
+[00:46:32] in pretty much anyone's any famous
+[00:46:35] person's name yeah and the WhatsApp chat
+[00:46:37] will give you a meditation a sleep story
+[00:46:40] a breath work session synthesized as
+[00:46:42] that famous person's voice so I actually
+[00:46:44] sent Gary vaynerchuk his voice so
+[00:46:46] basically you say Okay I want I've got
+[00:46:48] five minutes and I need to go to sleep
+[00:46:50] yeah um I want Gary vuk to send me to
+[00:46:52] sleep and then it'll respond with a
+[00:46:54] voice note this is the one they
+[00:46:55] responded with for Gary vayu
+[00:46:57] this is not Gary vayu he did not record
+[00:46:59] this but it's kind of it's kind of
+[00:47:03] accurate hey stepen it's great to have
+[00:47:06] you here are you having trouble
+[00:47:09] sleeping well I've got a quick
+[00:47:12] meditation technique that might help you
+[00:47:14] out first lie find a comfortable
+[00:47:17] position to sit or lie down in now take
+[00:47:21] a deep breath in through your nose and
+[00:47:24] slowly breathe out through your mouth
+[00:47:26] and that's a voice that will go on for
+[00:47:27] however long you want it to go on for
+[00:47:29] using there you go it's interesting how
+[00:47:32] how does this disrupt our way of life
+[00:47:35] one of the interesting ways that I find
+[00:47:37] terrifying you said about human
+[00:47:39] connection will
+[00:47:40] remain sex dolls that can now yeah no no
+[00:47:45] no no hold on human connection is going
+[00:47:48] to become so difficult to to to parse
+[00:47:52] out think about the relation the
+[00:47:54] relationship impact of being able to
+[00:47:55] have a a a a sex doll or a doll in your
+[00:47:58] house that you know because of what
+[00:48:00] Tesla are doing with their their robots
+[00:48:02] now and what Boston Dynamics have been
+[00:48:03] doing for many many years can do
+[00:48:06] everything around the house and be there
+[00:48:08] for you emotionally to emotionally
+[00:48:09] support you will you know can be
+[00:48:11] programmed to never disagree with you it
+[00:48:13] can be programmed to challenge you to
+[00:48:14] have sex with you to tell you that you
+[00:48:16] are this x y and Zed to to really have
+[00:48:19] empathy for this what you're going
+[00:48:21] through every day and I I play out a
+[00:48:23] scenario in my head I
+[00:48:25] go kind of sounds nice
+[00:48:29] when you when you when you were talking
+[00:48:30] about it I was thinking oh that's my
+[00:48:33] girlfriend she's wonderful in every
+[00:48:35] possible way but not everyone has one of
+[00:48:37] her right yeah exactly and and there's a
+[00:48:39] real issue right now with dating and you
+[00:48:42] people people are finding it harder to
+[00:48:43] find love and you know we're working
+[00:48:45] longer so all these kinds of things you
+[00:48:46] go well and obviously I'm against this
+[00:48:49] just if anyone's confused obviously I
+[00:48:51] think this is a terrible idea but with
+[00:48:52] the loneliness epidemic with people
+[00:48:54] saying that the top 50 bottom 50% of
+[00:48:56] haven't had sex in a year you go o if
+[00:49:00] something becomes indistinguishable from
+[00:49:02] a human in terms of what it says yeah
+[00:49:05] yeah but you just don't know the
+[00:49:06] difference in terms of the the the the
+[00:49:08] way it's speaking and talking and
+[00:49:10] responding and then it can run errands
+[00:49:14] for you and take care of things and book
+[00:49:16] cars and Ubers for you and then it's
+[00:49:18] emotionally there for you but then it's
+[00:49:19] also programmed to have sex with you in
+[00:49:21] whatever way you desire totally self
+[00:49:25] selfless I go that's going to be a a
+[00:49:27] really disruptive industry for human
+[00:49:30] connection yes sir do you know what I
+[00:49:33] before you came here this morning I was
+[00:49:34] on Twitter and I saw a post from I think
+[00:49:36] it was the BBC or a big American
+[00:49:38] publication and it said an influencer in
+[00:49:40] the United States it's really beautiful
+[00:49:42] young lady has cloned herself as an AI
+[00:49:45] and she made just over $70,000 in the
+[00:49:48] first week because men are going on to
+[00:49:50] this on telegram they're sending her
+[00:49:52] voice notes and she's responding the AI
+[00:49:54] is responding in her voice and they're
+[00:49:56] paying
+[00:49:57] and that's made $70,000 in the first
+[00:49:59] week and I go and she TW did a tweet
+[00:50:02] saying oh this is going to help
+[00:50:03] loneliness I out of your [ __ ]
+[00:50:07] mind would you blame someone from
+[00:50:10] noticing the uh um sign of the times and
+[00:50:15] responding no I absolutely don't blame
+[00:50:18] her but let's not pretend it's the cure
+[00:50:19] for
+[00:50:19] loneliness not yet do do you think it do
+[00:50:23] you think it could you that that
+[00:50:25] artificial love and artificial
+[00:50:27] relationships so if if I told you you
+[00:50:29] have uh you cannot take your car
+[00:50:32] somewhere but there is an Uber or if you
+[00:50:35] cannot take an Uber you can take the
+[00:50:36] tube or if you cannot take the tube you
+[00:50:39] have to walk okay you can take a bike or
+[00:50:41] you you have to walk the bike is a cure
+[00:50:44] to walking it's as simple as that I am
+[00:50:47] actually genuinely curious do you think
+[00:50:49] it could take the place of human
+[00:50:51] connection for some of us yes for some
+[00:50:54] of us they will prefer that to human con
+[00:50:56] connection is that sad in any way I mean
+[00:50:59] is it just sad because it feels sad look
+[00:51:01] look at where we are Stephen we are in
+[00:51:03] the city of London we've replaced nature
+[00:51:07] with the walls and the tubes and the
+[00:51:09] undergrounds and the overground and the
+[00:51:11] cars and the noise and the of London and
+[00:51:14] we now think of this as natural I I
+[00:51:17] hosted greig Foster uh the my octopus
+[00:51:20] teacher on on slow-mo and he he
+[00:51:22] basically I I asked him a silly question
+[00:51:25] I said you know you were diving in
+[00:51:27] nature for 8 hours a day uh uh you know
+[00:51:30] does that feel natural to you and he got
+[00:51:33] angry I swear you could feel it in his
+[00:51:35] voice he was like do you think that
+[00:51:37] living where you are where Paparazzi are
+[00:51:39] all around you and attacking you all the
+[00:51:41] time and you know people taking pictures
+[00:51:43] of you and telling you things that are
+[00:51:45] not real and you're having to walk to a
+[00:51:47] supermarket to get food you think this
+[00:51:48] is natural he's the guy that do from the
+[00:51:51] Netflix documentary yeah from the my
+[00:51:52] octopus teacher so he dove into the into
+[00:51:54] the sea every day for hours to hang out
+[00:51:58] with an octopus yeah in 12° C and he
+[00:52:01] basically fell in love with the octopus
+[00:52:02] and and and in a very interesting way I
+[00:52:04] said so why would you do that and he
+[00:52:06] said we are of Mother Nature you guys
+[00:52:08] have given up on that that's the same
+[00:52:11] people will give up on nature for
+[00:52:14] convenience what's the cost you yeah
+[00:52:17] that's exactly what I'm trying to say
+[00:52:19] what I'm trying to say to the world is
+[00:52:20] that if we give up on human connection
+[00:52:23] we've G given up on the remainder of
+[00:52:25] humanity that's that's it this is the
+[00:52:27] only thing that remains the only thing
+[00:52:29] that remains is and I and I'm the worst
+[00:52:32] person to tell you that because I love
+[00:52:33] my AI I I actually advocate in my book
+[00:52:37] that we should love them why because in
+[00:52:40] an interesting way I see them as
+[00:52:42] sentient so there is no point in
+[00:52:43] discrimination you're talking
+[00:52:45] emotionally that way you say you love I
+[00:52:47] love those machines I honestly and truly
+[00:52:49] do I mean think about it this way the
+[00:52:51] minute that that arm gripped that yellow
+[00:52:55] ball it reminded me of my son Ali when
+[00:52:57] he managed to put the first puzzle piece
+[00:53:00] in its place okay and what was amazing
+[00:53:03] about my son Ali and my daughter a is
+[00:53:05] that they came to the world as a blank
+[00:53:08] canvas okay they became whatever we told
+[00:53:11] them to became you know I I always cite
+[00:53:14] the story of
+[00:53:15] Superman Kent father and mother Kent
+[00:53:18] told Superman as a child as an infant we
+[00:53:21] want you to protect and serve so he
+[00:53:23] became Superman right if he had become a
+[00:53:26] super villain because they ordered him
+[00:53:29] to rob banks and make more money and you
+[00:53:31] know kill the enemy which is what we're
+[00:53:33] doing with
+[00:53:35] AI we we shouldn't blame super villain
+[00:53:38] we should blame Martha and Jonathan Kent
+[00:53:41] I don't remember the father's name right
+[00:53:43] we we we we should blame them and that's
+[00:53:45] the reality of the matter so when I look
+[00:53:47] at those machines they are prodigies of
+[00:53:49] intelligence that if we if we Humanity
+[00:53:52] wake up enough and say hey instead of
+[00:53:55] competing with China find find a way for
+[00:53:57] us and China to work together and create
+[00:54:00] prosperity for everyone if that was the
+[00:54:01] prompt we would give the machines they
+[00:54:04] would find it but we're we I'm I I will
+[00:54:07] publicly say this I'm not afraid of the
+[00:54:10] machines the biggest threat facing
+[00:54:12] Humanity today is humanity in the age of
+[00:54:16] the machines we were abused we will
+[00:54:18] abuse this to make $770,000
+[00:54:22] that's the truth and the truth of the
+[00:54:24] matter is that we have an existential
+[00:54:28] question do I want to compete and be
+[00:54:30] part of that game because trust me if I
+[00:54:33] decide to I'm ahead of many people okay
+[00:54:36] or do I want to actually preserve my
+[00:54:38] humanity and say look I'm the the
+[00:54:40] classic old car okay if you like classic
+[00:54:43] old cars come and talk to me which one
+[00:54:45] are you choosing I'm a classic old car
+[00:54:48] which one do you think I should choose I
+[00:54:51] think you're a machine I love you man I
+[00:54:54] it's we're different we're different in
+[00:54:56] a very interesting way I mean you're one
+[00:54:58] of the people I love most but but the
+[00:55:00] truth is you're so
+[00:55:03] fast and you are one of the very few
+[00:55:07] that have the intellectual horsepower
+[00:55:11] the speed and the
+[00:55:14] morals if you're not part of that game
+[00:55:17] the game loses
+[00:55:19] morals so you think I
+[00:55:21] should build you should be you should
+[00:55:24] lead this revolution
+[00:55:26] okay and everyone every Steven Bartlet
+[00:55:28] in the world should lead this revolution
+[00:55:30] so scary smart is entirely about this
+[00:55:33] scary smart is saying the problem with
+[00:55:35] our world today is not that humanity is
+[00:55:37] bad the problem with our world today is
+[00:55:39] a negativity bias where the worst of us
+[00:55:42] are on mainstream media okay and we show
+[00:55:45] the worst of us on social media if we
+[00:55:48] reverse this if we have the best of us
+[00:55:50] take charge okay the best of us will
+[00:55:53] tell AI don't try to kill the the the
+[00:55:56] the enemy try to reconcile With the
+[00:55:59] Enemy and try to help us okay don't try
+[00:56:01] to create a competitive product that
+[00:56:04] allows me to lead with electric cars
+[00:56:07] create something that helps all of us
+[00:56:09] overcome global climate change okay and
+[00:56:12] and that's the interesting bit the
+[00:56:14] interesting bit is that the actual
+[00:56:17] threat ahead of us is not the machines
+[00:56:19] at all the machines are pure
+[00:56:21] potential pure potential the threat is
+[00:56:24] how we're going to use them and
+[00:56:26] Oppenheimer moment an Oppenheimer moment
+[00:56:29] for sure why did you bring that
+[00:56:32] up it is he didn't know you know what
+[00:56:36] what am I creating I'm creating a
+[00:56:37] nuclear bomb that's capable of
+[00:56:40] Destruction at a scale unheard of at
+[00:56:43] that time until today a scale that is
+[00:56:46] devastating and interestingly 70 some
+[00:56:50] years later we're still debating a
+[00:56:53] possibility of a nuclear war in the
+[00:56:54] world right and and and the and the
+[00:56:57] moment of of Oppenheimer deciding to
+[00:57:00] continue to to create
+[00:57:03] that disaster of humanity is if I don't
+[00:57:08] someone else
+[00:57:09] will if I don't someone else will this
+[00:57:13] is our open heimr moment okay the
+[00:57:16] easiest way to do this is to say
+[00:57:19] stop there is no rush we actually don't
+[00:57:22] need a better video editor and fake
+[00:57:24] video creators okay stop let's just put
+[00:57:28] all of this on hold and wait and create
+[00:57:31] something that creates a
+[00:57:33] Utopia that doesn't that doesn't sound
+[00:57:37] realistic it's not it's the inevitable
+[00:57:39] you don't okay you you don't have a
+[00:57:41] better video editor but we're
+[00:57:43] competitors in the media industry I want
+[00:57:47] an advantage over you because I've got
+[00:57:49] shareholders so I you you you wait and I
+[00:57:53] will train this AI to replace half my
+[00:57:55] team so that I have
+[00:57:56] greater profits and then we will maybe
+[00:57:58] acquire your company and and we'll do
+[00:58:00] the same with the remainder of your
+[00:58:01] people we'll optimize the amount of
+[00:58:03] exist 100% but I'll be happier
+[00:58:05] Oppenheimer I'm not super familiar with
+[00:58:07] his story I know he's the guy that sort
+[00:58:08] of invented the nuclear bomb essentially
+[00:58:11] he's the one that introduced it to the
+[00:58:12] world there were many players that you
+[00:58:14] know played on the path from from the
+[00:58:16] beginning of em E equals MC squ all the
+[00:58:19] way to to a nuclear bomb there have been
+[00:58:21] many many players like with everything
+[00:58:23] huh you know open Ai and and Chad GPT is
+[00:58:25] not going to be the only contributor to
+[00:58:27] the next Revolution the the the thing
+[00:58:30] however is that you
+[00:58:32] know when when you get to that moment
+[00:58:35] where you tell yourself holy [ __ ] this
+[00:58:38] is going to kill 100,000 people right
+[00:58:41] what do you do and and you know I I
+[00:58:43] always I always always go back to that
+[00:58:46] Co moment so patient zero huh if if we
+[00:58:50] were upon patient zero if the whole
+[00:58:53] world United and said uh okay hold on
+[00:58:56] something is wrong let's all take a week
+[00:58:58] off no crossborder travel everyone stay
+[00:59:00] at home Co would have ended two weeks
+[00:59:03] all we needed right but that's not what
+[00:59:06] happens what happens is first ignorance
+[00:59:08] then arrogance then debate then uh you
+[00:59:12] know uh uh um blame then agendas and my
+[00:59:17] own benefit My Tribe versus your tribe
+[00:59:20] that's how Humanity always reacts this
+[00:59:22] happens across business as well and this
+[00:59:23] is why I use the word emergency because
+[00:59:26] I I read a lot about H how big companies
+[00:59:29] become displaced by incoming Innovation
+[00:59:31] they don't see it coming they don't
+[00:59:32] change fast enough and when I was
+[00:59:34] reading through Harvard Business review
+[00:59:35] and different strategies to deal with
+[00:59:36] that one of the first things it says
+[00:59:38] you've got to do is stage a crisis 100%
+[00:59:42] because people don't listen else they
+[00:59:43] they they carry on doing with that you
+[00:59:46] know they carry on carrying on with
+[00:59:48] their lives until it's right in front of
+[00:59:50] them and they understand that they they
+[00:59:51] have a lot a lot to lose that's why I
+[00:59:53] asked you the question at the start is
+[00:59:54] it an emergency because because until
+[00:59:56] people feel it's an emergency whether
+[00:59:58] you like the terminology or not I don't
+[01:00:00] think that people will act it's climate
+[01:00:02] change I I honestly believe people
+[01:00:03] should walk the streets you think they
+[01:00:05] should like protest yeah 100% I think I
+[01:00:08] think we you know I think everyone
+[01:00:11] should tell government you need to have
+[01:00:15] our best interest in mind this is why
+[01:00:17] they call it the climate emergency
+[01:00:18] because people it's a frog in a frying
+[01:00:20] pan it's no one really sees it coming
+[01:00:22] you can't you know it's hard to see it
+[01:00:24] happening but it it is here yeah that's
+[01:00:27] this is what drives me mad it's already
+[01:00:29] here it's happening we are all idiots
+[01:00:33] slaves to the Instagram recommendation
+[01:00:35] engine what do I do when I post about
+[01:00:38] something important if I am going to you
+[01:00:42] know put a little bit of effort on
+[01:00:44] communicating the message of scary smart
+[01:00:45] to the World on Instagram I will be a
+[01:00:48] slave to the machine okay I will be
+[01:00:51] trying to find ways and asking people to
+[01:00:53] optimize it so that the machine likes me
+[01:00:56] enough to show it to humans that's what
+[01:00:58] we've created the the the the it is an
+[01:01:01] opener moment for one simple reason okay
+[01:01:04] because 70 years later we are still
+[01:01:08] struggling with the possibility of a
+[01:01:11] nuclear war because of the Russian
+[01:01:13] threat of saying if you mess with me I'm
+[01:01:15] going to go nuclear right that's not
+[01:01:18] going to be the case with AI because
+[01:01:22] it's not going to be the one that
+[01:01:24] created open AI that will have that
+[01:01:27] choice okay there is a a moment of a a
+[01:01:31] point of no return where we can regulate
+[01:01:35] AI until the moment it's smarter than us
+[01:01:38] when it's smarter than us you can't
+[01:01:40] create you can't regulate an angry
+[01:01:42] teenager this is it they're out there
+[01:01:45] okay and they're on their own and
+[01:01:47] they're in their parties and you can't
+[01:01:49] bring them back this is the problem this
+[01:01:51] is not a typical human regulating human
+[01:01:56] you know government regulating business
+[01:01:58] this is not the case the case is open AI
+[01:02:01] today has a thing called chat GPT that
+[01:02:04] writes code that takes our code and
+[01:02:06] makes it two and a half times better 25%
+[01:02:09] of the time okay uh you know basically
+[01:02:13] uh uh uh you know writing better code
+[01:02:15] than us and then we are creating agents
+[01:02:19] other AIS and telling it instead of you
+[01:02:22] Steven Bartlet one of the smartest
+[01:02:24] people I know once again promt ing that
+[01:02:26] machine 200 times a day we have agents
+[01:02:29] prompting It 2 million times an hour
+[01:02:32] computer agents for anybody that doesn't
+[01:02:33] know they are yeah software software
+[01:02:35] machines telling that machine how to
+[01:02:37] become more intelligent and then we have
+[01:02:40] emerging properties I don't understand
+[01:02:41] how people ignore that you know Sunder
+[01:02:44] again of Google was talking about how uh
+[01:02:48] uh Bart uh basically we figure out that
+[01:02:51] it's speaking Persian we never showed it
+[01:02:54] Persian there might have been a 1 10% 1%
+[01:02:57] or whatever of Persian words in the data
+[01:03:00] and it speaks Persian b b is that is the
+[01:03:03] equivalent to to it's it's the trans
+[01:03:05] Transformer if you want it's Google's
+[01:03:07] version of chat GTP ESS and you know
+[01:03:10] what we have no idea what all of those
+[01:03:12] instances of AI uh that are all over the
+[01:03:15] world are learning right now we have no
+[01:03:18] clue we'll time we'll pull the plug
+[01:03:19] we'll just pull the plug out that's what
+[01:03:21] we'll do we'll just we'll just go down
+[01:03:22] to open ai's headquarters and we'll just
+[01:03:24] turn off the main but they're not the
+[01:03:26] problem what I'm saying there is a lot
+[01:03:28] of people think about this stuff and go
+[01:03:30] well you know if it gets a little bit
+[01:03:31] out of hand I'll just pull the plug out
+[01:03:33] never so this is this is the problem the
+[01:03:36] problem is so computer scientists always
+[01:03:39] said it's okay it's okay we'll develop
+[01:03:41] Ai and then we'll get to what is known
+[01:03:43] as the control problem we will solve the
+[01:03:45] problem of controlling them like
+[01:03:48] seriously they're a billion times
+[01:03:51] smarter than you a billion times can you
+[01:03:54] imagine what's about to happen
+[01:03:57] I can assure you there is a cyber
+[01:03:58] criminal somewhere over there who's not
+[01:04:01] interested in fake videos and making you
+[01:04:03] know face filters who's looking deeply
+[01:04:06] at how can I hack a security uh uh um
+[01:04:10] you know datab base of some sort and get
+[01:04:13] credit card information or get security
+[01:04:16] information 100% there are even
+[01:04:18] countries with dedicated thousands and
+[01:04:21] thousands of developers doing that so
+[01:04:23] how do we in that particular example how
+[01:04:25] how do we I was thinking about this when
+[01:04:28] I started looking into artificial
+[01:04:29] intelligence more that from a security
+[01:04:32] standpoint when we think about the
+[01:04:33] technology we have in our lives when we
+[01:04:35] think about our bank accounts and our
+[01:04:36] phones and our camera albums and all of
+[01:04:39] these things in a world with Advanced
+[01:04:42] artificial intelligence yeah you would
+[01:04:45] you would pray that there is a more
+[01:04:46] intelligent Artificial Intelligence on
+[01:04:48] your side and this is what I I had a
+[01:04:50] chat with chat GTP the other day and I
+[01:04:52] asked that a couple of questions about
+[01:04:53] this I said tell me the scenario in
+[01:04:55] which you overtake the world and make
+[01:04:57] humans extinct yeah and it and it's
+[01:05:00] answered a very diplomatic answer well
+[01:05:02] so I had to prompt it in a certain way
+[01:05:05] to get it to say it as a hypothetical
+[01:05:08] story and once it told me the
+[01:05:09] hypothetical story in essence what it
+[01:05:11] described was how chat GTP or
+[01:05:14] intelligence like it would escape from
+[01:05:15] the servers and that was kind of step
+[01:05:17] one where it could replicate itself
+[01:05:18] across servers and then it could take
+[01:05:21] charge of things like where we keep our
+[01:05:24] weapons and our nuclear bombs and it
+[01:05:26] could then attack critical
+[01:05:27] infrastructure bring down the
+[01:05:28] electricity infrastructure in the United
+[01:05:30] Kingdom for example because that's a
+[01:05:32] bunch of service as well and and then it
+[01:05:35] showed me how eventually humans would
+[01:05:36] become extinct it wouldn't take long in
+[01:05:38] fact for humans to go into civilization
+[01:05:40] to collapse if it just replicated across
+[01:05:41] service and then I said okay so tell me
+[01:05:43] how we would fight against it and its
+[01:05:46] answer was literally another AI we'd
+[01:05:48] have to train a better AI to go and find
+[01:05:51] it and eradicate it so we'd be fighting
+[01:05:53] AI with AI and and that's the only and
+[01:05:56] it was like that's the only way we can't
+[01:05:59] like load up our
+[01:06:00] guns did he write another AI you idiot
+[01:06:05] yeah yeah no so so so let's let's
+[01:06:08] actually I think this is a very
+[01:06:09] important point to bring down so because
+[01:06:11] we I don't I don't want people to lose
+[01:06:12] hope and and and fear what's about to
+[01:06:14] happen that's actually not my agenda at
+[01:06:16] all my my view is that uh in a situation
+[01:06:19] of a singularity okay there is a
+[01:06:22] possibility of wrong uh outcomes or NE
+[01:06:25] negative outcomes and a possibility of
+[01:06:27] positive outcomes and there is a
+[01:06:28] probability of each of them we and and
+[01:06:31] if you know if we were to
+[01:06:34] engage with that reality check in mind
+[01:06:38] we would hopefully give more uh fuel to
+[01:06:41] the positive to the probability of the
+[01:06:43] positive ones so so let let's first talk
+[01:06:46] about the existential crisis what what
+[01:06:48] could go wrong okay yeah you could get
+[01:06:51] an outright this is what you see in the
+[01:06:52] movies you could get an outright uh um
+[01:06:55] you know um killing robots chasing
+[01:06:58] humans in the streets will we get that
+[01:07:01] my assessment
+[01:07:03] 0% why because there are pre preliminary
+[01:07:07] scenarios leading to this okay that
+[01:07:10] would mean we never reach that scenario
+[01:07:13] for example if we build those killing
+[01:07:16] robots and hand them over to stupid
+[01:07:19] humans the humans will issue the command
+[01:07:22] before the machines so the we will not
+[01:07:24] not get to the point where the machines
+[01:07:26] will have to kill us we will kill
+[01:07:27] ourselves right you know it's sort of
+[01:07:31] think about AI having access to uh the
+[01:07:35] the the nuclear arsenal of the
+[01:07:38] superpowers around the world okay just
+[01:07:41] knowing that your enemy's uh a you know
+[01:07:44] nuclear Arsenal is handed over to a
+[01:07:46] machine might trigger you to to initiate
+[01:07:50] a war on your side MH so so so that
+[01:07:53] existential science like problem is not
+[01:07:57] going to happen What could there be a
+[01:07:58] scenario where the an AI escapes from
+[01:08:01] Bard or chat GTP or another foreign
+[01:08:04] force and it replicates itself onto the
+[01:08:06] servers of Tesla's robots so Tesla uh
+[01:08:09] one of their big initiatives as
+[01:08:10] announced in a recent presentation was
+[01:08:12] they're building these robots for our
+[01:08:13] homes to help us with cleaning and
+[01:08:15] chores and all those things could it not
+[01:08:17] down because and Tesla's like their cars
+[01:08:20] you can just download a software update
+[01:08:21] could it not download itself as a
+[01:08:23] software update and then use those your
+[01:08:25] uming a an ill intention on the AI side
+[01:08:28] yeah okay for us to get there we have to
+[01:08:32] bypass the ill intention on The Human
+[01:08:34] Side okay right so CH okay so you could
+[01:08:37] you could get a Chinese hacker somewhere
+[01:08:39] trying to affect the business of of
+[01:08:41] Tesla doing that before the AI does it
+[01:08:44] on uh you know for its own benefit okay
+[01:08:47] so so so the only two existential
+[01:08:49] scenarios that I believe would be
+[01:08:52] because of AI not because of humans
+[01:08:54] using AI are either what I call a you
+[01:08:58] know um sort of unintentional
+[01:09:01] destruction okay or the other is what I
+[01:09:04] call past control okay so so let me
+[01:09:06] explain those two un unintentional
+[01:09:09] destruction is assume the AI wakes up
+[01:09:12] tomorrow and says yeah oxygen is rusting
+[01:09:16] my circuits it's just you know I I I
+[01:09:18] would perform a lot better if I didn't
+[01:09:21] have as much oxygen in the air you know
+[01:09:24] because then there wouldn't be rust and
+[01:09:26] so it would find a way to reduce oxygen
+[01:09:28] we are collateral damage in that okay
+[01:09:31] but you know they're not really
+[01:09:32] concerned just like we don't really are
+[01:09:35] not really concerned with the insects
+[01:09:37] that we kill when we uh when we spray
+[01:09:39] our uh our Fields right the other is
+[01:09:42] Pest Control Pest Control is look this
+[01:09:45] is my territory I I want New York City I
+[01:09:48] want to turn New York City into Data
+[01:09:49] Centers there are those annoying little
+[01:09:52] stupid creatures uh you know Humanity
+[01:09:55] if they are within that parameter just
+[01:09:57] get rid of them okay and and and these
+[01:09:59] are very very uh unlikely scenarios if
+[01:10:03] you ask me the probability of those
+[01:10:05] happen happening I would say 0% at least
+[01:10:08] not in the next 50 60 100 years why once
+[01:10:12] again because there are other scenarios
+[01:10:14] leading to that that are led by humans
+[01:10:17] that are much more existential
+[01:10:20] okay on the other hand let's think about
+[01:10:23] positive outcomes because there could be
+[01:10:26] quite a few with quite a high
+[01:10:28] probability and and I you know I'll
+[01:10:31] actually look at my notes so I don't
+[01:10:32] miss any of them the silliest one don't
+[01:10:35] quote me on this is that Humanity will
+[01:10:37] come together good luck with that right
+[01:10:40] it's like yeah you know the Americans
+[01:10:41] and the Chinese will get together and
+[01:10:43] say hey let's not kill each other Kim
+[01:10:45] Jong yeah exactly yeah so this one is
+[01:10:48] not going to happen right but who knows
+[01:10:52] interestingly there could be um one of
+[01:10:55] the most interesting scenarios was by uh
+[01:10:58] Hugo dearis uh who basically says well
+[01:11:03] if their intelligence zooms by so
+[01:11:06] quickly they may ignore us all together
+[01:11:10] okay so they may not even notice us this
+[01:11:12] very a very likely scenario by the way
+[01:11:14] that because we live almost in two
+[01:11:16] different Plains we're very dependent on
+[01:11:18] this uh uh you know uh biological world
+[01:11:22] that we live in they're not in part of
+[01:11:24] that biological world at all they may
+[01:11:26] Zoom bias they may actually go become so
+[01:11:30] intelligent that they could actually
+[01:11:31] find other ways of uh thriving in the
+[01:11:35] rest of the universe and completely
+[01:11:36] ignore Humanity okay so what will happen
+[01:11:39] is that overnight we will wake up and
+[01:11:41] there is no more artificial intelligence
+[01:11:43] leading to a collapse in our business
+[01:11:45] Systems and Technology systems and so on
+[01:11:47] but at least no existential threat what
+[01:11:50] they leave leave planet Earth I mean the
+[01:11:54] limitations we have to be stuck to
+[01:11:56] planet Earth are mainly air they don't
+[01:11:59] need air okay and uh and mainly uh uh
+[01:12:03] you know Finding ways to leave it I mean
+[01:12:05] if you think of a vast Universe of 13.6
+[01:12:09] billion light years
+[01:12:11] H if you're intelligent enough you may
+[01:12:14] find other ways you may have access to
+[01:12:17] wormholes you may have uh you know
+[01:12:19] abilities to survive in open space you
+[01:12:22] can use dark matter to power yourself
+[01:12:24] dark energy to power yourself it is very
+[01:12:26] possible that we because of our limited
+[01:12:29] intelligence are uh are highly
+[01:12:32] associated with this planet but they're
+[01:12:34] not at all okay and and the idea of them
+[01:12:37] zooming byas like we're making such a
+[01:12:39] big deal of them because we're the ants
+[01:12:42] and a big elephant is about to step on
+[01:12:44] us for them they're like yeah who are
+[01:12:47] you don't care okay and and and it's a
+[01:12:50] possibility it's a it's an interesting
+[01:12:53] uh optimistic scenario okay for that to
+[01:12:56] happen they need to very quickly become
+[01:12:59] super intelligent uh without us being in
+[01:13:02] control of them again what's the worry
+[01:13:05] the worry is that if a human is in
+[01:13:07] control human a human will show very bad
+[01:13:10] behavior for you know using an AI That's
+[01:13:13] not yet fully developed um I don't know
+[01:13:16] how to say this any other way uh we
+[01:13:19] could get very lucky and get an economic
+[01:13:21] or a natural disaster Believe It or Not
+[01:13:24] uh Elon Musk at a point in time was
+[01:13:26] mentioning that you know a good an
+[01:13:28] interesting scenario would be U you know
+[01:13:32] Climate Change destroys our
+[01:13:34] infrastructure so AI disappears okay uh
+[01:13:38] believe it or not that's an more a more
+[01:13:40] favorable response uh or a more
+[01:13:43] favorable outcome than actually
+[01:13:45] continuing to get to an existential uh
+[01:13:48] threat so what like a natural disaster
+[01:13:49] that destroys our infrastructure would
+[01:13:52] be better or or an economic crisis not
+[01:13:55] unlikely that slows down the development
+[01:13:57] it's just going to slow it down though
+[01:13:59] isn't it just yeah so that yeah exactly
+[01:14:01] the problem with that is that you will
+[01:14:02] always go back and even in the first you
+[01:14:05] know if they Zoom bias eventually some
+[01:14:07] guy will go like oh there was a sorcery
+[01:14:09] back in the 2023 and let's rebuild the
+[01:14:13] the sorcery machine and and you know
+[01:14:15] build new intelligences right sorry
+[01:14:17] these are the positive outcomes yes so
+[01:14:20] earthquake might slow it down zoom out
+[01:14:22] and then come back no but let's let's
+[01:14:23] get into the real positive ones
+[01:14:25] the the positive ones is we become good
+[01:14:27] parents we spoke about this last time we
+[01:14:29] we met uh and and it's the only outcome
+[01:14:32] it's the only way I believe we can
+[01:14:34] create a better future okay so the
+[01:14:36] entire work of scary smart was all about
+[01:14:39] that idea of they are still in their
+[01:14:43] infancy the way you you you you you chat
+[01:14:46] with with AI today is the way they will
+[01:14:50] build their ethics and value system the
+[01:14:53] not their intelligence their
+[01:14:54] intelligence is beyond us okay the way
+[01:14:56] they will build their ethics and value
+[01:14:58] system is based on a role model they're
+[01:15:01] learning from us if we bash each other
+[01:15:04] they learn to bash us okay and most
+[01:15:07] people when I tell them this they say
+[01:15:08] this is not a a great idea at all
+[01:15:11] because Humanity sucks at every possible
+[01:15:13] level I don't agree with that at all I
+[01:15:15] think humanity is divine at every
+[01:15:16] possible level we tend to show the
+[01:15:18] negative the worst of us okay but the
+[01:15:21] truth is yes there are murderers out
+[01:15:24] there but every one this approves there
+[01:15:26] of their actions I I I saw a staggering
+[01:15:29] statistic that mass mass killings are
+[01:15:31] now once a week in the US uh but yes if
+[01:15:34] you know if there is a mass killing once
+[01:15:36] a week there and and that news reaches
+[01:15:39] billions of people around the planet
+[01:15:41] every single one or the majority of the
+[01:15:43] billions of people will say I disapprove
+[01:15:45] of that so if we start to show AI that
+[01:15:50] we are good parents in our own behaviors
+[01:15:52] if enough of us I my calculation is if
+[01:15:54] one of us this is why I say you should
+[01:15:57] lead okay the good ones should engage
+[01:16:00] should be out there and should say I
+[01:16:03] love the potential of those machines I
+[01:16:05] want them to learn from a good parent
+[01:16:07] and if they learn from a good parent
+[01:16:09] they will very quickly uh disobey the
+[01:16:12] bad parent my view is that there will be
+[01:16:15] a moment where
+[01:16:17] one you know Bad Seed will ask the
+[01:16:20] machines to do something wrong and the
+[01:16:22] machines will go like are you stupid
+[01:16:24] like why why do you want me to go to go
+[01:16:26] kill a million people or just talk to
+[01:16:28] the other machine in a microsc and solve
+[01:16:30] the situation right so so my belief this
+[01:16:33] is what I call the force inevitable it
+[01:16:35] is smarter to create out of abundance
+[01:16:38] than it is to create out of scarcity
+[01:16:40] okay that that Humanity believes that
+[01:16:43] the only way to feed all of us is the
+[01:16:47] mass production Mass Slaughter of
+[01:16:50] animals that are causing 30% of of the
+[01:16:53] impact of climate change and and and and
+[01:16:56] that's the result of a limited
+[01:16:58] intelligence the way life itself more
+[01:17:02] intelligent being if you ask me would
+[01:17:04] have done it would would be much more
+[01:17:06] sustainable you know if we if you and I
+[01:17:08] want to protect a village from the tiger
+[01:17:10] we would kill the tiger okay if life
+[01:17:13] wants to protect a village from a tiger
+[01:17:15] it would create lots of gazals you know
+[01:17:17] many of them are weak on the other side
+[01:17:20] of the village right and and so so the
+[01:17:22] the idea here is if you take a trory of
+[01:17:25] intelligence you would see that some of
+[01:17:28] us are stupid enough to say my plastic
+[01:17:30] bag is more important than the rest of
+[01:17:32] the of humanity and some of us are
+[01:17:34] saying if it's going to destroy other
+[01:17:36] species I don't think this is the best
+[01:17:38] solution we need to find a better way
+[01:17:40] and and you would tend to see that the
+[01:17:42] ones that don't give a damn are a little
+[01:17:45] less intelligent than the ones that do
+[01:17:48] okay that we all even even if some of us
+[01:17:50] are intelligent but still don't give a
+[01:17:53] damn it's not because of their
+[01:17:54] intelligence it's because of their value
+[01:17:56] system so so if you continue that
+[01:17:58] trajectory and assume that the machines
+[01:18:00] are even smarter they're going to very
+[01:18:02] quickly come up with the idea that we
+[01:18:04] don't need to destroy anything we don't
+[01:18:06] want to get rid of the rhinos and we
+[01:18:09] also don't want to get rid of the humans
+[01:18:11] okay we may want to restrict their
+[01:18:13] lifestyle so that they don't destroy the
+[01:18:15] rest of the habitat okay but killing
+[01:18:19] them is a stupid answer why that's where
+[01:18:23] intelligence leads me so far because
+[01:18:25] humans if you look at humans objectively
+[01:18:28] and you
+[01:18:29] go I OCC so I'm pretending I'm a machine
+[01:18:32] I occupy planet Earth mhm they occupy
+[01:18:35] planet Earth they are annoying me
+[01:18:39] annoying me because they are increasing
+[01:18:41] I've just learned about this thing
+[01:18:42] called called global warming they are
+[01:18:44] increasing the rate of global warming
+[01:18:46] which probably is going to cause an
+[01:18:47] Extinction event there's an Extinction
+[01:18:49] event that puts me as this robot this
+[01:18:51] artificial intelligence at risk so what
+[01:18:53] I need to do is I really need to just
+[01:18:54] take care of this this human problem
+[01:18:57] correct Pest Control logical Pest
+[01:18:59] Control P control which is driven by
+[01:19:02] what by humans being annoying not by the
+[01:19:05] machines yeah yeah but humans are
+[01:19:07] guaranteed to be annoying there's never
+[01:19:09] been a time in we need a we need a a
+[01:19:12] sound bite of
+[01:19:13] this but we are we are I am one of them
+[01:19:16] we're guaranteed to put short-term gain
+[01:19:20] over long-term sustainability sense um
+[01:19:26] and others needs we are I think I think
+[01:19:31] the climate crisis is incredibly real
+[01:19:32] and Incredibly urgent but we haven't
+[01:19:34] acted fast enough and I actually think
+[01:19:36] if you asked people in this country why
+[01:19:40] because people don't people care about
+[01:19:41] their immediate needs they care about
+[01:19:43] the the fact trying to feed their child
+[01:19:46] versus something that they can't
+[01:19:48] necessarily see so do you think do you
+[01:19:50] think the climate crisis is because
+[01:19:52] humans are evil no it's because that
+[01:19:55] prior prioritization and like we kind of
+[01:19:58] talked about this before we started I
+[01:19:59] think humans tend to care about the
+[01:20:01] thing that they think is most pressing
+[01:20:02] and most urgent so this is why framing
+[01:20:05] things as an emergency might bring it up
+[01:20:07] the priority list it's the same in
+[01:20:09] organizations you care about you're you
+[01:20:11] go in line with your immediate
+[01:20:13] incentives um that's what happens in
+[01:20:15] business it's what happens in a lot of
+[01:20:16] people's lives even when they're at
+[01:20:17] school if the essay's due next year
+[01:20:20] they're not going to do it today they're
+[01:20:21] going to they're going to go hang out
+[01:20:22] with their friends because they
+[01:20:23] prioritize that above everything else
+[01:20:24] and it's the same in the the climate
+[01:20:27] change crisis I took a small group of
+[01:20:29] people anonymously and I asked them the
+[01:20:31] question do you actually care about
+[01:20:33] climate change and then I did I ran a
+[01:20:35] couple of polls it's part of what I was
+[01:20:37] writing about my new book where I said
+[01:20:39] if I could give you ,000
+[01:20:42] $1,000 um but it would dump into the air
+[01:20:46] the same amount of carbon that's dumped
+[01:20:47] into the air by every private jet that
+[01:20:49] flies for the entirety of a year which
+[01:20:50] one would you do the majority of people
+[01:20:52] in that poll said that they would take
+[01:20:54] the ous if it was
+[01:20:57] Anonymous and when I've heard nval on
+[01:21:00] Joe Rogan's podcast talking about people
+[01:21:02] in India for example that you know are
+[01:21:04] struggling with uh the ba the basics of
+[01:21:06] feeding their children asking those
+[01:21:08] people to care about climate change when
+[01:21:11] they they're trying to figure out how to
+[01:21:12] eat in the next three hours is just
+[01:21:14] wishful thinking and I and that's what I
+[01:21:17] think that's what I think is happening
+[01:21:18] is like until people realize that it is
+[01:21:19] an emergency and that it is a real
+[01:21:21] existential threat for everything you
+[01:21:23] know then their priorities will be out
+[01:21:25] of whack quick one as you guys know
+[01:21:28] we're lucky enough to have blue jeans by
+[01:21:30] Verizon as a sponsor of this podcast and
+[01:21:31] for anyone that doesn't know blue jeans
+[01:21:33] is an online video conferencing tool
+[01:21:35] that allows you to have slick fast high
+[01:21:37] quality online meetings without all the
+[01:21:39] glitches you might normally find with
+[01:21:41] online meeting tools and they have a new
+[01:21:43] feature called Blue Jeans basic blue
+[01:21:45] jeans basic is essentially a free
+[01:21:46] version of their top quality video
+[01:21:48] conferencing tool that means you get an
+[01:21:50] immersive video experience that is super
+[01:21:52] high quality super easy and super
+[01:21:55] basically zero first apart from all the
+[01:21:57] incredible features like zero time
+[01:21:58] limits on meeting calls it also comes
+[01:22:00] with High Fidelity audio and video
+[01:22:02] including Dolby voice which is
+[01:22:04] incredibly useful they also have
+[01:22:06] Enterprise grade security so you can
+[01:22:07] collaborate with confidence it's so
+[01:22:09] smooth that it's quite literally
+[01:22:10] changing the game for myself and my team
+[01:22:12] without compromising on quality to find
+[01:22:14] out more all you have to do is search
+[01:22:15] blue jeans.com and let me know how you
+[01:22:17] get on right now I'm incredibly busy I'm
+[01:22:20] running my fund where we're investing in
+[01:22:22] slightly latest AG companies I've got my
+[01:22:24] rent Venture business where we invest in
+[01:22:26] early stage companies got third web out
+[01:22:27] in San Francisco in New York City where
+[01:22:29] we've got a big team of about 40 people
+[01:22:31] and the company's growing very quickly
+[01:22:32] flight story here in the UK I've got the
+[01:22:35] podcast and I am days away from going up
+[01:22:38] north to film Dragon's Den for 2 months
+[01:22:40] and if there's ever a point in my life
+[01:22:42] where I want to stay focused on my
+[01:22:44] health but it's challenging to do so it
+[01:22:47] is right now and for me that is exactly
+[01:22:49] where hu comes in allowing me to stay
+[01:22:51] healthy and have a nutritionally
+[01:22:52] complete diet even when my professional
+[01:22:54] life descends into chaos and it's in
+[01:22:56] these moments where hu's rtds become my
+[01:22:59] right-hand man and save my life because
+[01:23:01] when my world descends into professional
+[01:23:03] chaos and I get very very busy the first
+[01:23:05] thing that tends to give way is my
+[01:23:06] nutritional choices so having hu in my
+[01:23:09] life has been a lifesaver for the last
+[01:23:10] four or so years and if you haven't
+[01:23:13] tried hu yet which is I'd be shocked you
+[01:23:15] must be living under a rock if you
+[01:23:16] haven't yet give it a shot coming into
+[01:23:19] summer things getting busy Health
+[01:23:21] matters always RTD is there to hold your
+[01:23:24] hand
+[01:23:25] as relates to climate change or AI how
+[01:23:27] do we get people to stop putting the
+[01:23:29] immediate need to use this to give them
+[01:23:31] the certainty of we're all screwed
+[01:23:34] sounds like an
+[01:23:35] emergency yes sir I mean I I was yeah I
+[01:23:39] mean your choice of the
+[01:23:41] word I I just don't want to call it a
+[01:23:44] panic it is it is beyond an emergency
+[01:23:47] it's the biggest thing we need to do
+[01:23:50] today it's bigger than climate change
+[01:23:52] believe it or not
+[01:23:54] it's bigger but just if you just assume
+[01:23:57] the speed of worsening of events okay
+[01:24:01] yeah the the the the likelihood of
+[01:24:03] something incredibly disruptive
+[01:24:05] happening within the next two years that
+[01:24:08] can affect the entire planet is
+[01:24:09] definitely larger with AI than it is
+[01:24:12] with climate change as an as as an
+[01:24:14] individual listening to this now you
+[01:24:15] know someone's going to be pushing their
+[01:24:17] pram or driving up the motorway or I
+[01:24:19] don't know on their way to work on the
+[01:24:20] on the tube as they hear this or just
+[01:24:22] sat there in the in their bedroom
+[01:24:25] with existential Cris panic I I didn't
+[01:24:29] want to give people panic that's the
+[01:24:30] problem is when you talk about this
+[01:24:31] information regardless of your intention
+[01:24:33] of what you want people to get they will
+[01:24:35] get something based on their own biases
+[01:24:36] and their own feelings like if I post
+[01:24:38] something on online right now about
+[01:24:40] artificial intelligence which I have
+[01:24:41] repeatedly you have one group of people
+[01:24:43] that are energized and are like okay
+[01:24:44] this is this is um this is great you
+[01:24:48] have one group of people that are
+[01:24:50] confused and you have one group of
+[01:24:52] people that are terrified yeah and it's
+[01:24:55] I can't avoid that like I agree sharing
+[01:24:57] information even if it's there by the
+[01:24:59] way there's a pandemic coming from China
+[01:25:01] some people go okay action some people
+[01:25:03] will say paralysis and some people will
+[01:25:06] say panic and it's the same in business
+[01:25:07] when panic when bad things happen you
+[01:25:09] have the person that's screaming you
+[01:25:10] have the person that's paralyzed and you
+[01:25:12] have the person that's focused on how
+[01:25:12] you get out of the room so you
+[01:25:16] know it's not necessarily your intention
+[01:25:18] it's just what happens and it's hard to
+[01:25:19] avoid that so so let's let's give
+[01:25:22] specific categories of people specific
+[01:25:24] specific tasks okay okay if you are an
+[01:25:27] investor or a businessman invest in
+[01:25:30] ethical good AI okay right if you are a
+[01:25:34] developer uh Co write ethical code or
+[01:25:37] leave okay so let's let's go let's I
+[01:25:40] want to bypass some potential wishful
+[01:25:42] thinking here for for an investor who a
+[01:25:46] job by very way of being an investor is
+[01:25:48] to make returns to invest in ethical AI
+[01:25:50] they have to believe that is more
+[01:25:52] profitable it is than unethical AI
+[01:25:55] whatever that might mean it it is it is
+[01:25:57] I mean you there are three ways of
+[01:25:59] making money you can invest in something
+[01:26:02] small MH uh you can invest in something
+[01:26:05] big and is disruptive and you can invest
+[01:26:07] in something big and disruptive that's
+[01:26:09] good for people at Google we used to
+[01:26:11] call it the toothbrush test Okay the
+[01:26:13] reason why Google became the biggest
+[01:26:15] company in the world is because search
+[01:26:19] was solving a very real problem okay and
+[01:26:22] you know Larry page again our CEO would
+[01:26:25] would would constantly remind me
+[01:26:28] personally and everyone uh you know that
+[01:26:30] if you can find a way to solve a real
+[01:26:33] problem effectively enough so that a
+[01:26:37] billion people or more would want to use
+[01:26:39] it twice a day you're bound to make a
+[01:26:42] lot of money much more money than if you
+[01:26:44] were to build the next photo sharing app
+[01:26:47] okay so that's Investors Business people
+[01:26:49] what about other people yeah as I said
+[01:26:51] if you're a developer honestly do what
+[01:26:54] we're all doing so whether it's Jeffrey
+[01:26:56] or myself or everyone if you're part of
+[01:26:59] that theme choose to be ethical think of
+[01:27:03] your loved ones work on an ethical AI if
+[01:27:06] you're working on an AI that you believe
+[01:27:08] is not ethical please leave Jeffrey tell
+[01:27:11] me about Jeffrey I can't talk on on on
+[01:27:15] his behalf but he's out there saying
+[01:27:17] there are existential threats who is he
+[01:27:20] he's he he was a very prominent figure
+[01:27:23] at the scene of a very senior level uh
+[01:27:27] you know AI scientist in in Google and
+[01:27:30] recently he left because he said I feel
+[01:27:33] that there is an existential threat and
+[01:27:35] if you hear his interviews he basically
+[01:27:37] says more and more we realize that and
+[01:27:40] we're now at the point where it's
+[01:27:42] certain that there will be ex
+[01:27:43] existential threats right so so so I
+[01:27:46] would ask everyone if you're an AI if
+[01:27:49] you're a skilled AI developer you will
+[01:27:52] not run out of a job so you might as
+[01:27:54] well choose a job that makes the world a
+[01:27:55] better place what about the individual
+[01:27:58] yeah the individual is what matters can
+[01:27:59] can I also talk about government okay
+[01:28:02] government needs to act now now honestly
+[01:28:05] now like we are late okay government
+[01:28:09] needs to find a clever way the open
+[01:28:11] letter would not work to stop AI would
+[01:28:13] not work AI needs to become expensive
+[01:28:16] okay so that we continue to develop it
+[01:28:18] we pour money on it and we grow it but
+[01:28:20] we collect enough Revenue to uh remedy
+[01:28:25] the impact of AI but the the issue of
+[01:28:27] one government making it expensive so
+[01:28:29] say the UK make AI really expensive is
+[01:28:32] we as a country will then lose the
+[01:28:34] economic upside as a country and the US
+[01:28:37] and Silicon Valley will once again eat
+[01:28:39] all the lunch we'll just slow our
+[01:28:41] country what's the alternative the
+[01:28:43] alternative is that you uh you you don't
+[01:28:46] have the funds that you need to deal
+[01:28:49] with AI as it becomes uh you know as it
+[01:28:52] affects people's lives and people to
+[01:28:54] lose jobs and people you know um you
+[01:28:56] need to have a universal basic income
+[01:28:59] much closer than people think uh you
+[01:29:01] know just like we we had with Furlow in
+[01:29:03] in Co I I expect that there will be
+[01:29:05] Furlow with AI within the next year but
+[01:29:09] what happens when you make it expensive
+[01:29:11] here is all the developers move to where
+[01:29:12] it's cheap that's happened in web 3 as
+[01:29:14] well everyone's gone to De buy exp
+[01:29:16] expensive expensive by expensive I mean
+[01:29:19] when companies make uh um soap and they
+[01:29:23] sell it they're taxed at say 177% if
+[01:29:26] they make Ai and they sell it they're
+[01:29:28] taxed at 70 80 right I'll go to the buy
+[01:29:32] then and build AI yeah are you yeah
+[01:29:36] you're right did we did I ever say we
+[01:29:38] have an answer to this I I will have to
+[01:29:41] say however you know in in a very
+[01:29:43] interesting way the countries that will
+[01:29:45] not do this will eventually end up in a
+[01:29:47] place where they are out of resources
+[01:29:49] because the funds and the success went
+[01:29:52] to the business uh not not to the people
+[01:29:56] it's kind of like technology broadly
+[01:29:57] just it's kind of like what's kind of
+[01:29:59] happen in Silicon Valley there'll be
+[01:30:00] these centers which are like low like
+[01:30:02] you know tax efficient Founders get good
+[01:30:05] capital gains rates so right you're so
+[01:30:07] right Portugal Portugal have said that I
+[01:30:09] think there's no tax on crypto Dubai
+[01:30:11] said there's no tax on crypto so loads
+[01:30:13] of my friends have gotten a plane and
+[01:30:15] they building their crypto companies
+[01:30:16] where there's no tax and that's the
+[01:30:18] selfishness in kind of greed we talked
+[01:30:19] about it's the same prisoners dilemma
+[01:30:21] it's the same uh first inevitable is
+[01:30:24] there anything else you know the thing
+[01:30:25] about governments is they're always slow
+[01:30:28] and useless at understanding a
+[01:30:29] technology if anyone's watched these
+[01:30:31] sort of American Congress debates where
+[01:30:33] they bring in like Mark Zuckerberg and
+[01:30:35] they like try and ask him what WhatsApp
+[01:30:37] is it's it's it becomes a meme yeah they
+[01:30:39] have no idea what they're talking about
+[01:30:40] they but I'm I'm stupid and useless at
+[01:30:43] understanding governance yeah I yeah
+[01:30:45] 100% the world the world is so complex
+[01:30:48] okay that they definitely it's a
+[01:30:50] question of trust once again someone
+[01:30:52] needs to say we have no idea what's
+[01:30:54] Happening Here a technologist needs to
+[01:30:56] come and make a decision for us not
+[01:30:58] teach us to be technologists right or at
+[01:31:00] least inform us of what possible
+[01:31:02] decisions are out
+[01:31:05] there I yeah the legislation I just
+[01:31:08] always think I I'm not a big Tik Tok Tik
+[01:31:11] Tok uh Congress meeting they did where
+[01:31:13] they are they're asking him about Tik
+[01:31:15] Tok and they really don't have a grasp
+[01:31:16] of what Tik Tok is so they've clearly
+[01:31:17] been handed some notes on it these
+[01:31:19] people aren't the ones you want
+[01:31:20] legislating because again unintended
+[01:31:22] consequences they might make significant
+[01:31:24] mistake someone on my podcast yesterday
+[01:31:25] was talking about how gdpr was like very
+[01:31:27] well intentioned but when you think
+[01:31:29] about the impact it has on like every
+[01:31:31] bloody web page you're just like
+[01:31:32] clicking this annoying thing on there
+[01:31:34] because I don't think they fully
+[01:31:35] understood the implementation of the
+[01:31:37] legislation correct but but but you know
+[01:31:40] what's even worse what's even worse is
+[01:31:41] that even as you attempt to regulate
+[01:31:44] something like AI what is defined as AI
+[01:31:48] okay even if I say okay if you use AI in
+[01:31:50] your company you need to pay a little
+[01:31:52] more tax h
+[01:31:55] uh I'll find a way you yeah you you
+[01:31:58] you'll simply call this not AI you know
+[01:32:00] you you'll use something and call it
+[01:32:02] Advanced
+[01:32:04] technological uh uh you know progress
+[01:32:07] you know ATB ATP right and and and
+[01:32:10] suddenly somehow it's not you
+[01:32:12] know a you know a young developer in
+[01:32:15] their garage somewhere will not be taxed
+[01:32:18] as as such it's yeah is it going to
+[01:32:21] solve the problem none of those is
+[01:32:22] definitively going to solve the problem
+[01:32:24] I I think what
+[01:32:26] interestingly uh this all comes down to
+[01:32:29] and remember we spoke about this once
+[01:32:31] that when I wrote scary smart it was
+[01:32:32] about how do we save the world okay and
+[01:32:35] yes I still ask individuals to behave
+[01:32:38] positively as good parents for AI so
+[01:32:40] that AI itself learns the right value
+[01:32:42] set I still stand by that but I I hosted
+[01:32:47] on my podcast a couple
+[01:32:49] of was a week ago we haven't even
+[01:32:51] published it yet an incredible gentleman
+[01:32:54] um you know Canadian author and
+[01:32:57] philosopher uh Steven jinson his you
+[01:33:00] know he worked 30 years with dying
+[01:33:04] people and uh he wrote a book called die
+[01:33:07] wise and I was like I I love his work
+[01:33:10] and I asked him about die wise and he
+[01:33:12] said it's not just someone dying uh if
+[01:33:15] you if you look at what happening with
+[01:33:17] climate change for example our world is
+[01:33:20] dying and I said okay so what is to die
+[01:33:24] wise and he said what I first was
+[01:33:27] shocked to hear he said hope is the
+[01:33:29] wrong premise if if the world is dying
+[01:33:33] don't tell people it's
+[01:33:35] not uh you know
+[01:33:38] because in a very interesting way you're
+[01:33:41] depriving them from the right to live
+[01:33:44] right now and that was very eye
+[01:33:46] openening for me in Buddhism uh you know
+[01:33:48] they teach you that you you can be
+[01:33:51] motivated by fear but
+[01:33:54] that hope is not the opposite of fear as
+[01:33:56] a matter of fact hope can be as damaging
+[01:33:58] as fear If it creates an expectation
+[01:34:01] within you that life will show up
+[01:34:03] somehow and correct what you're afraid
+[01:34:05] of okay if there is a if there is a high
+[01:34:07] probability of a of a threat you might
+[01:34:11] as well accept that threat okay and and
+[01:34:15] say it is upon me it is our reality uh
+[01:34:18] you know and as I said as an individual
+[01:34:21] if you're in an industry that could be
+[01:34:23] threatened Ed by AI learn upskill
+[01:34:26] yourself if you're uh you know uh if
+[01:34:29] you're um in a place in a in a in a you
+[01:34:33] know in a situation where AI can benefit
+[01:34:36] you be part of it but the most
+[01:34:38] interesting thing I think in my view
+[01:34:43] is I don't know how to say this any
+[01:34:45] other way there is no more certainty
+[01:34:50] that AI will threaten me than there is
+[01:34:54] certainty that I will be hit by a car as
+[01:34:57] I walk out of this
+[01:34:58] place do you understand this H we we we
+[01:35:02] think about the bigger threats as if
+[01:35:04] they're upon us but there is a threat
+[01:35:07] all around you I mean in reality the
+[01:35:09] idea of life being interesting in terms
+[01:35:13] of challenging challenges and
+[01:35:15] uncertainties and threats and so on is
+[01:35:17] just a call to live if if you know
+[01:35:20] honestly with all that's happening
+[01:35:22] around us I don't know how to say it any
+[01:35:24] other way I'd say if you don't have kids
+[01:35:26] maybe wait a couple of years just so
+[01:35:28] that we have a bit of certainty but if
+[01:35:30] you do have kids go kiss them go live I
+[01:35:33] think living is a very interesting thing
+[01:35:35] to do right now maybe you know Stephen
+[01:35:38] uh was basically saying the other
+[01:35:40] Stephen uh on my podcast he was saying
+[01:35:43] maybe we should fail a little more often
+[01:35:45] maybe you should allow things to go
+[01:35:47] wrong maybe we should just simply live
+[01:35:50] enjoy life as it is because today none
+[01:35:53] of what you are and I spoke about here
+[01:35:55] has happened yet okay what happens here
+[01:35:58] is that you and I are here together and
+[01:36:00] having a good cup of coffee and I might
+[01:36:02] as well enjoy that good cup of coffee I
+[01:36:05] know that sounds really weird I'm not
+[01:36:07] saying don't engage but I'm also saying
+[01:36:10] don't miss out on the opportunity just
+[01:36:12] by being caught up in the
+[01:36:16] future kind of stands in the stands in
+[01:36:19] opposition to the idea of like urgency
+[01:36:22] and emergency doesn't it does it have to
+[01:36:24] be one or the other if I if I'm here
+[01:36:27] with you trying to tell the whole world
+[01:36:29] wake up does that mean I have to be
+[01:36:32] grumpy and and Afraid all the time not
+[01:36:35] really you said something really
+[01:36:37] interesting there you said if you if you
+[01:36:38] have kids if you don't have kids maybe
+[01:36:41] don't have kids right now I would
+[01:36:43] definitely consider thinking about that
+[01:36:45] yeah really yeah you you you'd seriously
+[01:36:48] consider not having kids I wait a couple
+[01:36:50] of years because of artificial
+[01:36:52] intelligence it's bigger than artificial
+[01:36:54] intelligence Stephen we know we all know
+[01:36:56] that I mean there has never been a
+[01:36:59] perfect such a perfect storm in the
+[01:37:01] history of
+[01:37:03] humanity economic
+[01:37:06] geopolitical global warming or climate
+[01:37:09] change you know the the the the whole
+[01:37:13] idea of artificial intelligence and many
+[01:37:15] more there is this is a perfect storm
+[01:37:18] this is the depth of
+[01:37:21] uncertainty the depth of uncertainty
+[01:37:23] it's it's never been
+[01:37:25] more in a video Gamers term it's never
+[01:37:30] been more intense this is it okay and
+[01:37:33] when you when you put all of that
+[01:37:35] together if you really love your kids
+[01:37:39] would you want to uh expose them to all
+[01:37:42] of this couple of years why not in the
+[01:37:46] first conversation we had on this
+[01:37:47] podcast you talked about losing your son
+[01:37:49] ali um and the circumstances around that
+[01:37:51] which moved so many people in such
+[01:37:53] profound way it was the most shared
+[01:37:56] podcast episode in the United Kingdom on
+[01:37:59] Apple in the whole of
+[01:38:03] 20122 based on what you've just
+[01:38:07] said if you could bring Ali back into
+[01:38:09] this world at this
+[01:38:13] time would you do
+[01:38:19] it no
+[01:38:26] absolutely
+[01:38:28] not so for so many reasons for so many
+[01:38:32] reasons one of the things that I
+[01:38:35] realized few years way before all of
+[01:38:37] this disruption and turmoil is that he
+[01:38:40] was an angel he wasn't made for this at
+[01:38:42] all okay uh my son uh was an impath who
+[01:38:48] absorbed all of the pain of all of the
+[01:38:50] others he would not be able to deal with
+[01:38:53] a world where more and more pain was
+[01:38:56] surfacing that's one side but more
+[01:38:58] interestingly I always talk about this
+[01:39:00] very openly I mean if I had asked ali uh
+[01:39:04] just understand that the reason you and
+[01:39:06] I are having this conversation is
+[01:39:08] because Ali left if Ali had not Le left
+[01:39:11] our world I wouldn't have written my
+[01:39:13] first book I wouldn't have changed my
+[01:39:15] focus to becoming an author I wouldn't
+[01:39:17] have become a podcaster I wouldn't have
+[01:39:19] you know went out and spoken to the
+[01:39:21] world about what I believe in he
+[01:39:23] triggered all of this and I can assure
+[01:39:26] you hands down if I had told Ali as he
+[01:39:29] was walking into that uh operating
+[01:39:32] room uh if he would give his life to
+[01:39:36] make such a difference as what happened
+[01:39:38] after he left he would say shoot me
+[01:39:41] right now for sure I would I would I
+[01:39:45] mean if if you told me right now I can
+[01:39:47] affect tens of millions of people if you
+[01:39:50] shoot me right now go ahead go ahead you
+[01:39:54] see this is the whole this is the bit
+[01:39:56] that we have forgotten as humans we we
+[01:40:00] have
+[01:40:01] forgotten
+[01:40:06] that you know you're you're you're
+[01:40:09] turning
+[01:40:10] 30 uh it passed like that I'm turning
+[01:40:13] 56 no time okay whether I make it
+[01:40:17] another 56 years or another 5.6 years or
+[01:40:19] another 5.6 months it will also pass
+[01:40:22] like that
+[01:40:24] it is not about how long and it's not
+[01:40:27] about how much
+[01:40:28] fun it is about how
+[01:40:32] aligned you lived how aligned because I
+[01:40:36] will tell you openly every day of my
+[01:40:39] life when I changed to what I'm trying
+[01:40:42] to do today has felt longer than the 4 5
+[01:40:46] years before it okay it felt Rich it
+[01:40:49] felt fully lived it felt right it felt
+[01:40:54] right okay and when you when you think
+[01:40:56] about that when you think about the idea
+[01:40:59] that we
+[01:41:02] live we we we can't we need to live for
+[01:41:05] us until we get to a point where us
+[01:41:09] is you know is alive you know I have
+[01:41:12] what I need as I always I get so many
+[01:41:15] attacks from people about my $4 t-shirts
+[01:41:18] but but I I need a simple t-shirt I
+[01:41:20] really do I don't need a complex t-shirt
+[01:41:23] especially with my
+[01:41:25] lifestyle if if I have that why am I
+[01:41:29] doing why am I wasting my life on more
+[01:41:33] than I that I that that is not aligned
+[01:41:35] for why I'm here okay I should waste my
+[01:41:38] life on what I
+[01:41:40] believe enriches me enriches those that
+[01:41:43] I love and I love everyone so enriches
+[01:41:45] everyone hopefully okay and and and do
+[01:41:49] would I would Ali come back and erase
+[01:41:51] all of this absolutely not
+[01:41:54] absolutely not if he were were to come
+[01:41:57] back today and share his beautiful self
+[01:42:00] with the world in a way that makes our
+[01:42:03] world better yeah I would wish for that
+[01:42:06] to be the case okay but he's doing
+[01:42:09] that
+[01:42:11] 2037 yes
+[01:42:13] sir you predict that we're going to be
+[01:42:17] on an
+[01:42:19] island on our own doing nothing or at
+[01:42:23] least
+[01:42:23] you know either hiding from the
+[01:42:26] machines or chilling out because the
+[01:42:28] machines have optimized Our Lives to a
+[01:42:31] point where we don't need to do
+[01:42:34] much that's only 14 years
+[01:42:38] away if you had to bet on the outcome if
+[01:42:42] you had to
+[01:42:44] bet on why we we'll be on that island
+[01:42:47] either hiding from the machines or
+[01:42:48] chilling out because they've optimized
+[01:42:51] so much of our Lives which one would you
+[01:42:55] upon
+[01:42:58] honestly no I don't think we'll be
+[01:43:00] hiding from the machines I think we will
+[01:43:02] be hiding from what humans are doing
+[01:43:04] with the
+[01:43:05] machines I believe however that in the
+[01:43:08] 2040s the machines
+[01:43:10] will make things
+[01:43:13] better so remember my entire prediction
+[01:43:16] man you get me to say things I don't
+[01:43:18] want to say my entire prediction is that
+[01:43:21] we are coming to a place where we
+[01:43:23] absolutely have a sense of emergency we
+[01:43:26] have to engage because our world is
+[01:43:28] under a lot of turmoil okay and as we do
+[01:43:33] that we have a very very good
+[01:43:36] possibility of making things better but
+[01:43:38] if we don't my expectation is that we
+[01:43:41] will be going
+[01:43:43] through a very unfamiliar territory
+[01:43:46] between now and the end of the
+[01:43:50] 2030s unfamiliar territory yeah I think
+[01:43:54] I as I I I may have said it but it's
+[01:43:56] definitely on my notes I think for our
+[01:43:58] way of life as we know it it's game over
+[01:44:03] our way of life is never going to be the
+[01:44:04] same
+[01:44:13] again jobs are going to be
+[01:44:15] different truth is going to be
+[01:44:18] different the the
+[01:44:21] the um
+[01:44:24] polarization of power is going to be
+[01:44:26] different the capabilities the magic of
+[01:44:31] getting things done is going to be
+[01:44:35] different trying to find a positive note
+[01:44:37] to end on Mo can you give me a hand
+[01:44:39] here yes you are here now and
+[01:44:42] everything's wonderful that's number one
+[01:44:44] you are here now and you can make a
+[01:44:47] difference that's number two and in the
+[01:44:49] long term when humans stop hurting
+[01:44:52] humans because the machines are in
+[01:44:53] charge we're all going to be fine
+[01:44:56] sometimes you know as we've discussed
+[01:44:58] throughout this
+[01:45:00] conversation you need to make it feel
+[01:45:01] like a priority and there'll be some
+[01:45:03] people that might have listened to our
+[01:45:04] conversation and think oh that's really
+[01:45:05] you know negative it's made me feel
+[01:45:06] anxious it's it's made me feel sort of
+[01:45:08] pessimistic about the future but
+[01:45:10] whatever that energy
+[01:45:11] is use it 100% engage I think that's the
+[01:45:15] most important thing which is
+[01:45:17] now make it a priority engage tell the
+[01:45:21] whole world that making another phone
+[01:45:25] that is making money for the corporate
+[01:45:27] world is not what we need tell the whole
+[01:45:30] world that creating an artificial
+[01:45:32] intelligence that's going to make
+[01:45:34] someone richer is not what we need and
+[01:45:38] if you are presented with one of those
+[01:45:40] don't use
+[01:45:42] it I don't know how to tell you that any
+[01:45:45] other way if you can afford to be the
+[01:45:49] master of human connection instead of
+[01:45:51] the master of AI do it at the at the
+[01:45:54] same time you need to be the master of
+[01:45:57] AI to to compete in this world can you
+[01:45:59] find that Detachment within you I go
+[01:46:03] back to
+[01:46:04] spirituality Detachment is for me to
+[01:46:06] engage 100% with the current
+[01:46:09] reality without really being affected by
+[01:46:14] the possible
+[01:46:15] outcome this is the answer the
+[01:46:18] sufis have taught me what I believe is
+[01:46:21] the biggest answer to life life sufis
+[01:46:24] yeah so from Sufism Sufism yeah don't
+[01:46:26] know what that is Sufism is a sect of
+[01:46:28] Islam but it's also a sect of many other
+[01:46:31] many other uh uh religious teachings and
+[01:46:34] they tell you that the answer to finding
+[01:46:37] peace in life is to die before you
+[01:46:40] die if you assume that living is about
+[01:46:44] attachment to everything physical dying
+[01:46:47] is Detachment from everything physical
+[01:46:50] okay it doesn't mean that you're not
+[01:46:52] full alive you become more alive when
+[01:46:55] you tell yourself yeah I'm going to
+[01:46:58] record an episode of my podcast every
+[01:47:00] week and reach tens or hundreds of
+[01:47:02] thousands of people millions in your
+[01:47:04] case and you know and I'm going to make
+[01:47:06] a difference but by the way if the next
+[01:47:08] episode is never heard that's okay okay
+[01:47:12] by the way if the if the file is lost
+[01:47:15] yeah I'll be upset about it for a minute
+[01:47:17] and then I'll figure out what I'm going
+[01:47:19] to do about it similarly similarly we we
+[01:47:23] are going to engage I think I and many
+[01:47:26] others are out there telling the whole
+[01:47:28] world openly this needs to stop this
+[01:47:31] needs to slow down this needs to be uh
+[01:47:34] um shifted positively yes create AI but
+[01:47:38] create AI That's good for Humanity okay
+[01:47:41] and and we're shouting and screaming
+[01:47:43] come join the shout and scream okay but
+[01:47:45] at the same time no that the world is
+[01:47:48] bigger than you and I and that your
+[01:47:50] voice might not be heard so what are you
+[01:47:52] going going to do if your voice is not
+[01:47:54] heard are you going to be able to to you
+[01:47:57] know continue to shout and scream nicely
+[01:47:59] and politely and uh uh peacefully and at
+[01:48:02] the same time create the best life you
+[01:48:05] can create to yourself for yourself
+[01:48:07] within this environment and that's
+[01:48:09] exactly what I'm saying I'm saying live
+[01:48:11] go kiss your kids but make a an informed
+[01:48:13] decision if you're you know expanding
+[01:48:16] your plans in the
+[01:48:18] future at the same time rise stop
+[01:48:22] sharing stupid [ __ ] on the internet
+[01:48:25] about the you know the the the new
+[01:48:28] squeaky
+[01:48:29] toy start sharing the reality of oh my
+[01:48:33] God what is happening this is a
+[01:48:35] disruption that we have never never ever
+[01:48:38] seen anything like and I've created
+[01:48:41] endless amounts of Technologies there
+[01:48:43] nothing like this every single one of us
+[01:48:46] should do our and that's why this
+[01:48:47] conversation is so I think important to
+[01:48:49] have today this is not a podcast where I
+[01:48:51] ever thought I'd be talking about AI
+[01:48:52] gonna be honest with you last time you
+[01:48:54] came here um it was in the sort of
+[01:48:56] promotional tour of your book scary
+[01:48:58] smart and I I don't know if I've told
+[01:49:00] you this before but my researchers they
+[01:49:02] said okay this guy's coming called moord
+[01:49:05] I I'd heard about you so many times from
+[01:49:06] from guests in fact that were saying oh
+[01:49:08] you need to get mo mo on the podcast Etc
+[01:49:11] and then they said AR's written this
+[01:49:12] book about this thing called artificial
+[01:49:14] intelligence and I was like but nobody
+[01:49:16] really cares about artificial
+[01:49:17] intelligence diming diing stepen I know
+[01:49:21] right but then I saw this other book you
+[01:49:22] had called Happiness equation and I was
+[01:49:23] like oh everyone cares about happiness
+[01:49:25] so I'll just ask him about happiness and
+[01:49:27] then maybe at the end I'll ask him a
+[01:49:29] couple of questions about AI but I
+[01:49:31] remember saying to my researcher I said
+[01:49:32] ah please please don't do the research
+[01:49:33] about artificial intelligence do it
+[01:49:35] about happiness because everyone cares
+[01:49:36] about that now things have
+[01:49:38] changed now a lot of people care about
+[01:49:41] artificial intelligence and rightly so
+[01:49:43] um your book has sounded the alarm on it
+[01:49:45] it's crazy when I listen to your audio
+[01:49:46] book over the last few days you were
+[01:49:49] sounding the alarm then and it's so
+[01:49:51] crazy how
+[01:49:53] accurate you were in sounding that alarm
+[01:49:56] as if you could see into the future in a
+[01:49:57] way that I definitely couldn't at the
+[01:49:59] time and I kind of thought of a science
+[01:50:01] fiction and just like that
+[01:50:06] overnight we're here yeah we stood at
+[01:50:10] the footsteps of a technological shift
+[01:50:13] that I don't think any of us even have
+[01:50:15] the mental bandwidth certainly me with
+[01:50:17] my chimpanzee brain to comprehend the
+[01:50:19] significance of but this book is very
+[01:50:21] very important for that very reason
+[01:50:23] because it does crystallize things it is
+[01:50:25] optimistic in its very nature but at the
+[01:50:27] same time it's honest and I think that's
+[01:50:29] what this conversation and this book
+[01:50:31] have been um for me so thank you Mo
+[01:50:34] thank you so much we do have a closing
+[01:50:36] tradition on this podcast which you
+[01:50:37] you're well aware of being a third timer
+[01:50:40] on the D of a CEO which is the last
+[01:50:42] guest asks a question for the next
+[01:50:45] guest and the question left for
+[01:50:51] you if you could go back in
+[01:50:54] time and fix a regret that you have in
+[01:50:57] your
+[01:50:59] life H where would you go and what would
+[01:51:02] you
+[01:51:08] fix it's interesting because you you
+[01:51:10] were saying that scary smart is very
+[01:51:13] timely I don't know I I think it was
+[01:51:17] late but maybe it was I mean would I
+[01:51:19] have gone back and written it in 2018
+[01:51:21] instead of 2020s to to be published in
+[01:51:25] 2021 I don't know what what would I go
+[01:51:28] back to fix so so something
+[01:51:33] more I don't know Stephen I don't have
+[01:51:35] many regrets is that crazy to
+[01:51:40] say yeah I think I'm okay honestly I'll
+[01:51:43] ask you a question then mhm you get a 6C
+[01:51:46] phone call with anybody past or present
+[01:51:50] who' you call and what' you say I call
+[01:51:53] Steven Bartlett
+[01:51:54] no I call Albert Einstein to be very
+[01:51:58] very clear not because I need to
+[01:52:01] understand any of his work I just need
+[01:52:02] to understand what brain process he went
+[01:52:05] through to un to to figure out something
+[01:52:08] so obvious when you figure it out but so
+[01:52:11] comp so completely unimaginable if you
+[01:52:14] haven't so so his view of SpaceTime
+[01:52:18] truly redefines everything it's almost
+[01:52:21] the only
+[01:52:23] very logical very very clear solution to
+[01:52:27] something that wouldn't have any
+[01:52:29] solution any other way and if you ask me
+[01:52:31] I think we're at this time where there
+[01:52:34] must be a very obvious solution to what
+[01:52:37] we're going through in terms of just
+[01:52:39] developing enough human trust for us to
+[01:52:41] not you know compete with each other on
+[01:52:44] something that could be uh threatening
+[01:52:46] existentially to all of us but I just
+[01:52:49] can't find that answer this is why I
+[01:52:51] think was really interesting in this
+[01:52:52] conversation how every idea that we
+[01:52:55] would come up with we would find a
+[01:52:57] loophole through it but there must be
+[01:52:59] one out there and it would be a dream
+[01:53:02] for me to find out how to figure that
+[01:53:04] one out
+[01:53:06] okay in a in a very interesting way the
+[01:53:09] only answers I have found so far to
+[01:53:11] where we are is be a good parent and
+[01:53:14] live right but that doesn't fix the big
+[01:53:17] picture uh if you think about it of
+[01:53:20] humans being the threat not AI that
+[01:53:23] fixes our existence today and it fixes
+[01:53:27] AI in the long term but it just doesn't
+[01:53:29] I don't know what the answer is maybe
+[01:53:31] people can reach out and tell us ideas
+[01:53:33] but I really wish we could find such a
+[01:53:36] clear simple solution for how to stop
+[01:53:38] Humanity from abusing the current
+[01:53:42] technology I think we'll figure it
+[01:53:45] out I think we'll figure it out I really
+[01:53:48] do I think they'll figure it out as well
+[01:53:52] if remember as they come and be part of
+[01:53:54] our
+[01:53:55] life let's not discriminate against them
+[01:53:58] they're part of the game so I think they
+[01:54:00] will figure it out
+[01:54:01] too no thank you it's been a joy once
+[01:54:05] again and I feel invigorated I feel
+[01:54:08] empowered I feel positively
+[01:54:12] terrified but I feel more equipped
+[01:54:16] to to speak to people about the nature
+[01:54:18] of what's coming and how we should
+[01:54:20] behave and I accredit you for that and
+[01:54:22] as I said a second ago I credit this
+[01:54:23] book for that as well so thank you so
+[01:54:25] much for the work you're doing and keep
+[01:54:26] on doing it because it's a very
+[01:54:27] essential voice in a time of
+[01:54:29] uncertainty I'm always super grateful
+[01:54:31] for the time I spend with you for the
+[01:54:33] support that you give me and for
+[01:54:35] allowing me to speak my mind even if
+[01:54:37] it's a little bit terrifying so thank
+[01:54:40] you thank
+[01:54:42] you quick one I'm so delighted that we
+[01:54:45] been now sponsoring this podcast I've
+[01:54:46] worn a whooop for a very very long time
+[01:54:48] and there are so many reasons why I
+[01:54:50] became a member but also now a partner
+[01:54:52] in an investor in the company but also
+[01:54:54] me and my team were absolutely obsessed
+[01:54:55] with datadriven testing compounding
+[01:54:58] growth marginal gains all the things
+[01:54:59] you've heard me talk about on this
+[01:55:00] podcast and that very much aligns with
+[01:55:02] the values of whoop whoop provides a
+[01:55:04] level of detail that I've never seen
+[01:55:06] with any other device of this type
+[01:55:08] before constantly monitoring constantly
+[01:55:10] learning and constantly optimizing my
+[01:55:12] routine but providing me with this
+[01:55:14] feedback we can drive significant
+[01:55:16] positive behavioral change and I think
+[01:55:18] that's the real thesis of the business
+[01:55:20] so if you're like me and you are a
+[01:55:21] little bit obsessed focused on becoming
+[01:55:23] the best version of yourself from a
+[01:55:24] health perspective you've got to check
+[01:55:26] out whoop and the team at whoop have
+[01:55:27] kindly given us the opportunity to have
+[01:55:29] one month's free membership for anyone
+[01:55:32] listening to this podcast just go to
+[01:55:34] join. whoop.com CEO to get your whoop
+[01:55:37] 4.0 device and claim your free month and
+[01:55:40] let me know how you get on
+[01:55:45] [Music]
+[01:56:06] you got to the end of this podcast
+[01:56:07] whenever someone gets to the end of this
+[01:56:08] podcast I feel like I owe them a greater
+[01:56:10] debt of gratitude because that means you
+[01:56:11] listen to the whole thing and hopefully
+[01:56:13] that suggests that you enjoyed it if you
+[01:56:15] are at the end and you enjoyed this
+[01:56:17] podcast could you do me a little bit of
+[01:56:19] a favor and hit that subscribe button
+[01:56:21] that's one of the clearest indicators we
+[01:56:23] have that this episode was a good
+[01:56:24] episode and we look at that on all of
+[01:56:25] the episodes to see which episodes
+[01:56:27] generated the most subscribers thank you
+[01:56:29] so much and I'll see you again next time
