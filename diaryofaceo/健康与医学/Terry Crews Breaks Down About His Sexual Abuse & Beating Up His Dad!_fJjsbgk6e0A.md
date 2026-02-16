@@ -1,0 +1,1 @@
+已用中文完成对话总结，并以Markdown格式保存到文件：diaryofaceo/个人发展与心理/Terry Crews Breaks Down About His Sexual Abuse & Beating Up His Dad!_fJjsbgk6e0A_summary.md。文件包含：核心摘要、成长背景与家庭创伤、宗教控制与界限侵犯、色情成瘾形成与机制、婚姻冲突与“D-Day”转折、暴力与自控的反思、好莱坞性侵案与问责、从取悦到会说“不”、脆弱与亲密的重定义、关键理念与实践建议、代表性金句及结尾情绪等结构化内容。

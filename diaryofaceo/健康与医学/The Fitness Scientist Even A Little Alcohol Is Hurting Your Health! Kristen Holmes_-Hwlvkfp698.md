@@ -1,0 +1,1 @@
+已将中文Markdown总结保存至 diaryofaceo/健康与医学/The Fitness Scientist Even A Little Alcohol Is Hurting Your Health! Kristen Holmes_-Hwlvkfp698_summary.md。文件内容与所需格式一致，包含核心要点、节律与睡眠、光照与环境、进食时间、酒精与咖啡因、性与睡眠、HRV、睡眠负债与心理安全、轮班与心理健康、可执行清单以及价值观与行为改变等完整结构。

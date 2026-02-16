@@ -1,0 +1,4 @@
+The Chinese markdown summary has been created and saved successfully at:
+diaryofaceo/个人发展与心理/The Surprising &amp; Unbelievable Dark Side Of Open Relationships Aubrey Marcus  E242_zEJX6WzET6Q_summary.md
+
+The content is fully in Chinese, structured in Markdown with sections covering early life, mission evolution, family dynamics and anger, inner exploration, entrepreneurship with Joe Rogan and Onnit, crisis handling, shift from CEO to visionary, the dark side of open relationships and lessons learned, conflict resolution practices, self-management regarding stimulants and sleep meds, Fit For Service community healing, forgiveness perspective on “Empire,” and practical checklists and quotes. The file format and placement align with your repository’s existing conventions for Diary of a CEO summaries.

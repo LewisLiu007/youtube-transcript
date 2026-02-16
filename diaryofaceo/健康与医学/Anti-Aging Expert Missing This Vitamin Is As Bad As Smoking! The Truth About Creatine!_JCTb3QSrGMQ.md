@@ -1,0 +1,1 @@
+中文摘要已完成并保存为 Markdown 文件。文件路径：diaryofaceo/健康与医学/Anti-Aging Expert Missing This Vitamin Is As Bad As Smoking! The Truth About Creatine!_JCTb3QSrGMQ_summary.md。内容涵盖维生素D、Omega-3、镁、肌酸、生酮与外源酮、HIIT与挪威4×4、桑拿与红光、限时进食与自噬、微塑料暴露控制、环境农药风险、APOE4遗传风险及妊娠期胆碱等关键证据与可执行方案，并以结构化要点与关键数字呈现。
