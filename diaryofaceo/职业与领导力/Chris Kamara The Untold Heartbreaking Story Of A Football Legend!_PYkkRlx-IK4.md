@@ -1,1 +1,0 @@
-已完成中文总结并以 Markdown 格式保存。文件路径：diaryofaceo/媒体与娱乐/Chris Kamara The Untold Heartbreaking Story Of A Football Legend!_PYkkRlx-IK4_summary.md。内容为结构化要点与章节总结，涵盖童年与家庭、种族歧视经历、从海军到职业足球的转折、电视解说生涯、言语失用症与甲减的诊断与治疗、家庭支持、身份影响与建议等，并包含代表性语句与关键洞见。

@@ -1,1 +1,0 @@
-已完成中文 Markdown 总结并保存至路径：diaryofaceo/健康与医学/The LIFE-EXTENSION Doctor - Peter Attia_eqPnptAtBJk_summary.md。内容覆盖医学3.0框架、慢性病终身风险视角、危害比（HR）数据对比、VO2max/肌力/肌量的延寿效应、稳定性与足部训练、营养与体重管理三路径（CR/DR/TR）、睡眠与压力、酒精风险、情绪健康与创伤疗愈、激素治疗注意事项，以及可执行的一页行动清单与关键数字备忘。文件已成功写入并校验，路径与格式符合要求。

@@ -1,1 +1,0 @@
-已完成中文摘要并以Markdown格式保存。文件路径：diaryofaceo/个人发展与心理/4 Moments On The Diary Of A CEO That Changed My Life  E175_gelTkUE_YdE_summary.md。该摘要覆盖视频中的四个关键片段：Mo Gawdat的神经可塑性与训练幸福、Africa Brooke对亲密与性的“语言”重构、Bear Grylls的“韧性是可练的肌肉”、Mel Robbins对“卡住感”与自我调节的底层解析，并附带可执行的行动清单与关键金句。

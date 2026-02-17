@@ -1,1 +1,0 @@
-已完成中文Markdown总结并保存到仓库：diaryofaceo/个人发展与心理/Gabby Logan Opens Up About Her Heartbreaking Past  E191_s_Ig-M8IAAY_summary.md。内容结构包括核心主题、重要片段与洞见、关键观点与方法论、共鸣瞬间、可行动建议与结语，符合“用中文总结并保存为Markdown格式”的要求。用户已确认写入成功并展示了最终文件内容，验证通过。

@@ -1,1 +1,0 @@
-已完成中文摘要并以Markdown格式保存。文件路径: diaryofaceo/个人发展与心理/Davina McCall How To Overcome ANY Trauma & Live The Life You Deserve  E210_acjj3NsokSo_summary.md。摘要覆盖核心主题：童年依恋创伤、成瘾与12步康复、催眠回溯治愈、名望与内在空洞、职业方法论（显化+行动）、姐姐离世的临终照护与教训、更年期科普（症状与HRT、伴侣支持）、与母亲的边界与宽恕、取消文化反思，并提供可操作清单与时间线。
