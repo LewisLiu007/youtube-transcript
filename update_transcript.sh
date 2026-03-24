@@ -7,7 +7,18 @@
 set -uo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-BUN_X="bun"
+# Resolve bun path (may not be in PATH in non-interactive shells)
+BUN_X=""
+for bun_candidate in "bun" "$HOME/.bun/bin/bun" "/usr/local/bin/bun" "/opt/homebrew/bin/bun"; do
+  if command -v "$bun_candidate" &>/dev/null; then
+    BUN_X="$bun_candidate"
+    break
+  fi
+done
+if [[ -z "$BUN_X" ]]; then
+  echo "ERROR: bun not found. Install it with: brew install bun"
+  exit 1
+fi
 
 # Auto-locate baoyu-youtube-transcript skill script
 SKILL_SCRIPT=""
@@ -105,10 +116,21 @@ process_channel() {
     tmp_dir=$(mktemp -d)
 
     # Run skill, capture the output file path from stdout
+    # Use background process with manual timeout (macOS has no GNU timeout by default)
     local skill_output skill_ok=0
-    if skill_output=$(${BUN_X} "$SKILL_SCRIPT" "$url" --output-dir "$tmp_dir" --no-timestamps 2>/dev/null); then
-      skill_ok=1
+    local skill_tmp="$tmp_dir/skill_out.txt"
+    ${BUN_X} "$SKILL_SCRIPT" "$url" --output-dir "$tmp_dir" --no-timestamps >"$skill_tmp" 2>/dev/null &
+    local skill_pid=$!
+    local elapsed=0
+    while kill -0 "$skill_pid" 2>/dev/null && [[ $elapsed -lt 120 ]]; do
+      sleep 1; elapsed=$((elapsed + 1))
+    done
+    if kill -0 "$skill_pid" 2>/dev/null; then
+      kill "$skill_pid" 2>/dev/null
+    else
+      wait "$skill_pid" && skill_ok=1
     fi
+    skill_output=$(cat "$skill_tmp" 2>/dev/null)
 
     local transcript_file=""
     if [[ $skill_ok -eq 1 ]]; then
