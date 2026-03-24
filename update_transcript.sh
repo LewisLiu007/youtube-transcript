@@ -30,7 +30,8 @@ if [[ -z "$SKILL_SCRIPT" ]]; then
   exit 1
 fi
 AUDIO_DIR="$SCRIPT_DIR/audio"
-WHISPER_MODEL="mlx-community/whisper-large-v3-turbo"
+WHISPER_MODEL_ZH="mlx-community/whisper-large-v3-turbo"
+WHISPER_MODEL_EN="mlx-community/whisper-large-v3-mlx"
 
 # Parse args
 TARGET_CHANNEL=""
@@ -150,9 +151,27 @@ process_channel() {
       # Transcribe with mlx-whisper (skip if txt already cached)
       local txt_file="$AUDIO_DIR/${video_id}.txt"
       if [[ ! -f "$txt_file" ]]; then
+        # Detect language from first 30s of audio
+        local detected_lang
+        detected_lang=$(python3 -c "
+import mlx_whisper, sys
+result = mlx_whisper.transcribe('$audio_file', model='mlx-community/whisper-large-v3-turbo', clip_timestamps='0,30')
+print(result.get('language', 'zh'))
+" 2>/dev/null)
+        echo "  [$count/$total] Detected language: ${detected_lang:-unknown}"
+
+        local whisper_model whisper_lang
+        if [[ "$detected_lang" == "en" ]]; then
+          whisper_model="$WHISPER_MODEL_EN"
+          whisper_lang="en"
+        else
+          whisper_model="$WHISPER_MODEL_ZH"
+          whisper_lang="zh"
+        fi
+
         if ! mlx_whisper "$audio_file" \
-          --model "$WHISPER_MODEL" \
-          --language zh \
+          --model "$whisper_model" \
+          --language "$whisper_lang" \
           --output-dir "$AUDIO_DIR" \
           --output-format txt \
           --output-name "$video_id" \
@@ -189,8 +208,8 @@ print(t)
 
       # Convert txt to simple markdown
       {
-        printf -- "---\ntitle: \"%s\"\nchannel: %s\nurl: \"%s\"\nlanguage: zh\ntranscription: whisper (%s)\n---\n\n# %s\n\n" \
-          "$video_title" "$channel" "$url" "$WHISPER_MODEL" "$video_title"
+        printf -- "---\ntitle: \"%s\"\nchannel: %s\nurl: \"%s\"\nlanguage: %s\ntranscription: whisper (%s)\n---\n\n# %s\n\n" \
+          "$video_title" "$channel" "$url" "${detected_lang:-zh}" "$whisper_model" "$video_title"
         python3 -c "
 import sys, re
 lines = [l.strip() for l in sys.stdin if l.strip()]

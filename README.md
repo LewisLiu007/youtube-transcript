@@ -110,6 +110,7 @@ mkdir xiaojunpodcast   # 对应 https://www.youtube.com/@xiaojunpodcast
 脚本顶部可修改：
 
 ```bash
-WHISPER_MODEL="mlx-community/whisper-large-v3-turbo"  # 转录模型
-AUDIO_DIR="$SCRIPT_DIR/audio"                          # 音频缓存目录
+WHISPER_MODEL_ZH="mlx-community/whisper-large-v3-turbo"  # 中文：turbo（快 8x，效果好）
+WHISPER_MODEL_EN="mlx-community/whisper-large-v3-mlx"    # 英文：large-v3（防幻觉）
+AUDIO_DIR="$SCRIPT_DIR/audio"                             # 音频缓存目录
 ```
