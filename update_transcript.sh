@@ -151,13 +151,21 @@ process_channel() {
       # Transcribe with mlx-whisper (skip if txt already cached)
       local txt_file="$AUDIO_DIR/${video_id}.txt"
       if [[ ! -f "$txt_file" ]]; then
-        # Detect language from first 30s of audio
+        # Detect language from video metadata (fast, no audio processing needed)
         local detected_lang
-        detected_lang=$(python3 -c "
-import mlx_whisper, sys
-result = mlx_whisper.transcribe('$audio_file', model='mlx-community/whisper-large-v3-turbo', clip_timestamps='0,30')
-print(result.get('language', 'zh'))
-" 2>/dev/null)
+        detected_lang=$(yt-dlp --print "%(language)s" "$url" 2>/dev/null | head -1)
+        # Fallback: detect from audio first 30s
+        if [[ -z "$detected_lang" || "$detected_lang" == "None" || "$detected_lang" == "none" ]]; then
+          detected_lang=$(python3 - "$audio_file" <<'PYEOF' 2>/dev/null
+import sys
+import mlx_whisper
+audio = sys.argv[1]
+result = mlx_whisper.transcribe(audio, model="mlx-community/whisper-large-v3-turbo",
+    clip_timestamps=[0, 30])
+print(result.get("language", ""))
+PYEOF
+)
+        fi
         echo "  [$count/$total] Detected language: ${detected_lang:-unknown}"
 
         local whisper_model whisper_lang
