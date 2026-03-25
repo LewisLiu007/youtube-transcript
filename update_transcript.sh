@@ -183,8 +183,8 @@ process_channel() {
         # Detect language from video metadata (fast, no audio processing needed)
         local detected_lang
         detected_lang=$(yt-dlp --print "%(language)s" "$url" 2>/dev/null | head -1)
-        # Fallback: detect from audio first 30s
-        if [[ -z "$detected_lang" || "$detected_lang" == "None" || "$detected_lang" == "none" || "$detected_lang" == "NA" || "$detected_lang" == "na" ]]; then
+        # Only trust zh/en from metadata; anything else (including wrong tags like "vi") fallback to audio detection
+        if [[ "$detected_lang" != "zh" && "$detected_lang" != "en" ]]; then
           detected_lang=$($PYTHON3 - "$audio_file" <<'PYEOF' 2>/dev/null
 import sys
 import mlx_whisper
