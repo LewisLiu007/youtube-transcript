@@ -43,6 +43,14 @@ fi
 AUDIO_DIR="$SCRIPT_DIR/audio"
 WHISPER_MODEL_ZH="mlx-community/whisper-large-v3-turbo"
 WHISPER_MODEL_EN="mlx-community/whisper-large-v3-mlx"
+PYTHON3="$SCRIPT_DIR/venv/bin/python3"
+if [[ ! -x "$PYTHON3" ]]; then
+  PYTHON3="python3"
+fi
+MLX_WHISPER="$SCRIPT_DIR/venv/bin/mlx_whisper"
+if [[ ! -x "$MLX_WHISPER" ]]; then
+  MLX_WHISPER="mlx_whisper"
+fi
 
 # Parse args
 TARGET_CHANNEL=""
@@ -111,6 +119,13 @@ process_channel() {
     count=$((count + 1))
     local url="https://www.youtube.com/watch?v=${video_id}"
 
+    # Early skip: if md already exists for this video_id, skip before running skill
+    if grep -rl "watch?v=${video_id}" "$channel_dir" 2>/dev/null | grep -q .; then
+      echo "  [$count/$total] SKIP $video_id (md already exists)"
+      skipped=$((skipped + 1))
+      continue
+    fi
+
     # Use a per-video tmp dir so outputs don't mix
     local tmp_dir
     tmp_dir=$(mktemp -d)
@@ -145,14 +160,6 @@ process_channel() {
 
     # Fallback: download audio and transcribe with Whisper
     if [[ $skill_ok -eq 0 ]]; then
-      # Check if md already exists in channel dir (by video_id in frontmatter)
-      if grep -rl "watch?v=${video_id}" "$channel_dir" 2>/dev/null | grep -q .; then
-        echo "  [$count/$total] SKIP $video_id (md already exists)"
-        skipped=$((skipped + 1))
-        rm -rf "$tmp_dir"
-        continue
-      fi
-
       echo "  [$count/$total] No subtitle for $video_id, falling back to audio transcription..."
       mkdir -p "$AUDIO_DIR"
       # Download best audio without transcoding (webm/opus or m4a, faster than mp3)
@@ -177,12 +184,12 @@ process_channel() {
         local detected_lang
         detected_lang=$(yt-dlp --print "%(language)s" "$url" 2>/dev/null | head -1)
         # Fallback: detect from audio first 30s
-        if [[ -z "$detected_lang" || "$detected_lang" == "None" || "$detected_lang" == "none" ]]; then
-          detected_lang=$(python3 - "$audio_file" <<'PYEOF' 2>/dev/null
+        if [[ -z "$detected_lang" || "$detected_lang" == "None" || "$detected_lang" == "none" || "$detected_lang" == "NA" || "$detected_lang" == "na" ]]; then
+          detected_lang=$($PYTHON3 - "$audio_file" <<'PYEOF' 2>/dev/null
 import sys
 import mlx_whisper
 audio = sys.argv[1]
-result = mlx_whisper.transcribe(audio, model="mlx-community/whisper-large-v3-turbo",
+result = mlx_whisper.transcribe(audio, path_or_hf_repo="mlx-community/whisper-large-v3-turbo",
     clip_timestamps=[0, 30])
 print(result.get("language", ""))
 PYEOF
@@ -194,17 +201,23 @@ PYEOF
         if [[ "$detected_lang" == "en" ]]; then
           whisper_model="$WHISPER_MODEL_EN"
           whisper_lang="en"
+        elif [[ -z "$detected_lang" ]]; then
+          whisper_model="$WHISPER_MODEL_ZH"
+          whisper_lang=""
         else
           whisper_model="$WHISPER_MODEL_ZH"
-          whisper_lang="zh"
+          whisper_lang="$detected_lang"
         fi
 
-        if ! mlx_whisper "$audio_file" \
+        local whisper_lang_arg=""
+        [[ -n "$whisper_lang" ]] && whisper_lang_arg="--language $whisper_lang"
+
+        if ! $MLX_WHISPER "$audio_file" \
           --model "$whisper_model" \
-          --language "$whisper_lang" \
+          ${whisper_lang_arg} \
           --output-dir "$AUDIO_DIR" \
           --output-format txt \
-          --output-name "$video_id" \
+          --output-name="${video_id}" \
           --condition-on-previous-text False \
           --hallucination-silence-threshold 2.0 2>/dev/null; then
           echo "  [$count/$total] FAILED $video_id (transcription failed)"
@@ -225,7 +238,7 @@ PYEOF
       local video_title
       video_title=$(yt-dlp --get-title "$url" 2>/dev/null | head -1)
       local title_slug
-      title_slug=$(echo "$video_title" | python3 -c "
+      title_slug=$(echo "$video_title" | $PYTHON3 -c "
 import sys, re
 t = sys.stdin.read().strip()
 t = re.sub(r'[\s]+', '-', t)
@@ -240,7 +253,7 @@ print(t)
       {
         printf -- "---\ntitle: \"%s\"\nchannel: %s\nurl: \"%s\"\nlanguage: %s\ntranscription: whisper (%s)\n---\n\n# %s\n\n" \
           "$video_title" "$channel" "$url" "${detected_lang:-zh}" "$whisper_model" "$video_title"
-        python3 -c "
+        $PYTHON3 -c "
 import sys, re
 lines = [l.strip() for l in sys.stdin if l.strip()]
 chunk = []
