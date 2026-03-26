@@ -1,0 +1,14 @@
+---
+title: "George Hotz: Winning - A Reinforcement Learning Approach | AI Podcast Clips"
+channel: Lex Fridman
+url: "https://www.youtube.com/watch?v=YxKMiVqqBgU"
+cover: imgs/cover.jpg
+description: "This is a clip from a conversation with George Hotz on the Artificial Intelligence podcast. You can watch the full conversation here: http://bit.ly/2YLIPom If you enjoy these, consider subscribing, sharing, and commenting below."
+language: en
+---
+
+# George Hotz: Winning - A Reinforcement Learning Approach | AI Podcast Clips
+
+This is a clip from a conversation with George Hotz on the Artificial Intelligence podcast. You can watch the full conversation here: http://bit.ly/2YLIPom If you enjoy these, consider subscribing, sharing, and commenting below.
+
+foreign [Music] you've said that the meaning of life is to win if you look five years into the future what does winning look like so I there's a lot of I can go into like technical depth to what I mean by that to win um it may not mean I was criticized for that in the comments like doesn't this guy want to like save the penguins in Antarctica or like okay you know listen to what I'm saying I'm not talking about like I have a yacht or something yeah I am an agent I am put into this world and I don't really know what my purpose is but if you're a reinforcement if you're if you're an intelligent agent and you're put into a world what is the ideal thing to do well the ideal thing mathematically you can go back to like Schmidt hover theories about this is to uh build a compressive model of the world to build a maximally compressive to explore the world such that your exploration function maximizes the derivative of compression of the past mid Hooper has a paper about this and like I took that kind of as like a personal goal function um so what I mean to win I mean like maybe maybe this is religious but like I think that in the future I might be given a real purpose or I may decide this purpose myself and then at that point now I know what the game is and I know how to win I think right now I'm still just trying to figure out what the game is but once I know so you have uh you have uh imperfect information you have a lot of uncertainty about the reward function and you're discovering it exactly what the purpose is that's a better way to put it the purpose is to maximize it while you have it uh a lot of uncertainty around it and you're both reducing the uncertainty and maximizing at the same time yeah and uh so that's at the technical level what is the if you believe in the Universal prior yeah what is the universal reward function that's the better way to put it so that win is interesting I think I speak for everyone in saying that I wonder what that reward function is for you and uh I look forward to seeing that in five years and 10 years I think a lot of people including myself for cheering you on man so I'm I'm happy you exist and I wish you the best of luck

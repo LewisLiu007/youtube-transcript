@@ -1,0 +1,14 @@
+---
+title: "Sean Carroll: Understanding the Origin of Life is Within the Reach of Science | AI Podcast Clips"
+channel: Lex Fridman
+url: "https://www.youtube.com/watch?v=PliUHKl5xA4"
+cover: imgs/cover.jpg
+description: "This is a clip from a conversation with Sean Carroll on the Artificial Intelligence podcast. You can watch the full conversation here: http://bit.ly/315QhfC If you enjoy these, consider subscribing, sharing, and commenting below."
+language: en
+---
+
+# Sean Carroll: Understanding the Origin of Life is Within the Reach of Science | AI Podcast Clips
+
+This is a clip from a conversation with Sean Carroll on the Artificial Intelligence podcast. You can watch the full conversation here: http://bit.ly/315QhfC If you enjoy these, consider subscribing, sharing, and commenting below.
+
+[Music] what kind of questions can science not currently answer but might soon when you think about the problems and the mysteries before us that maybe will then reach a science I think an obvious one is the origin of life we don't know how that happened there's a difficulty in knowing how it happened historically actually you know literally on earth but starting life from non-life is something I kind of think we're close to right we really think so how like how difficult is it to start lie - well I I've talked to people and including on the podcast about this you know life requires three things life as we know it so there's a difference of life which who knows what it is and life as we know it which we can talk about with some intelligence so life as we know it requires compartmentalization you need like a little membrane around your cell metabolism you need to take in food and eat it and let that make you do things and then replication okay so you need to have some information about who you are that you passed down through to future generations in the lab compartmentalization seems pretty easy not hard to make lipid bilayers that come into a little cellular walls pretty easily metabolism and replication are hard but replication we're close to people have made RNA like molecules in the lab that I think the state-of-the-art is they're not able to make one molecule that reproduces itself but they're able to make two molecules that reproduce each other yeah so that's okay that's pretty close metabolism is harder believe it or not even though it's sort of the most obvious thing but you want some sort of controlled metabolism and the actual cellular machinery in our bodies is quite complicated it's hard to see it just popping into existence all by itself it probably took a while but it's we're making progress and in fact I don't think we're spending nearly enough money on it if I were the NSF I would flood this area with money cuz it would change our view of the world if we could actually make life in the lab and understand how it was made originally here on earth you

@@ -1,0 +1,14 @@
+---
+title: "Competing with SpaceX: America Was Built on Competition - Lockheed Martin CTO | AI Podcast Clips"
+channel: Lex Fridman
+url: "https://www.youtube.com/watch?v=zhZXZ35lF7s"
+cover: imgs/cover.jpg
+description: "This is a clip from a conversation with Keoki Jackson on the Artificial Intelligence podcast. He is the CTO of Lockheed Martin and we were discussing the race to put a human on Mars. You can watch the full conversation here: http://bit.ly/2Zla5Ko If you enjoy these, consider subscribing, sharing, an"
+language: en
+---
+
+# Competing with SpaceX: America Was Built on Competition - Lockheed Martin CTO | AI Podcast Clips
+
+This is a clip from a conversation with Keoki Jackson on the Artificial Intelligence podcast. He is the CTO of Lockheed Martin and we were discussing the race to put a human on Mars. You can watch the full conversation here: http://bit.ly/2Zla5Ko If you enjoy these, consider subscribing, sharing, an
+
+[Music] what are your thoughts on the efforts of the new folks SpaceX and yo musk what are your thoughts about what Elon is doing to see miss competition do you enjoy a competition Oh what are your thoughts yeah first of all certainly you on I'd say SpaceX and some of the some of those other ventures are definitely a competitive force in the in the space industry and do we like competition yeah we do and we think we're very strong competitors I think it's again competition is what the u. s. is founded on and in a lot of ways and always coming up with a better way and I I think it's really important to continue to have fresh eyes coming in new innovation I do think it's important to have level playing fields and so you want to make sure that that you're not giving different requirements to different players but you know I tell people you know I spent a lot of time he places like MIT I'm going to be at the MIT beaver work summer Institute over the weekend here and I tell people this is the most exciting time to be in the space business in my entire life and it is this explosion of new capabilities that have been driven by things like the you know the massive increase in computing power things like the massive increase in calms capabilities advanced and additive manufacturing are are really bringing down the barriers to entry in this field and it's driving just incredible innovation and it's happening at startups but it's also happening at Lockheed Martin I talked about some of these like you know Maya and Orion but you know we're in the middle of what we call smart SATs and software to find satellites that can essentially restructure and re map their purpose their mission on orbit to give you almost unlimited flexibility for these satellites over their lifetimes so those are just a couple of examples but yeah this this is a great time to be in space you

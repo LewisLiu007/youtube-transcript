@@ -1,0 +1,11 @@
+---
+title: Joe Rogan trolling Lex Fridman
+channel: Lex Fridman
+url: "https://www.youtube.com/watch?v=cYPz_kisGws"
+cover: imgs/cover.jpg
+language: en
+---
+
+# Joe Rogan trolling Lex Fridman
+
+[Music] oh hello I've been out here in Vegas um I went to Andrew Schultz's wedding and uh Whitney Cummings and my wife and uh Lex Friedman and then we went to Vegas and relax [Music] got a little drunk no I'm not drunk I'm wide awake and I'm drinking coffee but Lex a little drunk not good not good

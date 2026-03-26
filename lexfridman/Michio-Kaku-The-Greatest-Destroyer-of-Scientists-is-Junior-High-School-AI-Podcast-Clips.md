@@ -1,0 +1,37 @@
+---
+title: "Michio Kaku: The Greatest Destroyer of Scientists is Junior High School | AI Podcast Clips"
+channel: lexfridman
+url: "https://www.youtube.com/watch?v=psxKoMh-Q8I"
+language: en
+transcription: whisper (mlx-community/whisper-large-v3-mlx)
+---
+
+# Michio Kaku: The Greatest Destroyer of Scientists is Junior High School | AI Podcast Clips
+
+Is there an aspect of human existence that is meaningful only because we're mortal?Well, every waking moment, we don't think about it this way, but every waking moment,actually, we are aware of our death and our mortality.Think about it for a moment.When you go to college, you realize that you are in a period of time where soon you will
+
+reach middle age and have a career.and after that you'll retire and then you'll die. And so even as a youth, even as a child,without even thinking about it, you are aware of your own death because it sets limits to yourlifespan. I got to graduate from high school. I got to graduate from college. Why? Because you'regoing to die. Because unless you graduate from high school, unless you graduate from college,
+
+you're not going to enter old age with enough money to retire and then die. And so, yeah,people think about it unconsciously because it affects every aspect of your being. The fact thatyou go to high school, college, get married, have kids, there's a clock, a clock ticking,even without your permission. It gives a sense of urgency. Do you, do you yourself, I mean,there's so much excitement and passion in the way you talk about physics and the way you talk
+
+about technology in the future. Do you yourself meditate on your own mortality? Do you think aboutthis clock that's ticking? Well, I try not to because it then begins to affect your behavior.You begin to alter your behavior to match your expectation of when you're going to die.So let's talk about youth and then let's talk about death.When I interview scientists on radio, I often ask them, what made the difference?
+
+How old were you?What changed your life?And they always say more or less the same thing.These are Nobel Prize winners, directors of major laboratories, very distinguished scientists.They always say, when I was 10, when I was 10, something happened.
+
+It was a visit to the planetarium. It was a telescope. For Steven Weinberg, winner of theNobel Prize, it was the chemistry kit. For Heinz Pagels, it was a visit to the planetarium.For Isidore Rabi, it was a book about the planets. For Albert Einstein, it was a compass.Something happened which gives them this existential shock. Because you see, before theage of 10, everything is mommy and daddy, mommy and dad. That's your universe, mommy and daddy.
+
+Around the age of 10, you begin to wonder, what's beyond mommy and daddy?And that's when you have this epiphany, when you realize, oh my God, there's a universeout there, a universe of discovery.And that sensation stays with you for the rest of your life.You still remember that shock that you felt gazing at the universe.
+
+And then you hit the greatest destroyer of scientists known to science.The greatest destroyer of scientists known to science is junior high school.When you hit junior high school, folks, it's all over.It's all over.Because in junior high school, people say, hey, stupid.
+
+I mean, you like that nerdy stuff.and your friends shun you. All of a sudden, people think you're a weirdo. And science is made boring.You know, Richard Feynman, the Nobel Prize winner, when he was a child, his father would take himinto the forest. And the father would teach him everything about birds. Why they're shaped theway they are. Their wings, the coloration, the shape of their beak. Everything about birds.
+
+So one day a bully comes up to the future Nobel Prize winner and says,Hey Dick, what's the name of that bird over there?Well, he didn't know.He knew everything about that bird except its name.So he said, I don't know.
+
+And then the bully said, what's the matter Dick, you stupid or something?And then in that instant, he got it.He got it.he realized that for most people, science is giving names to birds. That's what science is.You know lots of names of obscure things. Hey, people say, you're smart. You're smart. You know
+
+all the names of the dinosaurs. You know all the names of the plants. No, that's not science at all.Science is about principles, concepts, physical pictures. That's what science is all about.My favorite quote from Einstein is that unless you can explain a theory to a child, the theory is probably worthless.Meaning that all great theories are not big words.All great theories are simple concepts, principles, basic physical pictures.
+
+Relativity is all about clocks, meter sticks, rocket ships, and locomotives.Newton's laws of gravity are all about balls and spinning wheels and things like that.That's what physics and science is all about, not memorizing things.And that stays with you for the rest of your life.So even in old age, I've noticed that these scientists, when they sit back, they still remember.
+
+They still remember that flush, that flush of excitement they felt with that first telescope,that first moment when they encountered the universe.That keeps them going.That keeps them going.
