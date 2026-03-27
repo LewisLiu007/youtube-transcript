@@ -1,0 +1,14 @@
+---
+title: "\"Ab Stacking\" Exercise   The Fastest Way to 6 Pack Abs!"
+channel: ATHLEAN-X™
+url: "https://www.youtube.com/watch?v=H1VKhDrSE9g"
+cover: imgs/cover.jpg
+description: "Get \"6 Pack Abs\" Here:  http://athleanx.com/x/abstackingworkouts"
+language: en
+---
+
+# "Ab Stacking" Exercise   The Fastest Way to 6 Pack Abs!
+
+Get "6 Pack Abs" Here:  http://athleanx.com/x/abstackingworkouts
+
+h [Music] hey guys Jeff Cavalier aex. com down here on the floor because we're going to get right to it this week everyone wants to always know what is you know what can I do for my abs what's a new way to challenge my abs and I think if you can't find a new way in athlan X then you can't find a new way you know we were voted the best abs workout and that's just one part of the equation here because it's a to whole body 90-day program to get you in your best shape athletic and lean athlean is what we're talking about well I think the concept with abs is you have to challenge them in ways that you haven't challenged them before and you know to do that I think you should involve multiple muscle groups at one time so what we basically uh have set up is just a couple uh you know 8 lb dumbbells and what we're going to do is just get down into sort of our V position here which we know already engages the ABS okay and we're just going to as we come up sit up crunch the weights in arms go up over our head we slowly lower down and down so you can see the shoulders have to work here we're basically doing a front raise for the shoulders at the top here we even have some upper chest involvement cuz it's almost like a simulated incline press so we're down we come up down and come up okay so everything in try to get that balance at the top you'll see 8 lbs is pretty difficult you don't need to use too too much more but now from here if you really want to give us a challenge now we're all about rotation we want to incorporate rotation whenever we can so at this point can come up and rotate across our body then to the center then across our body okay back to the center across our body Center across the hardest thing you're going to have to do is decide what's hurting more at this point your stomach your chest your shoulders you decide what is targeting in all those areas so guys if you want creative stuff if you want to start doing exercises that going to challenge your body uniquely in ways it hasn't been before head to aex. com right now guys grab the 90-day training program I know it's starting to get Springtime around around here a little bit warmer we know the summer's coming pretty soon so you're going to want to have your abs ready to show and pop them for when you head to the beach head to aex. com guys we'll be back here next week going to break down the incline bench a little bit and talk about the various angles of the incline bench I'll see you then [Music] h

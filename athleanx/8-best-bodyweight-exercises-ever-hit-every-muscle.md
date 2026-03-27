@@ -1,0 +1,169 @@
+---
+title: "8 Best Bodyweight Exercises Ever (HIT EVERY MUSCLE!)"
+channel: ATHLEAN-X™
+url: "https://www.youtube.com/watch?v=ZA8GzhFh_CQ"
+cover: imgs/cover.jpg
+description: "Build muscle with just your bodyweight (no equipment at all) here!"
+language: en
+---
+
+# 8 Best Bodyweight Exercises Ever (HIT EVERY MUSCLE!)
+
+Build muscle with just your bodyweight (no equipment at all) here!
+
+What's up guys? Jeff Cavaliere, ATHLEANX. COM. We're going to continue our series today of
+our 8 Best Exercises. This time covering the 8 Best Bodyweight Exercises
+you can do.
+
+And we're going to mix it up guys, it's not
+just strength training exercises but conditioning as well. If you want to be an Athlete, you've got to
+train like an Athlete. We're going to combine both strength and conditioning
+to cover each of these 8 exercises. And guess what? We're going to cover your whole body too and
+the only piece of equipment that you'll need to manipulate your own bodyweight for a few
+of the exercises is a single Pullup Bar.
+
+Guys if you don't have one already, invest
+in one. 10 to 15 bucks is well worth your development
+here. So let's get it started. The 8 Best Bodyweight Exercises you can do. Alright let's kick this list off the right
+way, with the old classic Pull Up.
+
+There's no way that we can get through an
+8 Best Exercises list without including this one because it simply is one of the best things
+you can do for your upper body and it is a great Bodyweight option. Now let's say you are not getting enough out
+of a Pull Up. Or you're looking for something more advanced
+or more difficult, we can involve more muscles in the exercise
+by simply switching our grip. And the thing here guys you will see, the
+common theme with all these exercises is there are certainly ways to modify to make these exercises more of a regression
+to make them easier or make them a progression to make them harder. And being able to master that is the key.
+
+Because you never want to get stagnant with
+any of your upper body exercises or any of your Bodyweight exercises period. So here if I switch my grip up to what we
+call the Commando Pull Up. Now I've got a Core involvement because my
+body wants to twist in one side as soon as you take this over under grip. You can't let that happen. We're going to let our Core kick in and actually
+help us to stay stable while we Pull Up to each side of the bar.
+
+Of course a little bit extra Forearm involvement
+here, a little bit of Biceps, never a bad thing here when we're trying to Amp Up the
+intensity of the exercise. Let's stick with that theme though, as we
+move to number 2. Let's get those Biceps a little bit more involved. And of course let's get that Core a little
+bit more involved too just by flipping the grip all the way over to what we call a Chin
+Up Knee Up. And you can see as I do this exercise, it's
+two parts.
+
+The first part is getting my head up over
+that bar through a natural Chin Up. Which we know that positioning will work our
+Biceps a lot more than it would in a normal Pull Up positioning. And of course, let's involve those Abs as
+well by finishing with the Knee Up. Guys a great way to get more out of your Bodyweight
+Exercises and Training is to put more in them. And you can see this exercise gives us that
+opportunity.
+
+Add a few more muscle groups, make the movement
+a little bit more complex but you're going to get the rewards that you're looking for,
+much quicker. Ok, let's throw the equipment away altogether
+and shift to the other half of our body, our Legs. And by far one of the most difficult lower
+body exercises you can do is a Bodyweight exercise and it's a the Slick Floor Bridge
+Curl. And you can see, all you need to do is put
+on a pair of socks, find some kind of a slick floor. Which here I'm using tile, you can use a wood
+floor.
+
+Anything that you can actually just slide
+your socks on and you've got one of the best Glute Hamstring developers in your arsenal. The great thing about the Slick Floor Bridge
+Curl is you're actually training your muscles to work the way they're supposed to work. You don't ever want to have your Hamstrings
+trying to work without the help of the Glutes. You see far too often, when the Hamstrings
+have to do all the work, that's when you get a Hamstring injury. Let the bigger stronger Glutes kick in and
+this exercise forces you to do that by holding your Bridge up high and then initiating the
+Hamstring Curl.
+
+Of course we can't neglect the front side
+of our legs and this exercise gives us an opportunity to make sure we don't. This is our Levitation Squat. The Levitation Squat is actually a really
+good exercise for those particularly those that have a hard time maybe even attempting
+a Pistol Squat. The Pistol Squat puts our leg out in front
+of us which makes it a lot harder for us to even balance. It's not necessarily that you don't have the
+single leg strength to execute it, but you might not have the single leg strength combined
+with the balance to execute it.
+
+Now, can you progress yourself to a Pistol
+Squat? By all means, Yes. And you can actually self spot yourself by
+hanging on to a bar when you perform it, until you build the adequate strength and balance
+to do it. But I'm going to tell you, I still love the
+Levitation Squat. It makes my knees feel a little bit better and I'm able to actually push and get a little
+bit more out of every single rep and therefore for me, I put it right at the top of my list.
+
+Ok, you knew that no Bodyweight list would
+ever be complete without some variation of a Pushup. Right, we know that we're going to have to
+target our Chest with some type of Pushup because that really is the best option outside
+of Dips. But we're trying to limit the equipment here,
+right, I always said only a Pull Up Bar. The bodyweight Pushup that I like here is
+the Divebomber Pushup because if you perform this exercise correctly you're not just targeting
+your Chest, but you're actually heavily targeting your
+Shoulders, your Chest and your Triceps at different ranges in the motion. See when you first start your descent, you're
+actually working a lot on your Shoulders and when you get down to the bottom of the rep you're really maximizing your Chest and as
+you come back up and out, you're really contracting the Triceps as you get a little bit of extension
+back behind your body.
+
+You can make this even more difficult and
+more rewarding and even target, either the Triceps or the Shoulders a little bit more, by simply performing as I'm showing you here,
+a one and a half rep style of the exercise. So come down into the front, if you want to
+work your Triceps and instead of coming all the way back up, head back up for one more
+half a rep and then come back up. Or if you want to work your Shoulders a little
+bit more, just simply stay at the top range of the motion for just that extra half rep and you'll be able to give your Shoulders
+just that little extra that they might need to start making them pop even more. Speaking of Shoulders, there's actually a
+way that we can work them and still get in those conditioning benefits that I talked
+about earlier in the video. And the perfect example here is a Mule Kick.
+
+This exercise is incredibly demanding, trust
+me, if you haven't tried one, try it. What happens is you've got to support your
+entire body weight, whatever that might be and push your legs up towards the ceiling. Every rep is basically a version of a dynamic
+or explosive Shoulder Press with your Shoulders still in contact with the ground. So instead of trying to push the Dumbbells
+up and away from you, you're trying to push your body up and away from the ground. And definitely a challenging exercise and
+one you should try and talk about the conditioning benefits?
+
+Do this for a minute straight and I'll tell
+you, your Heart will be pumping and you'll likely be breaking a serious sweat. Of course one of the most classic conditioning
+exercises you can do when you're talking Bodyweight, is a Burpee. But a Burpee alone is boring. We can do a lot more guys, if you want to
+train Athletic, again challenge yourself to do more things. Challenge yourself to do things in not just
+the sagittal plane, up and down but make yourself more athletic by involving some rotation.
+
+And the version I'm showing you here of the
+Burpee is certainly a way we can do that. This is the Side Kickthrough Burpee or just
+a plain old Kickthrough Burpee. This is a bitch but I love it, because it
+will get those lungs burning in no time, I promise you. And again, it's combining a great amount of
+athleticism to do it. Yeah, there's some coordination involved here
+too but I promise if you just practice it a couple times, you're going to master this exercise and in
+doing so, get control of one of the best conditioning bodyweight exercises that you can ever do.
+
+Ok, last but certainly not least, let's break
+out the Pull Up Bar one last time and ratchet up the difficulty level just a little bit
+more for one of the most rewarding upper body Bodyweight
+exercises that you can do and that is the Front Lever. The Front Lever is going to demand two muscle
+groups work together that don't normally prefer to work together and that is the upper back
+and the Core. See you can do this because we know that the
+Core is going to have to provide the stability to fight that force of gravity that's trying
+to bend you in half every single time you lift yourself up. And oh by the way, the only way you're going
+to be able to lift yourself up is by having the adequate strength in your upper back to
+perform what is essentially a Straight Arm Pushdown without weights to
+get your body up and against that force of gravity. This is absolutely one of the best exercises
+that you can do and it's one that commands respect because everybody knows, it's pretty
+damn hard to do.
+
+Don't be discouraged if you can't do it. You can always break out an assisted band
+to try to anchor your feet in until you've built up the strength to be able to do the
+exercise fully. But still, whatever way you wind up doing
+it, it's still a great exercise and one of the best to add to your bodyweight exercise
+routines. Alright guys, so there you have it, 8 exercises
+to prove once again, that Bodyweight training does not have to be inferior training. As a matter of fact, our ATHLEAN XERO Program,
+we're going to throw away the Pull Up Bar, give you all new ways to work your back and
+your Biceps without it and not to mention, combine strength and conditioning
+always and give you progressive ways to help you to build muscle.
+
+That is available guys, at ATHLEAN XERO @ ATHLEANX. COM. In the meantime, if you found this video helpful,
+make sure you leave your comments and thumbs up below. And remember, Bodyweight training, you can
+change the way you do exercises just like we did with the Divebomber Pushup to elicit
+all new responses from those movements. You can change the way you group exercises
+together.
+
+You can change the progresses and you can
+regress if you have to. It's all about how you put the exercise together
+that determines what you get out of them. Alright guys, I'll see you back here again
+soon. Let me know whatever else it is that you want
+to see and I'll do my best to bring it to you here three times a week.

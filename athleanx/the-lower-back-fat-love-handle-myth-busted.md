@@ -1,0 +1,75 @@
+---
+title: "The Lower Back Fat / Love Handle Myth (BUSTED!!)"
+channel: ATHLEAN-X™
+url: "https://www.youtube.com/watch?v=nv3FsJouNf8"
+cover: imgs/cover.jpg
+description: Lose those love handles once and for all with this…
+language: en
+---
+
+# The Lower Back Fat / Love Handle Myth (BUSTED!!)
+
+Lose those love handles once and for all with this…
+
+What's up, guys? Jeff Cavaliere, Athlean-X. com. Today we're going to bust the low back fat
+myth. You see, the low back fat is really the love
+handles, the area that you can grab that sort of works its way around to the back side here,
+is a common problem for guys especially.
+
+For men it is really the first place for body
+fat to come on your body and the last place to lose it. Even being at a low body fat level and anybody
+out there that's watching can still have a good amount of fat right here on the backside
+here of the lower back – last place to come off. If you were going to attack the problem though
+with exercises like a hyper extension – you see people do these all the time – is that
+going to help you in the long term? I'm going to tell you; no it's not. The main thing you have to do is continue
+to work on your nutrition and your diet.
+
+Diet and nutrition is the only way you're
+ever going to rid yourself of love handles. You can do as many crunches, or as many side
+bands, or as many whatever you want to do – don’t do side bends – to try to get
+rid of that fat and it isn't coming off unless you learn how to do three, four, or five sets
+of keeping your mouth shut when you're around bad foods. That's the first thing you'd better prioritize. However, there is some real value in strengthening
+your lower back and learning to get a stronger low back. One of the best ways to do this is by deadlifting.
+
+See, we're big advocates here, not just because
+we train athletes, but because we know how functionally strong you can become by learning
+how to dead lift and hip hinging and learning and developing proper strength in your lower
+back. Your low back, as you can see here, can become
+extremely active by just doing the dead lift itself and increasing your strength on a lift
+and by virtue of the fact that this is a heavy compound movement you're metabolically calling
+on many more muscles to participate in this exercise and therefore having a bigger bang
+for your buck at the end of the day when it comes to what exercises you're performing. So whether you could do a hyper extension
+here, or do some deadlifts and start increasing the weight you're lifting on this exercise,
+you're much better off going for the deadlift. Over time that's going to help you to start
+burning more calories even at rest so you can now start to get leaner in combination
+with that diet. Now, we'll leave you with one other point
+here.
+
+Some people who want to create an illusion
+of a change in their physique can actually do it with other muscle groups; not the low
+back. That area is usually entrenched in a lot of
+tissue that makes it very difficult to create an illusion. If you wanted to create the illusion of wider
+shoulders you can work on your side lateral raises and build up your deltoids and do it
+– you don’t carry much fat in the delts. You hardly ever carry much fat up here. So just by creating more muscle growth and
+size there you can create a little more definition.
+
+You see people all the time that aren't very
+lean, but still have some definition up here in their shoulder. It's not going to happen when it comes to
+your low back. It's just too entrenched in this body fat
+and this tissue that's around there. The best option is to attack it through your
+nutrition and work on those big lifts. All right, guys.
+
+I hope we dispelled this myth. Again, nutrition number one, nutrition number
+two, and nutrition three through ten. Then start getting rid of those spot reduction
+type exercises and instead trade them in for the bigger, more compound lifts and you're
+going to have much bigger bang for your buck. In the meantime, if you're looking for a way
+to start nailing your nutrition day in and day out I will give you my Athlean-X Factor
+Meal Plans as part of our Athlean-X training system. It's all available over at AthleanX.
+
+com. Guys, if you've found this video helpful make
+sure you leave your comments and thumbs up below. In the meantime, let me know what you want
+to see. I will do my best to bring it here. Washboard Wednesday is not just about your
+abs.
+
+It could be anything around your entire core
+and that covers a big area here, especially when you're training like an athlete.

@@ -1,0 +1,28 @@
+---
+title: "Bodyweight Home Arms Workout (NO WEIGHTS NEEDED!)"
+channel: ATHLEAN-X™
+url: "https://www.youtube.com/watch?v=rjj85DMPDro"
+cover: imgs/cover.jpg
+description: Build big arms with home workouts that require no equipment at all here…
+language: en
+---
+
+# Bodyweight Home Arms Workout (NO WEIGHTS NEEDED!)
+
+Build big arms with home workouts that require no equipment at all here…
+
+What's up, guys? Jeff Cavaliere, ATHLEANX. com. It's a bodyweight Wednesday and today we're
+going after the arms. A lot of people think that you cannot get
+big arms by using bodyweight, but that is a myth.
+
+I'm going to show you today with just four
+exercises and one pullup bar how to start building bigger triceps and biceps, starting
+right now. So there you have it, guys. Two exercises for each muscle group, kill
+switch style, bodyweight only, and one pullup bar, no excuses. If you're looking for a complete training
+program that doesn't even use a damn bar, ATHLEAN0, over at ATHLEANX. com!
+
+No bars, no bands, no bench, no bull. You guys can get that over there. A six week training program. In the meantime, if you've found this video
+helpful leave your comments and thumbs up below. Tell me what else you want to see on our bodyweight
+Wednesday videos and I will do my best to cover them.
+
+All right, guys. We'll be back here again real soon!

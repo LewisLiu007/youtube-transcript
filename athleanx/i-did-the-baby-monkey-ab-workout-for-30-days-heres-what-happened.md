@@ -1,0 +1,72 @@
+---
+title: "I Did the \"Baby Monkey Ab Workout\" for 30 Days (HERE'S WHAT HAPPENED!)"
+channel: ATHLEAN-X™
+url: "https://www.youtube.com/watch?v=pwKOtslwxNA"
+cover: imgs/cover.jpg
+description: There are ab workouts and then there are ridiculous workout for abs.  In this video, Jesse shows what happened when he followed the “Baby Monkey Ab Workout” for 30 days.  This is a follow up to his previous Baby Shark Ab Workout experiment. Except this time, he’s claiming even better results after 3
+language: en
+---
+
+# I Did the "Baby Monkey Ab Workout" for 30 Days (HERE'S WHAT HAPPENED!)
+
+There are ab workouts and then there are ridiculous workout for abs.  In this video, Jesse shows what happened when he followed the “Baby Monkey Ab Workout” for 30 days.  This is a follow up to his previous Baby Shark Ab Workout experiment. Except this time, he’s claiming even better results after 3
+
+Jesse, my God, it seems like it's been forever. Well, I've been working on my eight pack. I've been in the lab, so to speak. You've been in the lab? Yeah.
+
+Me and my trusty research team. You got a research team? Yeah, me. You came with a workout? I came up with an ab workout.
+
+This is not that whole baby shark app thing,
+right? No, no, no, no, no. I don t want to have to live through that
+again. No, no, don't worry, this is a totally different
+animal. Okay, so this is legit?
+
+This is a legit ab workout. You re did it for 30 days? 30 days and I've got some great results. So, you want to try it? I'll try it.
+
+I'll try it. All right, let's go, let's lay down. Okay. It's the baby shark thing all over. No, it's not baby shark, I told you, it's
+a different animal.
+
+It's baby monkey. Okay, that's my cue, I'm out. Thank you, Jesse. All right. Well, if you find folks who like to join me
+for a fun workout, that'll sculpt your eight pack, let's get started.
+
+All right let's get ready for a good one. [Music plays] All right. Ready? Here we go. ?
+
+Baby monkey banana-na-nas, Baby monkey banana-na-nas,
+Baby monkey banana-na-nas bananas. ? ? Mommy monkey banana-na-nas, Mommy monkey
+banana-na-nas, Mommy monkey banana-na-nas bananas. ?
+
+? Daddy monkey banana-na-nas, Daddy monkey
+banana-na-nas, Daddy monkey banana-na-nas bananas. ? ? Grandma monkey banana-na-nas, Grandma monkey
+banana-na-nas, Grandma monkey banana-na-nas bananas.
+
+? And we re going to flip. ? Grandpa monkey banana-na-nas, ? Swing.
+
+? Grandpa monkey banana-na-nas, ? Swing. ? Grandpa monkey banana-na-nas bananas.
+
+? No more bananas. ? No more banana-na-na-na-nas, no more banana-na-na-nas. ?
+
+No more bananas. ? No more banana-na-na-nas. Bananas. ?
+
+Whew! Oh yummy. Gotta love those bananas. ? Yum, yum, yum, banana-na-na-nas, yum, yum
+banana-na-na-nas.
+
+? ? Yum, yum, yum, banana-na-na-nas, yum, yum
+banana-na-na-nas. Bananas. ?
+
+? It s the end banana-na-na-nas. ? Say goodbye everybody. ?
+
+It s the end banana-na-na-nas. ? It s the end banana-na-na-nas. Bananas. ?
+
+Jazz hands. I brought him back. Whew! Are you serious? I'm dead serious.
+
+That was freaking fantastic. Did you at least have fun? I had a great time. It's fun and it's easy to stay consistent
+with. I will say this.
+
+If you're looking for an ab workout to try,
+that will get you engaged and have a little bit of fun while you're at it. Give it a shot. I mean, he's already embarrassed the channel
+once, why not do it twice? If you want to try the baby shark ab workout
+that he put together, you can find that right over here. Give that one a try to and see how you feel.
+
+Jesse? Yeah? Can I ask you not to be in the next video? No. Guys, we ll be back here again next week.
+
+Make sure you subscribe. Turn your notifications so you never missed
+a new video when we put one out. See ya. Wait, are you serious?
