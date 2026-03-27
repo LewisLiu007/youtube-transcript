@@ -1,0 +1,14 @@
+---
+title: Good Luck Trying to Get Vitamin D from Foods
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=w7uOACkLl8s"
+cover: imgs/cover.jpg
+description: "Get my FREE PDF guide on Vitamin D 👉 https://drbrg.co/3JDxYXv"
+language: en
+---
+
+# Good Luck Trying to Get Vitamin D from Foods
+
+Get my FREE PDF guide on Vitamin D 👉 https://drbrg.co/3JDxYXv
+
+i've done so many videos on vitamin d um and one thing that's just really important to know is that there is no way you're ever going to get your vitamin d from your foods and i'm going to prove it in this video what you're looking at is a chart of the various foods that starting from high vitamin d to low vitamin d but they all have a good amount of vitamin d then i get into the quantity of vitamin d and they're all based on international units and then in the last column i show you how much of that specific food you'd have to consume on a daily basis to achieve what i think is a good level of vitamin d as a maintenance and that would be 10 000 ius of vitamin d some of you are new to my channel and you're listening to this and going way to saying that's a toxic amount i put a few videos down below so you can get more information on that and realize that 10 000 i use is not toxic and there's very specific reasons why you need that much all right so let's start with mackerel okay you would need 10 servings each serving is 3 ounces okay you would need 10 servings of this every day to achieve your requirements then we have salmon wild caught salmon you need 10 servings that's 30 ounces of salmon i don't really know anyone that can consume that much per day then we have mushrooms you would have to eat 14 cups of mushrooms which is that's going to be difficult but the problem with mushrooms is they're not giving vitamin d3 they're going to give you vitamin d 2 which you're not going to nearly get the absorption or the amounts that you need with vitamin d2 you really need vitamin d3 all right then we have trout you need 15 servings it's 42 ounces impossible to consume then we have farm-fed salmon you would need 18 servings impossible cod liver oil 22 teaspoons wow it's not going to happen all right canned tuna 32 servings that's 129. 5 ounces that's 32 cans okay 32 cans 129. 5 ounces try to consume that in a day then we have herring that would be 46 servings that's 56 ounces impossible yogurt you need 65 cups not gonna happen beef liver 238 servings impossible and then we get egg yolks 270 eggs i don't think so so anyway definitely consume these foods but get your vitamin d from sun or a supplement so if you're enjoying my content which i hope you are and you're applying this knowledge to your health and you have a success i'd really appreciate you sharing your success story so click the link down below to my website where you can upload your success story so you can help inspire others

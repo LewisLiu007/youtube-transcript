@@ -1,0 +1,14 @@
+---
+title: "Why Potassium Makes Muscle Growth? – Dr.Berg's Answer"
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=Ux-lRq6W3ak"
+cover: imgs/cover.jpg
+description: "Potassium Rich Electrolyte Powder: https://shop.drberg.com/electrolyte-powder"
+language: en
+---
+
+# Why Potassium Makes Muscle Growth? – Dr.Berg's Answer
+
+Potassium Rich Electrolyte Powder: https://shop.drberg.com/electrolyte-powder
+
+hey I'm back in this video we're talking about why potassium makes your muscles grow let's say you want to get more muscle mass let's say you want to get leaner let's say you want to get rid of atrophied muscles okay this is what you need to know potassium is needed for the protein synthesis which is basically the production of taking amino acids and turning them into proteins not just talking about muscle hair nails skin collagen ligaments tendons fascia all the cellular protein that makes up your your body so protein cannot grow without this mineral potassium it's involved in a lot of the enzymes that make protein so that's one thing then thing we have over here we have insulin insulin has a function of helping absorb amino acids in the cell so if you have insulin resistance okay where it's blocked like in a pre-diabetic or a diabetic these amino acids this protein will not go on the cell that's why diabetics lose their muscle mass so by increasing potassium you can improve insulin resistance so potassium is really involved in blood sugars so the next question is where do you get potassium what are the foods that are high in potassium beat top avocados salad anything green not pistachio ice cream but actual vegetables so all you have to do is increase your vegetables to seven to ten cups a day to get your daily requirement thanks for watching hi guys hey listen I created a pretty amazing evaluation quiz down below that actually analyzes your symptoms to find the cause the root cause of all of your symptoms the most likely cause so take the quiz now and we'll send you report

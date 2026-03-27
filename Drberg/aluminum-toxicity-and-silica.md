@@ -1,0 +1,14 @@
+---
+title: Aluminum Toxicity and Silica
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=6bXVLTx4snw"
+cover: imgs/cover.jpg
+description: "Get access to my FREE resources 👉 https://drbrg.co/3KJoE4L"
+language: en
+---
+
+# Aluminum Toxicity and Silica
+
+Get access to my FREE resources 👉 https://drbrg.co/3KJoE4L
+
+so we're to create a short video on aluminum toxicity and what you could do about it we're constantly exposed to aluminum aluminous very toxic to our bodies it's in our water supply if you have a drip coffee maker you're exposed to aluminum in baking powder cookware medications especially any acids deodorants and the big one vaccinations it's been estimated that a child by the age of 18 months has been exposed to 4925 micrograms of aluminum it can lead to autism Alzheimer's cancer kidney dysfunction and bone problems like osteomalacia which is a weakening of the bones not quite to the level of rickets but a deficiency of vitamin D so there's definitely a blockage of vitamin D when you have too much aluminum all right so that's the bad news the good news is this silica water because silica has the ability to detoxify aluminum from your tissues and also it can prevent the build-up there's some really interesting research I put some links down below get a good filter start to eliminate exposure of aluminum and if you suspect you're toxic with aluminum I put some links down below check it out do more research in this area right here all right thanks for watching so if you want to get notified with all my content click the notification bell next to subscribed

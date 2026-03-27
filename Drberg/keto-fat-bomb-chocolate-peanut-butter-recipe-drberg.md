@@ -1,0 +1,21 @@
+---
+title: "Keto Fat Bomb: Chocolate & Peanut Butter Recipe – Dr.Berg"
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=YGSOaWUr374"
+cover: imgs/cover.jpg
+description: "Get Recipe Here: https://www.drberg.com/blog/chocolate-and-peanut-butter-keto-fat-bombs"
+language: en
+---
+
+# Keto Fat Bomb: Chocolate & Peanut Butter Recipe – Dr.Berg
+
+Get Recipe Here: https://www.drberg.com/blog/chocolate-and-peanut-butter-keto-fat-bombs
+
+it's fat bomb day at the Berg's making a lot of fat bombs today this is fat bomb 
+week fat get your fat bomb on this recipe is a chocolate peanut butter fat bomb 
+it's got just your basic ingredients coconut oil cocoa peanut butter yep you can drink it too you 
+can drink I needed don't drink it um you store them in the freezer they're super easy to make and 
+was it going to say Oh with this sweetener I almost never make a fat bomb recipe that I find with the 
+sweetener that they have in there you experiment make it as sweet as you want use a powder use 
+a stevia whatever you like use the exact recipe we're going to show you because these are perfect 
+all right okay so let's show you how to make them yeah

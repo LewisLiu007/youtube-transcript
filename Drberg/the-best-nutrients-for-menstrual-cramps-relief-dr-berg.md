@@ -1,0 +1,21 @@
+---
+title: The Best Nutrients for Menstrual Cramps Relief – Dr. Berg
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=cWmuC5QsSA0"
+cover: imgs/cover.jpg
+description: Here are three incredible nutrients for fast menstrual cramp relief.
+language: en
+---
+
+# The Best Nutrients for Menstrual Cramps Relief – Dr. Berg
+
+Here are three incredible nutrients for fast menstrual cramp relief.
+
+hi guys I wanted to create a quick video on 
+menstrual cramp relief what you should take to get some quick relief if you have cramps number 
+one b1 take vitamin b1 I would try to find a natural one you can do nutritional yeast or find a 
+natural version of vitamin B1 and then vitamin b6 both of those are great for cramps and then add 
+some calcium magnesium ok it's real simple very inexpensive remedy but this will give you a lots 
+of relief thanks for watching hi guys listen I created an evaluation quiz it is quite long it's a 
+hundred for questions but it's very thorough click the link below and take it and it will help you 
+to find out what's really behind all your symptoms

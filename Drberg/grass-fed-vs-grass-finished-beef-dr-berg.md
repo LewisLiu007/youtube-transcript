@@ -1,0 +1,14 @@
+---
+title: Grass-Fed vs. Grass-Finished Beef – Dr. Berg
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=Qe9QE2sUYY8"
+cover: imgs/cover.jpg
+description: "Get access to my FREE resources 👉 https://drbrg.co/4evr6JQ"
+language: en
+---
+
+# Grass-Fed vs. Grass-Finished Beef – Dr. Berg
+
+Get access to my FREE resources 👉 https://drbrg.co/4evr6JQ
+
+hey guys in this video we're going to talk about the difference between grass fed and grass-finished beef okay there's little confusion about what this means grass fed is simply cows who eat grass or sealy started on grass but usually finished on grains now the two reasons for this number one depending on where you're raising these cows with the seasons you might not have the grass and the other reason to finish off the cause of grains is because they will gain more weight you can sell them for more money now when we get to grass-finished are basically cows who eat nothing but grass their entire lives okay but you're going to get more omega-3 fatty acids you're going to get more CLA that's a healthy type of fat more vitamin E more vitamin A and what's interesting is that 97% of all the beef sold in the US is grain fed feedlot factory farming and of course the grains are GMO soy and corn now what you're going to start seeing in the future is you're going to see these guys they're gonna start doing grass-fed but they're not going to do pasture raised they're gonna do the factory farming with the grass pellets so you really want grass-fed grass-finished pasture raised which means the cows are actually out there eating the grass in the pasture now I found a really good company that has grass-fed grass-finished pasture raised high quality I put a link down below and I got them to give you a little discount so check it out hey you know what I just want to say something only 30% of the people that watching this video actually make it this far and you did so I really appreciate you thank you so much

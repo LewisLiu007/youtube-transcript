@@ -1,0 +1,14 @@
+---
+title: "Is coffee okay on keto? – Dr. Berg on Caffeine & Ketosis"
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=irxv-egJjUQ"
+cover: imgs/cover.jpg
+description: "Take Dr. Berg's Advanced Evaluation Quiz: http://bit.ly/EvalQuiz"
+language: en
+---
+
+# Is coffee okay on keto? – Dr. Berg on Caffeine & Ketosis
+
+Take Dr. Berg's Advanced Evaluation Quiz: http://bit.ly/EvalQuiz
+
+so is coffee okay on a ketogenic diet that's the question okay now there's I don't think you're going to have a problem if you do one small cup of coffee in the morning as compared to five pots of coffee through the day right because the excess caffeine really stimulates adrenal function and people drink too much coffee nowadays um I used to do it in the past and that's why I'm doing these videos because I got really sick heartburn I would drink so much coffee just to stay awake and um it C up with me okay so anyway um the problem with coffee is the third most sprayed crop in the world they use 250 pounds of chemicals per acre so there's a lot of pesticides okay so if you're going to do coffee just do the organic coffee okay that's really important if you're going to put cream in it make sure it's organic if you're going to put butter in it make sure it's grass-fed and also when you sweeten it don't use sugar use zat GMO free zotol tastes just like sugar you won't know the difference okay so if you're going to do decaffeinated you got to be careful too because sometimes you use even more chemicals um so you want to do a water processed type method to pull the caffeine out and I think it's going to be okay all right thanks for watching

@@ -1,0 +1,14 @@
+---
+title: What Is Gluconeogenesis? – Dr. Berg
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=UUryv7amArU"
+cover: imgs/cover.jpg
+description: "Get access to my FREE resources 👉 https://drbrg.co/3Xu8LH7"
+language: en
+---
+
+# What Is Gluconeogenesis? – Dr. Berg
+
+Get access to my FREE resources 👉 https://drbrg.co/3Xu8LH7
+
+hey guys I had a question someone want to know what is gluconeogenesis okay gluco means glucose neo New Genesis means Crete 18 so gluconeogenesis is a process or pathway of making glucose from non carbohydrate sources protein or certain lipids like triglycerides and what's interesting is your body doesn't need carbohydrates because it can make carbohydrates from the protein and triglycerides that you consume and the purpose of this system is to prevent hypoglycemia low blood sugar and help you maintain your blood Sugar's between meals and when you're fasting now nearly all the cells in the body can run and ketones except for a few there are certain cells in the eye that need glucose there are certain small parts of the brain that require glucose but the majority of it can live on ketones and red blood cells so the point I'm trying to make is you don't really need carbohydrates if your body needs a carbohydrate it can make it from protein or certain fats hey some curious comment below and tell me what you think about this video

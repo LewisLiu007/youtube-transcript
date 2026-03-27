@@ -1,0 +1,14 @@
+---
+title: "Never Give A Baby Fruit Juice - Dr.Berg On Nutritional Deficiencies & Healthy Diet For Kids"
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=-K786D-4pbU"
+cover: imgs/cover.jpg
+description: "Download My FREE guide: First Signs of a Nutrient Deficiency 👉 https://drbrg.co/4ccvAUk"
+language: en
+---
+
+# Never Give A Baby Fruit Juice - Dr.Berg On Nutritional Deficiencies & Healthy Diet For Kids
+
+Download My FREE guide: First Signs of a Nutrient Deficiency 👉 https://drbrg.co/4ccvAUk
+
+so you never want to give your baby apple juice in fact you don't want to give your kids juice so recently I read an article related to a recommendation by a pediatric group so this is what they said fruit juice has no essential role in healthy balanced diets of children okay no essential role that's their statement what are they missing they're missing the fact that fruit juice has the same amount of sugar as soda that fruit juice is basically a pasteurized dead product pasteurization which involves heating destroys enzymes and destroys nutrition in fact when you consume that much concentrated sugar without the fiber with other phytonutrients without the nutrition you're gonna create vitamin deficiencies and on top of that children between the ages of 2 and 18 consume 50% of their fruit as juice so when a group of doctors who are supposed to be experts in childhood care make a statement like this it really tells you how little they know about the relationship between sugar and insulin and creating all sorts of problems down the road so the worst thing you can do is feed your baby's fruit juice okay because they're they're just developing and giving them pure sugar is just gonna set them up for diabetes and the same thing goes for other children you do not want to give your children liquid fruit all right thanks for watching if you're liking this content please subscribe now and I will actually keep you updated on future videos

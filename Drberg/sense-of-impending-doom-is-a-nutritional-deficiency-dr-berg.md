@@ -1,0 +1,14 @@
+---
+title: “Sense of Impending Doom” is a Nutritional Deficiency – Dr. Berg
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=EI_jhD-eGtc"
+cover: imgs/cover.jpg
+description: "Download My FREE guide: First Signs of a Nutrient Deficiency 👉 https://drbrg.co/3z8RyIV"
+language: en
+---
+
+# “Sense of Impending Doom” is a Nutritional Deficiency – Dr. Berg
+
+Download My FREE guide: First Signs of a Nutrient Deficiency 👉 https://drbrg.co/3z8RyIV
+
+hey guys here's the video on another question on what causes the feeling of doom and gloom okay like you're anticipating something bad that's going to happen this is a pure nutritional deficiency in most cases okay so it's mainly a vitamin b1 deficiency it's low b1 so you need to take this I recommend taking it from nutritional yeast because that way you get all the B vitamins okay it can also be from b2 deficiency and a b3 deficiency so if you take the whole complex from nutritional yeast you're covered but these B vitamins are going to uplift your overall mode it's going to bring you up the other vitamin deficiency that this could create would be a deficiency of vitamin d3 so getting out there get some Sun because during the winter months if you don't get any Sun and you don't take vitamin D you can be kind of sad and feel kind of down but the combination of vitamin D and the B vitamins should pull you out of this state all right see you later hey I appreciate your attention and if you're enjoying these videos go ahead and subscribe and I will definitely keep you updated on future events live events and webinars that we're going to do very soon

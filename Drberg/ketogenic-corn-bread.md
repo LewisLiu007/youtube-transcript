@@ -1,0 +1,14 @@
+---
+title: Ketogenic Corn Bread
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=Hy0YMYBmTFY"
+cover: imgs/cover.jpg
+description: "Check out My FREE Healthy Keto Acceptable Foods List 👉 https://drbrg.co/3XvrAd1"
+language: en
+---
+
+# Ketogenic Corn Bread
+
+Check out My FREE Healthy Keto Acceptable Foods List 👉 https://drbrg.co/3XvrAd1
+
+[Music] [Applause] [Music] hey hello hi we are here with a fun recipe cornbread corn without the corn minus the corn so it would just be bread yeah corn like the corn corn mimicking bread Fae faux corn bread now this is a a fun recipe I was skeptical um but if you've seen the hush puy recipe it's actually possible to make something that's really similar to cornbread and corn meal types of of breads wow what do you think if you guys like cornbread you would love this do you know what it needs butter butter I that's before I said would you like me to bring some butter well and you said no this is this tastes just like cornbread me taste it really does it has the spongy characteristic of cornbread it really does it's such a nice consistency and to be able to consume this without worrying about your blood sugars it's huge mhm if you made some chili that's just meat nothing better than cornbread with Jos and cheese that's right boy M it's awesome we [Music] n [Music] [Music] oh

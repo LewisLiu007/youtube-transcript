@@ -1,0 +1,14 @@
+---
+title: Will The Paleo Diet Plan Put Me Into Ketosis? – Dr. Berg
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=ZImAHP4Iun4"
+cover: imgs/cover.jpg
+description: "Download My Free Beginner’s Guide to Healthy Keto and Fasting 👉 https://drbrg.co/4cswVWy"
+language: en
+---
+
+# Will The Paleo Diet Plan Put Me Into Ketosis? – Dr. Berg
+
+Download My Free Beginner’s Guide to Healthy Keto and Fasting 👉 https://drbrg.co/4cswVWy
+
+hey guys had another question will paleo put me into ketosis okay well it really depends on the person's age their metabolism if they have insulin resistance if they have a slow metabolism because the thing about paleo it's about 30% carbs so it's higher carbs than keto which is 5% of the total calories being carbs so we got thirty to five percent because paleo allows fruit sweet potato yam and even honey in moderation and also the protein is also a little higher to between thirty and thirty eight percent of your calories being protein versus twenty percent of your total calories being protein on a keto and what happens if you go higher protein then you must keep your carbs lower because too much protein will increase insulin so if you're having problems getting into ketosis you're gonna have to give them lower the protein definitely lower the carbs and even if you do get into ketosis it's going to be a smaller amount than the ketogenic diet unless you're doing a massive amounts of training and exercise and burning off all these carbs in which case you're probably you're ketones are going to go higher but for the average person they may be in ketosis a little bit but I would say the average person because they have insulin resistance and their metabolism is slow they will not be in ketosis okay thanks for watching so I want to know what you're interested in as far as a future video click the link down below and share some ideas I want to hear

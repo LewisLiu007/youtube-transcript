@@ -1,0 +1,24 @@
+---
+title: "How to Make Bread Sticks: Low Carb Recipe – Dr. Berg"
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=IfIYngyqf_k"
+cover: imgs/cover.jpg
+description: Watch this video to get my healthy and delicious bread sticks recipe.
+language: en
+---
+
+# How to Make Bread Sticks: Low Carb Recipe – Dr. Berg
+
+Watch this video to get my healthy and delicious bread sticks recipe.
+
+here we are outside it's a little chilly
+it's nippy but we actually made some amazing bread breadstick
+yeah that has nothing to do with being outside but we just wanted in a
+different view um the breadsticks are great because there's no wheat they're
+totally low-carb sugar free everything free
+we've had these dipped in hummus they're awesome yeah and a warm marinara sauce
+oh because I season these with Italian herbs for you bread lovers amazing you
+have to try this this is amazing I mean it's like it's literally like bread I
+literally like bro there's no bread in it which is why they're called
+breadsticks let's make them okay okay so to get the recipe click the link
+below hey Charlie click the link below below check it out

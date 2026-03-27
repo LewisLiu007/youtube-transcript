@@ -1,0 +1,14 @@
+---
+title: Bad Breath Cure with Oil of Oregano – Dr. Berg
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=M6g-_Q2XV-Y"
+cover: imgs/cover.jpg
+description: "For more details on this topic, check out the full article on the website: ➡️ https://drbrg.co/3t3mlE3"
+language: en
+---
+
+# Bad Breath Cure with Oil of Oregano – Dr. Berg
+
+For more details on this topic, check out the full article on the website: ➡️ https://drbrg.co/3t3mlE3
+
+one of the most powerful antimicrobial herbs on the planet is oregano it it has incredible properties for the immune system it's antimicrobial antibacterial anti- fungal anti- candida and by the way candida um lives on sugar it also lives on estrogen so if you're taking birth control pills that's why a lot of women get candida if they take too much um antiviral and anti parasites and anti mold so chronic helosis or really bad breath is a fungus and mold problem chronic sinus problems year round is a mold fungus problem that lives up in through here so even upper respiratory problems could be affected by the mold or the fungus and oil of oregano is the absolute best remedy for that um also if you have white tongue like skin issues like skin rashes psoriasis like weird stuff on the skin um also if you're itchy um also if you have failed antibiotics so if your body is resistant to antibiotics this is where this comes into play It's like a real inexpensive remedy you should keep around the house take it when you get sick but even if you have like a chronic problem take it right now and it can really purify the system and it doesn't kill any good cells it just kills the bad cells I would suggest getting a try to find a high higher quality one in a capsule or in a pearl uh if you get it in oil it's good for topical things like Tona fungus but I recommend taking orally so it gets like the whole systemic part of the body but get something like a wild oregano and uh just take the dosage on the um recommended uh instructions and go ahead and put your comments below and let me know how it works for you I'll see you in the next video

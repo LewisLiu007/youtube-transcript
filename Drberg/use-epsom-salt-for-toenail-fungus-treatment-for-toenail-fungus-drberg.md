@@ -1,0 +1,31 @@
+---
+title: Use Epsom Salt For Toenail Fungus - Treatment For Toenail Fungus – Dr.Berg
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=ybWe5N4vCYg"
+cover: imgs/cover.jpg
+description: "FREE PDF: Top 25 Home Remedies That Really Work 👉 https://drbrg.co/3VEhcy9"
+language: en
+---
+
+# Use Epsom Salt For Toenail Fungus - Treatment For Toenail Fungus – Dr.Berg
+
+FREE PDF: Top 25 Home Remedies That Really Work 👉 https://drbrg.co/3VEhcy9
+
+so today I want to give you a tip on a
+very effective remedy for toenail fungus and it's epson salts epson salts is a
+naturally occurring mineral salt magnesium sulfate which has some pretty
+good antimicrobial and antifungal properties here's what you do
+you take two tablespoons of epsom salts and you dissolve it in four cups of
+water you can bring it to a boil you don't have to the main thing is getting
+it dissolved and keeping it nice and warm wait till close down a little bit
+and then put your foot in a little bucket okay and soak it for 15 minutes
+every single day for about three to four weeks and you'll see a great improvement
+also use a nail file to get rid of some of the dead nail because the problem is
+this fungus tends to get up underneath the nail and destroys the nails but you
+might find depending on how infected the nail is that the nail may have to come
+off and regrow or if the infection is not too deep the nail will just kind of
+come back without this microbe that's invading it the other thing to do is to
+avoid moisture because this microbe likes a humid environment so go to work
+without your shoes don't mention my name when you do that and this will help
+alright guys thanks for watching if you're liking this content please
+subscribe now and I will actually keep you updated on future videos

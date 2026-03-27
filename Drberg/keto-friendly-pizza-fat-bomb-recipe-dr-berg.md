@@ -1,0 +1,26 @@
+---
+title: Keto Friendly Pizza Fat Bomb Recipe – Dr. Berg
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=Rh75ZKzvnHU"
+cover: imgs/cover.jpg
+description: Watch this video to get my healthy and delicious recipe for pizza fat bombs.
+language: en
+---
+
+# Keto Friendly Pizza Fat Bomb Recipe – Dr. Berg
+
+Watch this video to get my healthy and delicious recipe for pizza fat bombs.
+
+hey guys in this video we're going to
+make what are we making well it's fat bomb day at the Berg's so we're making
+another savory fat bomb and this one is called a pizza fat bomb you can find
+these recipes all over Pinterest all over everything you can change them
+around they have a few basic ingredients that are really yummy the reason I like
+the more savory fat bombs is because you can have them with your meal you can pop
+one in after you you eat your main meal or with your meal you can have it as an
+appetizer and you can serve them as an appetizer it's holiday time when
+people are gonna start to have company it's pretty much a meal right here do
+you like it mm-hmm okay I like salty things okay okay what do
+you think okay I love the olives on there hmm
+that's a really nice combination let's show you how to make it yeah super
+simple check this out

@@ -1,0 +1,35 @@
+---
+title: "Curcumin vs. Prozac for Depression: What Does the Data Show"
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=hSoDtNrVzV0"
+cover: imgs/cover.jpg
+description: "Get access to my FREE resources 👉 https://drbrg.co/3wMSLox"
+language: en
+---
+
+# Curcumin vs. Prozac for Depression: What Does the Data Show
+
+Get access to my FREE resources 👉 https://drbrg.co/3wMSLox
+
+and a randomized controlled trial involving 
+60 people they compared the effectiveness of using curcumin to prozac they found 
+that curcumin is as effective as prozac without some of the side effects now 
+what are the side effects of prozac quite a few and this is just a very short 
+list nausea headache insomnia diarrhea fatigue weakness with rare side effects of chest 
+pain severe dizziness painful erection that can last for over four hours and there's many many 
+more that i didn't list and by the way check with your doctor before taking this advice 
+i'm not telling you not to take your prozac this is just a study to share with your doctor and 
+i'll put the link down below that has some pretty interesting effects especially if it can work 
+as effective as prozac without the side effects now how does curcumin work well in one way 
+can increase bdnf what is that brain derived neurotrophic factor bdnf increases a protein that 
+helps your neurons make new nerve connections and depression is linked with a decrease in bdnf in 
+fact brain disorders in general are linked to a decrease in bdnf also if you're low on this 
+factor it can lead to a shrinking hippocampus which is involved in memory and the capacity to 
+learn something curcumin also has the ability to increase serotonin as well as dopamine both 
+involved in your overall mood now if you're going to use curcumin i would highly recommend that 
+you also change your diet and you start doing fasting which which can have a huge effect 
+on your mood i would also increase vitamin d add probiotics start exercising 
+and definitely get a low carb diet if you're new to my channel i put a link down 
+below of exactly what you should be eating hey before you go if you're benefiting 
+from any of my content i would love to hear about your success story 
+please share it in the link down below

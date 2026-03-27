@@ -1,0 +1,14 @@
+---
+title: "Keto And Cholesterol: Why LDL Can Increase on Low Carb Diet – Dr. Berg"
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=tlprT9FvY6M"
+cover: imgs/cover.jpg
+description: "Download My Free Beginner’s Guide to Healthy Keto and Fasting 👉 https://drbrg.co/3xqHBpX"
+language: en
+---
+
+# Keto And Cholesterol: Why LDL Can Increase on Low Carb Diet – Dr. Berg
+
+Download My Free Beginner’s Guide to Healthy Keto and Fasting 👉 https://drbrg.co/3xqHBpX
+
+hi guys in this video we're gonna discuss how you could possibly have elevated cholesterol when you're in a low carbohydrate diet it doesn't make sense because here you are cutting out the sugars low carbs keto and the cholesterol is increasing right before you freak out let's just explain what's happening you're actually losing weight you're losing fat the fat cell is composed of triglycerides and cholesterol this stuff has to come out so guess what's going to happen in your blood it's going to increase the key word is temporarily it's not going to be for a long time it's a temporary spike in cholesterol okay now I created three or four videos that I'm gonna put a link down below that will give you more information about looking at the LDL and the triglycerides in the HDL to give you a better understanding of really what's going on so the main thing you want to do is continue to consume large amounts of vegetables because you're getting all this fat that's coming out if you have a lot of fat to release from the fat cell you don't want it to plug up the liver in other organs you want to keep the vegetables about 7 to 10 cups over the kale shake consistently to flush all this stuff out so it's not going to be a problem so go ahead and watch the video links below hey if you're interested in finding out the underlying cause of your body issues click the link below and take the evaluation quiz

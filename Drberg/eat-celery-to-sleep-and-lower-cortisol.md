@@ -1,0 +1,14 @@
+---
+title: Eat Celery to Sleep and Lower Cortisol
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=zFAm0z5gpnM"
+cover: imgs/cover.jpg
+description: "FREE download - 25 Natural Ways to Lower Your Cortisol 👉  https://drbrg.co/3Vplol6"
+language: en
+---
+
+# Eat Celery to Sleep and Lower Cortisol
+
+FREE download - 25 Natural Ways to Lower Your Cortisol 👉  https://drbrg.co/3Vplol6
+
+I wanted to touch on celery and the benefits of using celery for sleep for also lowering cortisol it's quite interesting there's a certain vital nutrient called epigenetics in celery it's in parsley chamomile tea and grapefruit this is why people drink this tea before bed to help them sleep because this compound in celery is anti-anxiety it can act as a sedative anti-diabetic helps your blood Sugar's anti-cancer it has anti-inflammatory properties and inhibits aroma taste which is an enzyme that will turn testosterone into estrogen so if you inhibit this enzyme guess what you don't get the excess amount of estrogen so it's really good for men if you have a prostate enlargement or breast tissue also it's good for women who are estrogen dominant and it lowers cortisol now here's the thing you can get this in a pill which I don't recommend and you need a lot of it to create the effect the best thing to do and you should try this you have to consume six to seven stalks in the evening I mean you could replace this as your salad because celery is a vegetable but it really helps people wind down it's good for blood pressure and it's definitely good for sleep so go ahead and try this and then let us know in the comments below if it worked for you so if you want more knowledge on how to create a healthy body subscribe now and get daily notifications

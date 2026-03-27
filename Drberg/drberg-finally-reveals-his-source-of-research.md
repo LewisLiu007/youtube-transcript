@@ -1,0 +1,14 @@
+---
+title: "Dr.Berg Finally Reveals His Source of Research!!"
+channel: Dr. Eric Berg DC
+url: "https://www.youtube.com/watch?v=RWPcNQ-Z4qg"
+cover: imgs/cover.jpg
+description: "Take Dr. Berg's Advanced Evaluation Quiz: http://bit.ly/EvalQuiz"
+language: en
+---
+
+# Dr.Berg Finally Reveals His Source of Research!!
+
+Take Dr. Berg's Advanced Evaluation Quiz: http://bit.ly/EvalQuiz
+
+so this is where it all happens this is my desk and you can see this is my favorite photo right here okay I have vegetables and everywhere so um you know everyone wants to know like how do I come up with all this information um well I'll I'm going to tell you right now it's a lot of study from early morning to late night but probably the most important thing is to get get the scientific sources the textbooks and study from those exclusively okay so the main source that I use is this one right here Dr Seuss okay amazing doctor this one's called inside your outside okay check this out this is a actually quite amazing different things are controlled by each side of your brain the left side helps you read and remember my name the right helps you paint and play music and sing together both sides help you do everything but I bet you didn't know this how big is your brain this is quite a surprise your two fists together are close to its size so your brain is like this big isn't it amazing I mean this doctor I mean he wrote a book on Green Eggs and Ham where do you think I got the idea of eating eggs for breakfast from Dr Seuss okay amazing amazing guy
